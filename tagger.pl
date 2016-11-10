@@ -68,9 +68,6 @@ $tagger->componentsFrequencies( );
 # Open output file
 open FILE, ">$parent/results/taggingEvaluation_$lang" . "_stanzaic" . $settings->{'stanzaic'} . ".txt";
 
-open PREC, ">$parent/prec.txt";
-open RECA, ">$parent/reca.txt";
-
 # Print initial setting to file
 print FILE "\n\n---------------------------------------------------------------------------";
 print FILE "\n                          SETTINGS ";
