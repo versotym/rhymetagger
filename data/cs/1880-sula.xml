@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+  <poem id="0001-0000-0000-0001-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="zvonily" finSampa="' z v o J I l I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="opilý" finSampa="' o p I l i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="záplava" finSampa="' z a: p l a v a" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="houpavá" finSampa="' h\ o_u p a v a:" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="silnice" finSampa="' s I l J I t_s E" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="měsíce" finSampa="' m J E s i: t_s E" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="volala" finSampa="' v o l a l a" rhymeScheme="4" stanzaId="4" />
+    <line id="8" finToken="tralala" finSampa="' t r a l a l a" rhymeScheme="4" stanzaId="4" />
+    <line id="9" finToken="zvonily" finSampa="' z v o J I l I" rhymeScheme="1" stanzaId="5" />
+    <line id="10" finToken="opilý" finSampa="' o p I l i:" rhymeScheme="1" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0002-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="bílé" finSampa="' b i: l E:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vlasů" finSampa="' v l a s u:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="nahodilé" finSampa="' n a h\ o J\ I l E:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="ohlasů" finSampa="' o h\ l a s u:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="tiskne" finSampa="' c I s k n E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="kořání" finSampa="' k o P\ a: J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="výskne" finSampa="' v i: s k n E" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="zavání" finSampa="' z a v a: J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="sáhly" finSampa="' s a: h\ l I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="zaťuká" finSampa="' z a c u k a:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="táhly" finSampa="' t a: h\ l I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="luka" finSampa="' l u k a" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0003-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="bělavý" finSampa="' b j E l a v i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="Vy" finSampa="v I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="oddychly" finSampa="' o d I x l I" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="utichli" finSampa="' u c I x l I" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="zpívalo" finSampa="' s p i: v a l o" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="volalo" finSampa="' v o l a l o" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="prohřátá" finSampa="' p r o h\ P\ a: t a:" rhymeScheme="4" stanzaId="4" />
+    <line id="8" finToken="sonata" finSampa="' s o n a t a" rhymeScheme="4" stanzaId="4" />
+    <line id="9" finToken="bělavý" finSampa="' b j E l a v i:" rhymeScheme="1" stanzaId="5" />
+    <line id="10" finToken="Vy" finSampa="v I" rhymeScheme="1" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0004-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="nechladila" finSampa="' n E x l a J\ I l a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="daleka" finSampa="' d a l E k a" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="bílá" finSampa="' b i: l a:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="měkká" finSampa="' m J E k a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="zkrvavěly" finSampa="' s k r= v a v j E l I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="hovořily" finSampa="' h\ o v o P\ I l I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="ženy" finSampa="' Z E n I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="bílý" finSampa="' b i: l i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="snáší" finSampa="' s n a: S i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="umírání" finSampa="' u m i: r a: J i:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="naši" finSampa="' n a S I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="dlaní" finSampa="' d l a J i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="nehřešili" finSampa="' n E h\ P\ E S I l I" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="nezapírat" finSampa="' n E z a p i: r a t" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="bílý" finSampa="' b i: l i:" rhymeScheme="4" stanzaId="4" />
+    <line id="16" finToken="odumírat" finSampa="' o d u m i: r a t" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0005-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="rákosí" finSampa="' r a: k o s i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="si" finSampa="s I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="modravě" finSampa="' m o d r a v j E" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="hlavě" finSampa="' h\ l a v j E" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="líbali" finSampa="' l i: b a l I" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="močály" finSampa="' m o t_S a: l I" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="topoly" finSampa="' t o p o l I" rhymeScheme="4" stanzaId="4" />
+    <line id="8" finToken="zabolí" finSampa="' z a b o l i:" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0006-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="vnesla" finSampa="' v n E s l a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="náladové" finSampa="' n a: l a d o v E:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="hesla" finSampa="' h\ E s l a" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="Snové" finSampa="' s n o v E:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="krvavě" finSampa="' k r= v a v j E" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="beznadějná" finSampa="' b E z n a J\ E j n a:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="dálek" finSampa="' d a: l E k" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="zalek" finSampa="' z a l E k" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="hejna" finSampa="' h\ E j n a" rhymeScheme="3" stanzaId="2" />
+    <line id="10" finToken="nevrací" finSampa="' n E v r a t_s i:" rhymeScheme="X" stanzaId="2" />
+    <line id="11" finToken="otrávená" finSampa="' o t r a: v E n a:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="zahrad" finSampa="' z a h\ r a t" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="žena" finSampa="' Z E n a" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="nálad" finSampa="' n a: l a t" rhymeScheme="6" stanzaId="3" />
+    <line id="15" finToken="zdušených" finSampa="' z d u S E n i: x" rhymeScheme="X" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0007-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="sametově" finSampa="' s a m E t o v j E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="jednotvárně" finSampa="' j E d n o t v a: r J E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="slově" finSampa="' s l o v j E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="hřbitově" finSampa="' h\ P\ b I t o v j E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="marné" finSampa="' m a r n E:" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="dívá" finSampa="' J\ i: v a:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="chladné" finSampa="' x l a d n E:" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="dohořívá" finSampa="' d o h\ o P\ i: v a:" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="3" stanzaId="2" />
+    <line id="10" finToken="padne" finSampa="' p a d n E" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="zaprodává" finSampa="' z a p r o d a: v a:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="usmívání" finSampa="' u s m i: v a: J i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="odehrává" finSampa="' o d E h\ r a: v a:" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="hlava" finSampa="' h\ l a v a" rhymeScheme="5" stanzaId="3" />
+    <line id="15" finToken="Umírání" finSampa="' u m i: r a: J i:" rhymeScheme="6" stanzaId="3" />
+    <line id="16" finToken="dítě" finSampa="' J\ i: c E" rhymeScheme="7" stanzaId="4" />
+    <line id="17" finToken="stvolu" finSampa="' s t v o l u" rhymeScheme="8" stanzaId="4" />
+    <line id="18" finToken="pospolitě" finSampa="' p o s p o l I c E" rhymeScheme="7" stanzaId="4" />
+    <line id="19" finToken="úsvitě" finSampa="' u: s v I c E" rhymeScheme="7" stanzaId="4" />
+    <line id="20" finToken="spolu" finSampa="' s p o l u" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0008-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="utoneme" finSampa="' u t o n E m E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="studené" finSampa="' s t u d E n E:" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="cesty" finSampa="' t_s E s t I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="Bolesti" finSampa="' b o l E s c I" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="utoneme" finSampa="' u t o n E m E" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="nevrátí" finSampa="' n E v r a: c i:" rhymeScheme="X" stanzaId="2" />
+    <line id="7" finToken="nesvítilo" finSampa="' n E s v i: c I l o" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="hlubinách" finSampa="' h\ l u b I n a: x" rhymeScheme="X" stanzaId="2" />
+    <line id="9" finToken="utoneme" finSampa="' u t o n E m E" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="přichystá" finSampa="' p P\ I x I s t a:" rhymeScheme="X" stanzaId="3" />
+    <line id="11" finToken="někdo" finSampa="' J E g d o" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="srdcem" finSampa="' s r= t t_s E m" rhymeScheme="X" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0009-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="Tě" finSampa="c E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="západu" finSampa="' z a: p a d u" rhymeScheme="X" stanzaId="2" />
+    <line id="3" finToken="dělí" finSampa="' J\ E l i:" rhymeScheme="1" stanzaId="2" />
+    <line id="4" finToken="souvislost" finSampa="' s o_u v I s l o s t" rhymeScheme="X" stanzaId="2" />
+    <line id="5" finToken="těly" finSampa="' c E l I" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="rozkoše" finSampa="' r o s k o S E" rhymeScheme="X" stanzaId="3" />
+    <line id="7" finToken="ladí" finSampa="' l a J\ i:" rhymeScheme="2" stanzaId="3" />
+    <line id="8" finToken="snů" finSampa="' s n u:" rhymeScheme="X" stanzaId="3" />
+    <line id="9" finToken="rádi" finSampa="' r a: J\ I" rhymeScheme="2" stanzaId="3" />
+    <line id="10" finToken="Tě" finSampa="c E" rhymeScheme="X" stanzaId="4" />
+    <line id="11" finToken="tvojí" finSampa="' t v o j i:" rhymeScheme="3" stanzaId="4" />
+    <line id="12" finToken="důvěrné" finSampa="' d u: v j E r n E:" rhymeScheme="X" stanzaId="4" />
+    <line id="13" finToken="pokoji" finSampa="' p o k o j I" rhymeScheme="3" stanzaId="4" />
+    <line id="14" finToken="Vzdálená" finSampa="' v z d a: l E n a:" rhymeScheme="X" stanzaId="5" />
+    <line id="15" finToken="těly" finSampa="' c E l I" rhymeScheme="4" stanzaId="5" />
+    <line id="16" finToken="snů" finSampa="' s n u:" rhymeScheme="X" stanzaId="5" />
+    <line id="17" finToken="osamělý" finSampa="' o s a m J E l i:" rhymeScheme="4" stanzaId="5" />
+    <line id="18" finToken="Neplač" finSampa="' n E p l a t_S" rhymeScheme="X" stanzaId="6" />
+  </poem>
+  <poem id="0001-0000-0000-0010-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="monotonní" finSampa="' m o n o t o n J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="cestou" finSampa="' t_s E s t o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="voní" finSampa="' v o J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="nevěstou" finSampa="' n E v j E s t o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="frází" finSampa="' f r a: z i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="suše" finSampa="' s u S E" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="nazí" finSampa="' n a z i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="duše" finSampa="' d u S E" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="zaplavíme" finSampa="' z a p l a v i: m E" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="oblaky" finSampa="' o b l a k I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="uhasíme" finSampa="' u h\ a s i: m E" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="zraky" finSampa="' z r a k I" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0011-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="havraními" finSampa="' h\ a v r a J i: m I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="pálí" finSampa="' p a: l i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="krásou" finSampa="' k r a: s o_u" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="rozplakaly" finSampa="' r o s p l a k a l I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="dětí" finSampa="' J\ E c i:" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="havraními" finSampa="' h\ a v r a J i: m I" rhymeScheme="1" stanzaId="1" />
+    <line id="7" finToken="zaníceným" finSampa="' z a J i: t_s E n i: m" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="nimi" finSampa="' J I m I" rhymeScheme="1" stanzaId="1" />
+    <line id="9" finToken="se" finSampa="s E" rhymeScheme="X" stanzaId="1" />
+    <line id="10" finToken="duší" finSampa="' d u S i:" rhymeScheme="3" stanzaId="1" />
+    <line id="11" finToken="maně" finSampa="' m a J E" rhymeScheme="X" stanzaId="1" />
+    <line id="12" finToken="nevytuší" finSampa="' n E v I t u S i:" rhymeScheme="3" stanzaId="1" />
+    <line id="13" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="4" stanzaId="1" />
+    <line id="14" finToken="dohořívá" finSampa="' d o h\ o P\ i: v a:" rhymeScheme="4" stanzaId="1" />
+    <line id="15" finToken="paní" finSampa="' p a J i:" rhymeScheme="X" stanzaId="1" />
+    <line id="16" finToken="pláče" finSampa="' p l a: t_S E" rhymeScheme="X" stanzaId="1" />
+    <line id="17" finToken="tulák" finSampa="' t u l a: k" rhymeScheme="X" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0012-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="souzvuků" finSampa="' s o_u z v u k u:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="pousmívá" finSampa="' p o u s m i: v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="souzvuků" finSampa="' s o_u z v u k u:" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="Vesmíru" finSampa="' v E s m i: r u" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="svítí" finSampa="' s v i: c i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="oplodniti" finSampa="' o p l o d J I c I" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="Vesmíru" finSampa="' v E s m i: r u" rhymeScheme="X" stanzaId="2" />
+    <line id="9" finToken="rozkoší" finSampa="' r o s k o S i:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="dýchá" finSampa="' d i: x a:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="a" finSampa="' a" rhymeScheme="3" stanzaId="3" />
+    <line id="12" finToken="rozkoší" finSampa="' r o s k o S i:" rhymeScheme="X" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0013-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="bída" finSampa="' b i: d a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="dech" finSampa="' d E x" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="hlídá" finSampa="' h\ l i: d a:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="snech" finSampa="' s n E x" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="krásný" finSampa="' k r a: s n i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="žár" finSampa="' Z a: r" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="sny" finSampa="' s n I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="jar" finSampa="' j a r" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="svírá" finSampa="' s v i: r a:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="svět" finSampa="' s v j E t" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="neumírá" finSampa="' n E u m i: r a:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="běd" finSampa="' b j E t" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0014-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="obzory" finSampa="' o b z o r I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vzdychaly" finSampa="' v z d I x a l I" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="chorý" finSampa="' x o r i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="soucitu" finSampa="' s o_u t_s I t u" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="je" finSampa="j E" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="popele" finSampa="' p o p E l E" rhymeScheme="X" stanzaId="2" />
+    <line id="7" finToken="zmije" finSampa="' z m I j E" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="západů" finSampa="' z a: p a d u:" rhymeScheme="X" stanzaId="2" />
+    <line id="9" finToken="mu" finSampa="m u" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="oblaků" finSampa="' o b l a k u:" rhymeScheme="X" stanzaId="3" />
+    <line id="11" finToken="všemu" finSampa="' f S E m u" rhymeScheme="3" stanzaId="3" />
+    <line id="12" finToken="podletí" finSampa="' p o d l E c i:" rhymeScheme="X" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0015-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="římse" finSampa="' P\ i: m s E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="se" finSampa="s E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="arie" finSampa="' a r I j E" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="vyhnije" finSampa="' v I h\ J I j E" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="zhnusený" finSampa="' s x n u s E n i:" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="ženy" finSampa="' Z E n I" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="shasíná" finSampa="' s x a s i: n a:" rhymeScheme="4" stanzaId="4" />
+    <line id="8" finToken="nevinná" finSampa="' n E v I n a:" rhymeScheme="4" stanzaId="4" />
+    <line id="9" finToken="se" finSampa="s E" rhymeScheme="1" stanzaId="5" />
+    <line id="10" finToken="římse" finSampa="' P\ i: m s E" rhymeScheme="1" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0016-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="potopilo" finSampa="' p o t o p I l o" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="rozerval" finSampa="' r o z E r v a l" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zbylo" finSampa="' z b I l o" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="zanechal" finSampa="' z a n E x a l" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="zmije" finSampa="' z m I j E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="nehýbá" finSampa="' n E h\ i: b a:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="je" finSampa="' j E" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="ušklíbá" finSampa="' u S k l i: b a:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="zmije" finSampa="' z m I j E" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="jazyka" finSampa="' j a z I k a" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="je" finSampa="' j E" rhymeScheme="3" stanzaId="3" />
+    <line id="12" finToken="zasyká" finSampa="' z a s I k a:" rhymeScheme="5" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0017-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="znějí" finSampa="' z J E j i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="nejněžněji" finSampa="' n E j J E Z J E j I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="neposlouchá" finSampa="' n E p o s l o_u x a:" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="moucha" finSampa="' m o_u x a" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="je" finSampa="j E" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="bije" finSampa="' b I j E" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="tichu" finSampa="' c I x u" rhymeScheme="4" stanzaId="4" />
+    <line id="8" finToken="hříchů" finSampa="' h\ P\ i: x u:" rhymeScheme="4" stanzaId="4" />
+    <line id="9" finToken="znějí" finSampa="' z J E j i:" rhymeScheme="1" stanzaId="5" />
+    <line id="10" finToken="smějí" finSampa="' s m J E j i:" rhymeScheme="1" stanzaId="5" />
+    <line id="11" finToken="pošlapána" finSampa="' p o S l a p a: n a" rhymeScheme="5" stanzaId="6" />
+    <line id="12" finToken="vytrhána" finSampa="' v I t r= h\ a: n a" rhymeScheme="5" stanzaId="6" />
+    <line id="13" finToken="znějí" finSampa="' z J E j i:" rhymeScheme="1" stanzaId="7" />
+    <line id="14" finToken="nejněžněji" finSampa="' n E j J E Z J E j I" rhymeScheme="1" stanzaId="7" />
+  </poem>
+  <poem id="0001-0000-0000-0018-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="stáhla" finSampa="' s t a: h\ l a" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="dusí" finSampa="' d u s i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="těsnat" finSampa="' c E s n a t" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="konfusí" finSampa="' k o n f u s i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="smíchy" finSampa="' s m i: x I" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="tváře" finSampa="' t v a: P\ E" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="hnusí" finSampa="' h\ n u s i:" rhymeScheme="1" stanzaId="2" />
+    <line id="8" finToken="oltáře" finSampa="' o l t a: P\ E" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="vyjít" finSampa="' v I j i: t" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="suše" finSampa="' s u S E" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="lidstva" finSampa="' l I t s t v a" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="duše" finSampa="' d u S E" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0019-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="být" finSampa="' b i: t" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="přehlušit" finSampa="' p P\ E h\ l u S I t" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="později" finSampa="' p o z J\ E j I" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="vysměji" finSampa="' v I s m J E j I" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="rozchechtám" finSampa="' r o s x E x t a: m" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="vyhledám" finSampa="' v I h\ l E d a: m" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="být" finSampa="' b i: t" rhymeScheme="1" stanzaId="4" />
+    <line id="8" finToken="utopit" finSampa="' u t o p I t" rhymeScheme="1" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0020-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="duši" finSampa="' d u S I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="nadějích" finSampa="' n a J\ E j i: x" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="životě" finSampa="' Z I v o c E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="závějích" finSampa="' z a: v j E j i: x" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="vyjádřiti" finSampa="' v I j a: d P\ I c I" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="vytuší" finSampa="' v I t u S i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="hvězdy" finSampa="' h\ v j E z d I" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="duši" finSampa="' d u S I" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="moří" finSampa="' m o P\ i:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="huláká" finSampa="' h\ u l a: k a:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="Životě" finSampa="' Z I v o c E" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="tuláka" finSampa="' t u l a: k a" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0021-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="nes" finSampa="' n E s" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="kdes" finSampa="g d E s" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="nenese" finSampa="' n E n E s E" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="se" finSampa="s E" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="zhasíná" finSampa="' s x a s i: n a:" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="lavina" finSampa="' l a v I n a" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0022-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="hladem" finSampa="' h\ l a d E m" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="jakousi" finSampa="' j a k o_u s I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="dlouhá" finSampa="' d l o_u h\ a:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="si" finSampa="s I" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="jaro" finSampa="' j a r o" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="vypjaty" finSampa="' v I p j a t I" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="dráty" finSampa="' d r a: t I" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="skřípá" finSampa="' s k P\ i: p a:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="vykřičí" finSampa="' v I k P\ I t_S i:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="chrčím" finSampa="' x r= t_S i: m" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="samičí" finSampa="' s a m I t_S i:" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0023-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="sřítí" finSampa="' s P\ i: c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zastaví" finSampa="' z a s t a v i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="chytí" finSampa="' x I c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="postavy" finSampa="' p o s t a v I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="Smích" finSampa="' s m i: x" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="nehledány" finSampa="' n E h\ l E d a: n I" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="tajemství" finSampa="' t a j E m s t v i:" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="ztroskotaný" finSampa="' s t r o s k o t a n i:" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="Zoufalství" finSampa="' z o_u f a l s t v i:" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="Smích" finSampa="' s m i: x" rhymeScheme="X" stanzaId="2" />
+    <line id="11" finToken="světlý" finSampa="' s v j E t l i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="ztřísněný" finSampa="' s t P\ i: s J E n i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="metly" finSampa="' m E t l I" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="Ženy" finSampa="' Z E n I" rhymeScheme="6" stanzaId="3" />
+    <line id="15" finToken="Pláč" finSampa="' p l a: t_S" rhymeScheme="X" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0024-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="zbyla" finSampa="' z b I l a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="se" finSampa="s E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="póse" finSampa="' p o: s E" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="konejšila" finSampa="' k o n E j S I l a" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="absinthu" finSampa="' a p s I n t u" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="asi" finSampa="' a s I" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="si" finSampa="s I" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="rysy" finSampa="' r I s I" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="vlasy" finSampa="' v l a s I" rhymeScheme="3" stanzaId="2" />
+    <line id="10" finToken="absinthu" finSampa="' a p s I n t u" rhymeScheme="X" stanzaId="2" />
+    <line id="11" finToken="všeho" finSampa="' f S E h\ o" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="chladně" finSampa="' x l a d J E" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="dně" finSampa="' d J E" rhymeScheme="6" stanzaId="3" />
+    <line id="14" finToken="šíleného" finSampa="' S i: l E n E: h\ o" rhymeScheme="5" stanzaId="3" />
+    <line id="15" finToken="absinthu" finSampa="' a p s I n t u" rhymeScheme="X" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0025-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="matky" finSampa="' m a t k I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="cíli" finSampa="' t_s i: l I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="pohádky" finSampa="' p o h\ a: t k I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="chvíli" finSampa="' x v i: l I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="zapírá" finSampa="' z a p i: r a:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="vrací" finSampa="' v r a t_s i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="otvírá" finSampa="' o t v i: r a:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="kácí" finSampa="' k a: t_s i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="ubili" finSampa="' u b I l I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="bolí" finSampa="' b o l i:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="chvíli" finSampa="' x v i: l I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="poli" finSampa="' p o l I" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0026-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="Poznání" finSampa="' p o z n a: J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="žití" finSampa="' Z I c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="naklání" finSampa="' n a k l a: J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="řítí" finSampa="' P\ i: c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="kamkoli" finSampa="' k a m k o l I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="atmosférou" finSampa="' a t m o s f E: r o_u" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="zabolí" finSampa="' z a b o l i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="nedůvěrou" finSampa="' n E d u: v j E r o_u" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="pozítří" finSampa="' p o z i: t P\ i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="nekonečnou" finSampa="' n E k o n E t_S n o_u" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="rozjitří" finSampa="' r o z j I t P\ i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="mléčnou" finSampa="' m l E: t_S n o_u" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="Poznání" finSampa="' p o z n a: J i:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="žití" finSampa="' Z I c i:" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="naklání" finSampa="' n a k l a: J i:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="řítí" finSampa="' P\ i: c i:" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0027-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="nedočkavou" finSampa="' n E d o t_S k a v o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="mystického" finSampa="' m I s c I t_s k E: h\ o" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="hlavou" finSampa="' h\ l a v o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="Ztraceného" finSampa="' s t r a t_s E n E: h\ o" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="dokrvácí" finSampa="' d o k r= v a: t_s i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="náladové" finSampa="' n a: l a d o v E:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="resignaci" finSampa="' r E s I g n a t_s I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="plove" finSampa="' p l o v E" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="trávě" finSampa="' t r a: v j E" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="líchy" finSampa="' l i: x I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="hlavě" finSampa="' h\ l a v j E" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="tichý" finSampa="' c I x i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="davů" finSampa="' d a v u:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="znějí" finSampa="' z J E j i:" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="hlavu" finSampa="' h\ l a v u" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="horečněji" finSampa="' h\ o r E t_S J E j I" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0028-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="vrány" finSampa="' v r a: n I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="zemí" finSampa="' z E m i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="koutě" finSampa="' k o_u c E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="mi" finSampa="m I" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="dýmu" finSampa="' d i: m u" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="řítí" finSampa="' P\ i: c i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="čekáš" finSampa="' t_S E k a: S" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="svítí" finSampa="' s v i: c i:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="letí" finSampa="' l E c i:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="dýmu" finSampa="' d i: m u" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="dálku" finSampa="' d a: l k u" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="dřímu" finSampa="' d P\ i: m u" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0029-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="zadýchalo" finSampa="' z a d i: x a l o" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vítězní" finSampa="' v i: c E z J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="hřálo" finSampa="' h\ P\ a: l o" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="nezazní" finSampa="' n E z a z J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="mě" finSampa="m J E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="rozstřiklých" finSampa="' r o s t P\ I k l i: x" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="símě" finSampa="' s i: m J E" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="smích" finSampa="' s m i: x" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="ptáci" finSampa="' p t a: t_s I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="oblaka" finSampa="' o b l a k a" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="ztrácí" finSampa="' s t r a: t_s i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="vyláká" finSampa="' v I l a: k a:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="rybníka" finSampa="' r I b J i: k a" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="se" finSampa="s E" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="svlíká" finSampa="' s v l i: k a:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="se" finSampa="s E" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0030-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="chata" finSampa="' x a t a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="oken" finSampa="' o k E n" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zaujata" finSampa="' z a u j a t a" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="zasmušen" finSampa="' z a s m u S E n" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="dvorku" finSampa="' d v o r k u" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="kvílíce" finSampa="' k v i: l i: t_s E" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="obzorku" finSampa="' o b z o r k u" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="silnice" finSampa="' s I l J I t_s E" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="sedí" finSampa="' s E J\ i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="očí" finSampa="' o t_S i:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="hledí" finSampa="' h\ l E J\ i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="klokočí" finSampa="' k l o k o t_S i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="se" finSampa="s E" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="tmách" finSampa="' t m a: x" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="vlase" finSampa="' v l a s E" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="princeznách" finSampa="' p r I n t_s E z n a: x" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0031-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="skrytá" finSampa="' s k r I t a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hnijící" finSampa="' h\ J I j i: t_s i:" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="svítá" finSampa="' s v i: t a:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="spita" finSampa="' s p I t a" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="žárem" finSampa="' Z a: r E m" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="zimničně" finSampa="' z I m J I t_S J E" rhymeScheme="X" stanzaId="2" />
+    <line id="7" finToken="harem" finSampa="' h\ a r E m" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="pohárem" finSampa="' p o h\ a: r E m" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="zvedá" finSampa="' z v E d a:" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="stlumeně" finSampa="' s t l u m E J E" rhymeScheme="X" stanzaId="3" />
+    <line id="11" finToken="hledá" finSampa="' h\ l E d a:" rhymeScheme="3" stanzaId="3" />
+    <line id="12" finToken="běda" finSampa="' b j E d a" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0032-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="polem" finSampa="' p o l E m" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="vtesaný" finSampa="' f t E s a n i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="slunce" finSampa="' s l u n t_s E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="volaný" finSampa="' v o l a n i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="kladli" finSampa="' k l a d l I" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="lukách" finSampa="' l u k a: x" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="výškám" finSampa="' v i: S k a: m" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="táh" finSampa="' t a: x" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="budoucna" finSampa="' b u d o_u t_s n a" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="rudé" finSampa="' r u d E:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="hrobovým" finSampa="' h\ r o b o v i: m" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="bude" finSampa="' b u d E" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="brázdě" finSampa="' b r a: z J\ E" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="zavřené" finSampa="' z a v P\ E n E:" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="vseté" finSampa="' f s E t E:" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="zmařené" finSampa="' z m a P\ E n E:" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0033-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="lepí" finSampa="' l E p i:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="plíží" finSampa="' p l i: Z i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="se" finSampa="s E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="kříži" finSampa="' k P\ i: Z I" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="vzpíná" finSampa="' f s p i: n a:" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="zkrvavený" finSampa="' s k r= v a v E n i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="Baudelaira" finSampa="' b o d l E: r a" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="ženy" finSampa="' Z E n I" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="zebe" finSampa="' z E b E" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="sténající" finSampa="' s t E: n a j i: t_s i:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="zatažený" finSampa="' z a t a Z E n i:" rhymeScheme="2" stanzaId="3" />
+    <line id="12" finToken="říci" finSampa="' P\ i: t_s I" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0034-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="šinula" finSampa="' S I n u l a" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="studený" finSampa="' s t u d E n i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="kdos" finSampa="g d o s" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="kameny" finSampa="' k a m E n I" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="pozítří" finSampa="' p o z i: t P\ i:" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="krvavý" finSampa="' k r= v a v i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="den" finSampa="' d E n" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="Výpravy" finSampa="' v i: p r a v I" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="nevrací" finSampa="' n E v r a t_s i:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="pozítří" finSampa="' p o z i: t P\ i:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="vášnivě" finSampa="' v a: S J I v j E" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="rozjitří" finSampa="' r o z j I t P\ i:" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0035-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="dívaly" finSampa="' J\ i: v a l I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="čekaly" finSampa="' t_S E k a l I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="svítily" finSampa="' s v i: c I l I" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="chvíli" finSampa="' x v i: l I" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="rozletí" finSampa="' r o z l E c i:" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="oběti" finSampa="' o b j E c I" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="staletý" finSampa="' s t a l E t i:" rhymeScheme="4" stanzaId="4" />
+    <line id="8" finToken="zaklety" finSampa="' z a k l E t I" rhymeScheme="4" stanzaId="4" />
+    <line id="9" finToken="zmírání" finSampa="' z m i: r a: J i:" rhymeScheme="5" stanzaId="5" />
+    <line id="10" finToken="vzdychání" finSampa="' v z d I x a: J i:" rhymeScheme="5" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0036-0000" author="Sula, Pavel *1882" period="1880">
+    <line id="1" finToken="si" finSampa="s I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="pavučinami" finSampa="' p a v u t_S I n a m I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="kamsi" finSampa="' k a m s I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="mi" finSampa="m I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="jemně" finSampa="' j E m J E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="rozsvítím" finSampa="' r o s v i: c i: m" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="mně" finSampa="m J E" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="nasytím" finSampa="' n a s I c i: m" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="bledá" finSampa="' b l E d a:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="vlasy" finSampa="' v l a s I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="sedá" finSampa="' s E d a:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="si" finSampa="s I" rhymeScheme="6" stanzaId="3" />
+  </poem>
+</data>

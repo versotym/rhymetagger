@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+  <poem id="0001-0000-0000-0001-0000" author="Nejč, Karel *1875" period="1870">
+    <line id="1" finToken="tratí" finSampa="' t r a c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="tříští" finSampa="' t P\ i: S c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="brambořišti" finSampa="' b r a m b o P\ I S c I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="natí" finSampa="' n a c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="čiší" finSampa="' t_S I S i:" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="tiší" finSampa="' c I S i:" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="polí" finSampa="' p o l i:" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="zádumčivá" finSampa="' z a: d u m t_S I v a:" rhymeScheme="5" stanzaId="1" />
+    <line id="9" finToken="bolí" finSampa="' b o l i:" rhymeScheme="4" stanzaId="1" />
+    <line id="10" finToken="sladký" finSampa="' s l a t k i:" rhymeScheme="6" stanzaId="1" />
+    <line id="11" finToken="splývá" finSampa="' s p l i: v a:" rhymeScheme="5" stanzaId="1" />
+    <line id="12" finToken="zpátky" finSampa="' s p a: t k I" rhymeScheme="6" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0002-0000" author="Nejč, Karel *1875" period="1870">
+    <line id="1" finToken="trýzní" finSampa="' t r i: z J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="žízní" finSampa="' Z i: z J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="řítí" finSampa="' P\ i: c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="zapomníti" finSampa="' z a p o m J i: c I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="trávit" finSampa="' t r a: v I t" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="zbavit" finSampa="' z b a v I t" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="nekonečné" finSampa="' n E k o n E t_S n E:" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="vděčné" finSampa="' v J\ E t_S n E:" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="netoužiti" finSampa="' n E t o_u Z I c I" rhymeScheme="2" stanzaId="1" />
+    <line id="10" finToken="žití" finSampa="' Z I c i:" rhymeScheme="2" stanzaId="2" />
+    <line id="11" finToken="denní" finSampa="' d E n J i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="osvětlení" finSampa="' o s v j E t l E J i:" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="svěží" finSampa="' s v j E Z i:" rhymeScheme="X" stanzaId="3" />
+    <line id="14" finToken="vůní" finSampa="' v u: J i:" rhymeScheme="6" stanzaId="3" />
+    <line id="15" finToken="sluní" finSampa="' s l u J i:" rhymeScheme="6" stanzaId="3" />
+    <line id="16" finToken="jara" finSampa="' j a r a" rhymeScheme="7" stanzaId="3" />
+    <line id="17" finToken="hárá" finSampa="' h\ a: r a:" rhymeScheme="7" stanzaId="3" />
+    <line id="18" finToken="silou" finSampa="' s I l o_u" rhymeScheme="8" stanzaId="3" />
+    <line id="19" finToken="spilou" finSampa="' s p I l o_u" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0003-0000" author="Nejč, Karel *1875" period="1870">
+    <line id="1" finToken="večerem" finSampa="' v E t_S E r E m" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="polích" finSampa="' p o l i: x" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="topily" finSampa="' t o p I l I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="myšlénky" finSampa="' m I S l E: n k I" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="zalehly" finSampa="' z a l E h\ l I" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="zazněly" finSampa="' z a z J E l I" rhymeScheme="X" stanzaId="1" />
+    <line id="7" finToken="tlumeně" finSampa="' t l u m E J E" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="závratné" finSampa="' z a: v r a t n E:" rhymeScheme="X" stanzaId="1" />
+    <line id="9" finToken="nesměrnem" finSampa="' n E s m J E r n E m" rhymeScheme="X" stanzaId="1" />
+    <line id="10" finToken="nechápal" finSampa="' n E x a: p a l" rhymeScheme="X" stanzaId="1" />
+    <line id="11" finToken="ohlasem" finSampa="' o h\ l a s E m" rhymeScheme="X" stanzaId="1" />
+    <line id="12" finToken="doléhal" finSampa="' d o l E: h\ a l" rhymeScheme="X" stanzaId="1" />
+    <line id="13" finToken="má" finSampa="' m a:" rhymeScheme="X" stanzaId="1" />
+    <line id="14" finToken="kráčela" finSampa="' k r a: t_S E l a" rhymeScheme="X" stanzaId="1" />
+    <line id="15" finToken="automat" finSampa="' a_u t o m a t" rhymeScheme="X" stanzaId="1" />
+    <line id="16" finToken="konce" finSampa="' k o n t_s E" rhymeScheme="X" stanzaId="1" />
+    <line id="17" finToken="úžasem" finSampa="' u: Z a s E m" rhymeScheme="X" stanzaId="1" />
+    <line id="18" finToken="jej" finSampa="j E j" rhymeScheme="X" stanzaId="1" />
+    <line id="19" finToken="ducha" finSampa="' d u x a" rhymeScheme="X" stanzaId="1" />
+    <line id="20" finToken="mlhavým" finSampa="' m l= h\ a v i: m" rhymeScheme="X" stanzaId="1" />
+    <line id="21" finToken="vlhkostí" finSampa="' v l= x k o s c i:" rhymeScheme="X" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0004-0000" author="Nejč, Karel *1875" period="1870">
+    <line id="1" finToken="mlčení" finSampa="' m l= t_S E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="nedohledné" finSampa="' n E d o h\ l E d n E:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="dní" finSampa="' d J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="zvedne" finSampa="' z v E d n E" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="děsivou" finSampa="' J\ E s I v o_u" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="vření" finSampa="' v P\ E J i:" rhymeScheme="1" stanzaId="2" />
+    <line id="7" finToken="rvou" finSampa="' r v o_u" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="snění" finSampa="' s J E J i:" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="úšklebkem" finSampa="' u: S k l E p k E m" rhymeScheme="4" stanzaId="3" />
+    <line id="10" finToken="trofejemi" finSampa="' t r o f E j E m I" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="rtem" finSampa="' r t E m" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="zemi" finSampa="' z E m I" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="sláb" finSampa="' s l a: p" rhymeScheme="6" stanzaId="4" />
+    <line id="14" finToken="němy" finSampa="' J E m I" rhymeScheme="5" stanzaId="4" />
+    <line id="15" finToken="rab" finSampa="' r a p" rhymeScheme="6" stanzaId="4" />
+    <line id="16" finToken="illusemi" finSampa="' I l u s E m I" rhymeScheme="5" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0005-0000" author="Nejč, Karel *1875" period="1870">
+    <line id="1" finToken="vál" finSampa="' v a: l" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="schvěly" finSampa="' s x v j E l I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="vzplál" finSampa="' f s p l a: l" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="stlely" finSampa="' s t l E l I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="snech" finSampa="' s n E x" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="sluní" finSampa="' s l u J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="dech" finSampa="' d E x" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="vůní" finSampa="' v u: J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="vzduch" finSampa="' v z d u x" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="světla" finSampa="' s v j E t l a" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="ruch" finSampa="' r u x" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="létla" finSampa="' l E: t l a" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="zdál" finSampa="' z d a: l" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="znělo" finSampa="' z J E l o" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="vál" finSampa="' v a: l" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="chvělo" finSampa="' x v j E l o" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="dnů" finSampa="' d n u:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="schvátí" finSampa="' s x v a: c i:" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="snů" finSampa="' s n u:" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="nenavrátí" finSampa="' n E n a v r a: c i:" rhymeScheme="10" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0006-0000" author="Nejč, Karel *1875" period="1870">
+    <line id="1" finToken="mhavý" finSampa="' m h\ a v i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="svítí" finSampa="' s v i: c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="žhavý" finSampa="' Z h\ a v i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="řítí" finSampa="' P\ i: c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="šíří" finSampa="' S i: P\ i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="zemi" finSampa="' z E m I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="hýří" finSampa="' h\ i: P\ i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="orgiemi" finSampa="' o r g I j E m I" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="snivý" finSampa="' s J I v i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="moří" finSampa="' m o P\ i:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="oslnivý" finSampa="' o s l= J I v i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="hoří" finSampa="' h\ o P\ i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="spící" finSampa="' s p i: t_s i:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="vlahé" finSampa="' v l a h\ E:" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="sálající" finSampa="' s a: l a j i: t_s i:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="nahé" finSampa="' n a h\ E:" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="spita" finSampa="' s p I t a" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="trudem" finSampa="' t r u d E m" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="slita" finSampa="' s l I t a" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="přeludem" finSampa="' p P\ E l u d E m" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="řinou" finSampa="' P\ I n o_u" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="zalit" finSampa="' z a l I t" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="snivou" finSampa="' s J I v o_u" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="zkalit" finSampa="' s k a l I t" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="bocích" finSampa="' b o t_s i: x" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="zlaté" finSampa="' z l a t E:" rhymeScheme="14" stanzaId="7" />
+    <line id="27" finToken="nocích" finSampa="' n o t_s i: x" rhymeScheme="13" stanzaId="7" />
+    <line id="28" finToken="rozepjaté" finSampa="' r o z E p j a t E:" rhymeScheme="14" stanzaId="7" />
+    <line id="29" finToken="líném" finSampa="' l i: n E: m" rhymeScheme="15" stanzaId="8" />
+    <line id="30" finToken="vhání" finSampa="' v h\ a: J i:" rhymeScheme="16" stanzaId="8" />
+    <line id="31" finToken="vínem" finSampa="' v i: n E m" rhymeScheme="15" stanzaId="8" />
+    <line id="32" finToken="omdlévání" finSampa="' o m d l E: v a: J i:" rhymeScheme="16" stanzaId="8" />
+  </poem>
+  <poem id="0001-0000-0000-0007-0000" author="Nejč, Karel *1875" period="1870">
+    <line id="1" finToken="níží" finSampa="' J i: Z i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="ohvězděná" finSampa="' o h\ v j E z J\ E n a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="blíží" finSampa="' b l i: Z i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="žena" finSampa="' Z E n a" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="plouží" finSampa="' p l o_u Z i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="lehá" finSampa="' l E h\ a:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="vhrouži" finSampa="' v h\ r o_u Z I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="šlehá" finSampa="' S l E h\ a:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="vzlétla" finSampa="' v z l E: t l a" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="světla" finSampa="' s v j E t l a" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="prve" finSampa="' p r= v E" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="pýše" finSampa="' p i: S E" rhymeScheme="7" stanzaId="4" />
+    <line id="13" finToken="líše" finSampa="' l i: S E" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="krve" finSampa="' k r= v E" rhymeScheme="6" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0008-0000" author="Nejč, Karel *1875" period="1870">
+    <line id="1" finToken="stměly" finSampa="' s t m J E l I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="splývá" finSampa="' s p l i: v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="oněmělý" finSampa="' o J E m J E l i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="nerozrývá" finSampa="' n E r o z r i: v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="utrpení" finSampa="' u t r= p E J i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="stírá" finSampa="' s c i: r a:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="pění" finSampa="' p j E J i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="otevírá" finSampa="' o t E v i: r a:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="svátých" finSampa="' s v a: t i: x" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="zlatých" finSampa="' z l a t i: x" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="hřímá" finSampa="' h\ P\ i: m a:" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="minaretů" finSampa="' m I n a r E t u:" rhymeScheme="7" stanzaId="4" />
+    <line id="13" finToken="vodometů" finSampa="' v o d o m E t u:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="dřímá" finSampa="' d P\ i: m a:" rhymeScheme="6" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0009-0000" author="Nejč, Karel *1875" period="1870">
+    <line id="1" finToken="rány" finSampa="' r a: n I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="třesou" finSampa="' t P\ E s o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="hrany" finSampa="' h\ r a n I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="nesou" finSampa="' n E s o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="tělem" finSampa="' c E l E m" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="pěnou" finSampa="' p j E n o_u" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="vykypělém" finSampa="' v I k I p j E l E: m" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="zapálenou" finSampa="' z a p a: l E n o_u" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="lomí" finSampa="' l o m i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="zmírá" finSampa="' z m i: r a:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="bezvědomí" finSampa="' b E z v j E d o m i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="zírá" finSampa="' z i: r a:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="tvojí" finSampa="' t v o j i:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="smývá" finSampa="' s m i: v a:" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="hojí" finSampa="' h\ o j i:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="rozeznívá" finSampa="' r o z E z J i: v a:" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0010-0000" author="Nejč, Karel *1875" period="1870">
+    <line id="1" finToken="líná" finSampa="' l i: n a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vběhla" finSampa="' v b j E h\ l a" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="nenapíná" finSampa="' n E n a p i: n a:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="slehla" finSampa="' s l E h\ l a" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="šplýchá" finSampa="' S p l i: x a:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="zmdlely" finSampa="' z m d l E l I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="dýchá" finSampa="' d i: x a:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="zšedivěly" finSampa="' s S E J\ I v j E l I" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="ruchem" finSampa="' r u x E m" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="vály" finSampa="' v a: l I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="vzduchem" finSampa="' v z d u x E m" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="usínaly" finSampa="' u s i: n a l I" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="svítil" finSampa="' s v i: c I l" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="splýval" finSampa="' s p l i: v a l" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="nítil" finSampa="' J i: c I l" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="rozechvíval" finSampa="' r o z E x v i: v a l" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="nerozčeří" finSampa="' n E r o s t_S E P\ i:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="bouří" finSampa="' b o_u P\ i:" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="šeří" finSampa="' S E P\ i:" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="kouří" finSampa="' k o_u P\ i:" rhymeScheme="10" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0011-0000" author="Nejč, Karel *1875" period="1870">
+    <line id="1" finToken="plály" finSampa="' p l a: l I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vábil" finSampa="' v a: b I l" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="dáli" finSampa="' d a: l I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="úzkostí" finSampa="' u: s k o s c i:" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="hlédl" finSampa="' h\ l E: d l=" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="roků" finSampa="' r o k u:" rhymeScheme="X" stanzaId="2" />
+    <line id="7" finToken="spředl" finSampa="' s p P\ E d l=" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="maskuješ" finSampa="' m a s k u j E S" rhymeScheme="X" stanzaId="2" />
+    <line id="9" finToken="plané" finSampa="' p l a n E:" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="zadýchané" finSampa="' z a d i: x a n E:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="budoucna" finSampa="' b u d o_u t_s n a" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="cenný" finSampa="' t_s E n i:" rhymeScheme="4" stanzaId="4" />
+    <line id="13" finToken="hřebeny" finSampa="' h\ P\ E b E n I" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="pohrdnuv" finSampa="' p o h\ r= d n u f" rhymeScheme="X" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0012-0000" author="Nejč, Karel *1875" period="1870">
+    <line id="1" finToken="smýká" finSampa="' s m i: k a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="šeré" finSampa="' S E r E:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="stříká" finSampa="' s t P\ i: k a:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="dere" finSampa="' d E r E" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="vleklé" finSampa="' v l E k l E:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="kvílí" finSampa="' k v i: l i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="vztekle" finSampa="' f s t E k l E" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="chvílí" finSampa="' x v i: l i:" rhymeScheme="4" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0013-0000" author="Nejč, Karel *1875" period="1870">
+    <line id="1" finToken="jase" finSampa="' j a s E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="se" finSampa="s E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="konejšivá" finSampa="' k o n E j S I v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="snění" finSampa="' s J E J i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="zraky" finSampa="' z r a k I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="osení" finSampa="' o s E J i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="oblaky" finSampa="' o b l a k I" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="melodií" finSampa="' m E l o J\ I j i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="ušlapána" finSampa="' u S l a p a: n a" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="nyjí" finSampa="' n I j i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="rána" finSampa="' r a: n a" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="stíny" finSampa="' s c i: n I" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="padnou" finSampa="' p a d n o_u" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="zříceniny" finSampa="' z P\ i: t_s E J I n I" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="vadnou" finSampa="' v a d n o_u" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0014-0000" author="Nejč, Karel *1875" period="1870">
+    <line id="1" finToken="stojí" finSampa="' s t o j i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="šeřiti" finSampa="' S E P\ I c I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="bojí" finSampa="' b o j i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="věřiti" finSampa="' v j E P\ I c I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="běží" finSampa="' b j E Z i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="uniknouti" finSampa="' u J I k n o_u c I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="svěží" finSampa="' s v j E Z i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="hroutí" finSampa="' h\ r o_u c i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="neodváží" finSampa="' n E o d v a: Z i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="dáli" finSampa="' d a: l I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="chladem" finSampa="' x l a d E m" rhymeScheme="7" stanzaId="3" />
+    <line id="12" finToken="sráží" finSampa="' s r a: Z i:" rhymeScheme="5" stanzaId="4" />
+    <line id="13" finToken="močály" finSampa="' m o t_S a: l I" rhymeScheme="6" stanzaId="4" />
+    <line id="14" finToken="hladem" finSampa="' h\ l a d E m" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0015-0000" author="Nejč, Karel *1875" period="1870">
+    <line id="1" finToken="svázat" finSampa="' s v a: z a t" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vlastí" finSampa="' v l a s c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="nezasvitne" finSampa="' n E z a s v I t n E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="tázat" finSampa="' t a: z a t" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="klásti" finSampa="' k l a: s c I" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="sveřepou" finSampa="' s v E P\ E p o_u" rhymeScheme="X" stanzaId="1" />
+    <line id="7" finToken="dáli" finSampa="' d a: l I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="lučině" finSampa="' l u t_S I J E" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="řítí" finSampa="' P\ i: c i:" rhymeScheme="X" stanzaId="2" />
+    <line id="10" finToken="skály" finSampa="' s k a: l I" rhymeScheme="3" stanzaId="2" />
+    <line id="11" finToken="úžlabině" finSampa="' u: Z l a b I J E" rhymeScheme="4" stanzaId="2" />
+    <line id="12" finToken="Životem" finSampa="' Z I v o t E m" rhymeScheme="X" stanzaId="2" />
+    <line id="13" finToken="říci" finSampa="' P\ i: t_s I" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="zoufající" finSampa="' z o_u f a j i: t_s i:" rhymeScheme="5" stanzaId="3" />
+    <line id="15" finToken="vzrůstat" finSampa="' v z r u: s t a t" rhymeScheme="6" stanzaId="3" />
+    <line id="16" finToken="zůstat" finSampa="' z u: s t a t" rhymeScheme="6" stanzaId="3" />
+    <line id="17" finToken="spáti" finSampa="' s p a: c I" rhymeScheme="7" stanzaId="3" />
+    <line id="18" finToken="slávě" finSampa="' s l a: v j E" rhymeScheme="8" stanzaId="3" />
+    <line id="19" finToken="nezamíří" finSampa="' n E z a m i: P\ i:" rhymeScheme="9" stanzaId="3" />
+    <line id="20" finToken="šíří" finSampa="' S i: P\ i:" rhymeScheme="9" stanzaId="3" />
+    <line id="21" finToken="zhřáti" finSampa="' s x P\ a: c I" rhymeScheme="7" stanzaId="3" />
+    <line id="22" finToken="trávě" finSampa="' t r a: v j E" rhymeScheme="8" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0016-0000" author="Nejč, Karel *1875" period="1870">
+    <line id="1" finToken="déle" finSampa="' d E: l E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zrůžovělé" finSampa="' z r u: Z o v j E l E:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="slzy" finSampa="' s l= z I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="dnem" finSampa="' d n E m" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="chladnem" finSampa="' x l a d n E m" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="sveřepou" finSampa="' s v E P\ E p o_u" rhymeScheme="X" stanzaId="1" />
+    <line id="7" finToken="skály" finSampa="' s k a: l I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="svály" finSampa="' s v a: l I" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="světla" finSampa="' s v j E t l a" rhymeScheme="X" stanzaId="2" />
+    <line id="10" finToken="smeká" finSampa="' s m E k a:" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="čeká" finSampa="' t_S E k a:" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="životem" finSampa="' Z I v o t E m" rhymeScheme="X" stanzaId="3" />
+    <line id="13" finToken="říci" finSampa="' P\ i: t_s I" rhymeScheme="5" stanzaId="4" />
+    <line id="14" finToken="zoufající" finSampa="' z o_u f a j i: t_s i:" rhymeScheme="5" stanzaId="4" />
+    <line id="15" finToken="vzrůstat" finSampa="' v z r u: s t a t" rhymeScheme="6" stanzaId="4" />
+    <line id="16" finToken="zůstat" finSampa="' z u: s t a t" rhymeScheme="6" stanzaId="4" />
+    <line id="17" finToken="sluje" finSampa="' s l u j E" rhymeScheme="7" stanzaId="4" />
+    <line id="18" finToken="pluje" finSampa="' p l u j E" rhymeScheme="7" stanzaId="5" />
+    <line id="19" finToken="šlehá" finSampa="' S l E h\ a:" rhymeScheme="8" stanzaId="5" />
+    <line id="20" finToken="svítit" finSampa="' s v i: c I t" rhymeScheme="9" stanzaId="5" />
+    <line id="21" finToken="vznítit" finSampa="' v z J i: c I t" rhymeScheme="9" stanzaId="5" />
+    <line id="22" finToken="nezaléhá" finSampa="' n E z a l E: h\ a:" rhymeScheme="8" stanzaId="5" />
+    <line id="23" finToken="schřadlé" finSampa="' s x P\ a d l E:" rhymeScheme="10" stanzaId="5" />
+    <line id="24" finToken="svadlé" finSampa="' s v a d l E:" rhymeScheme="10" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0017-0000" author="Nejč, Karel *1875" period="1870">
+    <line id="1" finToken="bylo" finSampa="' b I l o" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="mih" finSampa="' m I x" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zbylo" finSampa="' z b I l o" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="zardělých" finSampa="' z a r J\ E l i: x" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="mně" finSampa="m J E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="uchopil" finSampa="' u x o p I l" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="země" finSampa="' z E m J E" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="vryl" finSampa="' v r I l" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="snech" finSampa="' s n E x" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="břeh" finSampa="' b P\ E x" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="zdar" finSampa="' z d a r" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="žije" finSampa="' Z I j E" rhymeScheme="7" stanzaId="4" />
+    <line id="13" finToken="spár" finSampa="' s p a: r" rhymeScheme="6" stanzaId="4" />
+    <line id="14" finToken="tyje" finSampa="' t I j E" rhymeScheme="7" stanzaId="4" />
+  </poem>
+</data>

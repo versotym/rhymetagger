@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+  <poem id="0001-0000-0000-0001-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="konečně" finSampa="' k o n E t_S J E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="vlnící" finSampa="' v l= J i: t_s i:" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="nevidělo" finSampa="' n E v I J\ E l o" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="bílá" finSampa="' b i: l a:" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="zase" finSampa="' z a s E" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="kosti" finSampa="' k o s c I" rhymeScheme="X" stanzaId="1" />
+    <line id="7" finToken="hroby" finSampa="' h\ r o b I" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="život" finSampa="' Z I v o t" rhymeScheme="X" stanzaId="1" />
+    <line id="9" finToken="nevrátíme" finSampa="' n E v r a: c i: m E" rhymeScheme="X" stanzaId="1" />
+    <line id="10" finToken="kdesi" finSampa="' g d E s I" rhymeScheme="X" stanzaId="1" />
+    <line id="11" finToken="vyzpívala" finSampa="' v I s p i: v a l a" rhymeScheme="X" stanzaId="1" />
+    <line id="12" finToken="echo" finSampa="' E x o" rhymeScheme="X" stanzaId="1" />
+    <line id="13" finToken="cesty" finSampa="' t_s E s t I" rhymeScheme="X" stanzaId="1" />
+    <line id="14" finToken="bloudí" finSampa="' b l o_u J\ i:" rhymeScheme="X" stanzaId="1" />
+    <line id="15" finToken="věčný" finSampa="' v j E t_S n i:" rhymeScheme="X" stanzaId="1" />
+    <line id="16" finToken="vlnící" finSampa="' v l= J i: t_s i:" rhymeScheme="X" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0001-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="zase" finSampa="' z a s E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="let" finSampa="' l E t" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zpět" finSampa="s p j E t" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="hlase" finSampa="' h\ l a s E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="pase" finSampa="' p a s E" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="let" finSampa="' l E t" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="shléd" finSampa="s x l E: t" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="čase" finSampa="' t_S a s E" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="žití" finSampa="' Z I c i:" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="cítí" finSampa="' t_s i: c i:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="zmýlí" finSampa="' z m i: l i:" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="chvílí" finSampa="' x v i: l i:" rhymeScheme="4" stanzaId="4" />
+    <line id="13" finToken="polem" finSampa="' p o l E m" rhymeScheme="5" stanzaId="4" />
+    <line id="14" finToken="kolem" finSampa="' k o l E m" rhymeScheme="5" stanzaId="4" />
+  </poem>
+  <poem id="0001-0001-0000-0002-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="věděl" finSampa="' v j E J\ E l" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="raní" finSampa="' r a J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="hleděl" finSampa="' h\ l E J\ E l" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="ni" finSampa="J I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="seděl" finSampa="' s E J\ E l" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="pláni" finSampa="' p l a: J I" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="neděl" finSampa="' n E J\ E l" rhymeScheme="1" stanzaId="2" />
+    <line id="8" finToken="sklání" finSampa="' s k l a: J i:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="západu" finSampa="' z a: p a d u" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="řadu" finSampa="' P\ a d u" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="blednou" finSampa="' b l E d n o_u" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="Odevzdání" finSampa="' o d E v z d a: J i:" rhymeScheme="2" stanzaId="4" />
+    <line id="13" finToken="jednou" finSampa="' j E d n o_u" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="pousmání" finSampa="' p o u s m a: J i:" rhymeScheme="2" stanzaId="4" />
+  </poem>
+  <poem id="0001-0001-0000-0002-0001" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="skalách" finSampa="' s k a l a: x" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="obzoru" finSampa="' o b z o r u" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="krokem" finSampa="' k r o k E m" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="silný" finSampa="' s I l n i:" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="příboj" finSampa="' p P\ i: b o j" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="plazí" finSampa="' p l a z i:" rhymeScheme="X" stanzaId="2" />
+    <line id="7" finToken="slabým" finSampa="' s l a b i: m" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="srdce" finSampa="' s r= t t_s E" rhymeScheme="X" stanzaId="2" />
+    <line id="9" finToken="zloby" finSampa="' z l o b I" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="vzkřísit" finSampa="' f s k P\ i: s I t" rhymeScheme="X" stanzaId="3" />
+    <line id="11" finToken="boje" finSampa="' b o j E" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="přece" finSampa="' p P\ E t_s E" rhymeScheme="X" stanzaId="3" />
+    <line id="13" finToken="paží" finSampa="' p a Z i:" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="srdcích" finSampa="' s r= t t_s i: x" rhymeScheme="X" stanzaId="4" />
+    <line id="15" finToken="sklidí" finSampa="' s k l I J\ i:" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="dalších" finSampa="' d a l S i: x" rhymeScheme="X" stanzaId="4" />
+  </poem>
+  <poem id="0001-0001-0000-0002-0002" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="cíle" finSampa="' t_s i: l E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="bílé" finSampa="' b i: l E:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="bleskem" finSampa="' b l E s k E m" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="steskem" finSampa="' s t E s k E m" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="svatou" finSampa="' s v a t o_u" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="patou" finSampa="' p a t o_u" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="cíle" finSampa="' t_s i: l E" rhymeScheme="1" stanzaId="1" />
+    <line id="8" finToken="bílé" finSampa="' b i: l E:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0003-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="vyprávěla" finSampa="' v I p r a: v j E l a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="západu" finSampa="' z a: p a d u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="radu" finSampa="' r a d u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="chvěla" finSampa="' x v j E l a" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="chtěla" finSampa="' x c E l a" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="zadu" finSampa="' z a d u" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="bradu" finSampa="' b r a d u" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="děla" finSampa="' J\ E l a" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="spáti" finSampa="' s p a: c I" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="nenavrátí" finSampa="' n E n a v r a: c i:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="prací" finSampa="' p r a t_s i:" rhymeScheme="4" stanzaId="4" />
+    <line id="12" finToken="zhatí" finSampa="' s x a c i:" rhymeScheme="3" stanzaId="4" />
+    <line id="13" finToken="vrací" finSampa="' v r a t_s i:" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="nenavrátí" finSampa="' n E n a v r a: c i:" rhymeScheme="3" stanzaId="4" />
+  </poem>
+  <poem id="0001-0001-0000-0004-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="Pandořina" finSampa="' p a n d o P\ I n a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="mžiku" finSampa="' m Z I k u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="smrtelníku" finSampa="' s m r= t E l J i: k u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="klína" finSampa="' k l i: n a" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="vina" finSampa="' v I n a" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="díku" finSampa="' J\ i: k u" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="vzniku" finSampa="' v z J I k u" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="jiná" finSampa="' j I n a:" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="pálí" finSampa="' p a: l i:" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="bránu" finSampa="' b r a: n u" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="dali" finSampa="' d a l I" rhymeScheme="3" stanzaId="3" />
+    <line id="12" finToken="ránu" finSampa="' r a: n u" rhymeScheme="4" stanzaId="3" />
+    <line id="13" finToken="snadně" finSampa="' s n a d J E" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="dně" finSampa="' d J E" rhymeScheme="5" stanzaId="3" />
+  </poem>
+  <poem id="0001-0001-0000-0005-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="kryta" finSampa="' k r I t a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zpita" finSampa="' s p I t a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="spíš" finSampa="s p i: S" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="víš" finSampa="' v i: S" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="vryta" finSampa="' v r I t a" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="smíš" finSampa="' s m i: S" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="zvíří" finSampa="' z v i: P\ i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="smíří" finSampa="' s m i: P\ i:" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="hned" finSampa="h\ n E t" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="chvět" finSampa="' x v j E t" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="hýří" finSampa="' h\ i: P\ i:" rhymeScheme="3" stanzaId="2" />
+    <line id="12" finToken="květ" finSampa="' k v j E t" rhymeScheme="4" stanzaId="2" />
+    <line id="13" finToken="brány" finSampa="' b r a: n I" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="lány" finSampa="' l a: n I" rhymeScheme="5" stanzaId="3" />
+    <line id="15" finToken="zhas" finSampa="' s x a s" rhymeScheme="6" stanzaId="3" />
+    <line id="16" finToken="mráz" finSampa="' m r a: s" rhymeScheme="6" stanzaId="3" />
+    <line id="17" finToken="rány" finSampa="' r a: n I" rhymeScheme="5" stanzaId="3" />
+    <line id="18" finToken="as" finSampa="a s" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0001-0000-0006-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="šedá" finSampa="' S E d a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="rozechvívá" finSampa="' r o z E x v i: v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="sedá" finSampa="' s E d a:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="bledá" finSampa="' b l E d a:" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="dívá" finSampa="' J\ i: v a:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="skrývá" finSampa="' s k r i: v a:" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="hledá" finSampa="' h\ l E d a:" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="jdeme" finSampa="' j d E m E" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="květů" finSampa="' k v j E t u:" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="zveme" finSampa="' z v E m E" rhymeScheme="3" stanzaId="3" />
+    <line id="12" finToken="svěje" finSampa="' s v j E j E" rhymeScheme="5" stanzaId="4" />
+    <line id="13" finToken="světů" finSampa="' s v j E t u:" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="neusměje" finSampa="' n E u s m J E j E" rhymeScheme="5" stanzaId="4" />
+  </poem>
+  <poem id="0001-0001-0000-0007-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="kolem" finSampa="' k o l E m" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="se" finSampa="s E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="snese" finSampa="' s n E s E" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="polem" finSampa="' p o l E m" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="stvolem" finSampa="' s t v o l E m" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="třese" finSampa="' t P\ E s E" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="se" finSampa="s E" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="dolem" finSampa="' d o l E m" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="vrhá" finSampa="' v r= h\ a:" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="stíny" finSampa="' s c i: n I" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="trhá" finSampa="' t r= h\ a:" rhymeScheme="3" stanzaId="3" />
+    <line id="12" finToken="klíny" finSampa="' k l i: n I" rhymeScheme="4" stanzaId="4" />
+    <line id="13" finToken="vane" finSampa="' v a n E" rhymeScheme="5" stanzaId="4" />
+    <line id="14" finToken="vzplane" finSampa="' f s p l a n E" rhymeScheme="5" stanzaId="4" />
+  </poem>
+  <poem id="0001-0001-0000-0008-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="splývá" finSampa="' s p l i: v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="skane" finSampa="' s k a n E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="vzplane" finSampa="' f s p l a n E" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="kývá" finSampa="' k i: v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="dívá" finSampa="' J\ i: v a:" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="štvané" finSampa="' S t v a n E:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="vstane" finSampa="' f s t a n E" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="rozechvívá" finSampa="' r o z E x v i: v a:" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="stálý" finSampa="' s t a: l i:" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="se" finSampa="s E" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="žití" finSampa="' Z I c i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="dáli" finSampa="' d a: l I" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="chytí" finSampa="' x I c i:" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="nese" finSampa="' n E s E" rhymeScheme="4" stanzaId="3" />
+  </poem>
+  <poem id="0001-0001-0000-0009-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="květ" finSampa="' k v j E t" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="se" finSampa="s E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="let" finSampa="' l E t" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="zase" finSampa="' z a s E" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="pták" finSampa="' p t a: k" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="objetí" finSampa="' o b j E c i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="pak" finSampa="p a k" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="vzletí" finSampa="' v z l E c i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="jas" finSampa="' j a s" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="vděky" finSampa="' v J\ E k I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="zas" finSampa="z a s" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="věky" finSampa="' v j E k I" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0001-0000-0010-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="rýmy" finSampa="' r i: m I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="mými" finSampa="' m i: m I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="se" finSampa="s E" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="zase" finSampa="' z a s E" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0011-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="oku" finSampa="' o k u" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="díval" finSampa="' J\ i: v a l" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="zhaslo" finSampa="' s x a s l o" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="příval" finSampa="' p P\ i: v a l" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0012-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="pozasvitlo" finSampa="' p o z a s v I t l o" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="sníh" finSampa="' s J i: x" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="kmitlo" finSampa="' k m I t l o" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="nich" finSampa="J I x" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="jednou" finSampa="' j E d n o_u" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="lích" finSampa="' l i: x" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="zvednou" finSampa="' z v E d n o_u" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="tich" finSampa="' c I x" rhymeScheme="2" stanzaId="2" />
+  </poem>
+  <poem id="0001-0001-0000-0013-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="den" finSampa="' d E n" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hřálo" finSampa="' h\ P\ a: l o" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="sen" finSampa="' s E n" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="málo" finSampa="' m a: l o" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="ven" finSampa="v E n" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="plálo" finSampa="' p l a: l o" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="smálo" finSampa="' s m a: l o" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="málo" finSampa="' m a: l o" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="opředen" finSampa="' o p P\ E d E n" rhymeScheme="1" stanzaId="3" />
+    <line id="10" finToken="plen" finSampa="' p l E n" rhymeScheme="1" stanzaId="3" />
+    <line id="11" finToken="stálo" finSampa="' s t a: l o" rhymeScheme="2" stanzaId="3" />
+    <line id="12" finToken="málo" finSampa="' m a: l o" rhymeScheme="2" stanzaId="3" />
+    <line id="13" finToken="zdálo" finSampa="' z d a: l o" rhymeScheme="2" stanzaId="4" />
+    <line id="14" finToken="sten" finSampa="' s t E n" rhymeScheme="1" stanzaId="4" />
+    <line id="15" finToken="den" finSampa="' d E n" rhymeScheme="1" stanzaId="4" />
+    <line id="16" finToken="málo" finSampa="' m a: l o" rhymeScheme="2" stanzaId="4" />
+  </poem>
+  <poem id="0001-0001-0000-0013-0001" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="několik" finSampa="' J E k o l I k" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="nepopsáno" finSampa="' n E p o p s a: n o" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zvyk" finSampa="' z v I k" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="ráno" finSampa="' r a: n o" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="ryk" finSampa="' r I k" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="stkáno" finSampa="' s t k a: n o" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="dík" finSampa="' J\ i: k" rhymeScheme="1" stanzaId="1" />
+    <line id="8" finToken="nesmazáno" finSampa="' n E s m a z a: n o" rhymeScheme="2" stanzaId="2" />
+  </poem>
+  <poem id="0001-0001-0000-0013-0002" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="tak" finSampa="t a k" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="báti" finSampa="' b a: c I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zkrátí" finSampa="' s k r a: c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="pták" finSampa="' p t a: k" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="jen" finSampa="j E n" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="sen" finSampa="' s E n" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="poplašen" finSampa="' p o p l a S E n" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="zrak" finSampa="' z r a k" rhymeScheme="1" stanzaId="1" />
+    <line id="9" finToken="zřít" finSampa="' z P\ i: t" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="vycezenou" finSampa="' v I t_s E z E n o_u" rhymeScheme="5" stanzaId="2" />
+    <line id="11" finToken="cenou" finSampa="' t_s E n o_u" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="vlít" finSampa="' v l i: t" rhymeScheme="4" stanzaId="2" />
+    <line id="13" finToken="zas" finSampa="z a s" rhymeScheme="6" stanzaId="2" />
+    <line id="14" finToken="klas" finSampa="' k l a s" rhymeScheme="6" stanzaId="2" />
+    <line id="15" finToken="čas" finSampa="' t_S a s" rhymeScheme="6" stanzaId="2" />
+    <line id="16" finToken="chtít" finSampa="' x c i: t" rhymeScheme="4" stanzaId="2" />
+  </poem>
+  <poem id="0001-0001-0000-0014-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="duchu" finSampa="' d u x u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="tíž" finSampa="c i: S" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="tuchu" finSampa="' t u x u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="níž" finSampa="J i: S" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="vzduchu" finSampa="' v z d u x u" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="blíž" finSampa="b l i: S" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="práci" finSampa="' p r a: t_s I" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="meditaci" finSampa="' m E J\ I t a t_s I" rhymeScheme="3" stanzaId="1" />
+    <line id="9" finToken="roků" finSampa="' r o k u:" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="tvář" finSampa="' t v a: P\" rhymeScheme="5" stanzaId="2" />
+    <line id="11" finToken="kroku" finSampa="' k r o k u" rhymeScheme="4" stanzaId="2" />
+    <line id="12" finToken="oltář" finSampa="' o l t a: P\" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="boků" finSampa="' b o k u:" rhymeScheme="4" stanzaId="2" />
+    <line id="14" finToken="zář" finSampa="' z a: P\" rhymeScheme="5" stanzaId="2" />
+    <line id="15" finToken="ukolíbá" finSampa="' u k o l i: b a:" rhymeScheme="6" stanzaId="2" />
+    <line id="16" finToken="zlíbá" finSampa="' z l i: b a:" rhymeScheme="6" stanzaId="2" />
+    <line id="17" finToken="tíži" finSampa="' c i: Z I" rhymeScheme="7" stanzaId="3" />
+    <line id="18" finToken="dal" finSampa="' d a l" rhymeScheme="8" stanzaId="3" />
+    <line id="19" finToken="sníží" finSampa="' s J i: Z i:" rhymeScheme="7" stanzaId="3" />
+    <line id="20" finToken="vzal" finSampa="' v z a l" rhymeScheme="8" stanzaId="3" />
+    <line id="21" finToken="nepohlíží" finSampa="' n E p o h\ l i: Z i:" rhymeScheme="7" stanzaId="3" />
+    <line id="22" finToken="nezalkal" finSampa="' n E z a l k a l" rhymeScheme="8" stanzaId="3" />
+    <line id="23" finToken="vlily" finSampa="' v l I l I" rhymeScheme="9" stanzaId="3" />
+    <line id="24" finToken="zazářily" finSampa="' z a z a: P\ I l I" rhymeScheme="9" stanzaId="3" />
+    <line id="25" finToken="štvané" finSampa="' S t v a n E:" rhymeScheme="10" stanzaId="4" />
+    <line id="26" finToken="nás" finSampa="n a: s" rhymeScheme="11" stanzaId="4" />
+    <line id="27" finToken="skane" finSampa="' s k a n E" rhymeScheme="10" stanzaId="4" />
+    <line id="28" finToken="zhas" finSampa="s x a s" rhymeScheme="11" stanzaId="4" />
+    <line id="29" finToken="vzplane" finSampa="' f s p l a n E" rhymeScheme="10" stanzaId="4" />
+    <line id="30" finToken="ráz" finSampa="' r a: s" rhymeScheme="11" stanzaId="4" />
+    <line id="31" finToken="brány" finSampa="' b r a: n I" rhymeScheme="12" stanzaId="4" />
+    <line id="32" finToken="rány" finSampa="' r a: n I" rhymeScheme="12" stanzaId="4" />
+  </poem>
+  <poem id="0001-0001-0000-0015-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="svět" finSampa="' s v j E t" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="ráno" finSampa="' r a: n o" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="chvět" finSampa="' x v j E t" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="dáno" finSampa="' d a: n o" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="jít" finSampa="' j i: t" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="duši" finSampa="' d u S I" rhymeScheme="4" stanzaId="1" />
+    <line id="7" finToken="bije" finSampa="' b I j E" rhymeScheme="5" stanzaId="1" />
+    <line id="8" finToken="suší" finSampa="' s u S i:" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="vpije" finSampa="' f p I j E" rhymeScheme="5" stanzaId="1" />
+    <line id="10" finToken="skrýt" finSampa="' s k r i: t" rhymeScheme="3" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0016-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="neotvírá" finSampa="' n E o t v i: r a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="nahý" finSampa="' n a h\ i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="prahy" finSampa="' p r a h\ I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="sbírá" finSampa="' z b i: r a:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="vzpírá" finSampa="' f s p i: r a:" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="drahý" finSampa="' d r a h\ i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="tahy" finSampa="' t a h\ I" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="zmírá" finSampa="' z m i: r a:" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="třese" finSampa="' t P\ E s E" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="nese" finSampa="' n E s E" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="naposledy" finSampa="' n a p o s l E d I" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="práce" finSampa="' p r a: t_s E" rhymeScheme="5" stanzaId="4" />
+    <line id="13" finToken="variace" finSampa="' v a r I j a t_s E" rhymeScheme="5" stanzaId="4" />
+    <line id="14" finToken="tedy" finSampa="' t E d I" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0001-0000-0017-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="kartu" finSampa="' k a r t u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vinou" finSampa="' v I n o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="jinou" finSampa="' j I n o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="rtu" finSampa="' r t u" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="metou" finSampa="' m E t o_u" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="skvrny" finSampa="' s k v r= n I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="trny" finSampa="' t r= n I" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="zkvetou" finSampa="' s k v E t o_u" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="proudu" finSampa="' p r o_u d u" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="jednou" finSampa="' j E d n o_u" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="zvednou" finSampa="' z v E d n o_u" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="hroudu" finSampa="' h\ r o_u d u" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="okamžiku" finSampa="' o k a m Z I k u" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="taje" finSampa="' t a j E" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="kraje" finSampa="' k r a j E" rhymeScheme="8" stanzaId="4" />
+    <line id="16" finToken="díku" finSampa="' J\ i: k u" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0001-0000-0018-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="bědnou" finSampa="' b j E d n o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="jest" finSampa="' j E s t" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="jednou" finSampa="' j E d n o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="cest" finSampa="' t_s E s t" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="zdálo" finSampa="' z d a: l o" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="kvést" finSampa="' k v E: s t" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="plálo" finSampa="' p l a: l o" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="cest" finSampa="' t_s E s t" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="které" finSampa="' k t E r E:" rhymeScheme="4" stanzaId="3" />
+    <line id="10" finToken="nést" finSampa="' n E: s t" rhymeScheme="2" stanzaId="3" />
+    <line id="11" finToken="steré" finSampa="' s t E r E:" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="cest" finSampa="' t_s E s t" rhymeScheme="2" stanzaId="3" />
+    <line id="13" finToken="pustou" finSampa="' p u s t o_u" rhymeScheme="5" stanzaId="4" />
+    <line id="14" finToken="hvězd" finSampa="' h\ v j E s t" rhymeScheme="2" stanzaId="4" />
+    <line id="15" finToken="hustou" finSampa="' h\ u s t o_u" rhymeScheme="5" stanzaId="4" />
+    <line id="16" finToken="cest" finSampa="' t_s E s t" rhymeScheme="2" stanzaId="4" />
+    <line id="17" finToken="dáno" finSampa="' d a: n o" rhymeScheme="6" stanzaId="5" />
+    <line id="18" finToken="plést" finSampa="' p l E: s t" rhymeScheme="2" stanzaId="5" />
+    <line id="19" finToken="ráno" finSampa="' r a: n o" rhymeScheme="6" stanzaId="5" />
+    <line id="20" finToken="cest" finSampa="' t_s E s t" rhymeScheme="2" stanzaId="5" />
+  </poem>
+  <poem id="0001-0001-0000-0019-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="mé" finSampa="m E:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="mne" finSampa="m n E" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="nebi" finSampa="' n E b I" rhymeScheme="X" stanzaId="2" />
+    <line id="4" finToken="Tobě" finSampa="' t o b j E" rhymeScheme="X" stanzaId="2" />
+    <line id="5" finToken="paprsky" finSampa="' p a p r= s k I" rhymeScheme="X" stanzaId="3" />
+    <line id="6" finToken="duši" finSampa="' d u S I" rhymeScheme="X" stanzaId="3" />
+    <line id="7" finToken="mé" finSampa="m E:" rhymeScheme="X" stanzaId="4" />
+    <line id="8" finToken="mne" finSampa="m n E" rhymeScheme="X" stanzaId="4" />
+  </poem>
+  <poem id="0001-0001-0000-0020-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="svoje" finSampa="' s v o j E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zřel" finSampa="' z P\ E l" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="pěl" finSampa="' p j E l" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="zdroje" finSampa="' z d r o j E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="znoje" finSampa="' z n o j E" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="sjel" finSampa="' s j E l" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="asfodel" finSampa="' a s f o d E l" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="boje" finSampa="' b o j E" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="chvíti" finSampa="' x v i: c I" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="tiskne" finSampa="' c I s k n E" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="žíti" finSampa="' Z i: c I" rhymeScheme="3" stanzaId="3" />
+    <line id="12" finToken="jednou" finSampa="' j E d n o_u" rhymeScheme="5" stanzaId="4" />
+    <line id="13" finToken="tryskne" finSampa="' t r I s k n E" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="blednou" finSampa="' b l E d n o_u" rhymeScheme="5" stanzaId="4" />
+  </poem>
+  <poem id="0001-0001-0000-0021-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="slunce" finSampa="' s l u n t_s E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="hudbu" finSampa="' h\ u d b u" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="troskách" finSampa="' t r o s k a: x" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="mlhy" finSampa="' m l= h\ I" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="večer" finSampa="' v E t_S E r" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="nocí" finSampa="' n o t_s i:" rhymeScheme="X" stanzaId="1" />
+    <line id="7" finToken="nocí" finSampa="' n o t_s i:" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="slunce" finSampa="' s l u n t_s E" rhymeScheme="X" stanzaId="2" />
+    <line id="9" finToken="večer" finSampa="' v E t_S E r" rhymeScheme="X" stanzaId="2" />
+    <line id="10" finToken="hudbu" finSampa="' h\ u d b u" rhymeScheme="X" stanzaId="2" />
+    <line id="11" finToken="mlhy" finSampa="' m l= h\ I" rhymeScheme="X" stanzaId="2" />
+    <line id="12" finToken="troskách" finSampa="' t r o s k a: x" rhymeScheme="X" stanzaId="2" />
+    <line id="13" finToken="troskách" finSampa="' t r o s k a: x" rhymeScheme="X" stanzaId="3" />
+    <line id="14" finToken="nocí" finSampa="' n o t_s i:" rhymeScheme="X" stanzaId="3" />
+    <line id="15" finToken="mlhy" finSampa="' m l= h\ I" rhymeScheme="X" stanzaId="3" />
+    <line id="16" finToken="slunce" finSampa="' s l u n t_s E" rhymeScheme="X" stanzaId="3" />
+    <line id="17" finToken="hudbu" finSampa="' h\ u d b u" rhymeScheme="X" stanzaId="3" />
+    <line id="18" finToken="večer" finSampa="' v E t_S E r" rhymeScheme="X" stanzaId="3" />
+    <line id="19" finToken="večer" finSampa="' v E t_S E r" rhymeScheme="X" stanzaId="4" />
+    <line id="20" finToken="troskách" finSampa="' t r o s k a: x" rhymeScheme="X" stanzaId="4" />
+    <line id="21" finToken="hudbu" finSampa="' h\ u d b u" rhymeScheme="X" stanzaId="4" />
+    <line id="22" finToken="nocí" finSampa="' n o t_s i:" rhymeScheme="X" stanzaId="4" />
+    <line id="23" finToken="slunce" finSampa="' s l u n t_s E" rhymeScheme="X" stanzaId="4" />
+    <line id="24" finToken="mlhy" finSampa="' m l= h\ I" rhymeScheme="X" stanzaId="4" />
+    <line id="25" finToken="mlhy" finSampa="' m l= h\ I" rhymeScheme="X" stanzaId="5" />
+    <line id="26" finToken="večer" finSampa="' v E t_S E r" rhymeScheme="X" stanzaId="5" />
+    <line id="27" finToken="slunce" finSampa="' s l u n t_s E" rhymeScheme="X" stanzaId="5" />
+    <line id="28" finToken="troskách" finSampa="' t r o s k a: x" rhymeScheme="X" stanzaId="5" />
+    <line id="29" finToken="nocí" finSampa="' n o t_s i:" rhymeScheme="X" stanzaId="5" />
+    <line id="30" finToken="hudbu" finSampa="' h\ u d b u" rhymeScheme="X" stanzaId="5" />
+    <line id="31" finToken="hudbu" finSampa="' h\ u d b u" rhymeScheme="X" stanzaId="6" />
+    <line id="32" finToken="mlhy" finSampa="' m l= h\ I" rhymeScheme="X" stanzaId="6" />
+    <line id="33" finToken="nocí" finSampa="' n o t_s i:" rhymeScheme="X" stanzaId="6" />
+    <line id="34" finToken="večer" finSampa="' v E t_S E r" rhymeScheme="X" stanzaId="6" />
+    <line id="35" finToken="troskách" finSampa="' t r o s k a: x" rhymeScheme="X" stanzaId="6" />
+    <line id="36" finToken="slunce" finSampa="' s l u n t_s E" rhymeScheme="X" stanzaId="6" />
+    <line id="37" finToken="večer" finSampa="' v E t_S E r" rhymeScheme="X" stanzaId="7" />
+    <line id="38" finToken="nocí" finSampa="' n o t_s i:" rhymeScheme="X" stanzaId="7" />
+    <line id="39" finToken="troskách" finSampa="' t r o s k a: x" rhymeScheme="X" stanzaId="7" />
+  </poem>
+  <poem id="0001-0002-0000-0001-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="nosí" finSampa="' n o s i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="celou" finSampa="' t_s E l o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="rozechvělou" finSampa="' r o z E x v j E l o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="rosy" finSampa="' r o s I" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="prosí" finSampa="' p r o s i:" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="stmělou" finSampa="' s t m J E l o_u" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="vřelou" finSampa="' v P\ E l o_u" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="nepokosí" finSampa="' n E p o k o s i:" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="svítí" finSampa="' s v i: c i:" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="cenou" finSampa="' t_s E n o_u" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="žití" finSampa="' Z I c i:" rhymeScheme="3" stanzaId="3" />
+    <line id="12" finToken="zaslíbenou" finSampa="' z a s l i: b E n o_u" rhymeScheme="4" stanzaId="3" />
+    <line id="13" finToken="dechem" finSampa="' d E x E m" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="echem" finSampa="' E x E m" rhymeScheme="5" stanzaId="3" />
+  </poem>
+  <poem id="0001-0002-0000-0002-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="dohořívá" finSampa="' d o h\ o P\ i: v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="honí" finSampa="' h\ o J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="skrývá" finSampa="' s k r i: v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="zvoní" finSampa="' z v o J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="voní" finSampa="' v o J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="zbývá" finSampa="' z b i: v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="8" finToken="ni" finSampa="J I" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0002-0000-0003-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="již" finSampa="j I S" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="blíž" finSampa="b l i: S" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="květ" finSampa="' k v j E t" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="pět" finSampa="' p j E t" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="prosté" finSampa="' p r o s t E:" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="sroste" finSampa="' s r o s t E" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="duší" finSampa="' d u S i:" rhymeScheme="4" stanzaId="4" />
+    <line id="8" finToken="tuší" finSampa="' t u S i:" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0004-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="jest" finSampa="' j E s t" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hvězd" finSampa="' h\ v j E s t" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="neubývá" finSampa="' n E u b i: v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="skrývá" finSampa="' s k r i: v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="lesk" finSampa="' l E s k" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="stesk" finSampa="' s t E s k" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="zář" finSampa="' z a: P\" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="tvář" finSampa="' t v a: P\" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="snést" finSampa="' s n E: s t" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0002-0000-0005-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="kvítí" finSampa="' k v i: c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="svítí" finSampa="' s v i: c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="parnasie" finSampa="' p a r n a s I j E" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="lije" finSampa="' l I j E" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="roje" finSampa="' r o j E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="azuru" finSampa="' a z u r u" rhymeScheme="4" stanzaId="3" />
+    <line id="7" finToken="vzhůru" finSampa="' v s x u: r u" rhymeScheme="4" stanzaId="3" />
+    <line id="8" finToken="Tvoje" finSampa="' t v o j E" rhymeScheme="3" stanzaId="3" />
+    <line id="9" finToken="shýbal" finSampa="' s x i: b a l" rhymeScheme="5" stanzaId="4" />
+    <line id="10" finToken="zlíbal" finSampa="' z l i: b a l" rhymeScheme="5" stanzaId="4" />
+    <line id="11" finToken="vlasy" finSampa="' v l a s I" rhymeScheme="6" stanzaId="4" />
+    <line id="12" finToken="kladu" finSampa="' k l a d u" rhymeScheme="7" stanzaId="5" />
+    <line id="13" finToken="západu" finSampa="' z a: p a d u" rhymeScheme="7" stanzaId="5" />
+    <line id="14" finToken="klasy" finSampa="' k l a s I" rhymeScheme="6" stanzaId="5" />
+    <line id="15" finToken="vřelá" finSampa="' v P\ E l a:" rhymeScheme="8" stanzaId="6" />
+    <line id="16" finToken="chtěla" finSampa="' x c E l a" rhymeScheme="8" stanzaId="6" />
+    <line id="17" finToken="retů" finSampa="' r E t u:" rhymeScheme="9" stanzaId="6" />
+    <line id="18" finToken="touhou" finSampa="' t o_u h\ o_u" rhymeScheme="10" stanzaId="7" />
+    <line id="19" finToken="dlouhou" finSampa="' d l o_u h\ o_u" rhymeScheme="10" stanzaId="7" />
+    <line id="20" finToken="květů" finSampa="' k v j E t u:" rhymeScheme="9" stanzaId="7" />
+    <line id="21" finToken="krátký" finSampa="' k r a: t k i:" rhymeScheme="11" stanzaId="8" />
+    <line id="22" finToken="zpátky" finSampa="' s p a: t k I" rhymeScheme="11" stanzaId="8" />
+  </poem>
+  <poem id="0001-0002-0000-0006-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="díval" finSampa="' J\ i: v a l" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zpíval" finSampa="' s p i: v a l" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="dávno" finSampa="' d a: v n o" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="ptáky" finSampa="' p t a: k I" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="máky" finSampa="' m a: k I" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="dávno" finSampa="' d a: v n o" rhymeScheme="X" stanzaId="2" />
+    <line id="7" finToken="jitru" finSampa="' j I t r u" rhymeScheme="3" stanzaId="3" />
+    <line id="8" finToken="nitru" finSampa="' J I t r u" rhymeScheme="3" stanzaId="3" />
+    <line id="9" finToken="dávno" finSampa="' d a: v n o" rhymeScheme="X" stanzaId="3" />
+  </poem>
+  <poem id="0001-0002-0000-0006-0001" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="tiše" finSampa="' c I S E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="dýše" finSampa="' d i: S E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="řekou" finSampa="' P\ E k o_u" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="tekou" finSampa="' t E k o_u" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="vzdech" finSampa="' v z d E x" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="rtech" finSampa="' r t E x" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="moři" finSampa="' m o P\ I" rhymeScheme="4" stanzaId="4" />
+    <line id="8" finToken="hoři" finSampa="' h\ o P\ I" rhymeScheme="4" stanzaId="4" />
+    <line id="9" finToken="muku" finSampa="' m u k u" rhymeScheme="5" stanzaId="5" />
+    <line id="10" finToken="ruku" finSampa="' r u k u" rhymeScheme="5" stanzaId="5" />
+    <line id="11" finToken="spat" finSampa="' s p a t" rhymeScheme="6" stanzaId="6" />
+    <line id="12" finToken="dát" finSampa="' d a: t" rhymeScheme="6" stanzaId="6" />
+    <line id="13" finToken="pýše" finSampa="' p i: S E" rhymeScheme="7" stanzaId="7" />
+    <line id="14" finToken="dýše" finSampa="' d i: S E" rhymeScheme="7" stanzaId="7" />
+  </poem>
+  <poem id="0001-0002-0000-0006-0002" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="ráno" finSampa="' r a: n o" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="domy" finSampa="' d o m I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="stromy" finSampa="' s t r o m I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="ano" finSampa="' a n o" rhymeScheme="1" stanzaId="2" />
+    <line id="5" finToken="zlomí" finSampa="' z l o m i:" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="požehnáno" finSampa="' p o Z E h\ n a: n o" rhymeScheme="1" stanzaId="2" />
+    <line id="7" finToken="ráno" finSampa="' r a: n o" rhymeScheme="1" stanzaId="3" />
+  </poem>
+  <poem id="0001-0002-0000-0007-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="byla" finSampa="' b I l a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zčeří" finSampa="' s t_S E P\ i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="pila" finSampa="' p I l a" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="dveří" finSampa="' d v E P\ i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="snila" finSampa="' s J I l a" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="šeři" finSampa="' S E P\ I" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="vlila" finSampa="' v l I l a" rhymeScheme="1" stanzaId="1" />
+    <line id="8" finToken="věří" finSampa="' v j E P\ i:" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0002-0000-0008-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="alejích" finSampa="' a l E j i: x" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="nebe" finSampa="' n E b E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="větvích" finSampa="' v j E t v i: x" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="Tebe" finSampa="' t E b E" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="ráz" finSampa="' r a: s" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="skrývá" finSampa="' s k r i: v a:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="zas" finSampa="z a s" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="nevyzpívá" finSampa="' n E v I s p i: v a:" rhymeScheme="4" stanzaId="2" />
+  </poem>
+  <poem id="0001-0002-0000-0009-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="pel" finSampa="' p E l" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="rety" finSampa="' r E t I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="ústrety" finSampa="' u: s t r E t I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="sjel" finSampa="' s j E l" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="zřel" finSampa="' z P\ E l" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="květy" finSampa="' k v j E t I" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="světy" finSampa="' s v j E t I" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="vřel" finSampa="' v P\ E l" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="hlavy" finSampa="' h\ l a v I" rhymeScheme="4" stanzaId="3" />
+    <line id="10" finToken="záplavy" finSampa="' z a: p l a v I" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="tmavý" finSampa="' t m a v i:" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="dravý" finSampa="' d r a v i:" rhymeScheme="4" stanzaId="3" />
+    <line id="13" finToken="nebe" finSampa="' n E b E" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="Tebe" finSampa="' t E b E" rhymeScheme="5" stanzaId="3" />
+  </poem>
+  <poem id="0001-0002-0000-0010-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="vůně" finSampa="' v u: J E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="tůně" finSampa="' t u: J E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="stůně" finSampa="' s t u: J E" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0002-0000-0011-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="době" finSampa="' d o b j E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="přeletu" finSampa="' p P\ E l E t u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="květu" finSampa="' k v j E t u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="mdlobě" finSampa="' m d l o b j E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="Tobě" finSampa="' t o b j E" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="pletu" finSampa="' p l E t u" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="vznětu" finSampa="' v z J E t u" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="hrobě" finSampa="' h\ r o b j E" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="jemně" finSampa="' j E m J E" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="mně" finSampa="m J E" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="chytí" finSampa="' x I c i:" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="dmout" finSampa="' d m o_u t" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="svítí" finSampa="' s v i: c i:" rhymeScheme="4" stanzaId="3" />
+    <line id="14" finToken="překlenout" finSampa="' p P\ E k l E n o_u t" rhymeScheme="5" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0012-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="svoje" finSampa="' s v o j E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="boje" finSampa="' b o j E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="hostem" finSampa="' h\ o s t E m" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="prostém" finSampa="' p r o s t E: m" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="zřela" finSampa="' z P\ E l a" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="chtěla" finSampa="' x c E l a" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="chvíli" finSampa="' x v i: l I" rhymeScheme="4" stanzaId="4" />
+    <line id="8" finToken="bílý" finSampa="' b i: l i:" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0013-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="kladou" finSampa="' k l a d o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="píseň" finSampa="' p i: s E J" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="mladou" finSampa="' m l a d o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="tíseň" finSampa="' c i: s E J" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="všední" finSampa="' f S E d J i:" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="vztyčí" finSampa="' f s t I t_S i:" rhymeScheme="4" stanzaId="1" />
+    <line id="7" finToken="slední" finSampa="' s l E d J i:" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="klíčí" finSampa="' k l i: t_S i:" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="vnadou" finSampa="' v n a d o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="10" finToken="mladou" finSampa="' m l a d o_u" rhymeScheme="1" stanzaId="2" />
+  </poem>
+  <poem id="0001-0002-0000-0014-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="dali" finSampa="' d a l I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="slova" finSampa="' s l o v a" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="nová" finSampa="' n o v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="zdály" finSampa="' z d a: l I" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="vzali" finSampa="' v z a l I" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="chová" finSampa="' x o v a:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="ková" finSampa="' k o v a:" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="pálí" finSampa="' p a: l i:" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="zkvetla" finSampa="' s k v E t l a" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="vpletla" finSampa="' f p l E t l a" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="bledli" finSampa="' b l E d l I" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="nedovedli" finSampa="' n E d o v E d l I" rhymeScheme="4" stanzaId="3" />
+    <line id="13" finToken="nosí" finSampa="' n o s i:" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="prosí" finSampa="' p r o s i:" rhymeScheme="5" stanzaId="3" />
+  </poem>
+  <poem id="0001-0002-0000-0015-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="hlohu" finSampa="' h\ l o h\ u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="svítí" finSampa="' s v i: c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="mohu" finSampa="' m o h\ u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="cítí" finSampa="' t_s i: c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="hlohu" finSampa="' h\ l o h\ u" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="leskne" finSampa="' l E s k n E" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="mohu" finSampa="' m o h\ u" rhymeScheme="1" stanzaId="2" />
+    <line id="8" finToken="teskné" finSampa="' t E s k n E:" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="žití" finSampa="' Z I c i:" rhymeScheme="2" stanzaId="3" />
+    <line id="10" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="cítí" finSampa="' t_s i: c i:" rhymeScheme="2" stanzaId="3" />
+    <line id="12" finToken="dívá" finSampa="' J\ i: v a:" rhymeScheme="4" stanzaId="3" />
+    <line id="13" finToken="nedá" finSampa="' n E d a:" rhymeScheme="5" stanzaId="4" />
+    <line id="14" finToken="celá" finSampa="' t_s E l a:" rhymeScheme="6" stanzaId="4" />
+    <line id="15" finToken="bledá" finSampa="' b l E d a:" rhymeScheme="5" stanzaId="4" />
+    <line id="16" finToken="čela" finSampa="' t_S E l a" rhymeScheme="6" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0016-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="spáru" finSampa="' s p a: r u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zvát" finSampa="' z v a: t" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="psát" finSampa="' p s a: t" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="čaru" finSampa="' t_S a r u" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="zmaru" finSampa="' z m a r u" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="brát" finSampa="' b r a: t" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="smát" finSampa="' s m a: t" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="jaru" finSampa="' j a r u" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="večerů" finSampa="' v E t_S E r u:" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="zbloudí" finSampa="' z b l o_u J\ i:" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="dceru" finSampa="' t t_s E r u" rhymeScheme="3" stanzaId="3" />
+    <line id="12" finToken="nerozsoudí" finSampa="' n E r o s o_u J\ i:" rhymeScheme="4" stanzaId="3" />
+    <line id="13" finToken="řádky" finSampa="' P\ a: t k I" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="krátký" finSampa="' k r a: t k i:" rhymeScheme="5" stanzaId="3" />
+  </poem>
+  <poem id="0001-0002-0000-0017-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="hlubin" finSampa="' h\ l u b I n" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vřelo" finSampa="' v P\ E l o" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="stín" finSampa="' s c i: n" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="chtělo" finSampa="' x c E l o" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="lpělo" finSampa="' l p j E l o" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="mřít" finSampa="' m P\ i: t" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="dělo" finSampa="' J\ E l o" rhymeScheme="2" stanzaId="1" />
+    <line id="8" finToken="žít" finSampa="' Z i: t" rhymeScheme="3" stanzaId="1" />
+    <line id="9" finToken="vidin" finSampa="' v I J\ I n" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="chvělo" finSampa="' x v j E l o" rhymeScheme="2" stanzaId="2" />
+    <line id="11" finToken="klín" finSampa="' k l i: n" rhymeScheme="4" stanzaId="2" />
+    <line id="12" finToken="spělo" finSampa="' s p j E l o" rhymeScheme="2" stanzaId="2" />
+    <line id="13" finToken="sjelo" finSampa="' s j E l o" rhymeScheme="2" stanzaId="2" />
+    <line id="14" finToken="snít" finSampa="' s J i: t" rhymeScheme="3" stanzaId="2" />
+    <line id="15" finToken="mělo" finSampa="' m J E l o" rhymeScheme="2" stanzaId="2" />
+    <line id="16" finToken="žít" finSampa="' Z i: t" rhymeScheme="3" stanzaId="2" />
+    <line id="17" finToken="syn" finSampa="' s I n" rhymeScheme="5" stanzaId="3" />
+    <line id="18" finToken="čelo" finSampa="' t_S E l o" rhymeScheme="2" stanzaId="3" />
+    <line id="19" finToken="vin" finSampa="' v I n" rhymeScheme="5" stanzaId="3" />
+    <line id="20" finToken="tmělo" finSampa="' t m J E l o" rhymeScheme="2" stanzaId="3" />
+    <line id="21" finToken="zřelo" finSampa="' z P\ E l o" rhymeScheme="2" stanzaId="3" />
+    <line id="22" finToken="chtít" finSampa="' x c i: t" rhymeScheme="3" stanzaId="3" />
+    <line id="23" finToken="smělo" finSampa="' s m J E l o" rhymeScheme="2" stanzaId="3" />
+    <line id="24" finToken="žít" finSampa="' Z i: t" rhymeScheme="3" stanzaId="3" />
+    <line id="25" finToken="pělo" finSampa="' p j E l o" rhymeScheme="2" stanzaId="4" />
+    <line id="26" finToken="cit" finSampa="' t_s I t" rhymeScheme="3" stanzaId="4" />
+    <line id="27" finToken="hřmělo" finSampa="' h\ P\ m J E l o" rhymeScheme="2" stanzaId="4" />
+    <line id="28" finToken="žít" finSampa="' Z i: t" rhymeScheme="3" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0018-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="mrakem" finSampa="' m r a k E m" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="oko" finSampa="' o k o" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="žití" finSampa="' Z I c i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="dech" finSampa="' d E x" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="osud" finSampa="' o s u t" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="lásky" finSampa="' l a: s k I" rhymeScheme="X" stanzaId="1" />
+    <line id="7" finToken="lásky" finSampa="' l a: s k I" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="mrakem" finSampa="' m r a k E m" rhymeScheme="X" stanzaId="2" />
+    <line id="9" finToken="osud" finSampa="' o s u t" rhymeScheme="X" stanzaId="2" />
+    <line id="10" finToken="oko" finSampa="' o k o" rhymeScheme="X" stanzaId="2" />
+    <line id="11" finToken="dech" finSampa="' d E x" rhymeScheme="X" stanzaId="2" />
+    <line id="12" finToken="žití" finSampa="' Z I c i:" rhymeScheme="X" stanzaId="2" />
+    <line id="13" finToken="žití" finSampa="' Z I c i:" rhymeScheme="X" stanzaId="3" />
+    <line id="14" finToken="lásky" finSampa="' l a: s k I" rhymeScheme="X" stanzaId="3" />
+    <line id="15" finToken="dech" finSampa="' d E x" rhymeScheme="X" stanzaId="3" />
+    <line id="16" finToken="mrakem" finSampa="' m r a k E m" rhymeScheme="X" stanzaId="3" />
+    <line id="17" finToken="oko" finSampa="' o k o" rhymeScheme="X" stanzaId="3" />
+    <line id="18" finToken="osud" finSampa="' o s u t" rhymeScheme="X" stanzaId="3" />
+    <line id="19" finToken="osud" finSampa="' o s u t" rhymeScheme="X" stanzaId="4" />
+    <line id="20" finToken="žití" finSampa="' Z I c i:" rhymeScheme="X" stanzaId="4" />
+    <line id="21" finToken="oko" finSampa="' o k o" rhymeScheme="X" stanzaId="4" />
+    <line id="22" finToken="lásky" finSampa="' l a: s k I" rhymeScheme="X" stanzaId="4" />
+    <line id="23" finToken="mrakem" finSampa="' m r a k E m" rhymeScheme="X" stanzaId="4" />
+    <line id="24" finToken="dech" finSampa="' d E x" rhymeScheme="X" stanzaId="4" />
+    <line id="25" finToken="dech" finSampa="' d E x" rhymeScheme="X" stanzaId="5" />
+    <line id="26" finToken="osud" finSampa="' o s u t" rhymeScheme="X" stanzaId="5" />
+    <line id="27" finToken="mrakem" finSampa="' m r a k E m" rhymeScheme="X" stanzaId="5" />
+    <line id="28" finToken="žití" finSampa="' Z I c i:" rhymeScheme="X" stanzaId="5" />
+    <line id="29" finToken="lásky" finSampa="' l a: s k I" rhymeScheme="X" stanzaId="5" />
+    <line id="30" finToken="oko" finSampa="' o k o" rhymeScheme="X" stanzaId="5" />
+    <line id="31" finToken="oko" finSampa="' o k o" rhymeScheme="X" stanzaId="6" />
+    <line id="32" finToken="dech" finSampa="' d E x" rhymeScheme="X" stanzaId="6" />
+    <line id="33" finToken="lásky" finSampa="' l a: s k I" rhymeScheme="X" stanzaId="6" />
+    <line id="34" finToken="osud" finSampa="' o s u t" rhymeScheme="X" stanzaId="6" />
+    <line id="35" finToken="žití" finSampa="' Z I c i:" rhymeScheme="X" stanzaId="6" />
+    <line id="36" finToken="mrakem" finSampa="' m r a k E m" rhymeScheme="X" stanzaId="6" />
+    <line id="37" finToken="mrakem" finSampa="' m r a k E m" rhymeScheme="X" stanzaId="7" />
+    <line id="38" finToken="dech" finSampa="' d E x" rhymeScheme="X" stanzaId="7" />
+    <line id="39" finToken="lásky" finSampa="' l a: s k I" rhymeScheme="X" stanzaId="7" />
+  </poem>
+  <poem id="0001-0002-0000-0019-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="žití" finSampa="' Z I c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="otvíráš" finSampa="' o t v i: r a: S" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="cítí" finSampa="' t_s i: c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="znáš" finSampa="' z n a: S" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="kvítí" finSampa="' k v i: c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="dáš" finSampa="' d a: S" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="chtíti" finSampa="' x c i: c I" rhymeScheme="1" stanzaId="1" />
+    <line id="8" finToken="máš" finSampa="' m a: S" rhymeScheme="2" stanzaId="1" />
+    <line id="9" finToken="synu" finSampa="' s I n u" rhymeScheme="3" stanzaId="2" />
+    <line id="10" finToken="zkojí" finSampa="' s k o j i:" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="klínu" finSampa="' k l i: n u" rhymeScheme="3" stanzaId="2" />
+    <line id="12" finToken="mojí" finSampa="' m o j i:" rhymeScheme="4" stanzaId="2" />
+    <line id="13" finToken="vinu" finSampa="' v I n u" rhymeScheme="3" stanzaId="2" />
+    <line id="14" finToken="stojí" finSampa="' s t o j i:" rhymeScheme="4" stanzaId="2" />
+    <line id="15" finToken="hynu" finSampa="' h\ I n u" rhymeScheme="3" stanzaId="2" />
+    <line id="16" finToken="zhojí" finSampa="' s x o j i:" rhymeScheme="4" stanzaId="2" />
+  </poem>
+  <poem id="0001-0002-0000-0020-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="snění" finSampa="' s J E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vzplane" finSampa="' f s p l a n E" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="mění" finSampa="' m J E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="snění" finSampa="' s J E J i:" rhymeScheme="1" stanzaId="2" />
+    <line id="5" finToken="vzplane" finSampa="' f s p l a n E" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="mění" finSampa="' m J E J i:" rhymeScheme="1" stanzaId="2" />
+  </poem>
+  <poem id="0001-0002-0000-0021-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="žhavé" finSampa="' Z h\ a v E:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="smavé" finSampa="' s m a v E:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="vrací" finSampa="' v r a t_s i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="tmavé" finSampa="' t m a v E:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="luny" finSampa="' l u n I" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="zdravé" finSampa="' z d r a v E:" rhymeScheme="1" stanzaId="1" />
+    <line id="7" finToken="cele" finSampa="' t_s E l E" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="Ave" finSampa="' a v E" rhymeScheme="1" stanzaId="1" />
+    <line id="9" finToken="pění" finSampa="' p j E J i:" rhymeScheme="X" stanzaId="1" />
+    <line id="10" finToken="dravé" finSampa="' d r a v E:" rhymeScheme="1" stanzaId="1" />
+    <line id="11" finToken="bledém" finSampa="' b l E d E: m" rhymeScheme="X" stanzaId="1" />
+    <line id="12" finToken="hravé" finSampa="' h\ r a v E:" rhymeScheme="1" stanzaId="1" />
+    <line id="13" finToken="cizích" finSampa="' t_s I z i: x" rhymeScheme="X" stanzaId="1" />
+    <line id="14" finToken="pravé" finSampa="' p r a v E:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0002-0000-0022-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="pění" finSampa="' p j E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="chvění" finSampa="' x v j E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="mění" finSampa="' m J E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="přesvědčení" finSampa="' p P\ E s v j E t t_S E J i:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0002-0000-0023-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="jméno" finSampa="' j m E: n o" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="dávná" finSampa="' d a: v n a:" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="háji" finSampa="' h\ a: j I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="věky" finSampa="' v j E k I" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="Tvoje" finSampa="' t v o j E" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="času" finSampa="' t_S a s u" rhymeScheme="X" stanzaId="2" />
+    <line id="7" finToken="boji" finSampa="' b o j I" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="Osud" finSampa="' o s u t" rhymeScheme="X" stanzaId="2" />
+    <line id="9" finToken="hlavou" finSampa="' h\ l a v o_u" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="smazat" finSampa="' s m a z a t" rhymeScheme="X" stanzaId="3" />
+    <line id="11" finToken="touha" finSampa="' t o_u h\ a" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="písmem" finSampa="' p i: s m E m" rhymeScheme="X" stanzaId="3" />
+    <line id="13" finToken="bouře" finSampa="' b o_u P\ E" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="půtky" finSampa="' p u: t k I" rhymeScheme="X" stanzaId="4" />
+    <line id="15" finToken="znění" finSampa="' z J E J i:" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="píseň" finSampa="' p i: s E J" rhymeScheme="X" stanzaId="4" />
+    <line id="17" finToken="vzešla" finSampa="' v z E S l a" rhymeScheme="X" stanzaId="5" />
+    <line id="18" finToken="láska" finSampa="' l a: s k a" rhymeScheme="X" stanzaId="5" />
+    <line id="19" finToken="svojí" finSampa="' s v o j i:" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="sladkým" finSampa="' s l a t k i: m" rhymeScheme="X" stanzaId="5" />
+    <line id="21" finToken="slyšet" finSampa="' s l I S E t" rhymeScheme="X" stanzaId="6" />
+    <line id="22" finToken="lásky" finSampa="' l a: s k I" rhymeScheme="X" stanzaId="6" />
+    <line id="23" finToken="život" finSampa="' Z I v o t" rhymeScheme="X" stanzaId="6" />
+    <line id="24" finToken="láskou" finSampa="' l a: s k o_u" rhymeScheme="X" stanzaId="6" />
+  </poem>
+  <poem id="0001-0002-0000-0024-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="žitím" finSampa="' Z I c i: m" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="říší" finSampa="' P\ i: S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="cítím" finSampa="' t_s i: c i: m" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="tiší" finSampa="' c I S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="jasný" finSampa="' j a s n i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="řeky" finSampa="' P\ E k I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="krásný" finSampa="' k r a: s n i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="věky" finSampa="' v j E k I" rhymeScheme="4" stanzaId="2" />
+  </poem>
+  <poem id="0001-0002-0000-0025-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="lesy" finSampa="' l E s I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="pás" finSampa="' p a: s" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="běsy" finSampa="' b j E s I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="hlas" finSampa="' h\ l a s" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="děsí" finSampa="' J\ E s i:" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="vlas" finSampa="' v l a s" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="cíle" finSampa="' t_s i: l E" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="milé" finSampa="' m I l E:" rhymeScheme="3" stanzaId="1" />
+    <line id="9" finToken="hlavou" finSampa="' h\ l a v o_u" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="všem" finSampa="f S E m" rhymeScheme="5" stanzaId="2" />
+    <line id="11" finToken="plavou" finSampa="' p l a v o_u" rhymeScheme="4" stanzaId="2" />
+    <line id="12" finToken="zdem" finSampa="' z d E m" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="slávou" finSampa="' s l a: v o_u" rhymeScheme="4" stanzaId="2" />
+    <line id="14" finToken="varitem" finSampa="' v a r I t E m" rhymeScheme="5" stanzaId="2" />
+    <line id="15" finToken="zvěsti" finSampa="' z v j E s c I" rhymeScheme="6" stanzaId="2" />
+    <line id="16" finToken="štěstí" finSampa="' S c E s c i:" rhymeScheme="6" stanzaId="2" />
+    <line id="17" finToken="věky" finSampa="' v j E k I" rhymeScheme="7" stanzaId="3" />
+    <line id="18" finToken="již" finSampa="j I S" rhymeScheme="8" stanzaId="3" />
+    <line id="19" finToken="řeky" finSampa="' P\ E k I" rhymeScheme="7" stanzaId="3" />
+    <line id="20" finToken="výš" finSampa="v i: S" rhymeScheme="8" stanzaId="3" />
+    <line id="21" finToken="vděky" finSampa="' v J\ E k I" rhymeScheme="7" stanzaId="3" />
+    <line id="22" finToken="kříž" finSampa="' k P\ i: S" rhymeScheme="8" stanzaId="3" />
+    <line id="23" finToken="pěly" finSampa="' p j E l I" rhymeScheme="9" stanzaId="3" />
+    <line id="24" finToken="chvěly" finSampa="' x v j E l I" rhymeScheme="9" stanzaId="3" />
+    <line id="25" finToken="vryly" finSampa="' v r I l I" rhymeScheme="10" stanzaId="4" />
+    <line id="26" finToken="klid" finSampa="' k l I t" rhymeScheme="11" stanzaId="4" />
+    <line id="27" finToken="pily" finSampa="' p I l I" rhymeScheme="10" stanzaId="4" />
+    <line id="28" finToken="lid" finSampa="' l I t" rhymeScheme="11" stanzaId="4" />
+    <line id="29" finToken="mohyly" finSampa="' m o h\ I l I" rhymeScheme="10" stanzaId="4" />
+    <line id="30" finToken="svit" finSampa="' s v I t" rhymeScheme="11" stanzaId="4" />
+    <line id="31" finToken="zastavila" finSampa="' z a s t a v I l a" rhymeScheme="12" stanzaId="4" />
+    <line id="32" finToken="síla" finSampa="' s i: l a" rhymeScheme="12" stanzaId="4" />
+    <line id="33" finToken="země" finSampa="' z E m J E" rhymeScheme="13" stanzaId="5" />
+    <line id="34" finToken="dob" finSampa="' d o p" rhymeScheme="14" stanzaId="5" />
+    <line id="35" finToken="témě" finSampa="' t E: m J E" rhymeScheme="13" stanzaId="5" />
+    <line id="36" finToken="hrob" finSampa="' h\ r o p" rhymeScheme="14" stanzaId="5" />
+    <line id="37" finToken="plémě" finSampa="' p l E: m J E" rhymeScheme="13" stanzaId="5" />
+    <line id="38" finToken="mdlob" finSampa="' m d l o p" rhymeScheme="14" stanzaId="5" />
+    <line id="39" finToken="citem" finSampa="' t_s I t E m" rhymeScheme="15" stanzaId="5" />
+    <line id="40" finToken="dynamitem" finSampa="' d I n a m I t E m" rhymeScheme="15" stanzaId="5" />
+  </poem>
+  <poem id="0001-0002-0000-0026-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="již" finSampa="j I S" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="probudila" finSampa="' p r o b u J\ I l a" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="tíž" finSampa="c i: S" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="síla" finSampa="' s i: l a" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="byla" finSampa="' b I l a" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="měl" finSampa="' m J E l" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="vřel" finSampa="' v P\ E l" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="chvění" finSampa="' x v j E J i:" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="zaslzel" finSampa="' z a s l= z E l" rhymeScheme="3" stanzaId="1" />
+    <line id="10" finToken="není" finSampa="' n E J i:" rhymeScheme="4" stanzaId="1" />
+    <line id="11" finToken="zříš" finSampa="' z P\ i: S" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="zasloužila" finSampa="' z a s l o_u Z I l a" rhymeScheme="2" stanzaId="2" />
+    <line id="13" finToken="smíš" finSampa="' s m i: S" rhymeScheme="5" stanzaId="2" />
+    <line id="14" finToken="smyla" finSampa="' s m I l a" rhymeScheme="2" stanzaId="2" />
+    <line id="15" finToken="oživila" finSampa="' o Z I v I l a" rhymeScheme="2" stanzaId="2" />
+    <line id="16" finToken="chtěl" finSampa="' x c E l" rhymeScheme="6" stanzaId="2" />
+    <line id="17" finToken="zřel" finSampa="' z P\ E l" rhymeScheme="6" stanzaId="2" />
+    <line id="18" finToken="znění" finSampa="' z J E J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="19" finToken="žel" finSampa="Z E l" rhymeScheme="6" stanzaId="2" />
+    <line id="20" finToken="není" finSampa="' n E J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="21" finToken="výš" finSampa="v i: S" rhymeScheme="7" stanzaId="3" />
+    <line id="22" finToken="kryla" finSampa="' k r I l a" rhymeScheme="2" stanzaId="3" />
+    <line id="23" finToken="blíž" finSampa="b l i: S" rhymeScheme="7" stanzaId="3" />
+    <line id="24" finToken="pila" finSampa="' p I l a" rhymeScheme="2" stanzaId="3" />
+    <line id="25" finToken="vryla" finSampa="' v r I l a" rhymeScheme="2" stanzaId="3" />
+    <line id="26" finToken="pěl" finSampa="' p j E l" rhymeScheme="8" stanzaId="3" />
+    <line id="27" finToken="pel" finSampa="' p E l" rhymeScheme="8" stanzaId="3" />
+    <line id="28" finToken="mění" finSampa="' m J E J i:" rhymeScheme="4" stanzaId="3" />
+    <line id="29" finToken="úděl" finSampa="' u: J\ E l" rhymeScheme="8" stanzaId="3" />
+    <line id="30" finToken="vykoupení" finSampa="' v I k o_u p E J i:" rhymeScheme="4" stanzaId="3" />
+    <line id="31" finToken="sídel" finSampa="' s i: d E l" rhymeScheme="8" stanzaId="4" />
+    <line id="32" finToken="sjel" finSampa="' s j E l" rhymeScheme="8" stanzaId="4" />
+    <line id="33" finToken="šelestění" finSampa="' S E l E s c E J i:" rhymeScheme="4" stanzaId="4" />
+    <line id="34" finToken="asfodel" finSampa="' a s f o d E l" rhymeScheme="8" stanzaId="4" />
+    <line id="35" finToken="vykoupení" finSampa="' v I k o_u p E J i:" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0003-0000-0001-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="dávna" finSampa="' d a: v n a" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="mraky" finSampa="' m r a k I" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="silně" finSampa="' s I l J E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="mřelo" finSampa="' m P\ E l o" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="píseň" finSampa="' p i: s E J" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="květů" finSampa="' k v j E t u:" rhymeScheme="X" stanzaId="1" />
+    <line id="7" finToken="život" finSampa="' Z I v o t" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="tichá" finSampa="' c I x a:" rhymeScheme="X" stanzaId="2" />
+    <line id="9" finToken="mihnou" finSampa="' m I h\ n o_u" rhymeScheme="X" stanzaId="2" />
+    <line id="10" finToken="chtěla" finSampa="' x c E l a" rhymeScheme="X" stanzaId="2" />
+    <line id="11" finToken="svoje" finSampa="' s v o j E" rhymeScheme="X" stanzaId="2" />
+    <line id="12" finToken="mraky" finSampa="' m r a k I" rhymeScheme="X" stanzaId="2" />
+    <line id="13" finToken="dávna" finSampa="' d a: v n a" rhymeScheme="X" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0002-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="dávno" finSampa="' d a: v n o" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="zúčtováno" finSampa="' z u: t_S t o v a: n o" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="snu" finSampa="' s n u" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="ráno" finSampa="' r a: n o" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="létne" finSampa="' l E: t n E" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="opozdilý" finSampa="' o p o z J\ I l i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="listí" finSampa="' l I s c i:" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="chvílí" finSampa="' x v i: l i:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="pouhý" finSampa="' p o_u h\ i:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="tuší" finSampa="' t u S i:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="krůpěj" finSampa="' k r u: p j E j" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="duši" finSampa="' d u S I" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0003-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="kraje" finSampa="' k r a j E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hraje" finSampa="' h\ r a j E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="větvích" finSampa="' v j E t v i: x" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="taje" finSampa="' t a j E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="lích" finSampa="' l i: x" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="se" finSampa="s E" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="plese" finSampa="' p l E s E" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="chtít" finSampa="' x c i: t" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="třese" finSampa="' t P\ E s E" rhymeScheme="3" stanzaId="2" />
+    <line id="10" finToken="otevřít" finSampa="' o t E v P\ i: t" rhymeScheme="4" stanzaId="2" />
+  </poem>
+  <poem id="0001-0003-0000-0004-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="stará" finSampa="' s t a r a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="květů" finSampa="' k v j E t u:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="jara" finSampa="' j a r a" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="světu" finSampa="' s v j E t u" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="bílý" finSampa="' b i: l i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="mizí" finSampa="' m I z i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="chvíli" finSampa="' x v i: l I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="cizí" finSampa="' t_s I z i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="letí" finSampa="' l E c i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="dolů" finSampa="' d o l u:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="sněti" finSampa="' s J E c I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="spolu" finSampa="' s p o l u" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="chýlí" finSampa="' x i: l i:" rhymeScheme="3" stanzaId="4" />
+    <line id="14" finToken="mizí" finSampa="' m I z i:" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="chvíli" finSampa="' x v i: l I" rhymeScheme="3" stanzaId="4" />
+    <line id="16" finToken="cizí" finSampa="' t_s I z i:" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0003-0000-0004-0001" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="řádky" finSampa="' P\ a: t k I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="krátký" finSampa="' k r a: t k i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="zakončit" finSampa="' z a k o n t_S I t" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="cit" finSampa="' t_s I t" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="málo" finSampa="' m a: l o" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="zdálo" finSampa="' z d a: l o" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="pout" finSampa="' p o_u t" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="vytrysknout" finSampa="' v I t r I s k n o_u t" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="připadají" finSampa="' p P\ I p a d a j i:" rhymeScheme="5" stanzaId="1" />
+    <line id="10" finToken="tají" finSampa="' t a j i:" rhymeScheme="5" stanzaId="1" />
+  </poem>
+  <poem id="0001-0003-0000-0004-0002" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="ptáci" finSampa="' p t a: t_s I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vrací" finSampa="' v r a t_s i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="písni" finSampa="' p i: s J I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="tísní" finSampa="' c i: s J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="duší" finSampa="' d u S i:" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="tuší" finSampa="' t u S i:" rhymeScheme="3" stanzaId="1" />
+  </poem>
+  <poem id="0001-0003-0000-0004-0003" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="rok" finSampa="' r o k" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="let" finSampa="' l E t" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="viny" finSampa="' v I n I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="den" finSampa="' d E n" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="mrakem" finSampa="' m r a k E m" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="povětří" finSampa="' p o v j E t P\ i:" rhymeScheme="X" stanzaId="1" />
+    <line id="7" finToken="docela" finSampa="' d o t_s E l a" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="slov" finSampa="' s l o f" rhymeScheme="X" stanzaId="2" />
+    <line id="9" finToken="vře" finSampa="' v P\ E" rhymeScheme="X" stanzaId="2" />
+    <line id="10" finToken="mou" finSampa="m o_u" rhymeScheme="X" stanzaId="2" />
+    <line id="11" finToken="reakce" finSampa="' r E a k t_s E" rhymeScheme="X" stanzaId="2" />
+    <line id="12" finToken="paprsek" finSampa="' p a p r= s E k" rhymeScheme="X" stanzaId="2" />
+    <line id="13" finToken="úmyslu" finSampa="' u: m I s l u" rhymeScheme="X" stanzaId="2" />
+    <line id="14" finToken="též" finSampa="t E: S" rhymeScheme="X" stanzaId="2" />
+    <line id="15" finToken="rok" finSampa="' r o k" rhymeScheme="X" stanzaId="3" />
+    <line id="16" finToken="zas" finSampa="z a s" rhymeScheme="X" stanzaId="3" />
+    <line id="17" finToken="sežloutne" finSampa="' s E Z l o_u t n E" rhymeScheme="X" stanzaId="3" />
+    <line id="18" finToken="bouřlivý" finSampa="' b o_u P\ l I v i:" rhymeScheme="X" stanzaId="3" />
+    <line id="19" finToken="šíj" finSampa="' S i: j" rhymeScheme="X" stanzaId="3" />
+    <line id="20" finToken="sám" finSampa="s a: m" rhymeScheme="X" stanzaId="3" />
+    <line id="21" finToken="zas" finSampa="z a s" rhymeScheme="X" stanzaId="3" />
+    <line id="22" finToken="pryč" finSampa="p r I t_S" rhymeScheme="X" stanzaId="3" />
+    <line id="23" finToken="dnes" finSampa="d n E s" rhymeScheme="X" stanzaId="4" />
+    <line id="24" finToken="rokem" finSampa="' r o k E m" rhymeScheme="X" stanzaId="4" />
+  </poem>
+  <poem id="0001-0003-0000-0005-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="zrady" finSampa="' z r a d I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="cest" finSampa="' t_s E s t" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="tady" finSampa="' t a d I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="hvězd" finSampa="' h\ v j E s t" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0003-0000-0006-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="nikde" finSampa="' J I g d E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="kladlo" finSampa="' k l a d l o" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="hřálo" finSampa="' h\ P\ a: l o" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="chladlo" finSampa="' x l a d l o" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="nikde" finSampa="' J I g d E" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="klínem" finSampa="' k l i: n E m" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="kdysi" finSampa="' g d I s I" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="stínem" finSampa="' s c i: n E m" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="líbá" finSampa="' l i: b a:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="dále" finSampa="' d a: l E" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="více" finSampa="' v i: t_s E" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="stále" finSampa="' s t a: l E" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0007-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="vane" finSampa="' v a n E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zhas" finSampa="' s x a s" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="třás" finSampa="t P\ a: s" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="skane" finSampa="' s k a n E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="plané" finSampa="' p l a n E:" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="klas" finSampa="' k l a s" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="ráz" finSampa="' r a: s" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="štvané" finSampa="' S t v a n E:" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="stmělo" finSampa="' s t m J E l o" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="hřmělo" finSampa="' h\ P\ m J E l o" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="jar" finSampa="' j a r" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="víra" finSampa="' v i: r a" rhymeScheme="5" stanzaId="4" />
+    <line id="13" finToken="zmar" finSampa="' z m a r" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="neumírá" finSampa="' n E u m i: r a:" rhymeScheme="5" stanzaId="4" />
+  </poem>
+  <poem id="0001-0003-0000-0007-0001" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="celý" finSampa="' t_s E l i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="bělí" finSampa="' b j E l i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="přehluboku" finSampa="' p P\ E h\ l u b o k u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="toku" finSampa="' t o k u" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="smělý" finSampa="' s m J E l i:" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="velí" finSampa="' v E l i:" rhymeScheme="1" stanzaId="2" />
+    <line id="7" finToken="pocely" finSampa="' p o t_s E l I" rhymeScheme="1" stanzaId="2" />
+    <line id="8" finToken="kroku" finSampa="' k r o k u" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="oku" finSampa="' o k u" rhymeScheme="2" stanzaId="2" />
+    <line id="10" finToken="stkvěly" finSampa="' s t k v j E l I" rhymeScheme="1" stanzaId="3" />
+    <line id="11" finToken="pozachvěly" finSampa="' p o z a x v j E l I" rhymeScheme="1" stanzaId="3" />
+    <line id="12" finToken="roků" finSampa="' r o k u:" rhymeScheme="2" stanzaId="3" />
+    <line id="13" finToken="sloku" finSampa="' s l o k u" rhymeScheme="2" stanzaId="3" />
+    <line id="14" finToken="zcelí" finSampa="' s t_s E l i:" rhymeScheme="1" stanzaId="3" />
+    <line id="15" finToken="oku" finSampa="' o k u" rhymeScheme="2" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0007-0002" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="žáru" finSampa="' Z a: r u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="čaru" finSampa="' t_S a r u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="tuší" finSampa="' t u S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="kruší" finSampa="' k r u S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="zmaru" finSampa="' z m a r u" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="tvaru" finSampa="' t v a r u" rhymeScheme="1" stanzaId="2" />
+    <line id="7" finToken="spáru" finSampa="' s p a: r u" rhymeScheme="1" stanzaId="2" />
+    <line id="8" finToken="hluší" finSampa="' h\ l u S i:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="duši" finSampa="' d u S I" rhymeScheme="2" stanzaId="2" />
+    <line id="10" finToken="páru" finSampa="' p a: r u" rhymeScheme="1" stanzaId="3" />
+    <line id="11" finToken="jaru" finSampa="' j a r u" rhymeScheme="1" stanzaId="3" />
+    <line id="12" finToken="buší" finSampa="' b u S i:" rhymeScheme="2" stanzaId="3" />
+    <line id="13" finToken="sluší" finSampa="' s l u S i:" rhymeScheme="2" stanzaId="3" />
+    <line id="14" finToken="daru" finSampa="' d a r u" rhymeScheme="1" stanzaId="3" />
+    <line id="15" finToken="duši" finSampa="' d u S I" rhymeScheme="2" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0007-0003" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="zarosen" finSampa="' z a r o s E n" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="jen" finSampa="j E n" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="snivá" finSampa="' s J I v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="zbývá" finSampa="' z b i: v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="plen" finSampa="' p l E n" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="ven" finSampa="v E n" rhymeScheme="1" stanzaId="2" />
+    <line id="7" finToken="zatopen" finSampa="' z a t o p E n" rhymeScheme="1" stanzaId="2" />
+    <line id="8" finToken="splývá" finSampa="' s p l i: v a:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="dívá" finSampa="' J\ i: v a:" rhymeScheme="2" stanzaId="2" />
+    <line id="10" finToken="den" finSampa="' d E n" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="eden" finSampa="' E d E n" rhymeScheme="3" stanzaId="3" />
+    <line id="12" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="2" stanzaId="3" />
+    <line id="13" finToken="stmívá" finSampa="' s t m i: v a:" rhymeScheme="2" stanzaId="3" />
+    <line id="14" finToken="vyzlacen" finSampa="' v I z l a t_s E n" rhymeScheme="3" stanzaId="3" />
+    <line id="15" finToken="dívá" finSampa="' J\ i: v a:" rhymeScheme="2" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0007-0004" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="snů" finSampa="' s n u:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="dýchá" finSampa="' d i: x a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="dnů" finSampa="' d n u:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="tichá" finSampa="' c I x a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="nevysýchá" finSampa="' n E v I s i: x a:" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="dnu" finSampa="' d n u" rhymeScheme="1" stanzaId="2" />
+    <line id="7" finToken="lícha" finSampa="' l i: x a" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="pnu" finSampa="' p n u" rhymeScheme="1" stanzaId="3" />
+    <line id="9" finToken="míchá" finSampa="' m i: x a:" rhymeScheme="2" stanzaId="3" />
+    <line id="10" finToken="hnu" finSampa="' h\ n u" rhymeScheme="1" stanzaId="3" />
+    <line id="11" finToken="tichá" finSampa="' c I x a:" rhymeScheme="2" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0007-0005" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="dáli" finSampa="' d a: l I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="novou" finSampa="' n o v o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="smály" finSampa="' s m a: l I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="modřínovou" finSampa="' m o d P\ i: n o v o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="plovou" finSampa="' p l o v o_u" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="plály" finSampa="' p l a: l I" rhymeScheme="1" stanzaId="2" />
+    <line id="7" finToken="ebenovou" finSampa="' E b E n o v o_u" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="báli" finSampa="' b a: l I" rhymeScheme="1" stanzaId="3" />
+    <line id="9" finToken="zovou" finSampa="' z o v o_u" rhymeScheme="2" stanzaId="3" />
+    <line id="10" finToken="smály" finSampa="' s m a: l I" rhymeScheme="1" stanzaId="3" />
+    <line id="11" finToken="modřínovou" finSampa="' m o d P\ i: n o v o_u" rhymeScheme="2" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0007-0006" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="větvích" finSampa="' v j E t v i: x" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="oblak" finSampa="' o b l a k" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="lích" finSampa="' l i: x" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="pták" finSampa="' p t a: k" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="mrak" finSampa="' m r a k" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="pláních" finSampa="' p l a: J i: x" rhymeScheme="1" stanzaId="2" />
+    <line id="7" finToken="vrak" finSampa="' v r a k" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="smích" finSampa="' s m i: x" rhymeScheme="4" stanzaId="3" />
+    <line id="9" finToken="zrak" finSampa="' z r a k" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="hřích" finSampa="' h\ P\ i: x" rhymeScheme="1" stanzaId="3" />
+    <line id="11" finToken="svých" finSampa="s v i: x" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="pták" finSampa="' p t a: k" rhymeScheme="2" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0007-0007" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="děl" finSampa="' J\ E l" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="líc" finSampa="' l i: t_s" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="spěl" finSampa="' s p j E l" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="víc" finSampa="v i: t_s" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="nic" finSampa="J I t_s" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="jel" finSampa="' j E l" rhymeScheme="1" stanzaId="2" />
+    <line id="7" finToken="zřítelnic" finSampa="' z P\ i: t E l J I t_s" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="mřel" finSampa="' m P\ E l" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="měl" finSampa="' m J E l" rhymeScheme="1" stanzaId="3" />
+    <line id="10" finToken="vstříc" finSampa="f s t P\ i: t_s" rhymeScheme="2" stanzaId="3" />
+    <line id="11" finToken="asfodel" finSampa="' a s f o d E l" rhymeScheme="1" stanzaId="3" />
+    <line id="12" finToken="nic" finSampa="J I t_s" rhymeScheme="2" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0008-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="země" finSampa="' z E m J E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="temně" finSampa="' t E m J E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="zkrocených" finSampa="' s k r o t_s E n i: x" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="výkřiky" finSampa="' v i: k P\ I k I" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="štěstí" finSampa="' S c E s c i:" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="pěsti" finSampa="' p j E s c I" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="ním" finSampa="J i: m" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="výkřiky" finSampa="' v i: k P\ I k I" rhymeScheme="X" stanzaId="2" />
+    <line id="9" finToken="času" finSampa="' t_S a s u" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="jasu" finSampa="' j a s u" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="pták" finSampa="' p t a: k" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="výkřiky" finSampa="' v i: k P\ I k I" rhymeScheme="X" stanzaId="3" />
+    <line id="13" finToken="útěchy" finSampa="' u: c E x I" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="lechy" finSampa="' l E x I" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="den" finSampa="' d E n" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="výkřiky" finSampa="' v i: k P\ I k I" rhymeScheme="X" stanzaId="4" />
+  </poem>
+  <poem id="0001-0003-0000-0009-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="šedé" finSampa="' S E d E:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="ruce" finSampa="' r u t_s E" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="mlhy" finSampa="' m l= h\ I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="závoji" finSampa="' z a: v o j I" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="cestou" finSampa="' t_s E s t o_u" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="tepla" finSampa="' t E p l a" rhymeScheme="X" stanzaId="1" />
+    <line id="7" finToken="zářný" finSampa="' z a: P\ n i:" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="známá" finSampa="' z n a: m a:" rhymeScheme="X" stanzaId="1" />
+    <line id="9" finToken="štěstí" finSampa="' S c E s c i:" rhymeScheme="X" stanzaId="1" />
+    <line id="10" finToken="vzpomínka" finSampa="' f s p o m i: n k a" rhymeScheme="X" stanzaId="1" />
+    <line id="11" finToken="žije" finSampa="' Z I j E" rhymeScheme="X" stanzaId="1" />
+    <line id="12" finToken="blaživé" finSampa="' b l a Z I v E:" rhymeScheme="X" stanzaId="1" />
+    <line id="13" finToken="nedosněno" finSampa="' n E d o s J E n o" rhymeScheme="X" stanzaId="1" />
+    <line id="14" finToken="stiskne" finSampa="' s c I s k n E" rhymeScheme="X" stanzaId="1" />
+    <line id="15" finToken="dneška" finSampa="' d n E S k a" rhymeScheme="X" stanzaId="1" />
+    <line id="16" finToken="jitra" finSampa="' j I t r a" rhymeScheme="X" stanzaId="1" />
+    <line id="17" finToken="costa" finSampa="' t_s o s t a" rhymeScheme="X" stanzaId="1" />
+  </poem>
+  <poem id="0001-0003-0000-0010-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="bílé" finSampa="' b i: l E:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="cíle" finSampa="' t_s i: l E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="chtěly" finSampa="' x c E l I" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="celý" finSampa="' t_s E l i:" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="bílé" finSampa="' b i: l E:" rhymeScheme="1" stanzaId="3" />
+    <line id="6" finToken="cíle" finSampa="' t_s i: l E" rhymeScheme="1" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0011-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="zlatem" finSampa="' z l a t E m" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vzňatém" finSampa="' v z J a t E: m" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="nachem" finSampa="' n a x E m" rhymeScheme="3" stanzaId="2" />
+    <line id="5" finToken="strachem" finSampa="' s t r a x E m" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="dívá" finSampa="' J\ i: v a:" rhymeScheme="2" stanzaId="2" />
+  </poem>
+  <poem id="0001-0003-0000-0012-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="blízký" finSampa="' b l i: s k i:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="nikoho" finSampa="' J I k o h\ o" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="sladký" finSampa="' s l a t k i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="duši" finSampa="' d u S I" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="skalách" finSampa="' s k a l a: x" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="září" finSampa="' z a: P\ i:" rhymeScheme="X" stanzaId="2" />
+    <line id="7" finToken="jitro" finSampa="' j I t r o" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="duši" finSampa="' d u S I" rhymeScheme="X" stanzaId="2" />
+    <line id="9" finToken="věky" finSampa="' v j E k I" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="moře" finSampa="' m o P\ E" rhymeScheme="X" stanzaId="3" />
+    <line id="11" finToken="břehu" finSampa="' b P\ E h\ u" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="duši" finSampa="' d u S I" rhymeScheme="X" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0013-0000" author="Frída, Vladimír *1885" period="1880">
+    <line id="1" finToken="svojí" finSampa="' s v o j i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="sklání" finSampa="' s k l a: J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="Odevzdání" finSampa="' o d E v z d a: J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="bojí" finSampa="' b o j i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="hojí" finSampa="' h\ o j i:" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="skrání" finSampa="' s k r a: J i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="pousmání" finSampa="' p o u s m a: J i:" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="spojí" finSampa="' s p o j i:" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="jednou" finSampa="' j E d n o_u" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="zblednou" finSampa="' z b l E d n o_u" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="zkvetly" finSampa="' s k v E t l I" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="světlý" finSampa="' s v j E t l i:" rhymeScheme="4" stanzaId="4" />
+    <line id="13" finToken="chtíče" finSampa="' x c i: t_S E" rhymeScheme="5" stanzaId="4" />
+    <line id="14" finToken="Beatrice" finSampa="' b E a t r I t_s E" rhymeScheme="5" stanzaId="4" />
+  </poem>
+</data>

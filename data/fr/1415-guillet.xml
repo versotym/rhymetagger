@@ -1,0 +1,1684 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+  <poem id="POEM0" author="guillet" period="1415">
+    <line id="1" finToken="permis" finSampa="p E ' R m i" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="servie" finSampa="s E ' R v i" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="promis" finSampa="p R 0 ' m i" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="vie" finSampa="' v i" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="convie" finSampa="k o~ ' v i" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="impression" finSampa="e~ p R e ' s j o~" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="passion" finSampa="p a ' s j o~" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="divinité" finSampa="d i v i n i ' t e" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="limagination" finSampa="l i m a Z i n a ' s j o~" rhymeScheme="3" stanzaId="1" />
+    <line id="10" finToken="qualité" finSampa="k a l i ' t e" rhymeScheme="4" stanzaId="1" />
+    <line id="11" finToken="trèsobscure" finSampa="t R E z 0 p s ' k y R" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="mobscurcissait" finSampa="m 0 p s k y R s i ' s E" rhymeScheme="6" stanzaId="2" />
+    <line id="13" finToken="figure" finSampa="f i ' g y R" rhymeScheme="5" stanzaId="2" />
+    <line id="14" finToken="marrissait" finSampa="m a R i ' s E" rhymeScheme="6" stanzaId="2" />
+    <line id="15" finToken="apparaissait" finSampa="a p a R E ' s E" rhymeScheme="6" stanzaId="2" />
+    <line id="16" finToken="sereine" finSampa="s @ ' R E n" rhymeScheme="7" stanzaId="2" />
+    <line id="17" finToken="pleine" finSampa="' p l E n" rhymeScheme="7" stanzaId="2" />
+    <line id="18" finToken="ronde" finSampa="' R o~ d" rhymeScheme="8" stanzaId="2" />
+    <line id="19" finToken="hautaine" finSampa="o ' t E n" rhymeScheme="7" stanzaId="2" />
+    <line id="20" finToken="monde" finSampa="' m o~ d" rhymeScheme="8" stanzaId="2" />
+    <line id="21" finToken="savoir" finSampa="s a ' v w a R" rhymeScheme="9" stanzaId="3" />
+    <line id="22" finToken="lexcellence" finSampa="l @ s k s E ' l a~ s" rhymeScheme="10" stanzaId="3" />
+    <line id="23" finToken="avoir" finSampa="a ' v w a R" rhymeScheme="9" stanzaId="3" />
+    <line id="24" finToken="jouissance" finSampa="Z u i ' s a~ s" rhymeScheme="10" stanzaId="3" />
+    <line id="25" finToken="grandnuisance" finSampa="g R a~ d n y ' i ' z a~ s" rhymeScheme="10" stanzaId="3" />
+    <line id="26" finToken="promptitude" finSampa="p R o~ t i ' t y d" rhymeScheme="11" stanzaId="3" />
+    <line id="27" finToken="lhabitude" finSampa="l a b i ' t y d" rhymeScheme="11" stanzaId="3" />
+    <line id="28" finToken="prises" finSampa="' p R i z" rhymeScheme="12" stanzaId="3" />
+    <line id="29" finToken="servitude" finSampa="s E R v i ' t y d" rhymeScheme="11" stanzaId="3" />
+    <line id="30" finToken="comprises" finSampa="k o~ ' p R i z" rhymeScheme="12" stanzaId="3" />
+    <line id="31" finToken="transformé" finSampa="t R a~ s f 0 R ' m e" rhymeScheme="13" stanzaId="4" />
+    <line id="32" finToken="monde" finSampa="' m o~ d" rhymeScheme="14" stanzaId="4" />
+    <line id="33" finToken="conformé" finSampa="k o~ f 0 R ' m e" rhymeScheme="13" stanzaId="4" />
+    <line id="34" finToken="londe" finSampa="' l o~ d" rhymeScheme="14" stanzaId="4" />
+    <line id="35" finToken="faconde" finSampa="f a ' k o~ d" rhymeScheme="14" stanzaId="4" />
+    <line id="36" finToken="appris" finSampa="a ' p R i" rhymeScheme="15" stanzaId="4" />
+    <line id="37" finToken="compris" finSampa="k o~ ' p R i" rhymeScheme="15" stanzaId="4" />
+    <line id="38" finToken="fluante" finSampa="f l y ' a~ t" rhymeScheme="16" stanzaId="4" />
+    <line id="39" finToken="prix" finSampa="' p R i" rhymeScheme="15" stanzaId="4" />
+    <line id="40" finToken="affluante" finSampa="a f l y ' a~ t" rhymeScheme="16" stanzaId="4" />
+    <line id="41" finToken="connoître" finSampa="k o~ ' n 0 t R @" rhymeScheme="17" stanzaId="5" />
+    <line id="42" finToken="muer" finSampa="' m H e" rhymeScheme="18" stanzaId="5" />
+    <line id="43" finToken="croître" finSampa="' k R w a t R @" rhymeScheme="17" stanzaId="5" />
+    <line id="44" finToken="transmuer" finSampa="t R a~ ' s m H e" rhymeScheme="18" stanzaId="5" />
+    <line id="45" finToken="mévertuer" finSampa="m e v E R ' t H e" rhymeScheme="18" stanzaId="5" />
+    <line id="46" finToken="office" finSampa="0 ' f i s" rhymeScheme="19" stanzaId="5" />
+    <line id="47" finToken="vice" finSampa="' v i s" rhymeScheme="19" stanzaId="5" />
+    <line id="48" finToken="as" finSampa="' a s" rhymeScheme="20" stanzaId="5" />
+    <line id="49" finToken="service" finSampa="s E ' R v i s" rhymeScheme="19" stanzaId="5" />
+    <line id="50" finToken="mueras" finSampa="' H m R a" rhymeScheme="20" stanzaId="5" />
+    <line id="51" finToken="maccuse" finSampa="m a ' k y z" rhymeScheme="21" stanzaId="6" />
+    <line id="52" finToken="honorer" finSampa="0 n 0 ' R e" rhymeScheme="22" stanzaId="6" />
+    <line id="53" finToken="excuse" finSampa="E ' k s k y z" rhymeScheme="21" stanzaId="6" />
+    <line id="54" finToken="décorer" finSampa="d e k 0 ' R e" rhymeScheme="22" stanzaId="6" />
+    <line id="55" finToken="adorer" finSampa="a d 0 ' R e" rhymeScheme="22" stanzaId="6" />
+    <line id="56" finToken="pouvoir" finSampa="p u ' v w a R" rhymeScheme="23" stanzaId="6" />
+    <line id="57" finToken="devoir" finSampa="d @ ' v w a R" rhymeScheme="23" stanzaId="6" />
+    <line id="58" finToken="mavoues" finSampa="m a ' v u" rhymeScheme="24" stanzaId="6" />
+    <line id="59" finToken="savoir" finSampa="s a ' v w a R" rhymeScheme="23" stanzaId="6" />
+    <line id="60" finToken="loues" finSampa="' l u" rhymeScheme="24" stanzaId="6" />
+    <line id="61" finToken="soumise" finSampa="s u ' m i z" rhymeScheme="25" stanzaId="7" />
+    <line id="62" finToken="mise" finSampa="' m i z" rhymeScheme="26" stanzaId="7" />
+    <line id="63" finToken="prendre" finSampa="' p R a~ d R @" rhymeScheme="25" stanzaId="7" />
+    <line id="64" finToken="comprendre" finSampa="k o~ ' p R a~ d R @" rhymeScheme="26" stanzaId="7" />
+    <line id="65" finToken="preste" finSampa="' p R E s t @" rhymeScheme="27" stanzaId="7" />
+    <line id="66" finToken="reste" finSampa="' R E s t @" rhymeScheme="27" stanzaId="7" />
+    <line id="67" finToken="avoir" finSampa="a ' v w a R" rhymeScheme="28" stanzaId="7" />
+    <line id="68" finToken="savoir" finSampa="s a ' v w a R" rhymeScheme="28" stanzaId="7" />
+    <line id="69" finToken="mavoue" finSampa="m a ' v u" rhymeScheme="29" stanzaId="7" />
+    <line id="70" finToken="loue" finSampa="' l u" rhymeScheme="29" stanzaId="7" />
+    <line id="71" finToken="soucie" finSampa="s u ' s i" rhymeScheme="30" stanzaId="8" />
+    <line id="72" finToken="nuit" finSampa="' n H i" rhymeScheme="31" stanzaId="8" />
+    <line id="73" finToken="obscurcie" finSampa="0 p s k y ' R s i" rhymeScheme="30" stanzaId="8" />
+    <line id="74" finToken="nuit" finSampa="' n H i" rhymeScheme="31" stanzaId="8" />
+    <line id="75" finToken="adoucie" finSampa="a d u ' s i" rhymeScheme="30" stanzaId="8" />
+    <line id="76" finToken="minuit" finSampa="m i ' n H i" rhymeScheme="31" stanzaId="8" />
+    <line id="77" finToken="apercevoir" finSampa="a p E R s @ ' v w a R" rhymeScheme="32" stanzaId="8" />
+    <line id="78" finToken="voir" finSampa="' v w a R" rhymeScheme="32" stanzaId="8" />
+    <line id="79" finToken="adverse" finSampa="a ' d v E R s @" rhymeScheme="33" stanzaId="9" />
+    <line id="80" finToken="voir" finSampa="' v w a R" rhymeScheme="34" stanzaId="9" />
+    <line id="81" finToken="controverse" finSampa="k o~ t R 0 ' v E R s @" rhymeScheme="33" stanzaId="9" />
+    <line id="82" finToken="savoir" finSampa="s a ' v w a R" rhymeScheme="34" stanzaId="9" />
+    <line id="83" finToken="pouvoir" finSampa="p u ' v w a R" rhymeScheme="34" stanzaId="9" />
+    <line id="84" finToken="entente" finSampa="a~ ' t a~ t" rhymeScheme="35" stanzaId="9" />
+    <line id="85" finToken="avoir" finSampa="a ' v w a R" rhymeScheme="34" stanzaId="9" />
+    <line id="86" finToken="contente" finSampa="k o~ ' t a~ t" rhymeScheme="35" stanzaId="9" />
+    <line id="87" finToken="estimer" finSampa="E s t i ' m e" rhymeScheme="36" stanzaId="10" />
+    <line id="88" finToken="rachetable" finSampa="R a S @ ' t a b l @" rhymeScheme="37" stanzaId="10" />
+    <line id="89" finToken="laimer" finSampa="l E ' m e" rhymeScheme="36" stanzaId="10" />
+    <line id="90" finToken="acceptable" finSampa="a k s E ' p t a b l @" rhymeScheme="37" stanzaId="10" />
+    <line id="91" finToken="stable" finSampa="s ' t a b l @" rhymeScheme="37" stanzaId="10" />
+    <line id="92" finToken="lier" finSampa="' l j e" rhymeScheme="38" stanzaId="10" />
+    <line id="93" finToken="déplier" finSampa="d e p l i ' j e" rhymeScheme="38" stanzaId="10" />
+    <line id="94" finToken="pardurable" finSampa="p a R d y ' R a b l @" rhymeScheme="39" stanzaId="10" />
+    <line id="95" finToken="oublier" finSampa="u b l i ' j e" rhymeScheme="38" stanzaId="10" />
+    <line id="96" finToken="durable" finSampa="d y ' R a b l @" rhymeScheme="39" stanzaId="10" />
+    <line id="97" finToken="voir" finSampa="' v w a R" rhymeScheme="40" stanzaId="11" />
+    <line id="98" finToken="puissance" finSampa="p H i ' s a~ s" rhymeScheme="41" stanzaId="11" />
+    <line id="99" finToken="avoir" finSampa="a ' v w a R" rhymeScheme="40" stanzaId="11" />
+    <line id="100" finToken="dignorance" finSampa="d i n j 0 ' R a~ s" rhymeScheme="41" stanzaId="11" />
+    <line id="101" finToken="connaissance" finSampa="k 0 n E ' s a~ s" rhymeScheme="41" stanzaId="11" />
+    <line id="102" finToken="chercher" finSampa="S E ' R S e" rhymeScheme="42" stanzaId="11" />
+    <line id="103" finToken="mapprocher" finSampa="m a ' ' p R 0 S" rhymeScheme="42" stanzaId="11" />
+    <line id="104" finToken="apparaître" finSampa="a p a ' R E t R @" rhymeScheme="43" stanzaId="11" />
+    <line id="105" finToken="reprocher" finSampa="R @ p R 0 ' S e" rhymeScheme="42" stanzaId="11" />
+    <line id="106" finToken="connaître" finSampa="k 0 ' n E t R @" rhymeScheme="43" stanzaId="11" />
+    <line id="107" finToken="émerveille" finSampa="e m E ' R v E j" rhymeScheme="44" stanzaId="12" />
+    <line id="108" finToken="entamer" finSampa="a~ t a ' m e" rhymeScheme="45" stanzaId="12" />
+    <line id="109" finToken="éveille" finSampa="e ' v E j" rhymeScheme="44" stanzaId="12" />
+    <line id="110" finToken="nommer" finSampa="n 0 ' m e" rhymeScheme="45" stanzaId="12" />
+    <line id="111" finToken="consommer" finSampa="k o~ s 0 ' m e" rhymeScheme="45" stanzaId="12" />
+    <line id="112" finToken="envie" finSampa="a~ ' v i" rhymeScheme="46" stanzaId="12" />
+    <line id="113" finToken="sassommer" finSampa="s a s 0 ' m e" rhymeScheme="45" stanzaId="12" />
+    <line id="114" finToken="vie" finSampa="' v i" rhymeScheme="46" stanzaId="12" />
+    <line id="115" finToken="désir" finSampa="d e ' z i R" rhymeScheme="47" stanzaId="13" />
+    <line id="116" finToken="devoir" finSampa="d @ ' v w a R" rhymeScheme="48" stanzaId="13" />
+    <line id="117" finToken="déplaisir" finSampa="d e p l E ' z i R" rhymeScheme="47" stanzaId="13" />
+    <line id="118" finToken="pouvoir" finSampa="p u ' v w a R" rhymeScheme="48" stanzaId="13" />
+    <line id="119" finToken="avoir" finSampa="a ' v w a R" rhymeScheme="48" stanzaId="13" />
+    <line id="120" finToken="honorable" finSampa="0 n 0 ' R a b l @" rhymeScheme="49" stanzaId="13" />
+    <line id="121" finToken="avoir" finSampa="a ' v w a R" rhymeScheme="48" stanzaId="13" />
+    <line id="122" finToken="durable" finSampa="d y ' R a b l @" rhymeScheme="49" stanzaId="13" />
+    <line id="123" finToken="admirable" finSampa="a d m i ' R a b l @" rhymeScheme="50" stanzaId="14" />
+    <line id="124" finToken="contentement" finSampa="k o~ t a~ t @ ' m a~" rhymeScheme="51" stanzaId="14" />
+    <line id="125" finToken="agréable" finSampa="a g R e ' a b l @" rhymeScheme="50" stanzaId="14" />
+    <line id="126" finToken="doucement" finSampa="d u s @ ' m a~" rhymeScheme="51" stanzaId="14" />
+    <line id="127" finToken="grandement" finSampa="g R a~ d @ ' m a~" rhymeScheme="51" stanzaId="14" />
+    <line id="128" finToken="grandenvie" finSampa="g R a~ d a~ ' v i" rhymeScheme="52" stanzaId="14" />
+    <line id="129" finToken="promptement" finSampa="p R o~ p t @ ' m a~" rhymeScheme="51" stanzaId="14" />
+    <line id="130" finToken="vie" finSampa="' v i" rhymeScheme="52" stanzaId="14" />
+    <line id="131" finToken="tourmente" finSampa="t u ' R m a~ t" rhymeScheme="53" stanzaId="15" />
+    <line id="132" finToken="tourment" finSampa="t u ' R m a~" rhymeScheme="54" stanzaId="15" />
+    <line id="133" finToken="contente" finSampa="k o~ ' t a~ t" rhymeScheme="53" stanzaId="15" />
+    <line id="134" finToken="contentement" finSampa="k o~ t a~ t @ ' m a~" rhymeScheme="54" stanzaId="15" />
+    <line id="135" finToken="orner" finSampa="0 R ' n e" rhymeScheme="55" stanzaId="16" />
+    <line id="136" finToken="donne" finSampa="' d 0 n" rhymeScheme="56" stanzaId="16" />
+    <line id="137" finToken="discerner" finSampa="d i s E ' R n e" rhymeScheme="55" stanzaId="16" />
+    <line id="138" finToken="ordonne" finSampa="0 R ' d 0 n" rhymeScheme="56" stanzaId="16" />
+    <line id="139" finToken="guerdonne" finSampa="' R g d 0 n" rhymeScheme="56" stanzaId="16" />
+    <line id="140" finToken="pouvoir" finSampa="p u ' v w a R" rhymeScheme="57" stanzaId="16" />
+    <line id="141" finToken="savoir" finSampa="s a ' v w a R" rhymeScheme="57" stanzaId="16" />
+    <line id="142" finToken="admirable" finSampa="a d m i ' R a b l @" rhymeScheme="58" stanzaId="16" />
+    <line id="143" finToken="voir" finSampa="' v w a R" rhymeScheme="57" stanzaId="16" />
+    <line id="144" finToken="raisonnable" finSampa="R E z 0 ' n a b l @" rhymeScheme="58" stanzaId="16" />
+    <line id="145" finToken="dire" finSampa="' d i R" rhymeScheme="59" stanzaId="17" />
+    <line id="146" finToken="profonde" finSampa="p R 0 ' f o~ d" rhymeScheme="60" stanzaId="17" />
+    <line id="147" finToken="mattire" finSampa="m a ' t i R" rhymeScheme="59" stanzaId="17" />
+    <line id="148" finToken="faconde" finSampa="f a ' k o~ d" rhymeScheme="60" stanzaId="17" />
+    <line id="149" finToken="monde" finSampa="' m o~ d" rhymeScheme="60" stanzaId="17" />
+    <line id="150" finToken="louable" finSampa="l u ' a b l @" rhymeScheme="61" stanzaId="18" />
+    <line id="151" finToken="contentement" finSampa="k o~ t a~ t @ ' m a~" rhymeScheme="62" stanzaId="18" />
+    <line id="152" finToken="raisonnable" finSampa="R E z 0 ' n a b l @" rhymeScheme="61" stanzaId="18" />
+    <line id="153" finToken="jugement" finSampa="Z y Z @ ' m a~" rhymeScheme="62" stanzaId="18" />
+    <line id="154" finToken="clairement" finSampa="k l E R @ ' m a~" rhymeScheme="62" stanzaId="18" />
+    <line id="155" finToken="puissance" finSampa="p H i ' s a~ s" rhymeScheme="63" stanzaId="18" />
+    <line id="156" finToken="entendement" finSampa="a~ t a~ d @ ' m a~" rhymeScheme="62" stanzaId="18" />
+    <line id="157" finToken="connaissance" finSampa="k 0 n E ' s a~ s" rhymeScheme="63" stanzaId="18" />
+    <line id="158" finToken="jour" finSampa="' Z u R" rhymeScheme="64" stanzaId="19" />
+    <line id="159" finToken="grande" finSampa="' g R a~ d" rhymeScheme="65" stanzaId="19" />
+    <line id="160" finToken="séjour" finSampa="s e ' Z u R" rhymeScheme="64" stanzaId="19" />
+    <line id="161" finToken="recommande" finSampa="R @ k 0 ' m a~ d" rhymeScheme="65" stanzaId="19" />
+    <line id="162" finToken="lamende" finSampa="l a ' m a~ d" rhymeScheme="65" stanzaId="19" />
+    <line id="163" finToken="vie" finSampa="' v i" rhymeScheme="66" stanzaId="19" />
+    <line id="164" finToken="envie" finSampa="a~ ' v i" rhymeScheme="66" stanzaId="19" />
+    <line id="165" finToken="vouloir" finSampa="v u ' l w a R" rhymeScheme="67" stanzaId="19" />
+    <line id="166" finToken="ravie" finSampa="R a ' v i" rhymeScheme="66" stanzaId="19" />
+    <line id="167" finToken="savoir" finSampa="s a ' v w a R" rhymeScheme="67" stanzaId="19" />
+    <line id="168" finToken="envie" finSampa="a~ ' v i" rhymeScheme="68" stanzaId="20" />
+    <line id="169" finToken="cessa" finSampa="s e ' s a" rhymeScheme="69" stanzaId="20" />
+    <line id="170" finToken="vie" finSampa="' v i" rhymeScheme="68" stanzaId="20" />
+    <line id="171" finToken="laissa" finSampa="l E ' s a" rhymeScheme="69" stanzaId="20" />
+    <line id="172" finToken="sefforça" finSampa="s @ f 0 R ' s a" rhymeScheme="69" stanzaId="20" />
+    <line id="173" finToken="ordonnance" finSampa="0 R d 0 ' n a~ s" rhymeScheme="70" stanzaId="20" />
+    <line id="174" finToken="lespérance" finSampa="l E s p e ' R a~ s" rhymeScheme="70" stanzaId="20" />
+    <line id="175" finToken="fonde" finSampa="' f o~ d" rhymeScheme="71" stanzaId="20" />
+    <line id="176" finToken="connaissance" finSampa="k 0 n E ' s a~ s" rhymeScheme="70" stanzaId="20" />
+    <line id="177" finToken="monde" finSampa="' m o~ d" rhymeScheme="71" stanzaId="20" />
+    <line id="178" finToken="récompense" finSampa="R e k o~ ' p a~ s" rhymeScheme="72" stanzaId="21" />
+    <line id="179" finToken="désir" finSampa="d e ' z i R" rhymeScheme="73" stanzaId="21" />
+    <line id="180" finToken="pense" finSampa="' p a~ s" rhymeScheme="72" stanzaId="21" />
+    <line id="181" finToken="plaisir" finSampa="p l E ' z i R" rhymeScheme="73" stanzaId="21" />
+    <line id="182" finToken="moisson" finSampa="m w a ' s o~" rhymeScheme="74" stanzaId="22" />
+    <line id="183" finToken="boisson" finSampa="b w a ' s o~" rhymeScheme="74" stanzaId="22" />
+    <line id="184" finToken="verts" finSampa="' v E R" rhymeScheme="75" stanzaId="22" />
+    <line id="185" finToken="hivers" finSampa="i ' v E R" rhymeScheme="75" stanzaId="22" />
+    <line id="186" finToken="ignorance" finSampa="i n j 0 ' R a~ s" rhymeScheme="76" stanzaId="23" />
+    <line id="187" finToken="confesser" finSampa="k o~ f e ' s e" rhymeScheme="77" stanzaId="23" />
+    <line id="188" finToken="arrogance" finSampa="a R 0 ' g a~ s" rhymeScheme="76" stanzaId="23" />
+    <line id="189" finToken="avancer" finSampa="a v a~ ' s e" rhymeScheme="77" stanzaId="23" />
+    <line id="190" finToken="penser" finSampa="p a~ ' s e" rhymeScheme="77" stanzaId="23" />
+    <line id="191" finToken="devoir" finSampa="d @ ' v w a R" rhymeScheme="78" stanzaId="23" />
+    <line id="192" finToken="avoir" finSampa="a ' v w a R" rhymeScheme="78" stanzaId="23" />
+    <line id="193" finToken="émoi" finSampa="e ' m w a" rhymeScheme="79" stanzaId="23" />
+    <line id="194" finToken="pouvoir" finSampa="p u ' v w a R" rhymeScheme="78" stanzaId="23" />
+    <line id="195" finToken="moi" finSampa="' m w a" rhymeScheme="79" stanzaId="23" />
+    <line id="196" finToken="obligé" finSampa="0 b l i ' Z e" rhymeScheme="80" stanzaId="24" />
+    <line id="197" finToken="dame" finSampa="' d a m" rhymeScheme="81" stanzaId="24" />
+    <line id="198" finToken="rédigé" finSampa="R e d i ' Z e" rhymeScheme="80" stanzaId="24" />
+    <line id="199" finToken="fame" finSampa="' f a m" rhymeScheme="81" stanzaId="24" />
+    <line id="200" finToken="lâme" finSampa="' l a m" rhymeScheme="81" stanzaId="24" />
+    <line id="201" finToken="vie" finSampa="' v i" rhymeScheme="82" stanzaId="24" />
+    <line id="202" finToken="convie" finSampa="k o~ ' v i" rhymeScheme="82" stanzaId="24" />
+    <line id="203" finToken="point" finSampa="' p w e~" rhymeScheme="83" stanzaId="24" />
+    <line id="204" finToken="assouvie" finSampa="a s u ' v i" rhymeScheme="82" stanzaId="24" />
+    <line id="205" finToken="point" finSampa="' p w e~" rhymeScheme="83" stanzaId="24" />
+  </poem>
+  <poem id="POEM1" author="guillet" period="1415">
+    <line id="1" finToken="deux" finSampa="' d @" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="naître" finSampa="' n E t R @" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="être" finSampa="' E t R @" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="veux" finSampa="' v @" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="eux" finSampa="' @" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="résolution" finSampa="R e z 0 l y ' s j o~" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="demande" finSampa="d @ ' m a~ d" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="quaffection" finSampa="k a f E ' k s j o~" rhymeScheme="3" stanzaId="1" />
+    <line id="9" finToken="obligation" finSampa="0 b l i g a ' s j o~" rhymeScheme="3" stanzaId="1" />
+    <line id="10" finToken="grande" finSampa="' g R a~ d" rhymeScheme="4" stanzaId="1" />
+    <line id="11" finToken="demande" finSampa="d @ ' m a~ d" rhymeScheme="4" stanzaId="1" />
+    <line id="12" finToken="passion" finSampa="p a ' s j o~" rhymeScheme="3" stanzaId="1" />
+  </poem>
+  <poem id="POEM10" author="guillet" period="1415">
+    <line id="1" finToken="songe" finSampa="' s o~ Z" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="mensonge" finSampa="m a~ ' s o~ Z" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="encroire" finSampa="a~ ' k R w a R" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="gloire" finSampa="' g l w a R" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="grâce" finSampa="' g R a s" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="place" finSampa="' p l a s" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="guise" finSampa="' g i z" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="devise" finSampa="d @ ' v i z" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="perfection" finSampa="p E R f E ' k s j o~" rhymeScheme="5" stanzaId="1" />
+    <line id="10" finToken="affection" finSampa="a f E ' k s j o~" rhymeScheme="5" stanzaId="1" />
+    <line id="11" finToken="content" finSampa="k o~ ' t a~" rhymeScheme="6" stanzaId="1" />
+    <line id="12" finToken="prétend" finSampa="p R e ' t a~" rhymeScheme="6" stanzaId="1" />
+    <line id="13" finToken="nourriture" finSampa="n u R i ' t y R" rhymeScheme="7" stanzaId="1" />
+    <line id="14" finToken="créature" finSampa="k R e a ' t y R" rhymeScheme="7" stanzaId="1" />
+    <line id="15" finToken="donnée" finSampa="d 0 ' n e" rhymeScheme="8" stanzaId="1" />
+    <line id="16" finToken="adonnée" finSampa="a d 0 ' n e" rhymeScheme="8" stanzaId="1" />
+    <line id="17" finToken="affection" finSampa="a f E ' k s j o~" rhymeScheme="9" stanzaId="1" />
+    <line id="18" finToken="infection" finSampa="e~ f E ' k s j o~" rhymeScheme="9" stanzaId="1" />
+    <line id="19" finToken="changement" finSampa="S a~ Z @ ' m a~" rhymeScheme="10" stanzaId="1" />
+    <line id="20" finToken="jugement" finSampa="Z y Z @ ' m a~" rhymeScheme="10" stanzaId="1" />
+    <line id="21" finToken="apparaître" finSampa="a p a ' R E t R @" rhymeScheme="11" stanzaId="1" />
+    <line id="22" finToken="connaître" finSampa="k 0 ' n E t R @" rhymeScheme="11" stanzaId="1" />
+    <line id="23" finToken="plaisir" finSampa="p l E ' z i R" rhymeScheme="12" stanzaId="1" />
+    <line id="24" finToken="désir" finSampa="d e ' z i R" rhymeScheme="12" stanzaId="1" />
+    <line id="25" finToken="amoureux" finSampa="a ' m u R @" rhymeScheme="13" stanzaId="1" />
+    <line id="26" finToken="heureux" finSampa="' @ R @" rhymeScheme="13" stanzaId="1" />
+    <line id="27" finToken="contente" finSampa="k o~ ' t a~ t" rhymeScheme="14" stanzaId="1" />
+    <line id="28" finToken="attente" finSampa="a ' t a~ t" rhymeScheme="14" stanzaId="1" />
+    <line id="29" finToken="jamais" finSampa="Z a ' m E" rhymeScheme="15" stanzaId="1" />
+    <line id="30" finToken="désormais" finSampa="d e z 0 R ' m E" rhymeScheme="15" stanzaId="1" />
+    <line id="31" finToken="éprouvée" finSampa="e p R u ' v e" rhymeScheme="16" stanzaId="1" />
+    <line id="32" finToken="trouvée" finSampa="t R u ' v e" rhymeScheme="16" stanzaId="1" />
+    <line id="33" finToken="assurance" finSampa="a s y ' R a~ s" rhymeScheme="17" stanzaId="1" />
+    <line id="34" finToken="ignorance" finSampa="i n j 0 ' R a~ s" rhymeScheme="17" stanzaId="1" />
+  </poem>
+  <poem id="POEM11" author="guillet" period="1415">
+    <line id="1" finToken="jétais" finSampa="Z @ ' t E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="jetais" finSampa="Z @ ' t E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="regrettais" finSampa="R @ g R E ' t E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="pensée" finSampa="p a~ ' s e" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="dispensée" finSampa="d i s p a~ ' s e" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="dieux" finSampa="' d j @" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="odieux" finSampa="' 0 d j @" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="dyeux" finSampa="' d i @" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="fallace" finSampa="f a ' l a s" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="place" finSampa="' p l a s" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="fâché" finSampa="f a ' S e" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="caché" finSampa="k a ' S e" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="lâché" finSampa="l a ' S e" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="volée" finSampa="v 0 ' l e" rhymeScheme="6" stanzaId="3" />
+    <line id="15" finToken="affolée" finSampa="a f 0 ' l e" rhymeScheme="6" stanzaId="3" />
+    <line id="16" finToken="puissance" finSampa="p H i ' s a~ s" rhymeScheme="7" stanzaId="4" />
+    <line id="17" finToken="obéissance" finSampa="0 b e i ' s a~ s" rhymeScheme="7" stanzaId="4" />
+    <line id="18" finToken="connaissance" finSampa="k 0 n E ' s a~ s" rhymeScheme="7" stanzaId="4" />
+    <line id="19" finToken="vertu" finSampa="v E R ' t y" rhymeScheme="8" stanzaId="4" />
+    <line id="20" finToken="abattu" finSampa="a b a ' t y" rhymeScheme="8" stanzaId="4" />
+    <line id="21" finToken="outrage" finSampa="u ' t R a Z" rhymeScheme="9" stanzaId="5" />
+    <line id="22" finToken="courage" finSampa="k u ' R a Z" rhymeScheme="9" stanzaId="5" />
+    <line id="23" finToken="rage" finSampa="' R a Z" rhymeScheme="9" stanzaId="5" />
+    <line id="24" finToken="envie" finSampa="a~ ' v i" rhymeScheme="10" stanzaId="5" />
+    <line id="25" finToken="ravie" finSampa="R a ' v i" rhymeScheme="10" stanzaId="5" />
+    <line id="26" finToken="tenue" finSampa="t @ ' n y" rhymeScheme="11" stanzaId="6" />
+    <line id="27" finToken="nue" finSampa="' n y" rhymeScheme="11" stanzaId="6" />
+    <line id="28" finToken="nue" finSampa="' n y" rhymeScheme="11" stanzaId="6" />
+    <line id="29" finToken="bien" finSampa="' b j e~" rhymeScheme="12" stanzaId="6" />
+    <line id="30" finToken="combien" finSampa="k o~ ' b j e~" rhymeScheme="12" stanzaId="6" />
+    <line id="31" finToken="vins" finSampa="' v e~" rhymeScheme="13" stanzaId="7" />
+    <line id="32" finToken="devins" finSampa="d @ ' v e~" rhymeScheme="13" stanzaId="7" />
+    <line id="33" finToken="divins" finSampa="d i ' v e~" rhymeScheme="13" stanzaId="7" />
+    <line id="34" finToken="sévère" finSampa="s e ' v E R" rhymeScheme="14" stanzaId="7" />
+    <line id="35" finToken="révère" finSampa="R e ' v E R" rhymeScheme="14" stanzaId="7" />
+    <line id="36" finToken="avoir" finSampa="a ' v w a R" rhymeScheme="15" stanzaId="8" />
+    <line id="37" finToken="savoir" finSampa="s a ' v w a R" rhymeScheme="15" stanzaId="8" />
+    <line id="38" finToken="devoir" finSampa="d @ ' v w a R" rhymeScheme="15" stanzaId="8" />
+    <line id="39" finToken="accuse" finSampa="a ' k y z" rhymeScheme="16" stanzaId="8" />
+    <line id="40" finToken="lexcuse" finSampa="l @ k s ' k y z" rhymeScheme="16" stanzaId="8" />
+  </poem>
+  <poem id="POEM12" author="guillet" period="1415">
+    <line id="1" finToken="sévère" finSampa="s e ' v E R" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="apercevoir" finSampa="a p E R s @ ' v w a R" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="persévère" finSampa="p E R s e ' v E R" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="savoir" finSampa="s a ' v w a R" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="voir" finSampa="' v w a R" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="plaindre" finSampa="' p l e~ d R @" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="contraindre" finSampa="k o~ ' t R e~ d R @" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="entretien" finSampa="a~ t R @ ' t j e~" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="empreindre" finSampa="' a~ p R d R @" rhymeScheme="3" stanzaId="1" />
+    <line id="10" finToken="tien" finSampa="' t j e~" rhymeScheme="4" stanzaId="1" />
+  </poem>
+  <poem id="POEM13" author="guillet" period="1415">
+    <line id="1" finToken="fourrée" finSampa="f u ' R e" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="dorée" finSampa="d 0 ' R e" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="ébranla" finSampa="e b R a~ ' l a" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="cela" finSampa="s @ ' l a" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="tends" finSampa="' t a~" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="passetemps" finSampa="p a s @ ' t a~ p" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="là" finSampa="' l a" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="cela" finSampa="s @ ' l a" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="révélé" finSampa="R e v e ' l e" rhymeScheme="5" stanzaId="1" />
+    <line id="10" finToken="celé" finSampa="s @ ' l e" rhymeScheme="5" stanzaId="1" />
+    <line id="11" finToken="a" finSampa="' a" rhymeScheme="6" stanzaId="1" />
+    <line id="12" finToken="cela" finSampa="s @ ' l a" rhymeScheme="6" stanzaId="1" />
+    <line id="13" finToken="commune" finSampa="k 0 ' m y n" rhymeScheme="7" stanzaId="1" />
+    <line id="14" finToken="importune" finSampa="e~ p 0 R ' t y n" rhymeScheme="7" stanzaId="1" />
+    <line id="15" finToken="holà" finSampa="0 ' l a" rhymeScheme="8" stanzaId="1" />
+    <line id="16" finToken="cela" finSampa="s @ ' l a" rhymeScheme="8" stanzaId="1" />
+    <line id="17" finToken="vertu" finSampa="v E R ' t y" rhymeScheme="9" stanzaId="1" />
+    <line id="18" finToken="vêtu" finSampa="v e ' t y" rhymeScheme="9" stanzaId="1" />
+    <line id="19" finToken="métincela" finSampa="m e t e~ s @ ' l a" rhymeScheme="10" stanzaId="1" />
+    <line id="20" finToken="cela" finSampa="s @ ' l a" rhymeScheme="10" stanzaId="1" />
+    <line id="21" finToken="sainte" finSampa="' s e~ t" rhymeScheme="11" stanzaId="1" />
+    <line id="22" finToken="atteinte" finSampa="a ' t e~ t" rhymeScheme="11" stanzaId="1" />
+    <line id="23" finToken="foula" finSampa="f u ' l a" rhymeScheme="12" stanzaId="1" />
+    <line id="24" finToken="cela" finSampa="s @ ' l a" rhymeScheme="12" stanzaId="1" />
+  </poem>
+  <poem id="POEM14" author="guillet" period="1415">
+    <line id="1" finToken="souhaité" finSampa="s u E ' t e" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="dété" finSampa="d e ' t e" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="fontaine" finSampa="f o~ ' t E n" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="pourmène" finSampa="p u ' R m E n" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="philosophie" finSampa="f i l 0 z 0 ' f i" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="fie" finSampa="' f i" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="maignie" finSampa="m E ' n i" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="compagnie" finSampa="k o~ p a ' n j i" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="accompagnée" finSampa="a k o~ p a ' n j e" rhymeScheme="5" stanzaId="1" />
+    <line id="10" finToken="gagnée" finSampa="g a ' n j e" rhymeScheme="5" stanzaId="1" />
+    <line id="11" finToken="maintes" finSampa="' m e~ t" rhymeScheme="6" stanzaId="1" />
+    <line id="12" finToken="saintes" finSampa="' s e~ t" rhymeScheme="6" stanzaId="1" />
+    <line id="13" finToken="cours" finSampa="' k u R" rhymeScheme="7" stanzaId="1" />
+    <line id="14" finToken="discours" finSampa="d i s ' k u R" rhymeScheme="7" stanzaId="1" />
+    <line id="15" finToken="mécarterais" finSampa="m e k a R t @ ' R E" rhymeScheme="8" stanzaId="1" />
+    <line id="16" finToken="jetterais" finSampa="Z E t @ ' R E" rhymeScheme="8" stanzaId="1" />
+    <line id="17" finToken="avoir" finSampa="a ' v w a R" rhymeScheme="9" stanzaId="1" />
+    <line id="18" finToken="devoir" finSampa="d @ ' v w a R" rhymeScheme="9" stanzaId="1" />
+    <line id="19" finToken="son" finSampa="' s o~" rhymeScheme="10" stanzaId="1" />
+    <line id="20" finToken="chanson" finSampa="S a~ ' s o~" rhymeScheme="10" stanzaId="1" />
+    <line id="21" finToken="tiendroit" finSampa="' j t d R w a" rhymeScheme="11" stanzaId="1" />
+    <line id="22" finToken="droit" finSampa="' d R w a" rhymeScheme="11" stanzaId="1" />
+    <line id="23" finToken="approcher" finSampa="a p R 0 ' S e" rhymeScheme="12" stanzaId="1" />
+    <line id="24" finToken="toucher" finSampa="t u ' S e" rhymeScheme="12" stanzaId="1" />
+    <line id="25" finToken="pleine" finSampa="' p l E n" rhymeScheme="13" stanzaId="1" />
+    <line id="26" finToken="fontaine" finSampa="f o~ ' t E n" rhymeScheme="13" stanzaId="1" />
+    <line id="27" finToken="face" finSampa="' f a s" rhymeScheme="14" stanzaId="1" />
+    <line id="28" finToken="efficace" finSampa="e f i ' k a s" rhymeScheme="14" stanzaId="1" />
+    <line id="29" finToken="muer" finSampa="' m H e" rhymeScheme="15" stanzaId="1" />
+    <line id="30" finToken="tuer" finSampa="' t H e" rhymeScheme="15" stanzaId="1" />
+    <line id="31" finToken="cerf" finSampa="' s E R" rhymeScheme="16" stanzaId="1" />
+    <line id="32" finToken="serf" finSampa="' s E R f" rhymeScheme="16" stanzaId="1" />
+    <line id="33" finToken="tellement" finSampa="t E l @ ' m a~" rhymeScheme="17" stanzaId="1" />
+    <line id="34" finToken="entendement" finSampa="a~ t a~ d @ ' m a~" rhymeScheme="17" stanzaId="1" />
+    <line id="35" finToken="envie" finSampa="a~ ' v i" rhymeScheme="18" stanzaId="1" />
+    <line id="36" finToken="ravie" finSampa="R a ' v i" rhymeScheme="18" stanzaId="1" />
+    <line id="37" finToken="dirais" finSampa="d i ' R E" rhymeScheme="19" stanzaId="1" />
+    <line id="38" finToken="cuiderais" finSampa="k H i d @ ' R E" rhymeScheme="19" stanzaId="1" />
+    <line id="39" finToken="désir" finSampa="d e ' z i R" rhymeScheme="20" stanzaId="1" />
+    <line id="40" finToken="déplaisir" finSampa="d e p l E ' z i R" rhymeScheme="20" stanzaId="1" />
+    <line id="41" finToken="muses" finSampa="' m y z" rhymeScheme="21" stanzaId="1" />
+    <line id="42" finToken="confuses" finSampa="k o~ ' f y z" rhymeScheme="21" stanzaId="1" />
+    <line id="43" finToken="gré" finSampa="' g R e" rhymeScheme="22" stanzaId="1" />
+    <line id="44" finToken="sacré" finSampa="s a ' k R e" rhymeScheme="22" stanzaId="1" />
+    <line id="45" finToken="point" finSampa="' p w e~" rhymeScheme="23" stanzaId="1" />
+    <line id="46" finToken="point" finSampa="' p w e~" rhymeScheme="23" stanzaId="1" />
+    <line id="47" finToken="servir" finSampa="s E ' R v i R" rhymeScheme="24" stanzaId="1" />
+    <line id="48" finToken="asservir" finSampa="a s E ' R v i R" rhymeScheme="24" stanzaId="1" />
+    <line id="49" finToken="mérite" finSampa="m e ' R i t" rhymeScheme="25" stanzaId="1" />
+    <line id="50" finToken="nirrite" finSampa="n i ' R i t" rhymeScheme="25" stanzaId="1" />
+    <line id="51" finToken="profonde" finSampa="p R 0 ' f o~ d" rhymeScheme="26" stanzaId="1" />
+    <line id="52" finToken="monde" finSampa="' m o~ d" rhymeScheme="26" stanzaId="1" />
+    <line id="53" finToken="sattend" finSampa="s a ' t a~" rhymeScheme="27" stanzaId="1" />
+    <line id="54" finToken="content" finSampa="k o~ ' t a~" rhymeScheme="27" stanzaId="1" />
+  </poem>
+  <poem id="POEM15" author="guillet" period="1415">
+    <line id="1" finToken="haïr" finSampa="a ' i R" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="aimer" finSampa="E ' m e" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="ebahir" finSampa="E b a ' i R" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="blâmer" finSampa="b l a ' m e" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="estimer" finSampa="E s t i ' m e" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="semblable" finSampa="s a~ ' b l a b l @" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="damnable" finSampa="d a m ' n a b l @" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="maintenu" finSampa="m e~ t @ ' n y" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="redevable" finSampa="R @ d @ ' v a b l @" rhymeScheme="3" stanzaId="1" />
+    <line id="10" finToken="tenu" finSampa="t @ ' n y" rhymeScheme="4" stanzaId="1" />
+    <line id="11" finToken="fantasie" finSampa="f a~ t a ' z i" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="fort" finSampa="' f 0 R" rhymeScheme="6" stanzaId="2" />
+    <line id="13" finToken="jalousie" finSampa="Z a l u ' z i" rhymeScheme="5" stanzaId="2" />
+    <line id="14" finToken="effort" finSampa="e ' f 0 R" rhymeScheme="6" stanzaId="2" />
+    <line id="15" finToken="fort" finSampa="' f 0 R" rhymeScheme="6" stanzaId="2" />
+    <line id="16" finToken="pourvu" finSampa="p u ' R v y" rhymeScheme="7" stanzaId="2" />
+    <line id="17" finToken="vu" finSampa="' v y" rhymeScheme="7" stanzaId="2" />
+    <line id="18" finToken="imagination" finSampa="i m a Z i n a ' s j o~" rhymeScheme="8" stanzaId="2" />
+    <line id="19" finToken="dépourvu" finSampa="d e p u ' R v y" rhymeScheme="7" stanzaId="2" />
+    <line id="20" finToken="grandconsolation" finSampa="g R a~ d k o~ s 0 l a ' s j o~" rhymeScheme="8" stanzaId="2" />
+    <line id="21" finToken="plains" finSampa="' p l e~" rhymeScheme="9" stanzaId="3" />
+    <line id="22" finToken="celui" finSampa="s @ ' l H i" rhymeScheme="10" stanzaId="3" />
+    <line id="23" finToken="pleins" finSampa="' p l e~" rhymeScheme="9" stanzaId="3" />
+    <line id="24" finToken="ennui" finSampa="a~ ' n H i" rhymeScheme="10" stanzaId="3" />
+    <line id="25" finToken="lui" finSampa="' l H i" rhymeScheme="10" stanzaId="3" />
+    <line id="26" finToken="jouissance" finSampa="Z u i ' s a~ s" rhymeScheme="11" stanzaId="3" />
+    <line id="27" finToken="déplaisance" finSampa="d e ' p l E ' z a~ s" rhymeScheme="11" stanzaId="3" />
+    <line id="28" finToken="déjoindre" finSampa="d e ' ' Z w e~ d R @" rhymeScheme="12" stanzaId="3" />
+    <line id="29" finToken="connaissance" finSampa="k 0 n E ' s a~ s" rhymeScheme="11" stanzaId="3" />
+    <line id="30" finToken="moindre" finSampa="' m w e~ d R @" rhymeScheme="12" stanzaId="3" />
+    <line id="31" finToken="loeil" finSampa="' l E j" rhymeScheme="13" stanzaId="4" />
+    <line id="32" finToken="bonne" finSampa="' b 0 n" rhymeScheme="14" stanzaId="4" />
+    <line id="33" finToken="soleil" finSampa="s 0 ' l E j" rhymeScheme="13" stanzaId="4" />
+    <line id="34" finToken="étonne" finSampa="e ' t 0 n" rhymeScheme="14" stanzaId="4" />
+    <line id="35" finToken="résonne" finSampa="R e ' z 0 n" rhymeScheme="14" stanzaId="4" />
+    <line id="36" finToken="survenu" finSampa="s y R v @ ' n y" rhymeScheme="15" stanzaId="4" />
+    <line id="37" finToken="prévenu" finSampa="p R e v @ ' n y" rhymeScheme="15" stanzaId="4" />
+    <line id="38" finToken="persévérance" finSampa="p E R s e v e ' R a~ s" rhymeScheme="16" stanzaId="4" />
+    <line id="39" finToken="venu" finSampa="v @ ' n y" rhymeScheme="15" stanzaId="4" />
+    <line id="40" finToken="assurance" finSampa="a s y ' R a~ s" rhymeScheme="16" stanzaId="4" />
+    <line id="41" finToken="aller" finSampa="a ' l e" rhymeScheme="17" stanzaId="5" />
+    <line id="42" finToken="coutumière" finSampa="k u t y ' m j E R" rhymeScheme="18" stanzaId="5" />
+    <line id="43" finToken="dévaler" finSampa="d e v a ' l e" rhymeScheme="17" stanzaId="5" />
+    <line id="44" finToken="première" finSampa="p R @ ' m j E R" rhymeScheme="18" stanzaId="5" />
+    <line id="45" finToken="lumière" finSampa="l y ' m j E R" rhymeScheme="18" stanzaId="5" />
+    <line id="46" finToken="nuit" finSampa="' n H i" rhymeScheme="19" stanzaId="5" />
+    <line id="47" finToken="lumière" finSampa="l y ' m j E R" rhymeScheme="18" stanzaId="5" />
+    <line id="48" finToken="reluit" finSampa="R @ ' l H i" rhymeScheme="19" stanzaId="5" />
+    <line id="49" finToken="dune" finSampa="' d y n" rhymeScheme="20" stanzaId="6" />
+    <line id="50" finToken="repos" finSampa="R @ ' p o" rhymeScheme="21" stanzaId="6" />
+    <line id="51" finToken="commune" finSampa="k 0 ' m y n" rhymeScheme="20" stanzaId="6" />
+    <line id="52" finToken="propos" finSampa="p R 0 ' p o" rhymeScheme="21" stanzaId="6" />
+    <line id="53" finToken="dispos" finSampa="d i s ' p o" rhymeScheme="21" stanzaId="6" />
+    <line id="54" finToken="grégeoise" finSampa="g R e ' Z w a z" rhymeScheme="22" stanzaId="6" />
+    <line id="55" finToken="bourgeoise" finSampa="b u ' R Z w a z" rhymeScheme="22" stanzaId="6" />
+    <line id="56" finToken="callimera" finSampa="k a l i m @ ' R a" rhymeScheme="23" stanzaId="6" />
+    <line id="57" finToken="noise" finSampa="' n w a z" rhymeScheme="22" stanzaId="6" />
+    <line id="58" finToken="laimera" finSampa="l E m @ ' R a" rhymeScheme="23" stanzaId="6" />
+    <line id="59" finToken="augure" finSampa="o ' g y R" rhymeScheme="24" stanzaId="7" />
+    <line id="60" finToken="mestimera" finSampa="m E s t i m @ ' R a" rhymeScheme="25" stanzaId="7" />
+    <line id="61" finToken="aventure" finSampa="a v a~ ' t y R" rhymeScheme="24" stanzaId="7" />
+    <line id="62" finToken="imera" finSampa="i m @ ' R a" rhymeScheme="25" stanzaId="7" />
+    <line id="63" finToken="maimera" finSampa="m E m @ ' R a" rhymeScheme="25" stanzaId="7" />
+    <line id="64" finToken="enflammer" finSampa="a~ f l a ' m e" rhymeScheme="26" stanzaId="7" />
+    <line id="65" finToken="a" finSampa="' a" rhymeScheme="25" stanzaId="7" />
+    <line id="66" finToken="aimer" finSampa="E ' m e" rhymeScheme="26" stanzaId="7" />
+    <line id="67" finToken="violente" finSampa="v j 0 ' l a~ t" rhymeScheme="27" stanzaId="8" />
+    <line id="68" finToken="périr" finSampa="p e ' R i R" rhymeScheme="28" stanzaId="8" />
+    <line id="69" finToken="lente" finSampa="' l a~ t" rhymeScheme="27" stanzaId="8" />
+    <line id="70" finToken="nourrir" finSampa="n u ' R i R" rhymeScheme="28" stanzaId="8" />
+    <line id="71" finToken="mourir" finSampa="m u ' R i R" rhymeScheme="28" stanzaId="8" />
+    <line id="72" finToken="allumée" finSampa="a l y ' m e" rhymeScheme="29" stanzaId="8" />
+    <line id="73" finToken="accoutumée" finSampa="a k u t y ' m e" rhymeScheme="29" stanzaId="8" />
+    <line id="74" finToken="véhémence" finSampa="v e e ' m a~ s" rhymeScheme="30" stanzaId="8" />
+    <line id="75" finToken="consumée" finSampa="k o~ s y ' m e" rhymeScheme="29" stanzaId="8" />
+    <line id="76" finToken="clémence" finSampa="k l e ' m a~ s" rhymeScheme="30" stanzaId="8" />
+    <line id="77" finToken="véritable" finSampa="v e R i ' t a b l @" rhymeScheme="31" stanzaId="9" />
+    <line id="78" finToken="contentement" finSampa="k o~ t a~ t @ ' m a~" rhymeScheme="32" stanzaId="9" />
+    <line id="79" finToken="durable" finSampa="d y ' R a b l @" rhymeScheme="31" stanzaId="9" />
+    <line id="80" finToken="seulement" finSampa="s 9 l @ ' m a~" rhymeScheme="32" stanzaId="9" />
+    <line id="81" finToken="commencement" finSampa="k 0 m a~ s @ ' m a~" rhymeScheme="32" stanzaId="9" />
+    <line id="82" finToken="estimable" finSampa="E s t i ' m a b l @" rhymeScheme="33" stanzaId="9" />
+    <line id="83" finToken="incroyable" finSampa="e~ k R w a ' j a b l @" rhymeScheme="33" stanzaId="9" />
+    <line id="84" finToken="sûrement" finSampa="s y R @ ' m a~" rhymeScheme="32" stanzaId="9" />
+    <line id="85" finToken="prétendre" finSampa="p R e ' t a~ d R @" rhymeScheme="34" stanzaId="10" />
+    <line id="86" finToken="porter" finSampa="p 0 R ' t e" rhymeScheme="35" stanzaId="10" />
+    <line id="87" finToken="surprendre" finSampa="s y R ' p R a~ d R @" rhymeScheme="34" stanzaId="10" />
+    <line id="88" finToken="supporter" finSampa="s y p 0 R ' t e" rhymeScheme="35" stanzaId="10" />
+    <line id="89" finToken="contenter" finSampa="k o~ t a~ ' t e" rhymeScheme="35" stanzaId="10" />
+    <line id="90" finToken="subvertir" finSampa="s y b v E R ' t i R" rhymeScheme="36" stanzaId="10" />
+    <line id="91" finToken="regretter" finSampa="R @ g R e ' t e" rhymeScheme="35" stanzaId="10" />
+    <line id="92" finToken="départir" finSampa="d e p a R ' t i R" rhymeScheme="36" stanzaId="10" />
+    <line id="93" finToken="aimer" finSampa="E ' m e" rhymeScheme="37" stanzaId="11" />
+    <line id="94" finToken="jeunesse" finSampa="Z @ ' n E s" rhymeScheme="38" stanzaId="11" />
+    <line id="95" finToken="amer" finSampa="a ' m E R" rhymeScheme="37" stanzaId="11" />
+    <line id="96" finToken="détresse" finSampa="d e ' t R E s" rhymeScheme="38" stanzaId="11" />
+    <line id="97" finToken="madresse" finSampa="m a ' d R e s" rhymeScheme="38" stanzaId="11" />
+    <line id="98" finToken="siniquiter" finSampa="s i n i k i ' t e" rhymeScheme="39" stanzaId="11" />
+    <line id="99" finToken="macquitter" finSampa="m a k k i ' t e" rhymeScheme="39" stanzaId="11" />
+    <line id="100" finToken="mécarte" finSampa="m e ' k a R t @" rhymeScheme="40" stanzaId="11" />
+    <line id="101" finToken="quitter" finSampa="k i ' t e" rhymeScheme="39" stanzaId="11" />
+    <line id="102" finToken="quarte" finSampa="' k a R t @" rhymeScheme="40" stanzaId="11" />
+    <line id="103" finToken="théorique" finSampa="t e 0 ' R i k" rhymeScheme="41" stanzaId="12" />
+    <line id="104" finToken="pratique" finSampa="p R a ' t i k" rhymeScheme="41" stanzaId="12" />
+    <line id="105" finToken="pouvait" finSampa="p u ' v E" rhymeScheme="42" stanzaId="12" />
+    <line id="106" finToken="savait" finSampa="s a ' v E" rhymeScheme="42" stanzaId="12" />
+    <line id="107" finToken="sophistique" finSampa="s 0 f i s ' t i k" rhymeScheme="43" stanzaId="12" />
+    <line id="108" finToken="dormant" finSampa="d 0 R ' m a~" rhymeScheme="44" stanzaId="12" />
+    <line id="109" finToken="réplique" finSampa="R e ' p l i k" rhymeScheme="43" stanzaId="12" />
+    <line id="110" finToken="lamant" finSampa="l a ' m a~" rhymeScheme="44" stanzaId="12" />
+  </poem>
+  <poem id="POEM16" author="guillet" period="1415">
+    <line id="1" finToken="peine" finSampa="' p E n" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="plaisir" finSampa="p l E ' z i R" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="certaine" finSampa="s E R ' t E n" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="désir" finSampa="d e ' z i R" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="requérir" finSampa="R @ k e ' R i R" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="acquérir" finSampa="a k e ' R i R" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="pourchasse" finSampa="p u ' R S a s" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="désirer" finSampa="d e z i ' R e" rhymeScheme="5" stanzaId="2" />
+    <line id="9" finToken="grâce" finSampa="' g R a s" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="retirer" finSampa="R @ t i ' R e" rhymeScheme="5" stanzaId="2" />
+    <line id="11" finToken="service" finSampa="s E ' R v i s" rhymeScheme="6" stanzaId="2" />
+    <line id="12" finToken="point" finSampa="' p w e~" rhymeScheme="7" stanzaId="2" />
+    <line id="13" finToken="vice" finSampa="' v i s" rhymeScheme="6" stanzaId="2" />
+    <line id="14" finToken="point" finSampa="' p w e~" rhymeScheme="7" stanzaId="2" />
+    <line id="15" finToken="devient" finSampa="d @ ' v j e~" rhymeScheme="8" stanzaId="2" />
+    <line id="16" finToken="survient" finSampa="s y ' R v j e~" rhymeScheme="8" stanzaId="2" />
+    <line id="17" finToken="domine" finSampa="d 0 ' m i n" rhymeScheme="9" stanzaId="3" />
+    <line id="18" finToken="haut" finSampa="' o" rhymeScheme="10" stanzaId="3" />
+    <line id="19" finToken="mine" finSampa="' m i n" rhymeScheme="9" stanzaId="3" />
+    <line id="20" finToken="faut" finSampa="' f o" rhymeScheme="10" stanzaId="3" />
+    <line id="21" finToken="mienne" finSampa="' m j E n" rhymeScheme="11" stanzaId="3" />
+    <line id="22" finToken="sien" finSampa="' s j e~" rhymeScheme="12" stanzaId="3" />
+    <line id="23" finToken="sienne" finSampa="' s j E n" rhymeScheme="11" stanzaId="3" />
+    <line id="24" finToken="mien" finSampa="' m j e~" rhymeScheme="12" stanzaId="3" />
+    <line id="25" finToken="uni" finSampa="y ' n i" rhymeScheme="13" stanzaId="3" />
+    <line id="26" finToken="infini" finSampa="e~ f i ' n i" rhymeScheme="13" stanzaId="3" />
+    <line id="27" finToken="désire" finSampa="d e ' z i R" rhymeScheme="14" stanzaId="4" />
+    <line id="28" finToken="saint" finSampa="' s e~" rhymeScheme="15" stanzaId="4" />
+    <line id="29" finToken="martyre" finSampa="m a R ' t i R" rhymeScheme="14" stanzaId="4" />
+    <line id="30" finToken="ceint" finSampa="' s e~" rhymeScheme="15" stanzaId="4" />
+    <line id="31" finToken="engendre" finSampa="a~ ' Z a~ d R @" rhymeScheme="16" stanzaId="4" />
+    <line id="32" finToken="voir" finSampa="' v w a R" rhymeScheme="17" stanzaId="4" />
+    <line id="33" finToken="apprendre" finSampa="a ' p R a~ d R @" rhymeScheme="16" stanzaId="4" />
+    <line id="34" finToken="savoir" finSampa="s a ' v w a R" rhymeScheme="17" stanzaId="4" />
+    <line id="35" finToken="vertu" finSampa="v E R ' t y" rhymeScheme="18" stanzaId="4" />
+    <line id="36" finToken="battu" finSampa="b a ' t y" rhymeScheme="18" stanzaId="4" />
+    <line id="37" finToken="corrige" finSampa="k 0 ' R i Z" rhymeScheme="19" stanzaId="5" />
+    <line id="38" finToken="coeur" finSampa="' k 9 R" rhymeScheme="20" stanzaId="5" />
+    <line id="39" finToken="sérige" finSampa="s e ' R i Z" rhymeScheme="19" stanzaId="5" />
+    <line id="40" finToken="vainqueur" finSampa="v e~ ' k 9 R" rhymeScheme="20" stanzaId="5" />
+    <line id="41" finToken="travaille" finSampa="t R a ' v a j" rhymeScheme="21" stanzaId="5" />
+    <line id="42" finToken="espoir" finSampa="E s ' p w a R" rhymeScheme="22" stanzaId="5" />
+    <line id="43" finToken="baille" finSampa="' b a j" rhymeScheme="21" stanzaId="5" />
+    <line id="44" finToken="savoir" finSampa="s a ' v w a R" rhymeScheme="22" stanzaId="5" />
+    <line id="45" finToken="assuré" finSampa="a s y ' R e" rhymeScheme="23" stanzaId="5" />
+    <line id="46" finToken="démesuré" finSampa="d e m @ z y ' R e" rhymeScheme="23" stanzaId="5" />
+    <line id="47" finToken="croisse" finSampa="' k R w a s" rhymeScheme="24" stanzaId="6" />
+    <line id="48" finToken="fort" finSampa="' f 0 R" rhymeScheme="25" stanzaId="6" />
+    <line id="49" finToken="quapparoisse" finSampa="k a p a ' R w a s" rhymeScheme="24" stanzaId="6" />
+    <line id="50" finToken="fort" finSampa="' f 0 R" rhymeScheme="25" stanzaId="6" />
+    <line id="51" finToken="voie" finSampa="' v w a" rhymeScheme="26" stanzaId="6" />
+    <line id="52" finToken="ainsi" finSampa="e~ ' s i" rhymeScheme="27" stanzaId="6" />
+    <line id="53" finToken="voie" finSampa="' v w a" rhymeScheme="26" stanzaId="6" />
+    <line id="54" finToken="souci" finSampa="s u ' s i" rhymeScheme="27" stanzaId="6" />
+    <line id="55" finToken="monter" finSampa="m o~ ' t e" rhymeScheme="28" stanzaId="6" />
+    <line id="56" finToken="surmonter" finSampa="s y R m o~ ' t e" rhymeScheme="28" stanzaId="6" />
+    <line id="57" finToken="vie" finSampa="' v i" rhymeScheme="29" stanzaId="7" />
+    <line id="58" finToken="soulager" finSampa="s u l a ' Z e" rhymeScheme="30" stanzaId="7" />
+    <line id="59" finToken="envie" finSampa="a~ ' v i" rhymeScheme="29" stanzaId="7" />
+    <line id="60" finToken="laccourager" finSampa="l a k u R a ' Z e" rhymeScheme="30" stanzaId="7" />
+    <line id="61" finToken="maccompagne" finSampa="m a k o~ ' p a n j" rhymeScheme="31" stanzaId="7" />
+    <line id="62" finToken="désir" finSampa="d e ' z i R" rhymeScheme="32" stanzaId="7" />
+    <line id="63" finToken="népargne" finSampa="n e ' p a R n j" rhymeScheme="31" stanzaId="7" />
+    <line id="64" finToken="plaisir" finSampa="p l E ' z i R" rhymeScheme="32" stanzaId="7" />
+  </poem>
+  <poem id="POEM17" author="guillet" period="1415">
+    <line id="1" finToken="offensé" finSampa="0 f a~ ' s e" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="plaindre" finSampa="' p l e~ d R @" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="insensé" finSampa="e~ s a~ ' s e" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="atteindre" finSampa="a ' t e~ d R @" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="contraindre" finSampa="k o~ ' t R e~ d R @" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="sujétion" finSampa="s y Z e ' s j o~" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="affection" finSampa="a f E ' k s j o~" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="allégeance" finSampa="a l e ' Z a~ s" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="passion" finSampa="p a ' s j o~" rhymeScheme="3" stanzaId="1" />
+    <line id="10" finToken="vengeance" finSampa="v a~ ' Z a~ s" rhymeScheme="4" stanzaId="1" />
+  </poem>
+  <poem id="POEM18" author="guillet" period="1415">
+    <line id="1" finToken="liberté" finSampa="l i b E R ' t e" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="maître" finSampa="' m E t R @" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="fierté" finSampa="f j E R ' t e" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="être" finSampa="' E t R @" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="senestre" finSampa="s @ ' n E s t R @" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="plaisir" finSampa="p l E ' z i R" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="repaistre" finSampa="R @ ' p E s t R @" rhymeScheme="2" stanzaId="1" />
+    <line id="8" finToken="désir" finSampa="d e ' z i R" rhymeScheme="3" stanzaId="1" />
+  </poem>
+  <poem id="POEM19" author="guillet" period="1415">
+    <line id="1" finToken="excuser" finSampa="E k s k y ' z e" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="substance" finSampa="s y ' p s t a~ s" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="amuser" finSampa="a m y ' z e" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="obéissance" finSampa="0 b e i ' s a~ s" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="plaisance" finSampa="p l E ' z a~ s" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="vérité" finSampa="v e R i ' t e" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="légèreté" finSampa="l e Z E R @ ' t e" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="perte" finSampa="' p E R t @" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="mérité" finSampa="m e R i ' t e" rhymeScheme="3" stanzaId="1" />
+    <line id="10" finToken="experte" finSampa="E ' k s p E R t @" rhymeScheme="4" stanzaId="1" />
+  </poem>
+  <poem id="POEM2" author="guillet" period="1415">
+    <line id="1" finToken="temps" finSampa="' t a~" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="lespérance" finSampa="l E s p e ' R a~ s" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="nattends" finSampa="n a ' t a~" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="grandassurance" finSampa="g R a~ d a s y ' R a~ s" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="foi" finSampa="' f w a" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="soi" finSampa="' s w a" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="contents" finSampa="k o~ ' t a~" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="souffrances" finSampa="s u ' f R a~ s" rhymeScheme="5" stanzaId="2" />
+    <line id="9" finToken="jentends" finSampa="Z a~ ' t a~" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="douléance" finSampa="d u l e ' a~ s" rhymeScheme="5" stanzaId="2" />
+    <line id="11" finToken="japerçois" finSampa="Z a p @ R ' s w a" rhymeScheme="6" stanzaId="2" />
+    <line id="12" finToken="moi" finSampa="' m w a" rhymeScheme="6" stanzaId="2" />
+    <line id="13" finToken="tends" finSampa="' t a~" rhymeScheme="7" stanzaId="3" />
+    <line id="14" finToken="entrèsgrandréjouissance" finSampa="a~ t R E z ' g R a~ d R e Z u i ' s a~ s" rhymeScheme="8" stanzaId="3" />
+    <line id="15" finToken="prétends" finSampa="p R e ' t a~" rhymeScheme="7" stanzaId="3" />
+    <line id="16" finToken="jouissance" finSampa="Z u i ' s a~ s" rhymeScheme="8" stanzaId="3" />
+    <line id="17" finToken="vois" finSampa="' v w a" rhymeScheme="9" stanzaId="3" />
+    <line id="18" finToken="crois" finSampa="' k R w a" rhymeScheme="9" stanzaId="3" />
+    <line id="19" finToken="passetemps" finSampa="p a s @ ' t a~ p" rhymeScheme="10" stanzaId="4" />
+    <line id="20" finToken="confiance" finSampa="k o~ ' f j a~ s" rhymeScheme="11" stanzaId="4" />
+    <line id="21" finToken="temps" finSampa="' t a~" rhymeScheme="10" stanzaId="4" />
+    <line id="22" finToken="vengeance" finSampa="v a~ ' Z a~ s" rhymeScheme="11" stanzaId="4" />
+    <line id="23" finToken="soi" finSampa="' s w a" rhymeScheme="12" stanzaId="4" />
+    <line id="24" finToken="déçois" finSampa="d e ' s w a" rhymeScheme="12" stanzaId="4" />
+  </poem>
+  <poem id="POEM20" author="guillet" period="1415">
+    <line id="1" finToken="amitié" finSampa="a m i ' t j e" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="dissension" finSampa="d i s a~ ' s j o~" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="moitié" finSampa="m w a ' t j e" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="daffection" finSampa="d a f E ' k s j o~" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="résolution" finSampa="R e z 0 l y ' s j o~" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="proprement" finSampa="p R 0 p R @ ' m a~" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="dappointement" finSampa="d a ' p w e~ t @ ' m a~" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="décrire" finSampa="d e ' k R i R" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="jugement" finSampa="Z y Z @ ' m a~" rhymeScheme="3" stanzaId="1" />
+    <line id="10" finToken="dire" finSampa="' d i R" rhymeScheme="4" stanzaId="1" />
+  </poem>
+  <poem id="POEM21" author="guillet" period="1415">
+    <line id="1" finToken="fonte" finSampa="' f o~ t" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="asconde" finSampa="a s ' k o~ d" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="monte" finSampa="' m o~ t" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="sponde" finSampa="' s p o~ d" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="assonte" finSampa="a ' s o~ t" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="londe" finSampa="' l o~ d" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="dirsuole" finSampa="d i R s y ' 0 l" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="vuole" finSampa="v y ' 0 l" rhymeScheme="3" stanzaId="1" />
+  </poem>
+  <poem id="POEM22" author="guillet" period="1415">
+    <line id="1" finToken="volsi" finSampa="v 0 l ' s i" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="mia" finSampa="' m j a" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="tolsi" finSampa="t 0 l ' s i" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="sia" finSampa="' s j a" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="accolsi" finSampa="a k 0 l ' s i" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="via" finSampa="' v j a" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="fuora" finSampa="f y 0 ' R a" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="chimuora" finSampa="S i i m y 0 ' R a" rhymeScheme="3" stanzaId="1" />
+  </poem>
+  <poem id="POEM23" author="guillet" period="1415">
+    <line id="1" finToken="journée" finSampa="Z u ' R n e" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="jour" finSampa="' Z u R" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="détournée" finSampa="d e t u ' R n e" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="séjour" finSampa="s e ' Z u R" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="point" finSampa="' p w e~" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="point" finSampa="' p w e~" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="être" finSampa="' E t R @" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="bien" finSampa="' b j e~" rhymeScheme="5" stanzaId="2" />
+    <line id="9" finToken="être" finSampa="' E t R @" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="bien" finSampa="' b j e~" rhymeScheme="5" stanzaId="2" />
+    <line id="11" finToken="ténèbres" finSampa="t e ' n E b R @" rhymeScheme="6" stanzaId="2" />
+    <line id="12" finToken="voir" finSampa="' v w a R" rhymeScheme="7" stanzaId="2" />
+    <line id="13" finToken="funèbres" finSampa="f y ' n E b R @" rhymeScheme="6" stanzaId="2" />
+    <line id="14" finToken="avoir" finSampa="a ' v w a R" rhymeScheme="7" stanzaId="2" />
+    <line id="15" finToken="réjouir" finSampa="R e Z u ' i R" rhymeScheme="8" stanzaId="2" />
+    <line id="16" finToken="jouir" finSampa="Z u ' i R" rhymeScheme="8" stanzaId="2" />
+    <line id="17" finToken="jouissance" finSampa="Z u i ' s a~ s" rhymeScheme="9" stanzaId="3" />
+    <line id="18" finToken="pitié" finSampa="p i ' t j e" rhymeScheme="10" stanzaId="3" />
+    <line id="19" finToken="puissance" finSampa="p H i ' s a~ s" rhymeScheme="9" stanzaId="3" />
+    <line id="20" finToken="amitié" finSampa="a m i ' t j e" rhymeScheme="10" stanzaId="3" />
+    <line id="21" finToken="fondée" finSampa="f o~ ' d e" rhymeScheme="11" stanzaId="3" />
+    <line id="22" finToken="prospérité" finSampa="p R 0 s p e R i ' t e" rhymeScheme="12" stanzaId="3" />
+    <line id="23" finToken="sondée" finSampa="s o~ ' d e" rhymeScheme="11" stanzaId="3" />
+    <line id="24" finToken="équité" finSampa="e k i ' t e" rhymeScheme="12" stanzaId="3" />
+    <line id="25" finToken="déclarer" finSampa="d e k l a ' R e" rhymeScheme="13" stanzaId="3" />
+    <line id="26" finToken="éclairer" finSampa="e k l E ' R e" rhymeScheme="13" stanzaId="3" />
+    <line id="27" finToken="cache" finSampa="' k a S" rhymeScheme="14" stanzaId="4" />
+    <line id="28" finToken="maux" finSampa="' m o" rhymeScheme="15" stanzaId="4" />
+    <line id="29" finToken="sache" finSampa="' s a S" rhymeScheme="14" stanzaId="4" />
+    <line id="30" finToken="cauts" finSampa="' k o" rhymeScheme="15" stanzaId="4" />
+    <line id="31" finToken="paresse" finSampa="p a ' R E s" rhymeScheme="16" stanzaId="4" />
+    <line id="32" finToken="nuit" finSampa="' n H i" rhymeScheme="17" stanzaId="4" />
+    <line id="33" finToken="dresse" finSampa="' d R E s" rhymeScheme="16" stanzaId="4" />
+    <line id="34" finToken="duit" finSampa="' d H i" rhymeScheme="17" stanzaId="4" />
+    <line id="35" finToken="estimer" finSampa="E s t i ' m e" rhymeScheme="18" stanzaId="4" />
+    <line id="36" finToken="allumer" finSampa="a l y ' m e" rhymeScheme="18" stanzaId="4" />
+    <line id="37" finToken="cure" finSampa="' k y R" rhymeScheme="19" stanzaId="5" />
+    <line id="38" finToken="clarté" finSampa="k l a R ' t e" rhymeScheme="20" stanzaId="5" />
+    <line id="39" finToken="obscure" finSampa="0 p ' s k y R" rhymeScheme="19" stanzaId="5" />
+    <line id="40" finToken="écartés" finSampa="e k a R ' t e" rhymeScheme="20" stanzaId="5" />
+    <line id="41" finToken="éclairée" finSampa="e k l E ' R e" rhymeScheme="21" stanzaId="5" />
+    <line id="42" finToken="jour" finSampa="' Z u R" rhymeScheme="22" stanzaId="5" />
+    <line id="43" finToken="assurée" finSampa="a s y ' R e" rhymeScheme="21" stanzaId="5" />
+    <line id="44" finToken="séjour" finSampa="s e ' Z u R" rhymeScheme="22" stanzaId="5" />
+  </poem>
+  <poem id="POEM24" author="guillet" period="1415">
+    <line id="1" finToken="psyché" finSampa="p s i ' S e" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="plaisance" finSampa="p l E ' z a~ s" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="échets" finSampa="e ' S E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="trèsgrandréjouissance" finSampa="t R E z g R a~ d R e Z u i ' s a~ s" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="ouï" finSampa="' w i" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="cygne" finSampa="' s i n j" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="réjoui" finSampa="R e Z u ' i" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="signe" finSampa="' s i n j" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="prie" finSampa="' p R i" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="amère" finSampa="a ' m E R" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="cri" finSampa="' k R i" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="mère" finSampa="' m E R" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="bouter" finSampa="b u ' t e" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="fenêtre" finSampa="f @ ' n E t R @" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="jeter" finSampa="Z @ ' t e" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="être" finSampa="' E t R @" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="étang" finSampa="e ' t a~" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="mer" finSampa="' m E R" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="blanc" finSampa="' b l a~" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="amer" finSampa="a ' m E R" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="disaitil" finSampa="d i z E ' t i" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="empirée" finSampa="a~ p i ' R e" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="subtil" finSampa="s y ' p t i l" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="empirée" finSampa="a~ p i ' R e" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="grandenvie" finSampa="g R a~ d a~ ' v i" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="vie" finSampa="' v i" rhymeScheme="13" stanzaId="7" />
+    <line id="27" finToken="finis" finSampa="f i ' n i" rhymeScheme="14" stanzaId="7" />
+    <line id="28" finToken="maîtresse" finSampa="m E ' t R E s" rhymeScheme="15" stanzaId="8" />
+    <line id="29" finToken="laissée" finSampa="l E ' s e" rhymeScheme="16" stanzaId="8" />
+    <line id="30" finToken="détresse" finSampa="d e ' t R E s" rhymeScheme="15" stanzaId="8" />
+    <line id="31" finToken="offensée" finSampa="0 f a~ ' s e" rhymeScheme="16" stanzaId="8" />
+    <line id="32" finToken="porter" finSampa="p 0 R ' t e" rhymeScheme="17" stanzaId="9" />
+    <line id="33" finToken="gaie" finSampa="' g E" rhymeScheme="18" stanzaId="9" />
+    <line id="34" finToken="réconforter" finSampa="R e k o~ f 0 R ' t e" rhymeScheme="17" stanzaId="9" />
+    <line id="35" finToken="sessaie" finSampa="s e ' s E" rhymeScheme="18" stanzaId="9" />
+    <line id="36" finToken="nouvelles" finSampa="n u ' v E l" rhymeScheme="19" stanzaId="10" />
+    <line id="37" finToken="accollée" finSampa="a k 0 ' l e" rhymeScheme="20" stanzaId="10" />
+    <line id="38" finToken="ailes" finSampa="' E l" rhymeScheme="19" stanzaId="10" />
+    <line id="39" finToken="volée" finSampa="v 0 ' l e" rhymeScheme="20" stanzaId="10" />
+    <line id="40" finToken="fendu" finSampa="f a~ ' d y" rhymeScheme="21" stanzaId="11" />
+    <line id="41" finToken="contrée" finSampa="k o~ ' t R e" rhymeScheme="22" stanzaId="11" />
+    <line id="42" finToken="descendu" finSampa="d e s a~ ' d y" rhymeScheme="21" stanzaId="11" />
+    <line id="43" finToken="rencontrée" finSampa="R a~ k o~ ' t R e" rhymeScheme="22" stanzaId="11" />
+    <line id="44" finToken="arrivés" finSampa="a R i ' v e" rhymeScheme="23" stanzaId="12" />
+    <line id="45" finToken="frères" finSampa="' f R E R" rhymeScheme="24" stanzaId="12" />
+    <line id="46" finToken="privés" finSampa="p R i ' v e" rhymeScheme="23" stanzaId="12" />
+    <line id="47" finToken="confrères" finSampa="k o~ ' f R E R" rhymeScheme="24" stanzaId="12" />
+    <line id="48" finToken="allégeance" finSampa="a l e ' Z a~ s" rhymeScheme="25" stanzaId="13" />
+    <line id="49" finToken="dolente" finSampa="d 0 ' l a~ t" rhymeScheme="26" stanzaId="13" />
+    <line id="50" finToken="vengeance" finSampa="v a~ ' Z a~ s" rhymeScheme="25" stanzaId="13" />
+    <line id="51" finToken="violente" finSampa="v j 0 ' l a~ t" rhymeScheme="26" stanzaId="13" />
+    <line id="52" finToken="bois" finSampa="' b w a" rhymeScheme="27" stanzaId="14" />
+    <line id="53" finToken="trousse" finSampa="' t R u s" rhymeScheme="28" stanzaId="14" />
+    <line id="54" finToken="abois" finSampa="a ' b w a" rhymeScheme="27" stanzaId="14" />
+    <line id="55" finToken="trousse" finSampa="' t R u s" rhymeScheme="28" stanzaId="14" />
+    <line id="56" finToken="pourchassé" finSampa="p u R S a ' s e" rhymeScheme="29" stanzaId="15" />
+    <line id="57" finToken="suite" finSampa="' s H i t" rhymeScheme="30" stanzaId="15" />
+    <line id="58" finToken="lassé" finSampa="l a ' s e" rhymeScheme="29" stanzaId="15" />
+    <line id="59" finToken="fuite" finSampa="' f H i t" rhymeScheme="30" stanzaId="15" />
+    <line id="60" finToken="cohorte" finSampa="k 0 ' 0 R t @" rhymeScheme="31" stanzaId="16" />
+    <line id="61" finToken="lentour" finSampa="l a~ ' t u R" rhymeScheme="32" stanzaId="16" />
+    <line id="62" finToken="forte" finSampa="' f 0 R t @" rhymeScheme="31" stanzaId="16" />
+    <line id="63" finToken="tour" finSampa="' t u R" rhymeScheme="32" stanzaId="16" />
+    <line id="64" finToken="corde" finSampa="' k 0 R d @" rhymeScheme="33" stanzaId="17" />
+    <line id="65" finToken="heurtant" finSampa="9 R ' t a~" rhymeScheme="34" stanzaId="17" />
+    <line id="66" finToken="miséricorde" finSampa="m i z e R i ' k 0 R d @" rhymeScheme="33" stanzaId="17" />
+    <line id="67" finToken="battant" finSampa="b a ' t a~" rhymeScheme="34" stanzaId="17" />
+    <line id="68" finToken="amené" finSampa="a m @ ' n e" rhymeScheme="35" stanzaId="18" />
+    <line id="69" finToken="éplorée" finSampa="e p l 0 ' R e" rhymeScheme="36" stanzaId="18" />
+    <line id="70" finToken="démené" finSampa="d e m @ ' n e" rhymeScheme="35" stanzaId="18" />
+    <line id="71" finToken="désespérée" finSampa="d e z E s p e ' R e" rhymeScheme="36" stanzaId="18" />
+    <line id="72" finToken="doulait" finSampa="d u ' l E" rhymeScheme="37" stanzaId="19" />
+    <line id="73" finToken="attendre" finSampa="a ' t a~ d R @" rhymeScheme="38" stanzaId="19" />
+    <line id="74" finToken="voulait" finSampa="v u ' l E" rhymeScheme="37" stanzaId="19" />
+    <line id="75" finToken="tendre" finSampa="' t a~ d R @" rhymeScheme="38" stanzaId="19" />
+    <line id="76" finToken="dit" finSampa="' d i" rhymeScheme="39" stanzaId="20" />
+    <line id="77" finToken="outrage" finSampa="u ' t R a Z" rhymeScheme="40" stanzaId="20" />
+    <line id="78" finToken="contredit" finSampa="k o~ t R @ ' d i" rhymeScheme="39" stanzaId="20" />
+    <line id="79" finToken="courage" finSampa="k u ' R a Z" rhymeScheme="40" stanzaId="20" />
+    <line id="80" finToken="bête" finSampa="' b E t" rhymeScheme="41" stanzaId="21" />
+    <line id="81" finToken="semblait" finSampa="s a~ ' b l E" rhymeScheme="42" stanzaId="21" />
+    <line id="82" finToken="tête" finSampa="' t @ t" rhymeScheme="41" stanzaId="21" />
+    <line id="83" finToken="tremblait" finSampa="t R a~ ' b l E" rhymeScheme="42" stanzaId="21" />
+    <line id="84" finToken="épais" finSampa="e ' p E" rhymeScheme="43" stanzaId="22" />
+    <line id="85" finToken="troublée" finSampa="t R u ' b l e" rhymeScheme="44" stanzaId="22" />
+    <line id="86" finToken="paix" finSampa="' p E" rhymeScheme="43" stanzaId="22" />
+    <line id="87" finToken="assemblée" finSampa="a s a~ ' b l e" rhymeScheme="44" stanzaId="22" />
+    <line id="88" finToken="sanglier" finSampa="s a~ g l i ' j e" rhymeScheme="45" stanzaId="23" />
+    <line id="89" finToken="assuré" finSampa="a s y ' R e" rhymeScheme="46" stanzaId="23" />
+    <line id="90" finToken="déplier" finSampa="d e p l i ' j e" rhymeScheme="45" stanzaId="23" />
+    <line id="91" finToken="démesuré" finSampa="d e m @ z y ' R e" rhymeScheme="46" stanzaId="23" />
+    <line id="92" finToken="insensée" finSampa="e~ s a~ ' s e" rhymeScheme="47" stanzaId="24" />
+    <line id="93" finToken="outré" finSampa="u ' t R e" rhymeScheme="48" stanzaId="24" />
+    <line id="94" finToken="offensée" finSampa="0 f a~ ' s e" rhymeScheme="47" stanzaId="24" />
+    <line id="95" finToken="montré" finSampa="m o~ ' t R e" rhymeScheme="48" stanzaId="24" />
+    <line id="96" finToken="étendu" finSampa="e t a~ ' d y" rhymeScheme="49" stanzaId="25" />
+    <line id="97" finToken="décolorée" finSampa="d e k 0 l 0 ' R e" rhymeScheme="50" stanzaId="25" />
+    <line id="98" finToken="rendu" finSampa="R a~ ' d y" rhymeScheme="49" stanzaId="25" />
+    <line id="99" finToken="éplorée" finSampa="e p l 0 ' R e" rhymeScheme="50" stanzaId="25" />
+    <line id="100" finToken="honteux" finSampa="' o~ t @" rhymeScheme="51" stanzaId="26" />
+    <line id="101" finToken="genoux" finSampa="Z @ ' n u" rhymeScheme="52" stanzaId="26" />
+    <line id="102" finToken="piteux" finSampa="' p i t @" rhymeScheme="51" stanzaId="26" />
+    <line id="103" finToken="tous" finSampa="' t u s" rhymeScheme="52" stanzaId="26" />
+    <line id="104" finToken="honorée" finSampa="0 n 0 ' R e" rhymeScheme="53" stanzaId="27" />
+    <line id="105" finToken="méfait" finSampa="m e ' f E" rhymeScheme="54" stanzaId="27" />
+    <line id="106" finToken="délibérée" finSampa="d e l i b e ' R e" rhymeScheme="53" stanzaId="27" />
+    <line id="107" finToken="fait" finSampa="' f E" rhymeScheme="54" stanzaId="27" />
+    <line id="108" finToken="vis" finSampa="' v i s" rhymeScheme="55" stanzaId="28" />
+    <line id="109" finToken="enfant" finSampa="a~ ' f a~" rhymeScheme="56" stanzaId="28" />
+    <line id="110" finToken="avis" finSampa="a ' v i" rhymeScheme="55" stanzaId="28" />
+    <line id="111" finToken="triomphant" finSampa="t R i j o~ ' f a~" rhymeScheme="56" stanzaId="28" />
+    <line id="112" finToken="grandmerveille" finSampa="g R a~ d m E R ' v E j" rhymeScheme="57" stanzaId="29" />
+    <line id="113" finToken="délicate" finSampa="d e l i ' k a t" rhymeScheme="58" stanzaId="29" />
+    <line id="114" finToken="vermeille" finSampa="v E ' R m E j" rhymeScheme="57" stanzaId="29" />
+    <line id="115" finToken="écarlate" finSampa="e k a ' R l a t" rhymeScheme="58" stanzaId="29" />
+    <line id="116" finToken="surpris" finSampa="s y R ' p R i" rhymeScheme="59" stanzaId="30" />
+    <line id="117" finToken="approcher" finSampa="a p R 0 ' S e" rhymeScheme="60" stanzaId="30" />
+    <line id="118" finToken="prix" finSampa="' p R i" rhymeScheme="59" stanzaId="30" />
+    <line id="119" finToken="toucher" finSampa="t u ' S e" rhymeScheme="60" stanzaId="30" />
+    <line id="120" finToken="branche" finSampa="' b R a~ S" rhymeScheme="61" stanzaId="31" />
+    <line id="121" finToken="apaiser" finSampa="a p E ' z e" rhymeScheme="62" stanzaId="31" />
+    <line id="122" finToken="blanche" finSampa="' b l a~ S" rhymeScheme="61" stanzaId="31" />
+    <line id="123" finToken="baiser" finSampa="b E ' z e" rhymeScheme="62" stanzaId="31" />
+    <line id="124" finToken="ardent" finSampa="a R ' d a~" rhymeScheme="63" stanzaId="32" />
+    <line id="125" finToken="adressée" finSampa="a d R e ' s e" rhymeScheme="64" stanzaId="32" />
+    <line id="126" finToken="dent" finSampa="' d a~" rhymeScheme="63" stanzaId="32" />
+    <line id="127" finToken="abaissée" finSampa="a b E ' s e" rhymeScheme="64" stanzaId="32" />
+    <line id="128" finToken="méchut" finSampa="m e ' S y" rhymeScheme="65" stanzaId="33" />
+    <line id="129" finToken="perverse" finSampa="p E ' R v E R s @" rhymeScheme="66" stanzaId="33" />
+    <line id="130" finToken="chut" finSampa="' S y t" rhymeScheme="65" stanzaId="33" />
+    <line id="131" finToken="renverse" finSampa="R a~ ' v E R s @" rhymeScheme="66" stanzaId="33" />
+    <line id="132" finToken="dieux" finSampa="' d j @" rhymeScheme="67" stanzaId="34" />
+    <line id="133" finToken="innocence" finSampa="i n 0 ' s a~ s" rhymeScheme="68" stanzaId="34" />
+    <line id="134" finToken="mieux" finSampa="' m j @" rhymeScheme="67" stanzaId="34" />
+    <line id="135" finToken="offense" finSampa="0 ' f a~ s" rhymeScheme="68" stanzaId="34" />
+    <line id="136" finToken="fit" finSampa="' f i" rhymeScheme="69" stanzaId="35" />
+    <line id="137" finToken="maléfice" finSampa="m a l e ' f i s" rhymeScheme="70" stanzaId="35" />
+    <line id="138" finToken="méfit" finSampa="m e ' f i" rhymeScheme="69" stanzaId="35" />
+    <line id="139" finToken="punisse" finSampa="p y ' n i s" rhymeScheme="70" stanzaId="35" />
+    <line id="140" finToken="hure" finSampa="' y R" rhymeScheme="71" stanzaId="36" />
+    <line id="141" finToken="émoi" finSampa="e ' m w a" rhymeScheme="72" stanzaId="36" />
+    <line id="142" finToken="aventure" finSampa="a v a~ ' t y R" rhymeScheme="71" stanzaId="36" />
+    <line id="143" finToken="moi" finSampa="' m w a" rhymeScheme="72" stanzaId="36" />
+    <line id="144" finToken="grande" finSampa="' g R a~ d" rhymeScheme="73" stanzaId="37" />
+    <line id="145" finToken="sexcusait" finSampa="s @ k s k y ' z E" rhymeScheme="74" stanzaId="37" />
+    <line id="146" finToken="lamende" finSampa="l a ' m a~ d" rhymeScheme="73" stanzaId="37" />
+    <line id="147" finToken="saccusait" finSampa="s a k y ' z E" rhymeScheme="74" stanzaId="37" />
+    <line id="148" finToken="douleur" finSampa="d u ' l 9 R" rhymeScheme="75" stanzaId="38" />
+    <line id="149" finToken="souffrait" finSampa="s u ' f R E" rhymeScheme="76" stanzaId="38" />
+    <line id="150" finToken="malheur" finSampa="m a ' l 9 R" rhymeScheme="75" stanzaId="38" />
+    <line id="151" finToken="soffrait" finSampa="s 0 f ' R E" rhymeScheme="76" stanzaId="38" />
+    <line id="152" finToken="lassistance" finSampa="l a s i s ' t a~ s" rhymeScheme="77" stanzaId="39" />
+    <line id="153" finToken="supplier" finSampa="s y p l i ' j e" rhymeScheme="78" stanzaId="39" />
+    <line id="154" finToken="sentence" finSampa="s a~ ' t a~ s" rhymeScheme="77" stanzaId="39" />
+    <line id="155" finToken="oublier" finSampa="u b l i ' j e" rhymeScheme="78" stanzaId="39" />
+    <line id="156" finToken="ditelle" finSampa="d i ' t E l" rhymeScheme="79" stanzaId="40" />
+    <line id="157" finToken="mort" finSampa="' m 0 R" rhymeScheme="80" stanzaId="40" />
+    <line id="158" finToken="cruelle" finSampa="' k R H E l" rhymeScheme="79" stanzaId="40" />
+    <line id="159" finToken="remords" finSampa="R @ ' m 0 R" rhymeScheme="80" stanzaId="40" />
+    <line id="160" finToken="forêts" finSampa="f 0 ' R E" rhymeScheme="81" stanzaId="41" />
+    <line id="161" finToken="nentrera" finSampa="n a~ t R @ ' R a" rhymeScheme="82" stanzaId="41" />
+    <line id="162" finToken="marais" finSampa="m a ' R E" rhymeScheme="81" stanzaId="41" />
+    <line id="163" finToken="vautrera" finSampa="v o t R @ ' R a" rhymeScheme="82" stanzaId="41" />
+    <line id="164" finToken="désormais" finSampa="d e z 0 R ' m E" rhymeScheme="83" stanzaId="42" />
+    <line id="165" finToken="méfait" finSampa="m e ' f E" rhymeScheme="84" stanzaId="42" />
+    <line id="166" finToken="jamais" finSampa="Z a ' m E" rhymeScheme="83" stanzaId="42" />
+    <line id="167" finToken="fait" finSampa="' f E" rhymeScheme="84" stanzaId="42" />
+    <line id="168" finToken="létendrez" finSampa="l e t a~ ' d R e" rhymeScheme="85" stanzaId="43" />
+    <line id="169" finToken="linjure" finSampa="l i ' Z y R" rhymeScheme="86" stanzaId="43" />
+    <line id="170" finToken="fendrez" finSampa="f a~ ' d R e" rhymeScheme="85" stanzaId="43" />
+    <line id="171" finToken="douverture" finSampa="d u v E R ' t y R" rhymeScheme="86" stanzaId="43" />
+    <line id="172" finToken="moyen" finSampa="m w a ' j e~" rhymeScheme="87" stanzaId="44" />
+    <line id="173" finToken="rencontreront" finSampa="R a~ k o~ t R @ ' R o~" rhymeScheme="88" stanzaId="44" />
+    <line id="174" finToken="mien" finSampa="' m j e~" rhymeScheme="87" stanzaId="44" />
+    <line id="175" finToken="pleureront" finSampa="p l 9 R @ ' R o~" rhymeScheme="88" stanzaId="44" />
+    <line id="176" finToken="sacré" finSampa="s a ' k R e" rhymeScheme="89" stanzaId="45" />
+    <line id="177" finToken="bouche" finSampa="' b u S" rhymeScheme="90" stanzaId="45" />
+    <line id="178" finToken="gré" finSampa="' g R e" rhymeScheme="89" stanzaId="45" />
+    <line id="179" finToken="couche" finSampa="' k u S" rhymeScheme="90" stanzaId="45" />
+    <line id="180" finToken="patiemment" finSampa="p a s j a ' m a~" rhymeScheme="91" stanzaId="46" />
+    <line id="181" finToken="sentence" finSampa="s a~ ' t a~ s" rhymeScheme="92" stanzaId="46" />
+    <line id="182" finToken="humblement" finSampa="9~ b l @ ' m a~" rhymeScheme="91" stanzaId="46" />
+    <line id="183" finToken="lassistance" finSampa="l a s i s ' t a~ s" rhymeScheme="92" stanzaId="46" />
+    <line id="184" finToken="voulait" finSampa="v u ' l E" rhymeScheme="93" stanzaId="47" />
+    <line id="185" finToken="déplaisance" finSampa="d e ' p l E ' z a~ s" rhymeScheme="94" stanzaId="47" />
+    <line id="186" finToken="soulait" finSampa="s u ' l E" rhymeScheme="93" stanzaId="47" />
+    <line id="187" finToken="demeurance" finSampa="d @ m 9 ' R a~ s" rhymeScheme="94" stanzaId="47" />
+  </poem>
+  <poem id="POEM25" author="guillet" period="1415">
+    <line id="1" finToken="docte" finSampa="' d 0 k t @" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="sexpérimenter" finSampa="s E k s p e R i m a~ ' t e" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="sotte" finSampa="' s 0 t" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="fréquenter" finSampa="f R e k a~ ' t e" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="hanter" finSampa="a~ ' t e" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="pleine" finSampa="' p l E n" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="contenter" finSampa="k o~ t a~ ' t e" rhymeScheme="2" stanzaId="1" />
+    <line id="8" finToken="peine" finSampa="' p E n" rhymeScheme="3" stanzaId="1" />
+  </poem>
+  <poem id="POEM26" author="guillet" period="1415">
+    <line id="1" finToken="ombrage" finSampa="o~ ' b R a Z" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="jours" finSampa="' Z u R" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="volage" finSampa="v 0 ' l a Z" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="séjours" finSampa="s e ' Z u R" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="toujours" finSampa="t u ' Z u R" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="flèche" finSampa="' f l E S" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="cherche" finSampa="' S E R S @" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="vie" finSampa="' v i" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="sèche" finSampa="' s E S" rhymeScheme="3" stanzaId="1" />
+    <line id="10" finToken="ravie" finSampa="R a ' v i" rhymeScheme="4" stanzaId="1" />
+  </poem>
+  <poem id="POEM27" author="guillet" period="1415">
+    <line id="1" finToken="page" finSampa="' p a Z" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="message" finSampa="m e ' s a Z" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="raconter" finSampa="R a k o~ ' t e" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="monter" finSampa="m o~ ' t e" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="espace" finSampa="E s ' p a s" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="passe" finSampa="' p a s" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="simplesse" finSampa="s i ' p l E s" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="sagesse" finSampa="s a ' Z E s" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="maître" finSampa="' m E t R @" rhymeScheme="5" stanzaId="1" />
+    <line id="10" finToken="dêtre" finSampa="' d E t R @" rhymeScheme="5" stanzaId="1" />
+    <line id="11" finToken="donneur" finSampa="d 0 ' n 9 R" rhymeScheme="6" stanzaId="1" />
+    <line id="12" finToken="déshonneur" finSampa="d e z 0 ' n 9 R" rhymeScheme="6" stanzaId="1" />
+    <line id="13" finToken="pucelle" finSampa="p y ' s E l" rhymeScheme="7" stanzaId="1" />
+    <line id="14" finToken="elle" finSampa="' E l" rhymeScheme="7" stanzaId="1" />
+    <line id="15" finToken="loccasion" finSampa="l 0 k a ' z j o~" rhymeScheme="8" stanzaId="1" />
+    <line id="16" finToken="occupation" finSampa="0 k y p a ' s j o~" rhymeScheme="8" stanzaId="1" />
+    <line id="17" finToken="légère" finSampa="l e ' Z E R" rhymeScheme="9" stanzaId="1" />
+    <line id="18" finToken="étrangère" finSampa="e t R a~ ' Z E R" rhymeScheme="9" stanzaId="1" />
+    <line id="19" finToken="venue" finSampa="v @ ' n y" rhymeScheme="10" stanzaId="1" />
+    <line id="20" finToken="nue" finSampa="' n y" rhymeScheme="10" stanzaId="1" />
+    <line id="21" finToken="daccoutrement" finSampa="d a k u t R @ ' m a~" rhymeScheme="11" stanzaId="1" />
+    <line id="22" finToken="ment" finSampa="' m" rhymeScheme="11" stanzaId="1" />
+    <line id="23" finToken="compte" finSampa="' k o~ t" rhymeScheme="12" stanzaId="1" />
+    <line id="24" finToken="compte" finSampa="' k o~ t" rhymeScheme="12" stanzaId="1" />
+    <line id="25" finToken="reçu" finSampa="R @ ' s y" rhymeScheme="13" stanzaId="1" />
+    <line id="26" finToken="déçu" finSampa="d e ' s y" rhymeScheme="13" stanzaId="1" />
+    <line id="27" finToken="tourterelles" finSampa="t u R t @ ' R E l" rhymeScheme="14" stanzaId="1" />
+    <line id="28" finToken="querelles" finSampa="k @ ' R E l" rhymeScheme="14" stanzaId="1" />
+    <line id="29" finToken="troyens" finSampa="t R w a ' j e~" rhymeScheme="15" stanzaId="1" />
+    <line id="30" finToken="moyens" finSampa="m w a ' j e~" rhymeScheme="15" stanzaId="1" />
+    <line id="31" finToken="sonne" finSampa="' s 0 n" rhymeScheme="16" stanzaId="1" />
+    <line id="32" finToken="saône" finSampa="' s o n" rhymeScheme="16" stanzaId="1" />
+    <line id="33" finToken="damoiselles" finSampa="d a m w a ' z E l" rhymeScheme="17" stanzaId="1" />
+    <line id="34" finToken="celles" finSampa="' s E l" rhymeScheme="17" stanzaId="1" />
+    <line id="35" finToken="noircir" finSampa="n w a ' R s i R" rhymeScheme="18" stanzaId="1" />
+    <line id="36" finToken="séclaircir" finSampa="s e k l E R ' s i R" rhymeScheme="18" stanzaId="1" />
+    <line id="37" finToken="peau" finSampa="' p o" rhymeScheme="19" stanzaId="1" />
+    <line id="38" finToken="appeau" finSampa="a ' p o" rhymeScheme="19" stanzaId="1" />
+    <line id="39" finToken="lamende" finSampa="l a ' m a~ d" rhymeScheme="20" stanzaId="1" />
+    <line id="40" finToken="demande" finSampa="d @ ' m a~ d" rhymeScheme="20" stanzaId="1" />
+    <line id="41" finToken="notoire" finSampa="n 0 t ' w a R" rhymeScheme="21" stanzaId="1" />
+    <line id="42" finToken="croire" finSampa="' k R w a R" rhymeScheme="21" stanzaId="1" />
+    <line id="43" finToken="lantique" finSampa="l a~ ' t i k" rhymeScheme="22" stanzaId="1" />
+    <line id="44" finToken="étique" finSampa="e ' t i k" rhymeScheme="22" stanzaId="1" />
+    <line id="45" finToken="juste" finSampa="' Z y s t @" rhymeScheme="23" stanzaId="1" />
+    <line id="46" finToken="buste" finSampa="' b y s t @" rhymeScheme="23" stanzaId="1" />
+    <line id="47" finToken="preuve" finSampa="' p R 9 v" rhymeScheme="24" stanzaId="1" />
+    <line id="48" finToken="treuve" finSampa="' t R @ v" rhymeScheme="24" stanzaId="1" />
+    <line id="49" finToken="piperie" finSampa="p i p @ ' R i" rhymeScheme="25" stanzaId="1" />
+    <line id="50" finToken="confrérie" finSampa="k o~ f R e ' R i" rhymeScheme="25" stanzaId="1" />
+    <line id="51" finToken="surprend" finSampa="s y R ' p R a~" rhymeScheme="26" stanzaId="1" />
+    <line id="52" finToken="prend" finSampa="' p R a~" rhymeScheme="26" stanzaId="1" />
+    <line id="53" finToken="journée" finSampa="Z u ' R n e" rhymeScheme="27" stanzaId="1" />
+    <line id="54" finToken="séjournée" finSampa="s e Z u ' R n e" rhymeScheme="27" stanzaId="1" />
+    <line id="55" finToken="prise" finSampa="' p R i z" rhymeScheme="28" stanzaId="1" />
+    <line id="56" finToken="brise" finSampa="' b R i z" rhymeScheme="28" stanzaId="1" />
+    <line id="57" finToken="métier" finSampa="m e ' t j e" rhymeScheme="29" stanzaId="1" />
+    <line id="58" finToken="métier" finSampa="m e ' t j e" rhymeScheme="29" stanzaId="1" />
+    <line id="59" finToken="danger" finSampa="d a~ ' Z e" rhymeScheme="30" stanzaId="1" />
+    <line id="60" finToken="étranger" finSampa="e t R a~ ' Z e" rhymeScheme="30" stanzaId="1" />
+    <line id="61" finToken="mentir" finSampa="m a~ ' t i R" rhymeScheme="31" stanzaId="1" />
+    <line id="62" finToken="sentir" finSampa="s a~ ' t i R" rhymeScheme="31" stanzaId="1" />
+  </poem>
+  <poem id="POEM28" author="guillet" period="1415">
+    <line id="1" finToken="sombre" finSampa="' s o~ b R @" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="maléfice" finSampa="m a l e ' f i s" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="ombre" finSampa="' o~ b R @" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="office" finSampa="0 ' f i s" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="sommeiller" finSampa="s 0 m E ' j e" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="fisse" finSampa="' f i s" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="veiller" finSampa="v E ' j e" rhymeScheme="3" stanzaId="3" />
+    <line id="8" finToken="contemplation" finSampa="k o~ t a~ p l a ' s j o~" rhymeScheme="4" stanzaId="3" />
+    <line id="9" finToken="réveiller" finSampa="R e v E ' j e" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="limagination" finSampa="l i m a Z i n a ' s j o~" rhymeScheme="4" stanzaId="4" />
+    <line id="11" finToken="cieux" finSampa="' s j @" rhymeScheme="5" stanzaId="4" />
+    <line id="12" finToken="passion" finSampa="p a ' s j o~" rhymeScheme="4" stanzaId="4" />
+    <line id="13" finToken="délicieux" finSampa="d e ' l i s j @" rhymeScheme="5" stanzaId="5" />
+    <line id="14" finToken="aise" finSampa="' E z" rhymeScheme="6" stanzaId="5" />
+    <line id="15" finToken="mieux" finSampa="' m j @" rhymeScheme="5" stanzaId="5" />
+    <line id="16" finToken="sapaise" finSampa="s a ' p E z" rhymeScheme="6" stanzaId="6" />
+    <line id="17" finToken="mébahis" finSampa="m e b a ' i" rhymeScheme="7" stanzaId="6" />
+    <line id="18" finToken="malaise" finSampa="m a ' l E z" rhymeScheme="6" stanzaId="6" />
+    <line id="19" finToken="pays" finSampa="p e ' i" rhymeScheme="7" stanzaId="7" />
+    <line id="20" finToken="horribles" finSampa="0 ' R i b l @" rhymeScheme="8" stanzaId="7" />
+    <line id="21" finToken="haïs" finSampa="a ' i" rhymeScheme="7" stanzaId="7" />
+    <line id="22" finToken="terribles" finSampa="t E ' R i b l @" rhymeScheme="8" stanzaId="8" />
+    <line id="23" finToken="silence" finSampa="s i ' l a~ s" rhymeScheme="9" stanzaId="8" />
+    <line id="24" finToken="impossibles" finSampa="e~ p 0 ' s i b l @" rhymeScheme="8" stanzaId="8" />
+    <line id="25" finToken="violence" finSampa="v j 0 ' l a~ s" rhymeScheme="9" stanzaId="9" />
+    <line id="26" finToken="paix" finSampa="' p E" rhymeScheme="10" stanzaId="9" />
+    <line id="27" finToken="impatience" finSampa="e~ p a ' s j a~ s" rhymeScheme="9" stanzaId="9" />
+    <line id="28" finToken="pais" finSampa="' p E" rhymeScheme="10" stanzaId="10" />
+    <line id="29" finToken="être" finSampa="' E t R @" rhymeScheme="11" stanzaId="10" />
+    <line id="30" finToken="tais" finSampa="' t E" rhymeScheme="10" stanzaId="10" />
+    <line id="31" finToken="senestre" finSampa="s @ ' n E s t R @" rhymeScheme="11" stanzaId="11" />
+    <line id="32" finToken="révérence" finSampa="R e v e ' R a~ s" rhymeScheme="12" stanzaId="11" />
+    <line id="33" finToken="prêtre" finSampa="' p R E t R @" rhymeScheme="11" stanzaId="11" />
+    <line id="34" finToken="apparence" finSampa="a p a ' R a~ s" rhymeScheme="12" stanzaId="12" />
+    <line id="35" finToken="parvenir" finSampa="p a R v @ ' n i R" rhymeScheme="13" stanzaId="12" />
+    <line id="36" finToken="différence" finSampa="d i f e ' R a~ s" rhymeScheme="12" stanzaId="12" />
+    <line id="37" finToken="venir" finSampa="v @ ' n i R" rhymeScheme="13" stanzaId="13" />
+    <line id="38" finToken="nombre" finSampa="' n o~ b R @" rhymeScheme="14" stanzaId="13" />
+    <line id="39" finToken="souvenir" finSampa="s u v @ ' n i R" rhymeScheme="13" stanzaId="13" />
+    <line id="40" finToken="encombre" finSampa="a~ ' k o~ b R @" rhymeScheme="14" stanzaId="14" />
+    <line id="41" finToken="suivre" finSampa="' s H i v R @" rhymeScheme="15" stanzaId="14" />
+    <line id="42" finToken="ombre" finSampa="' o~ b R @" rhymeScheme="14" stanzaId="14" />
+    <line id="43" finToken="poursuivre" finSampa="p u ' R s H i v R @" rhymeScheme="15" stanzaId="15" />
+    <line id="44" finToken="délectait" finSampa="d e l E ' k t E" rhymeScheme="16" stanzaId="15" />
+    <line id="45" finToken="vivre" finSampa="' v i v R @" rhymeScheme="15" stanzaId="15" />
+    <line id="46" finToken="était" finSampa="e ' t E" rhymeScheme="16" stanzaId="16" />
+    <line id="47" finToken="arrière" finSampa="a ' R j E R" rhymeScheme="17" stanzaId="16" />
+    <line id="48" finToken="portait" finSampa="p 0 R ' t E" rhymeScheme="16" stanzaId="16" />
+    <line id="49" finToken="fière" finSampa="' f j E R" rhymeScheme="17" stanzaId="17" />
+    <line id="50" finToken="enflée" finSampa="a~ ' f l e" rhymeScheme="18" stanzaId="17" />
+    <line id="51" finToken="matière" finSampa="m a ' t j E R" rhymeScheme="17" stanzaId="17" />
+    <line id="52" finToken="lemblée" finSampa="l @ ' b l e" rhymeScheme="18" stanzaId="18" />
+    <line id="53" finToken="adressait" finSampa="a d R e ' s E" rhymeScheme="19" stanzaId="18" />
+    <line id="54" finToken="lassemblée" finSampa="l a s a~ ' b l e" rhymeScheme="18" stanzaId="18" />
+    <line id="55" finToken="oppressait" finSampa="0 p R e ' s E" rhymeScheme="19" stanzaId="19" />
+    <line id="56" finToken="compte" finSampa="' k o~ t" rhymeScheme="20" stanzaId="19" />
+    <line id="57" finToken="délaissait" finSampa="d e l E ' s E" rhymeScheme="19" stanzaId="19" />
+    <line id="58" finToken="trèsprompte" finSampa="t R E s ' p R 0 t" rhymeScheme="20" stanzaId="20" />
+    <line id="59" finToken="favorisés" finSampa="f a v 0 R i ' z e" rhymeScheme="21" stanzaId="20" />
+    <line id="60" finToken="honte" finSampa="' o~ t" rhymeScheme="20" stanzaId="20" />
+    <line id="61" finToken="prisés" finSampa="p R i ' z e" rhymeScheme="21" stanzaId="21" />
+    <line id="62" finToken="repousser" finSampa="R @ p u ' s e" rhymeScheme="22" stanzaId="21" />
+    <line id="63" finToken="autorisés" finSampa="o t 0 R i ' z e" rhymeScheme="21" stanzaId="21" />
+    <line id="64" finToken="hausser" finSampa="o ' s e" rhymeScheme="22" stanzaId="22" />
+    <line id="65" finToken="étendre" finSampa="e ' t a~ d R @" rhymeScheme="23" stanzaId="22" />
+    <line id="66" finToken="courroucer" finSampa="k u R u ' s e" rhymeScheme="22" stanzaId="22" />
+    <line id="67" finToken="entendre" finSampa="a~ ' t a~ d R @" rhymeScheme="23" stanzaId="23" />
+    <line id="68" finToken="facile" finSampa="f a ' s i l" rhymeScheme="24" stanzaId="23" />
+    <line id="69" finToken="entreprendre" finSampa="a~ t R @ ' p R a~ d R @" rhymeScheme="23" stanzaId="23" />
+    <line id="70" finToken="difficile" finSampa="d i f i ' s i l" rhymeScheme="24" stanzaId="24" />
+    <line id="71" finToken="pouvoir" finSampa="p u ' v w a R" rhymeScheme="25" stanzaId="24" />
+    <line id="72" finToken="docile" finSampa="d 0 ' s i l" rhymeScheme="24" stanzaId="24" />
+    <line id="73" finToken="devoir" finSampa="d @ ' v w a R" rhymeScheme="25" stanzaId="25" />
+    <line id="74" finToken="méconnaissance" finSampa="m e k 0 n E ' s a~ s" rhymeScheme="26" stanzaId="25" />
+    <line id="75" finToken="savoir" finSampa="s a ' v w a R" rhymeScheme="25" stanzaId="25" />
+    <line id="76" finToken="puissance" finSampa="p H i ' s a~ s" rhymeScheme="26" stanzaId="26" />
+    <line id="77" finToken="reine" finSampa="R E i ' n e" rhymeScheme="27" stanzaId="26" />
+    <line id="78" finToken="fiance" finSampa="' f j a~ s" rhymeScheme="26" stanzaId="26" />
+    <line id="79" finToken="sereine" finSampa="s @ ' R E n" rhymeScheme="27" stanzaId="27" />
+    <line id="80" finToken="machine" finSampa="m a ' S i n" rhymeScheme="28" stanzaId="27" />
+    <line id="81" finToken="souveraine" finSampa="s u v @ ' R E n" rhymeScheme="27" stanzaId="27" />
+    <line id="82" finToken="rechine" finSampa="R @ ' S i n" rhymeScheme="28" stanzaId="28" />
+    <line id="83" finToken="embridés" finSampa="a~ b R i ' d e" rhymeScheme="29" stanzaId="28" />
+    <line id="84" finToken="échine" finSampa="e ' S i n" rhymeScheme="28" stanzaId="28" />
+    <line id="85" finToken="ridés" finSampa="R i ' d e" rhymeScheme="29" stanzaId="29" />
+    <line id="86" finToken="diligente" finSampa="d i l i ' Z a~ t" rhymeScheme="30" stanzaId="29" />
+    <line id="87" finToken="outrecuidés" finSampa="u t R @ ' k y ' i ' d e" rhymeScheme="29" stanzaId="29" />
+    <line id="88" finToken="demirégente" finSampa="d @ m i R e ' Z a~ t" rhymeScheme="30" stanzaId="30" />
+    <line id="89" finToken="soulager" finSampa="s u l a ' Z e" rhymeScheme="31" stanzaId="30" />
+    <line id="90" finToken="négligente" finSampa="n e g l i ' Z a~ t" rhymeScheme="30" stanzaId="30" />
+    <line id="91" finToken="accourager" finSampa="a k u R a ' Z e" rhymeScheme="31" stanzaId="31" />
+    <line id="92" finToken="aidait" finSampa="E ' d E" rhymeScheme="32" stanzaId="31" />
+    <line id="93" finToken="enrager" finSampa="a~ R a ' Z e" rhymeScheme="31" stanzaId="31" />
+    <line id="94" finToken="ardait" finSampa="a R ' d E" rhymeScheme="32" stanzaId="32" />
+    <line id="95" finToken="dame" finSampa="' d a m" rhymeScheme="33" stanzaId="32" />
+    <line id="96" finToken="retardait" finSampa="R @ t a R ' d E" rhymeScheme="32" stanzaId="32" />
+    <line id="97" finToken="flamme" finSampa="' f l a m" rhymeScheme="33" stanzaId="33" />
+    <line id="98" finToken="couverte" finSampa="k u ' v E R t @" rhymeScheme="34" stanzaId="33" />
+    <line id="99" finToken="infame" finSampa="e~ ' f a m" rhymeScheme="33" stanzaId="33" />
+    <line id="100" finToken="diserte" finSampa="d i ' z E R t @" rhymeScheme="34" stanzaId="34" />
+    <line id="101" finToken="droit" finSampa="' d R w a" rhymeScheme="35" stanzaId="34" />
+    <line id="102" finToken="experte" finSampa="E ' k s p E R t @" rhymeScheme="34" stanzaId="34" />
+    <line id="103" finToken="droit" finSampa="' d R w a" rhymeScheme="35" stanzaId="35" />
+    <line id="104" finToken="près" finSampa="' p R @" rhymeScheme="36" stanzaId="35" />
+    <line id="105" finToken="endroit" finSampa="a~ ' d R w a" rhymeScheme="35" stanzaId="35" />
+    <line id="106" finToken="dauprès" finSampa="d o ' p R E" rhymeScheme="36" stanzaId="36" />
+    <line id="107" finToken="part" finSampa="' p a R" rhymeScheme="37" stanzaId="36" />
+    <line id="108" finToken="exprès" finSampa="E ' k s p R E" rhymeScheme="36" stanzaId="36" />
+    <line id="109" finToken="part" finSampa="' p a R" rhymeScheme="37" stanzaId="37" />
+    <line id="110" finToken="là" finSampa="' l a" rhymeScheme="38" stanzaId="37" />
+    <line id="111" finToken="part" finSampa="' p a R" rhymeScheme="37" stanzaId="37" />
+    <line id="112" finToken="cela" finSampa="s @ ' l a" rhymeScheme="38" stanzaId="38" />
+    <line id="113" finToken="approcher" finSampa="a p R 0 ' S e" rhymeScheme="39" stanzaId="38" />
+    <line id="114" finToken="cela" finSampa="s @ ' l a" rhymeScheme="38" stanzaId="38" />
+    <line id="115" finToken="attoucher" finSampa="a ' t u S" rhymeScheme="39" stanzaId="39" />
+    <line id="116" finToken="déduire" finSampa="d e ' d H i R" rhymeScheme="40" stanzaId="39" />
+    <line id="117" finToken="cher" finSampa="' S E R" rhymeScheme="39" stanzaId="39" />
+    <line id="118" finToken="luire" finSampa="' l H i R" rhymeScheme="40" stanzaId="40" />
+    <line id="119" finToken="voyait" finSampa="v w a ' j E" rhymeScheme="41" stanzaId="40" />
+    <line id="120" finToken="séduire" finSampa="s e ' d H i R" rhymeScheme="40" stanzaId="40" />
+    <line id="121" finToken="sennuyait" finSampa="s @ n n y i ' j E" rhymeScheme="41" stanzaId="41" />
+    <line id="122" finToken="audace" finSampa="o ' d a s" rhymeScheme="42" stanzaId="41" />
+    <line id="123" finToken="renvoyait" finSampa="R a~ v w a ' j E" rhymeScheme="41" stanzaId="41" />
+    <line id="124" finToken="place" finSampa="' p l a s" rhymeScheme="42" stanzaId="42" />
+    <line id="125" finToken="malicieux" finSampa="m a ' l i s j @" rhymeScheme="43" stanzaId="42" />
+    <line id="126" finToken="menace" finSampa="m @ ' n a s" rhymeScheme="42" stanzaId="42" />
+    <line id="127" finToken="ambitieux" finSampa="a~ ' b i s j @" rhymeScheme="43" stanzaId="43" />
+    <line id="128" finToken="rangeaient" finSampa="R a~ ' Z E" rhymeScheme="44" stanzaId="43" />
+    <line id="129" finToken="envieux" finSampa="' a~ v j @" rhymeScheme="43" stanzaId="43" />
+    <line id="130" finToken="enrageaient" finSampa="a~ R a ' Z E" rhymeScheme="44" stanzaId="44" />
+    <line id="131" finToken="sapprochait" finSampa="s a ' p R 0 ' S E" rhymeScheme="45" stanzaId="44" />
+    <line id="132" finToken="sétrangeaient" finSampa="s e ' t R a~ ' Z E" rhymeScheme="44" stanzaId="44" />
+    <line id="133" finToken="arrachait" finSampa="a R a ' S E" rhymeScheme="45" stanzaId="45" />
+    <line id="134" finToken="détresse" finSampa="d e ' t R E s" rhymeScheme="46" stanzaId="45" />
+    <line id="135" finToken="tâchait" finSampa="t a ' S E" rhymeScheme="45" stanzaId="45" />
+    <line id="136" finToken="presse" finSampa="' p R E s" rhymeScheme="46" stanzaId="46" />
+    <line id="137" finToken="regarde" finSampa="R @ ' g a R d @" rhymeScheme="47" stanzaId="46" />
+    <line id="138" finToken="maîtresse" finSampa="m E ' t R E s" rhymeScheme="46" stanzaId="46" />
+    <line id="139" finToken="garde" finSampa="' g a R d @" rhymeScheme="47" stanzaId="47" />
+    <line id="140" finToken="difformes" finSampa="d i ' f 0 R m @" rhymeScheme="48" stanzaId="47" />
+    <line id="141" finToken="garde" finSampa="' g a R d @" rhymeScheme="47" stanzaId="47" />
+    <line id="142" finToken="formes" finSampa="' f 0 R m @" rhymeScheme="48" stanzaId="48" />
+    <line id="143" finToken="semblables" finSampa="s a~ ' b l a b l @" rhymeScheme="49" stanzaId="48" />
+    <line id="144" finToken="conformes" finSampa="k o~ ' f 0 R m @" rhymeScheme="48" stanzaId="48" />
+    <line id="145" finToken="misérables" finSampa="m i z e ' R a b l @" rhymeScheme="49" stanzaId="49" />
+    <line id="146" finToken="désir" finSampa="d e ' z i R" rhymeScheme="50" stanzaId="49" />
+    <line id="147" finToken="diables" finSampa="' d j a b l @" rhymeScheme="49" stanzaId="49" />
+    <line id="148" finToken="loisir" finSampa="l w a ' z i R" rhymeScheme="50" stanzaId="50" />
+    <line id="149" finToken="périssait" finSampa="p e R i ' s E" rhymeScheme="51" stanzaId="50" />
+    <line id="150" finToken="plaisir" finSampa="p l E ' z i R" rhymeScheme="50" stanzaId="50" />
+    <line id="151" finToken="issait" finSampa="i ' s E" rhymeScheme="51" stanzaId="51" />
+    <line id="152" finToken="princesse" finSampa="p R e~ ' s E s" rhymeScheme="52" stanzaId="51" />
+    <line id="153" finToken="éblouissait" finSampa="e b l u i ' s E" rhymeScheme="51" stanzaId="51" />
+    <line id="154" finToken="cesse" finSampa="' s E s" rhymeScheme="52" stanzaId="52" />
+    <line id="155" finToken="repos" finSampa="R @ ' p o" rhymeScheme="53" stanzaId="52" />
+    <line id="156" finToken="liesse" finSampa="' l j E s" rhymeScheme="52" stanzaId="52" />
+    <line id="157" finToken="propos" finSampa="p R 0 ' p o" rhymeScheme="53" stanzaId="53" />
+    <line id="158" finToken="espéraient" finSampa="E s p e ' R E" rhymeScheme="54" stanzaId="53" />
+    <line id="159" finToken="dispos" finSampa="d i s ' p o" rhymeScheme="53" stanzaId="53" />
+    <line id="160" finToken="tâcheraient" finSampa="t a S @ ' R E" rhymeScheme="54" stanzaId="54" />
+    <line id="161" finToken="destruction" finSampa="d E s t R y ' k s j o~" rhymeScheme="55" stanzaId="54" />
+    <line id="162" finToken="désespéreraient" finSampa="d e z E s p e R @ ' R E" rhymeScheme="54" stanzaId="54" />
+    <line id="163" finToken="grandconfusion" finSampa="g R a~ d k 0 f y ' z j o~" rhymeScheme="55" stanzaId="55" />
+    <line id="164" finToken="rire" finSampa="' R i R" rhymeScheme="56" stanzaId="55" />
+    <line id="165" finToken="illusion" finSampa="i l y ' z j o~" rhymeScheme="55" stanzaId="55" />
+    <line id="166" finToken="dire" finSampa="' d i R" rhymeScheme="56" stanzaId="56" />
+    <line id="167" finToken="détester" finSampa="d e t E s ' t e" rhymeScheme="57" stanzaId="56" />
+    <line id="168" finToken="maudire" finSampa="m o ' d i R" rhymeScheme="56" stanzaId="56" />
+    <line id="169" finToken="inquiéter" finSampa="e~ k j e ' t e" rhymeScheme="57" stanzaId="57" />
+    <line id="170" finToken="ombre" finSampa="' o~ b R @" rhymeScheme="58" stanzaId="57" />
+    <line id="171" finToken="hébéter" finSampa="e b e ' t e" rhymeScheme="57" stanzaId="57" />
+    <line id="172" finToken="encombre" finSampa="a~ ' k o~ b R @" rhymeScheme="58" stanzaId="58" />
+    <line id="173" finToken="concupiscence" finSampa="k o~ k y p i ' s a~ s" rhymeScheme="59" stanzaId="58" />
+    <line id="174" finToken="nombre" finSampa="' n o~ b R @" rhymeScheme="58" stanzaId="58" />
+    <line id="175" finToken="essence" finSampa="e ' s a~ s" rhymeScheme="59" stanzaId="59" />
+    <line id="176" finToken="imagination" finSampa="i m a Z i n a ' s j o~" rhymeScheme="60" stanzaId="59" />
+    <line id="177" finToken="science" finSampa="' s j a~ s" rhymeScheme="59" stanzaId="59" />
+    <line id="178" finToken="condition" finSampa="k o~ d i ' s j o~" rhymeScheme="60" stanzaId="60" />
+    <line id="179" finToken="prompte" finSampa="' p R o~ p t" rhymeScheme="61" stanzaId="60" />
+    <line id="180" finToken="perdition" finSampa="p E R d i ' s j o~" rhymeScheme="60" stanzaId="60" />
+    <line id="181" finToken="monte" finSampa="' m o~ t" rhymeScheme="61" stanzaId="61" />
+    <line id="182" finToken="nuisante" finSampa="n H i ' z a~ t" rhymeScheme="62" stanzaId="61" />
+    <line id="183" finToken="honte" finSampa="' o~ t" rhymeScheme="61" stanzaId="61" />
+    <line id="184" finToken="plaisante" finSampa="p l E ' z a~ t" rhymeScheme="62" stanzaId="62" />
+    <line id="185" finToken="apparaître" finSampa="a p a ' R E t R @" rhymeScheme="63" stanzaId="62" />
+    <line id="186" finToken="plaisante" finSampa="p l E ' z a~ t" rhymeScheme="62" stanzaId="62" />
+    <line id="187" finToken="connaître" finSampa="k 0 ' n E t R @" rhymeScheme="63" stanzaId="62" />
+  </poem>
+  <poem id="POEM29" author="guillet" period="1415">
+    <line id="1" finToken="donc" finSampa="' d o~ k" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="onc" finSampa="' o~ k" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="vis" finSampa="' v i s" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="devis" finSampa="d @ ' v i" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="confus" finSampa="k o~ ' f y" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="fus" finSampa="' f y" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="même" finSampa="' m E m" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="moimême" finSampa="m w a ' m E m" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="bien" finSampa="' b j e~" rhymeScheme="5" stanzaId="1" />
+    <line id="10" finToken="mien" finSampa="' m j e~" rhymeScheme="5" stanzaId="1" />
+    <line id="11" finToken="dame" finSampa="' d a m" rhymeScheme="6" stanzaId="1" />
+    <line id="12" finToken="dâme" finSampa="' d a m" rhymeScheme="6" stanzaId="1" />
+    <line id="13" finToken="lamenté" finSampa="l a m a~ ' t e" rhymeScheme="7" stanzaId="1" />
+    <line id="14" finToken="tourmenté" finSampa="t u R m a~ ' t e" rhymeScheme="7" stanzaId="1" />
+    <line id="15" finToken="granddouleur" finSampa="g R a~ d d u ' l 9 R" rhymeScheme="8" stanzaId="1" />
+    <line id="16" finToken="malheur" finSampa="m a ' l 9 R" rhymeScheme="8" stanzaId="1" />
+    <line id="17" finToken="délivre" finSampa="d e ' l i v R @" rhymeScheme="9" stanzaId="1" />
+    <line id="18" finToken="délivre" finSampa="d e ' l i v R @" rhymeScheme="9" stanzaId="1" />
+    <line id="19" finToken="envie" finSampa="a~ ' v i" rhymeScheme="10" stanzaId="1" />
+    <line id="20" finToken="vie" finSampa="' v i" rhymeScheme="10" stanzaId="1" />
+    <line id="21" finToken="malaise" finSampa="m a ' l E z" rhymeScheme="11" stanzaId="1" />
+    <line id="22" finToken="taise" finSampa="' t E z" rhymeScheme="11" stanzaId="1" />
+    <line id="23" finToken="désire" finSampa="d e ' z i R" rhymeScheme="12" stanzaId="1" />
+    <line id="24" finToken="dessire" finSampa="d e ' s i R" rhymeScheme="12" stanzaId="1" />
+    <line id="25" finToken="lieux" finSampa="' l j @" rhymeScheme="13" stanzaId="1" />
+    <line id="26" finToken="yeux" finSampa="' j @" rhymeScheme="13" stanzaId="1" />
+    <line id="27" finToken="ouïes" finSampa="' w i" rhymeScheme="14" stanzaId="1" />
+    <line id="28" finToken="réjouies" finSampa="R e Z u ' i" rhymeScheme="14" stanzaId="1" />
+    <line id="29" finToken="fond" finSampa="' f o~" rhymeScheme="15" stanzaId="1" />
+    <line id="30" finToken="profond" finSampa="p R 0 ' f o~" rhymeScheme="15" stanzaId="1" />
+    <line id="31" finToken="reluire" finSampa="R @ ' l H i R" rhymeScheme="16" stanzaId="1" />
+    <line id="32" finToken="conduire" finSampa="k o~ ' d H i R" rhymeScheme="16" stanzaId="1" />
+    <line id="33" finToken="retraire" finSampa="R @ ' t R E R" rhymeScheme="17" stanzaId="1" />
+    <line id="34" finToken="taire" finSampa="' t E R" rhymeScheme="17" stanzaId="1" />
+    <line id="35" finToken="suffisant" finSampa="s y f i ' z a~" rhymeScheme="18" stanzaId="1" />
+    <line id="36" finToken="duisant" finSampa="d H i ' z a~" rhymeScheme="18" stanzaId="1" />
+    <line id="37" finToken="désirer" finSampa="d e z i ' R e" rhymeScheme="19" stanzaId="1" />
+    <line id="38" finToken="empirer" finSampa="a~ p i ' R e" rhymeScheme="19" stanzaId="1" />
+    <line id="39" finToken="faut" finSampa="' f o" rhymeScheme="20" stanzaId="1" />
+    <line id="40" finToken="défaut" finSampa="d e ' f o" rhymeScheme="20" stanzaId="1" />
+    <line id="41" finToken="passion" finSampa="p a ' s j o~" rhymeScheme="21" stanzaId="1" />
+    <line id="42" finToken="obstination" finSampa="0 p s t i n a ' s j o~" rhymeScheme="21" stanzaId="1" />
+    <line id="43" finToken="donner" finSampa="d 0 ' n e" rhymeScheme="22" stanzaId="1" />
+    <line id="44" finToken="mabandonner" finSampa="m a b a~ d 0 ' n e" rhymeScheme="22" stanzaId="1" />
+    <line id="45" finToken="adombre" finSampa="a ' d o~ b R @" rhymeScheme="23" stanzaId="1" />
+    <line id="46" finToken="nombre" finSampa="' n o~ b R @" rhymeScheme="23" stanzaId="1" />
+    <line id="47" finToken="recourir" finSampa="R @ k u ' R i R" rhymeScheme="24" stanzaId="1" />
+    <line id="48" finToken="mourir" finSampa="m u ' R i R" rhymeScheme="24" stanzaId="1" />
+    <line id="49" finToken="aime" finSampa="' E m" rhymeScheme="25" stanzaId="1" />
+    <line id="50" finToken="extrême" finSampa="E ' k s t R E m" rhymeScheme="25" stanzaId="1" />
+    <line id="51" finToken="sente" finSampa="' s a~ t" rhymeScheme="26" stanzaId="1" />
+    <line id="52" finToken="présente" finSampa="p R e ' z a~ t" rhymeScheme="26" stanzaId="1" />
+    <line id="53" finToken="souvenir" finSampa="s u v @ ' n i R" rhymeScheme="27" stanzaId="1" />
+    <line id="54" finToken="venir" finSampa="v @ ' n i R" rhymeScheme="27" stanzaId="1" />
+    <line id="55" finToken="peine" finSampa="' p E n" rhymeScheme="28" stanzaId="1" />
+    <line id="56" finToken="vaine" finSampa="' v E n" rhymeScheme="28" stanzaId="1" />
+    <line id="57" finToken="soffrir" finSampa="s 0 f ' ' R i R" rhymeScheme="29" stanzaId="1" />
+    <line id="58" finToken="souffrir" finSampa="s u ' f R i R" rhymeScheme="29" stanzaId="1" />
+    <line id="59" finToken="pense" finSampa="' p a~ s" rhymeScheme="30" stanzaId="1" />
+    <line id="60" finToken="récompense" finSampa="R e k o~ ' p a~ s" rhymeScheme="30" stanzaId="1" />
+    <line id="61" finToken="aiguë" finSampa="E ' g y" rhymeScheme="31" stanzaId="1" />
+    <line id="62" finToken="vaincue" finSampa="v e~ ' k y" rhymeScheme="31" stanzaId="1" />
+    <line id="63" finToken="vérité" finSampa="v e R i ' t e" rhymeScheme="32" stanzaId="1" />
+    <line id="64" finToken="mérité" finSampa="m e R i ' t e" rhymeScheme="32" stanzaId="1" />
+    <line id="65" finToken="récompensé" finSampa="R e k o~ p a~ ' s e" rhymeScheme="33" stanzaId="1" />
+    <line id="66" finToken="dispensé" finSampa="d i s p a~ ' s e" rhymeScheme="33" stanzaId="1" />
+    <line id="67" finToken="vice" finSampa="' v i s" rhymeScheme="34" stanzaId="1" />
+    <line id="68" finToken="service" finSampa="s E ' R v i s" rhymeScheme="34" stanzaId="1" />
+    <line id="69" finToken="victoire" finSampa="v i ' k t w a R" rhymeScheme="35" stanzaId="1" />
+    <line id="70" finToken="notoire" finSampa="n 0 t ' w a R" rhymeScheme="35" stanzaId="1" />
+    <line id="71" finToken="dévie" finSampa="d e ' v i" rhymeScheme="36" stanzaId="1" />
+    <line id="72" finToken="vie" finSampa="' v i" rhymeScheme="36" stanzaId="1" />
+    <line id="73" finToken="mienne" finSampa="' m j E n" rhymeScheme="37" stanzaId="1" />
+    <line id="74" finToken="ancienne" finSampa="a~ ' s j E n" rhymeScheme="37" stanzaId="1" />
+    <line id="75" finToken="obstiné" finSampa="0 p s t i ' n e" rhymeScheme="38" stanzaId="1" />
+    <line id="76" finToken="prédestiné" finSampa="p R e d E s t i ' n e" rhymeScheme="38" stanzaId="1" />
+    <line id="77" finToken="fâcheries" finSampa="f a S @ ' R i" rhymeScheme="39" stanzaId="1" />
+    <line id="78" finToken="tromperies" finSampa="t R o~ p @ ' R i" rhymeScheme="39" stanzaId="1" />
+  </poem>
+  <poem id="POEM3" author="guillet" period="1415">
+    <line id="1" finToken="vôtre" finSampa="' v o t R @" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="moi" finSampa="' m w a" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="nôtre" finSampa="' n o t R @" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="dois" finSampa="' d w a" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="loi" finSampa="' l w a" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="dispenser" finSampa="d i s p a~ ' s e" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="soi" finSampa="' s w a" rhymeScheme="2" stanzaId="1" />
+    <line id="8" finToken="offenser" finSampa="0 f a~ ' s e" rhymeScheme="3" stanzaId="1" />
+    <line id="9" finToken="puissance" finSampa="p H i ' s a~ s" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="désir" finSampa="d e ' z i R" rhymeScheme="5" stanzaId="2" />
+    <line id="11" finToken="jouissance" finSampa="Z u i ' s a~ s" rhymeScheme="4" stanzaId="2" />
+    <line id="12" finToken="saisir" finSampa="s E ' z i R" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="choisir" finSampa="S w a ' z i R" rhymeScheme="5" stanzaId="2" />
+    <line id="14" finToken="fiction" finSampa="f i ' k s j o~" rhymeScheme="6" stanzaId="2" />
+    <line id="15" finToken="plaisir" finSampa="p l E ' z i R" rhymeScheme="5" stanzaId="2" />
+    <line id="16" finToken="laffection" finSampa="l a f E ' k s j o~" rhymeScheme="6" stanzaId="2" />
+  </poem>
+  <poem id="POEM30" author="guillet" period="1415">
+    <line id="1" finToken="cher" finSampa="' S E R" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="chercher" finSampa="S E ' R S e" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="passés" finSampa="p a ' s e" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="assez" finSampa="a ' s e" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="persévérants" finSampa="p E R s e v e ' R a~" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="rangs" finSampa="' R a~" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="excellence" finSampa="E k s E ' l a~ s" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="patience" finSampa="p a ' s j a~ s" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="glorifie" finSampa="g l 0 R i ' f i" rhymeScheme="5" stanzaId="1" />
+    <line id="10" finToken="fortifie" finSampa="f 0 R t i ' f i" rhymeScheme="5" stanzaId="1" />
+    <line id="11" finToken="fortune" finSampa="f 0 R ' t y n" rhymeScheme="6" stanzaId="1" />
+    <line id="12" finToken="aucune" finSampa="o ' k y n" rhymeScheme="6" stanzaId="1" />
+    <line id="13" finToken="commande" finSampa="k 0 ' m a~ d" rhymeScheme="7" stanzaId="1" />
+    <line id="14" finToken="demande" finSampa="d @ ' m a~ d" rhymeScheme="7" stanzaId="1" />
+    <line id="15" finToken="dame" finSampa="' d a m" rhymeScheme="8" stanzaId="1" />
+    <line id="16" finToken="blâme" finSampa="' b l a m" rhymeScheme="8" stanzaId="1" />
+    <line id="17" finToken="loues" finSampa="' l u" rhymeScheme="9" stanzaId="1" />
+    <line id="18" finToken="tavoues" finSampa="t a ' v u" rhymeScheme="9" stanzaId="1" />
+    <line id="19" finToken="cruelle" finSampa="' k R H E l" rhymeScheme="10" stanzaId="1" />
+    <line id="20" finToken="naturelle" finSampa="n a t y ' R E l" rhymeScheme="10" stanzaId="1" />
+    <line id="21" finToken="adorer" finSampa="a d 0 ' R e" rhymeScheme="11" stanzaId="1" />
+    <line id="22" finToken="odorer" finSampa="0 d 0 ' R e" rhymeScheme="11" stanzaId="1" />
+    <line id="23" finToken="soud" finSampa="' s u d" rhymeScheme="12" stanzaId="1" />
+    <line id="24" finToken="absout" finSampa="a ' p s u" rhymeScheme="12" stanzaId="1" />
+    <line id="25" finToken="délie" finSampa="d e ' l i" rhymeScheme="13" stanzaId="1" />
+    <line id="26" finToken="lie" finSampa="' l i" rhymeScheme="13" stanzaId="1" />
+    <line id="27" finToken="pourmène" finSampa="p u ' R m E n" rhymeScheme="14" stanzaId="1" />
+    <line id="28" finToken="humaine" finSampa="y ' m E n" rhymeScheme="14" stanzaId="1" />
+    <line id="29" finToken="trèsrude" finSampa="t R E z ' R y d" rhymeScheme="15" stanzaId="1" />
+    <line id="30" finToken="ingratitude" finSampa="e~ g R a t i ' t y d" rhymeScheme="15" stanzaId="1" />
+    <line id="31" finToken="vouloir" finSampa="v u ' l w a R" rhymeScheme="16" stanzaId="1" />
+    <line id="32" finToken="nonchaloir" finSampa="n o~ ' S a l ' w a R" rhymeScheme="16" stanzaId="1" />
+    <line id="33" finToken="dinjure" finSampa="d i ' Z y R" rhymeScheme="17" stanzaId="1" />
+    <line id="34" finToken="ladjure" finSampa="l a ' d Z y R" rhymeScheme="17" stanzaId="1" />
+    <line id="35" finToken="amables" finSampa="a ' m a b l @" rhymeScheme="18" stanzaId="1" />
+    <line id="36" finToken="déraisonnables" finSampa="d e R E z 0 ' n a b l @" rhymeScheme="18" stanzaId="1" />
+    <line id="37" finToken="contredit" finSampa="k o~ t R @ ' d i" rhymeScheme="19" stanzaId="1" />
+    <line id="38" finToken="interdit" finSampa="e~ t E R ' d i" rhymeScheme="19" stanzaId="1" />
+    <line id="39" finToken="entendement" finSampa="a~ t a~ d @ ' m a~" rhymeScheme="20" stanzaId="1" />
+    <line id="40" finToken="apertement" finSampa="a p E R t @ ' m a~" rhymeScheme="20" stanzaId="1" />
+    <line id="41" finToken="convie" finSampa="k o~ ' v i" rhymeScheme="21" stanzaId="1" />
+    <line id="42" finToken="vie" finSampa="' v i" rhymeScheme="21" stanzaId="1" />
+    <line id="43" finToken="révoque" finSampa="R e ' v 0 k" rhymeScheme="22" stanzaId="1" />
+    <line id="44" finToken="réciproque" finSampa="R e s i ' p R 0 k" rhymeScheme="22" stanzaId="1" />
+    <line id="45" finToken="pouvoir" finSampa="p u ' v w a R" rhymeScheme="23" stanzaId="1" />
+    <line id="46" finToken="devoir" finSampa="d @ ' v w a R" rhymeScheme="23" stanzaId="1" />
+    <line id="47" finToken="satisfaire" finSampa="s a t i ' s f E R" rhymeScheme="24" stanzaId="1" />
+    <line id="48" finToken="faire" finSampa="' f E R" rhymeScheme="24" stanzaId="1" />
+    <line id="49" finToken="choisir" finSampa="S w a ' z i R" rhymeScheme="25" stanzaId="1" />
+    <line id="50" finToken="déplaisir" finSampa="d e p l E ' z i R" rhymeScheme="25" stanzaId="1" />
+    <line id="51" finToken="défaveur" finSampa="d e f a ' v 9 R" rhymeScheme="26" stanzaId="1" />
+    <line id="52" finToken="faveur" finSampa="f a ' v 9 R" rhymeScheme="26" stanzaId="1" />
+    <line id="53" finToken="réconfort" finSampa="R e k o~ ' f 0 R" rhymeScheme="27" stanzaId="1" />
+    <line id="54" finToken="fort" finSampa="' f 0 R" rhymeScheme="27" stanzaId="1" />
+    <line id="55" finToken="dispute" finSampa="d i s ' p y t" rhymeScheme="28" stanzaId="1" />
+    <line id="56" finToken="répute" finSampa="R @ ' p y t" rhymeScheme="28" stanzaId="1" />
+    <line id="57" finToken="récompense" finSampa="R e k o~ ' p a~ s" rhymeScheme="29" stanzaId="1" />
+    <line id="58" finToken="pense" finSampa="' p a~ s" rhymeScheme="29" stanzaId="1" />
+    <line id="59" finToken="bien" finSampa="' b j e~" rhymeScheme="30" stanzaId="1" />
+    <line id="60" finToken="moyen" finSampa="m w a ' j e~" rhymeScheme="30" stanzaId="1" />
+    <line id="61" finToken="testimer" finSampa="t E s t i ' m e" rhymeScheme="31" stanzaId="1" />
+    <line id="62" finToken="aimer" finSampa="E ' m e" rhymeScheme="31" stanzaId="1" />
+    <line id="63" finToken="yeux" finSampa="' j @" rhymeScheme="32" stanzaId="1" />
+    <line id="64" finToken="joyeux" finSampa="' Z w a j @" rhymeScheme="32" stanzaId="1" />
+    <line id="65" finToken="lise" finSampa="' l i z" rhymeScheme="33" stanzaId="1" />
+    <line id="66" finToken="élise" finSampa="e ' l i z" rhymeScheme="33" stanzaId="1" />
+    <line id="67" finToken="mouvoir" finSampa="m u ' v w a R" rhymeScheme="34" stanzaId="1" />
+    <line id="68" finToken="savoir" finSampa="s a ' v w a R" rhymeScheme="34" stanzaId="1" />
+    <line id="69" finToken="grandcompassion" finSampa="g R a~ d k o~ p a ' s j o~" rhymeScheme="35" stanzaId="1" />
+    <line id="70" finToken="affection" finSampa="a f E ' k s j o~" rhymeScheme="35" stanzaId="1" />
+    <line id="71" finToken="accordée" finSampa="a k 0 R ' d e" rhymeScheme="36" stanzaId="1" />
+    <line id="72" finToken="recordée" finSampa="R @ k 0 R ' d e" rhymeScheme="36" stanzaId="1" />
+    <line id="73" finToken="depuis" finSampa="d @ ' p H i" rhymeScheme="37" stanzaId="1" />
+    <line id="74" finToken="appuis" finSampa="a ' p H i" rhymeScheme="37" stanzaId="1" />
+    <line id="75" finToken="fortune" finSampa="f 0 R ' t y n" rhymeScheme="38" stanzaId="1" />
+    <line id="76" finToken="lune" finSampa="' l y n" rhymeScheme="38" stanzaId="1" />
+    <line id="77" finToken="fame" finSampa="' f a m" rhymeScheme="39" stanzaId="1" />
+    <line id="78" finToken="diffame" finSampa="d i ' f a m" rhymeScheme="39" stanzaId="1" />
+    <line id="79" finToken="face" finSampa="' f a s" rhymeScheme="40" stanzaId="1" />
+    <line id="80" finToken="grâce" finSampa="' g R a s" rhymeScheme="40" stanzaId="1" />
+    <line id="81" finToken="voir" finSampa="' v w a R" rhymeScheme="41" stanzaId="1" />
+    <line id="82" finToken="savoir" finSampa="s a ' v w a R" rhymeScheme="41" stanzaId="1" />
+    <line id="83" finToken="plaindront" finSampa="p l e~ ' d R o~" rhymeScheme="42" stanzaId="1" />
+    <line id="84" finToken="viendront" finSampa="v j e~ ' d R o~" rhymeScheme="42" stanzaId="1" />
+    <line id="85" finToken="fin" finSampa="' f e~" rhymeScheme="43" stanzaId="1" />
+    <line id="86" finToken="afin" finSampa="a ' f e~" rhymeScheme="43" stanzaId="1" />
+    <line id="87" finToken="piteuse" finSampa="p i ' t 9 z" rhymeScheme="44" stanzaId="1" />
+    <line id="88" finToken="honteuse" finSampa="o~ ' t 9 z" rhymeScheme="44" stanzaId="1" />
+    <line id="89" finToken="pourvoir" finSampa="p u ' R v w a R" rhymeScheme="45" stanzaId="1" />
+    <line id="90" finToken="voir" finSampa="' v w a R" rhymeScheme="45" stanzaId="1" />
+    <line id="91" finToken="honneur" finSampa="0 ' n 9 R" rhymeScheme="46" stanzaId="1" />
+    <line id="92" finToken="heur" finSampa="' 9 R" rhymeScheme="46" stanzaId="1" />
+    <line id="93" finToken="peine" finSampa="' p E n" rhymeScheme="47" stanzaId="1" />
+    <line id="94" finToken="certaine" finSampa="s E R ' t E n" rhymeScheme="47" stanzaId="1" />
+    <line id="95" finToken="conteste" finSampa="k o~ ' t E s t @" rhymeScheme="48" stanzaId="1" />
+    <line id="96" finToken="moleste" finSampa="m 0 ' l E s t @" rhymeScheme="48" stanzaId="1" />
+    <line id="97" finToken="misère" finSampa="m i ' z E R" rhymeScheme="49" stanzaId="1" />
+    <line id="98" finToken="légère" finSampa="l e ' Z E R" rhymeScheme="49" stanzaId="1" />
+    <line id="99" finToken="renommée" finSampa="R @ n 0 ' m e" rhymeScheme="50" stanzaId="1" />
+    <line id="100" finToken="aimée" finSampa="E ' m e" rhymeScheme="50" stanzaId="1" />
+    <line id="101" finToken="cause" finSampa="' k o z" rhymeScheme="51" stanzaId="1" />
+    <line id="102" finToken="pause" finSampa="' p o z" rhymeScheme="51" stanzaId="1" />
+    <line id="103" finToken="immortel" finSampa="i m 0 R ' t E l" rhymeScheme="52" stanzaId="1" />
+    <line id="104" finToken="tel" finSampa="' t E l" rhymeScheme="52" stanzaId="1" />
+    <line id="105" finToken="haut" finSampa="' o" rhymeScheme="53" stanzaId="1" />
+    <line id="106" finToken="faut" finSampa="' f o" rhymeScheme="53" stanzaId="1" />
+    <line id="107" finToken="récompense" finSampa="R e k o~ ' p a~ s" rhymeScheme="54" stanzaId="1" />
+    <line id="108" finToken="pense" finSampa="' p a~ s" rhymeScheme="54" stanzaId="1" />
+    <line id="109" finToken="altération" finSampa="a l t e R a ' s j o~" rhymeScheme="55" stanzaId="1" />
+    <line id="110" finToken="réfrigération" finSampa="R e f R i Z e R a ' s j o~" rhymeScheme="55" stanzaId="1" />
+    <line id="111" finToken="elle" finSampa="' E l" rhymeScheme="56" stanzaId="1" />
+    <line id="112" finToken="continuelle" finSampa="k o~ t i ' n H E l" rhymeScheme="56" stanzaId="1" />
+    <line id="113" finToken="contentement" finSampa="k o~ t a~ t @ ' m a~" rhymeScheme="57" stanzaId="1" />
+    <line id="114" finToken="allègement" finSampa="a l @ Z @ ' m a~" rhymeScheme="57" stanzaId="1" />
+    <line id="115" finToken="monde" finSampa="' m o~ d" rhymeScheme="58" stanzaId="1" />
+    <line id="116" finToken="tabonde" finSampa="t a ' b o~ d" rhymeScheme="58" stanzaId="1" />
+    <line id="117" finToken="victoire" finSampa="v i ' k t w a R" rhymeScheme="59" stanzaId="1" />
+    <line id="118" finToken="gloire" finSampa="' g l w a R" rhymeScheme="59" stanzaId="1" />
+    <line id="119" finToken="captif" finSampa="k a ' p t i f" rhymeScheme="60" stanzaId="1" />
+    <line id="120" finToken="intentif" finSampa="e~ t a~ ' t i f" rhymeScheme="60" stanzaId="1" />
+    <line id="121" finToken="serve" finSampa="' s E R v @" rhymeScheme="61" stanzaId="1" />
+    <line id="122" finToken="réserve" finSampa="R e ' z E R v @" rhymeScheme="61" stanzaId="1" />
+    <line id="123" finToken="cure" finSampa="' k y R" rhymeScheme="62" stanzaId="1" />
+    <line id="124" finToken="procure" finSampa="p R 0 ' k y R" rhymeScheme="62" stanzaId="1" />
+    <line id="125" finToken="pensement" finSampa="p a~ s @ ' m a~" rhymeScheme="63" stanzaId="1" />
+    <line id="126" finToken="naturellement" finSampa="n a t y R E l @ ' m a~" rhymeScheme="63" stanzaId="1" />
+    <line id="127" finToken="perdition" finSampa="p E R d i ' s j o~" rhymeScheme="64" stanzaId="1" />
+    <line id="128" finToken="possession" finSampa="p 0 s e ' s j o~" rhymeScheme="64" stanzaId="1" />
+  </poem>
+  <poem id="POEM31" author="guillet" period="1415">
+    <line id="1" finToken="abandonné" finSampa="a b a~ d 0 ' n e" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="cour" finSampa="' k u R" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="donné" finSampa="d 0 ' n e" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="court" finSampa="' k u R" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="court" finSampa="' k u R" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="laide" finSampa="' l E d" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="court" finSampa="' k u R" rhymeScheme="2" stanzaId="1" />
+    <line id="8" finToken="aide" finSampa="' E d" rhymeScheme="3" stanzaId="1" />
+    <line id="9" finToken="hâtivement" finSampa="a t i v @ ' m a~" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="seulement" finSampa="s 9 l @ ' m a~" rhymeScheme="5" stanzaId="2" />
+    <line id="11" finToken="dire" finSampa="' d i R" rhymeScheme="4" stanzaId="2" />
+    <line id="12" finToken="décrire" finSampa="d e ' k R i R" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="foi" finSampa="' f w a" rhymeScheme="6" stanzaId="2" />
+    <line id="14" finToken="moi" finSampa="' m w a" rhymeScheme="6" stanzaId="2" />
+    <line id="15" finToken="ailes" finSampa="' E l" rhymeScheme="7" stanzaId="2" />
+    <line id="16" finToken="damoiselles" finSampa="d a m w a ' z E l" rhymeScheme="7" stanzaId="2" />
+    <line id="17" finToken="tâté" finSampa="t a ' t e" rhymeScheme="8" stanzaId="3" />
+    <line id="18" finToken="louanges" finSampa="l u ' a~ Z" rhymeScheme="9" stanzaId="3" />
+    <line id="19" finToken="hâté" finSampa="a ' t e" rhymeScheme="8" stanzaId="3" />
+    <line id="20" finToken="gâté" finSampa="g a ' t e" rhymeScheme="8" stanzaId="3" />
+    <line id="21" finToken="fanges" finSampa="' f a~ Z" rhymeScheme="9" stanzaId="3" />
+    <line id="22" finToken="bâté" finSampa="b a ' t e" rhymeScheme="8" stanzaId="3" />
+    <line id="23" finToken="danges" finSampa="' d a~ Z" rhymeScheme="9" stanzaId="3" />
+    <line id="24" finToken="étranges" finSampa="e ' t R a~ Z" rhymeScheme="9" stanzaId="3" />
+    <line id="25" finToken="couru" finSampa="k u ' R y" rhymeScheme="10" stanzaId="3" />
+    <line id="26" finToken="secouru" finSampa="s @ k u ' R y" rhymeScheme="10" stanzaId="3" />
+    <line id="27" finToken="dieu" finSampa="' d j @" rhymeScheme="11" stanzaId="4" />
+    <line id="28" finToken="place" finSampa="' p l a s" rhymeScheme="12" stanzaId="4" />
+    <line id="29" finToken="milieu" finSampa="' m i l j @" rhymeScheme="11" stanzaId="4" />
+    <line id="30" finToken="grâce" finSampa="' g R a s" rhymeScheme="12" stanzaId="4" />
+    <line id="31" finToken="face" finSampa="' f a s" rhymeScheme="12" stanzaId="4" />
+    <line id="32" finToken="courrier" finSampa="k u ' R R j e" rhymeScheme="13" stanzaId="4" />
+    <line id="33" finToken="fasse" finSampa="' f a s" rhymeScheme="12" stanzaId="4" />
+    <line id="34" finToken="fourrier" finSampa="f u ' R j e" rhymeScheme="13" stanzaId="4" />
+    <line id="35" finToken="maître" finSampa="' m E t R @" rhymeScheme="14" stanzaId="5" />
+    <line id="36" finToken="damoiselles" finSampa="d a m w a ' z E l" rhymeScheme="15" stanzaId="5" />
+    <line id="37" finToken="naître" finSampa="' n E t R @" rhymeScheme="14" stanzaId="5" />
+    <line id="38" finToken="détincelles" finSampa="d e t e~ ' s E l" rhymeScheme="15" stanzaId="5" />
+    <line id="39" finToken="belles" finSampa="' b E l" rhymeScheme="15" stanzaId="5" />
+    <line id="40" finToken="émoi" finSampa="e ' m w a" rhymeScheme="16" stanzaId="5" />
+    <line id="41" finToken="elles" finSampa="' E l" rhymeScheme="15" stanzaId="5" />
+    <line id="42" finToken="moi" finSampa="' m w a" rhymeScheme="16" stanzaId="5" />
+  </poem>
+  <poem id="POEM32" author="guillet" period="1415">
+    <line id="1" finToken="lunivers" finSampa="l y n i ' v E R" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="abonde" finSampa="a ' b o~ d" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="divers" finSampa="d i ' v E R" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="profonde" finSampa="p R 0 ' f o~ d" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="ronde" finSampa="' R o~ d" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="prend" finSampa="' p R a~" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="monde" finSampa="' m o~ d" rhymeScheme="2" stanzaId="1" />
+    <line id="8" finToken="comprend" finSampa="k o~ ' p R a~" rhymeScheme="3" stanzaId="1" />
+  </poem>
+  <poem id="POEM33" author="guillet" period="1415">
+    <line id="1" finToken="rimasse" finSampa="R i ' m a s" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="aimasse" finSampa="E ' m a s" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="rimassés" finSampa="R i m a ' s e" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="assez" finSampa="a ' s e" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="rimoye" finSampa="R i m ' w a j" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="larmoye" finSampa="l a m ' R w a j" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="rimacher" finSampa="R i ' m a S" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="mâcher" finSampa="m a ' S e" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="rimache" finSampa="R i ' m a S" rhymeScheme="5" stanzaId="1" />
+    <line id="10" finToken="hache" finSampa="' a S" rhymeScheme="5" stanzaId="1" />
+    <line id="11" finToken="rimaille" finSampa="R i ' m a j" rhymeScheme="6" stanzaId="1" />
+    <line id="12" finToken="maille" finSampa="' m a j" rhymeScheme="6" stanzaId="1" />
+    <line id="13" finToken="rimasse" finSampa="R i ' m a s" rhymeScheme="7" stanzaId="1" />
+    <line id="14" finToken="grimace" finSampa="g R i ' m a s" rhymeScheme="7" stanzaId="1" />
+    <line id="15" finToken="rime" finSampa="' R i m" rhymeScheme="8" stanzaId="1" />
+    <line id="16" finToken="rime" finSampa="' R i m" rhymeScheme="8" stanzaId="1" />
+    <line id="17" finToken="rimona" finSampa="R i m 0 ' n a" rhymeScheme="9" stanzaId="1" />
+    <line id="18" finToken="a" finSampa="' a" rhymeScheme="9" stanzaId="1" />
+    <line id="19" finToken="rimaillerie" finSampa="R i m a j @ ' R i" rhymeScheme="10" stanzaId="1" />
+    <line id="20" finToken="rie" finSampa="' R i" rhymeScheme="10" stanzaId="1" />
+    <line id="21" finToken="rimeur" finSampa="R i ' m 9 R" rhymeScheme="11" stanzaId="1" />
+    <line id="22" finToken="heur" finSampa="' 9 R" rhymeScheme="11" stanzaId="1" />
+    <line id="23" finToken="honneurs" finSampa="0 ' n 9 R" rhymeScheme="12" stanzaId="1" />
+    <line id="24" finToken="rimoneurs" finSampa="R i m 0 ' n 9 R" rhymeScheme="12" stanzaId="1" />
+  </poem>
+  <poem id="POEM4" author="guillet" period="1415">
+    <line id="1" finToken="létincelle" finSampa="l e t e~ ' s E l" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="aisselle" finSampa="E ' s E l" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="sallumer" finSampa="s a l y ' m e" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="aimer" finSampa="E ' m e" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="celle" finSampa="' s E l" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="cèle" finSampa="' s E l" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="consumer" finSampa="k o~ s y ' m e" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="aimer" finSampa="E ' m e" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="belle" finSampa="' b E l" rhymeScheme="5" stanzaId="1" />
+    <line id="10" finToken="querelle" finSampa="k @ ' R E l" rhymeScheme="5" stanzaId="1" />
+    <line id="11" finToken="réclamer" finSampa="R e k l a ' m e" rhymeScheme="6" stanzaId="1" />
+    <line id="12" finToken="aimer" finSampa="E ' m e" rhymeScheme="6" stanzaId="1" />
+    <line id="13" finToken="nouvelle" finSampa="n u ' v E l" rhymeScheme="7" stanzaId="1" />
+    <line id="14" finToken="cruelle" finSampa="' k R H E l" rhymeScheme="7" stanzaId="1" />
+    <line id="15" finToken="former" finSampa="f 0 R ' m e" rhymeScheme="8" stanzaId="1" />
+    <line id="16" finToken="aimer" finSampa="E ' m e" rhymeScheme="8" stanzaId="1" />
+    <line id="17" finToken="cautelle" finSampa="k o ' t E l" rhymeScheme="9" stanzaId="1" />
+    <line id="18" finToken="telle" finSampa="' t E l" rhymeScheme="9" stanzaId="1" />
+    <line id="19" finToken="affermer" finSampa="a f E ' R m e" rhymeScheme="10" stanzaId="1" />
+    <line id="20" finToken="aimer" finSampa="E ' m e" rhymeScheme="10" stanzaId="1" />
+  </poem>
+  <poem id="POEM5" author="guillet" period="1415">
+    <line id="1" finToken="être" finSampa="' E t R @" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="appris" finSampa="a ' p R i" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="maître" finSampa="' m E t R @" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="prix" finSampa="' p R i" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="pris" finSampa="' p R i" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="convie" finSampa="k o~ ' v i" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="compris" finSampa="k o~ ' p R i" rhymeScheme="2" stanzaId="1" />
+    <line id="8" finToken="vie" finSampa="' v i" rhymeScheme="3" stanzaId="1" />
+    <line id="9" finToken="voulois" finSampa="v u l ' w a" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="dire" finSampa="' d i R" rhymeScheme="5" stanzaId="2" />
+    <line id="11" finToken="doulois" finSampa="d u l ' w a" rhymeScheme="4" stanzaId="2" />
+    <line id="12" finToken="dire" finSampa="' d i R" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="médire" finSampa="m e ' d i R" rhymeScheme="5" stanzaId="2" />
+    <line id="14" finToken="estimer" finSampa="E s t i ' m e" rhymeScheme="6" stanzaId="2" />
+    <line id="15" finToken="maudire" finSampa="m o ' d i R" rhymeScheme="5" stanzaId="2" />
+    <line id="16" finToken="blâmer" finSampa="b l a ' m e" rhymeScheme="6" stanzaId="2" />
+  </poem>
+  <poem id="POEM6" author="guillet" period="1415">
+    <line id="1" finToken="prise" finSampa="' p R i z" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="apprise" finSampa="a ' p R i z" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="contente" finSampa="k o~ ' t a~ t" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="attente" finSampa="a ' t a~ t" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="amer" finSampa="a ' m E R" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="daimer" finSampa="d E ' m e" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="jouissance" finSampa="Z u i ' s a~ s" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="connaissance" finSampa="k 0 n E ' s a~ s" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="lamitié" finSampa="l a m i ' t j e" rhymeScheme="5" stanzaId="1" />
+    <line id="10" finToken="moitié" finSampa="m w a ' t j e" rhymeScheme="5" stanzaId="1" />
+    <line id="11" finToken="quamer" finSampa="k a ' m e" rhymeScheme="6" stanzaId="1" />
+    <line id="12" finToken="daimer" finSampa="d E ' m e" rhymeScheme="6" stanzaId="1" />
+    <line id="13" finToken="absence" finSampa="a ' p s a~ s" rhymeScheme="7" stanzaId="1" />
+    <line id="14" finToken="assurance" finSampa="a s y ' R a~ s" rhymeScheme="7" stanzaId="1" />
+    <line id="15" finToken="plaisir" finSampa="p l E ' z i R" rhymeScheme="8" stanzaId="1" />
+    <line id="16" finToken="dessaisir" finSampa="d e s E ' z i R" rhymeScheme="8" stanzaId="1" />
+    <line id="17" finToken="désarmer" finSampa="d e z a ' R m e" rhymeScheme="9" stanzaId="1" />
+    <line id="18" finToken="daimer" finSampa="d E ' m e" rhymeScheme="9" stanzaId="1" />
+  </poem>
+  <poem id="POEM7" author="guillet" period="1415">
+    <line id="1" finToken="envieuse" finSampa="a~ ' v j 9 z" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="passer" finSampa="p a ' s e" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="joyeuse" finSampa="Z w a ' j 9 z" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="penser" finSampa="p a~ ' s e" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="dit" finSampa="' d i" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="crédit" finSampa="k R e ' d i" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="envie" finSampa="a~ ' v i" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="cours" finSampa="' k u R" rhymeScheme="5" stanzaId="2" />
+    <line id="9" finToken="vie" finSampa="' v i" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="discours" finSampa="d i s ' k u R" rhymeScheme="5" stanzaId="2" />
+    <line id="11" finToken="verrai" finSampa="v E ' R E" rhymeScheme="6" stanzaId="2" />
+    <line id="12" finToken="mourrai" finSampa="m u ' R R E" rhymeScheme="6" stanzaId="2" />
+    <line id="13" finToken="étrange" finSampa="e ' t R a~ Z" rhymeScheme="7" stanzaId="3" />
+    <line id="14" finToken="voir" finSampa="' v w a R" rhymeScheme="8" stanzaId="3" />
+    <line id="15" finToken="change" finSampa="' S a~ Z" rhymeScheme="7" stanzaId="3" />
+    <line id="16" finToken="douloir" finSampa="d u l ' w a R" rhymeScheme="8" stanzaId="3" />
+    <line id="17" finToken="sent" finSampa="' s" rhymeScheme="9" stanzaId="3" />
+    <line id="18" finToken="absent" finSampa="a ' p s a~" rhymeScheme="9" stanzaId="3" />
+    <line id="19" finToken="tenue" finSampa="t @ ' n y" rhymeScheme="10" stanzaId="4" />
+    <line id="20" finToken="laimer" finSampa="l E ' m e" rhymeScheme="11" stanzaId="4" />
+    <line id="21" finToken="connue" finSampa="k 0 ' n y" rhymeScheme="10" stanzaId="4" />
+    <line id="22" finToken="lestimer" finSampa="l E s t i ' m e" rhymeScheme="11" stanzaId="4" />
+    <line id="23" finToken="requis" finSampa="R @ ' k i" rhymeScheme="12" stanzaId="4" />
+    <line id="24" finToken="acquis" finSampa="a ' k i" rhymeScheme="12" stanzaId="4" />
+    <line id="25" finToken="accompagnée" finSampa="a k o~ p a ' n j e" rhymeScheme="13" stanzaId="5" />
+    <line id="26" finToken="voir" finSampa="' v w a R" rhymeScheme="14" stanzaId="5" />
+    <line id="27" finToken="née" finSampa="' n e" rhymeScheme="13" stanzaId="5" />
+    <line id="28" finToken="vouloir" finSampa="v u ' l w a R" rhymeScheme="14" stanzaId="5" />
+    <line id="29" finToken="mis" finSampa="' m i" rhymeScheme="15" stanzaId="5" />
+    <line id="30" finToken="amis" finSampa="a ' m i" rhymeScheme="15" stanzaId="5" />
+    <line id="31" finToken="prise" finSampa="' p R i z" rhymeScheme="16" stanzaId="6" />
+    <line id="32" finToken="choisir" finSampa="S w a ' z i R" rhymeScheme="17" stanzaId="6" />
+    <line id="33" finToken="promise" finSampa="p R 0 ' m i z" rhymeScheme="16" stanzaId="6" />
+    <line id="34" finToken="saisir" finSampa="s E ' z i R" rhymeScheme="17" stanzaId="6" />
+    <line id="35" finToken="sallia" finSampa="s a l ' j a" rhymeScheme="18" stanzaId="6" />
+    <line id="36" finToken="lia" finSampa="' l j a" rhymeScheme="18" stanzaId="6" />
+    <line id="37" finToken="accomplie" finSampa="a k o~ ' p l i" rhymeScheme="19" stanzaId="7" />
+    <line id="38" finToken="séjour" finSampa="s e ' Z u R" rhymeScheme="20" stanzaId="7" />
+    <line id="39" finToken="remplie" finSampa="R a~ ' p l i" rhymeScheme="19" stanzaId="7" />
+    <line id="40" finToken="jour" finSampa="' Z u R" rhymeScheme="20" stanzaId="7" />
+    <line id="41" finToken="laura" finSampa="l 0 ' R a" rhymeScheme="21" stanzaId="7" />
+    <line id="42" finToken="aimera" finSampa="E m @ ' R a" rhymeScheme="21" stanzaId="7" />
+    <line id="43" finToken="destinée" finSampa="d E s t i ' n e" rhymeScheme="22" stanzaId="8" />
+    <line id="44" finToken="apparaît" finSampa="a p a ' R E" rhymeScheme="23" stanzaId="8" />
+    <line id="45" finToken="née" finSampa="' n e" rhymeScheme="22" stanzaId="8" />
+    <line id="46" finToken="saurait" finSampa="s 0 ' R E" rhymeScheme="23" stanzaId="8" />
+    <line id="47" finToken="moitié" finSampa="m w a ' t j e" rhymeScheme="24" stanzaId="8" />
+    <line id="48" finToken="amitié" finSampa="a m i ' t j e" rhymeScheme="24" stanzaId="8" />
+    <line id="49" finToken="requise" finSampa="R @ ' k i z" rhymeScheme="25" stanzaId="9" />
+    <line id="50" finToken="venir" finSampa="v @ ' n i R" rhymeScheme="26" stanzaId="9" />
+    <line id="51" finToken="apprise" finSampa="a ' p R i z" rhymeScheme="25" stanzaId="9" />
+    <line id="52" finToken="souvenir" finSampa="s u v @ ' n i R" rhymeScheme="26" stanzaId="9" />
+    <line id="53" finToken="coeur" finSampa="' k 9 R" rhymeScheme="27" stanzaId="9" />
+    <line id="54" finToken="vainqueur" finSampa="v e~ ' k 9 R" rhymeScheme="27" stanzaId="9" />
+    <line id="55" finToken="grâce" finSampa="' g R a s" rhymeScheme="28" stanzaId="10" />
+    <line id="56" finToken="davoir" finSampa="d a ' v w a R" rhymeScheme="29" stanzaId="10" />
+    <line id="57" finToken="pourchasse" finSampa="p u ' R S a s" rhymeScheme="28" stanzaId="10" />
+    <line id="58" finToken="décevoir" finSampa="d e s @ ' v w a R" rhymeScheme="29" stanzaId="10" />
+    <line id="59" finToken="fera" finSampa="f @ ' R a" rhymeScheme="30" stanzaId="10" />
+    <line id="60" finToken="contentera" finSampa="k o~ t a~ t @ ' R a" rhymeScheme="30" stanzaId="10" />
+  </poem>
+  <poem id="POEM8" author="guillet" period="1415">
+    <line id="1" finToken="leffet" finSampa="l @ ' f E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="mesurée" finSampa="m @ z y ' R e" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="parfait" finSampa="p a ' R f E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="démesurée" finSampa="d e m @ z y ' R e" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="aventurée" finSampa="a v a~ t y ' R e" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="mesurer" finSampa="m @ z y ' R e" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="endurer" finSampa="a~ d y ' R e" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="surplus" finSampa="s y R ' p l y" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="aventurer" finSampa="a v a~ t y ' R e" rhymeScheme="3" stanzaId="1" />
+    <line id="10" finToken="plus" finSampa="' p l y s" rhymeScheme="4" stanzaId="1" />
+    <line id="11" finToken="dites" finSampa="' d i t" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="désiriez" finSampa="d e z i ' R j E" rhymeScheme="6" stanzaId="2" />
+    <line id="13" finToken="fites" finSampa="' f i t" rhymeScheme="5" stanzaId="2" />
+    <line id="14" finToken="devriez" finSampa="d @ ' v R j e" rhymeScheme="6" stanzaId="2" />
+    <line id="15" finToken="estimeriez" finSampa="E s t i m @ ' R j E" rhymeScheme="6" stanzaId="2" />
+    <line id="16" finToken="tremblant" finSampa="t R a~ ' b l a~" rhymeScheme="7" stanzaId="2" />
+    <line id="17" finToken="voudriez" finSampa="v u ' d R j e" rhymeScheme="6" stanzaId="2" />
+    <line id="18" finToken="semblant" finSampa="s a~ ' b l a~" rhymeScheme="7" stanzaId="2" />
+    <line id="19" finToken="savoir" finSampa="s a ' v w a R" rhymeScheme="8" stanzaId="3" />
+    <line id="20" finToken="contraire" finSampa="k o~ ' t R E R" rhymeScheme="9" stanzaId="3" />
+    <line id="21" finToken="devoir" finSampa="d @ ' v w a R" rhymeScheme="8" stanzaId="3" />
+    <line id="22" finToken="complaire" finSampa="k o~ ' p l E R" rhymeScheme="9" stanzaId="3" />
+    <line id="23" finToken="affaire" finSampa="a ' f E R" rhymeScheme="9" stanzaId="3" />
+    <line id="24" finToken="tenu" finSampa="t @ ' n y" rhymeScheme="10" stanzaId="3" />
+    <line id="25" finToken="nu" finSampa="' n y" rhymeScheme="10" stanzaId="3" />
+    <line id="26" finToken="est" finSampa="' E s t @" rhymeScheme="11" stanzaId="3" />
+    <line id="27" finToken="menu" finSampa="m @ ' n y" rhymeScheme="10" stanzaId="3" />
+    <line id="28" finToken="dévêt" finSampa="d e ' v E" rhymeScheme="11" stanzaId="3" />
+    <line id="29" finToken="voulez" finSampa="v u ' l e" rhymeScheme="12" stanzaId="4" />
+    <line id="30" finToken="contrevenir" finSampa="k o~ t R @ v @ ' n i R" rhymeScheme="13" stanzaId="4" />
+    <line id="31" finToken="désolés" finSampa="d e z 0 ' l e" rhymeScheme="12" stanzaId="4" />
+    <line id="32" finToken="venir" finSampa="v @ ' n i R" rhymeScheme="13" stanzaId="4" />
+    <line id="33" finToken="souvenir" finSampa="s u v @ ' n i R" rhymeScheme="13" stanzaId="4" />
+    <line id="34" finToken="amplement" finSampa="a~ p l @ ' m a~" rhymeScheme="14" stanzaId="4" />
+    <line id="35" finToken="ment" finSampa="' m" rhymeScheme="14" stanzaId="4" />
+    <line id="36" finToken="dire" finSampa="' d i R" rhymeScheme="15" stanzaId="4" />
+    <line id="37" finToken="simplement" finSampa="s e~ p l @ ' m a~" rhymeScheme="14" stanzaId="4" />
+    <line id="38" finToken="dire" finSampa="' d i R" rhymeScheme="15" stanzaId="4" />
+  </poem>
+  <poem id="POEM9" author="guillet" period="1415">
+    <line id="1" finToken="permis" finSampa="p E ' R m i" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="appetisse" finSampa="a p @ ' ' t i s" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="promis" finSampa="p R 0 ' m i" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="office" finSampa="0 ' f i s" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="légèreté" finSampa="l e Z E R @ ' t e" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="fermeté" finSampa="f E R m @ ' t e" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="volages" finSampa="v 0 ' l a Z" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="divertir" finSampa="d i v E R ' t i R" rhymeScheme="5" stanzaId="2" />
+    <line id="9" finToken="courages" finSampa="k u ' R a Z" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="repentir" finSampa="R @ p a~ ' t i R" rhymeScheme="5" stanzaId="2" />
+    <line id="11" finToken="amitié" finSampa="a m i ' t j e" rhymeScheme="6" stanzaId="2" />
+    <line id="12" finToken="moitié" finSampa="m w a ' t j e" rhymeScheme="6" stanzaId="2" />
+    <line id="13" finToken="excuser" finSampa="E k s k y ' z e" rhymeScheme="7" stanzaId="3" />
+    <line id="14" finToken="perdue" finSampa="p E R ' d y" rhymeScheme="8" stanzaId="3" />
+    <line id="15" finToken="abuser" finSampa="a b y ' z e" rhymeScheme="7" stanzaId="3" />
+    <line id="16" finToken="rendue" finSampa="R a~ ' d y" rhymeScheme="8" stanzaId="3" />
+    <line id="17" finToken="faite" finSampa="' f E t" rhymeScheme="9" stanzaId="3" />
+    <line id="18" finToken="défaite" finSampa="d e ' f E t" rhymeScheme="9" stanzaId="3" />
+    <line id="19" finToken="apprise" finSampa="a ' p R i z" rhymeScheme="10" stanzaId="4" />
+    <line id="20" finToken="aimer" finSampa="E ' m e" rhymeScheme="11" stanzaId="4" />
+    <line id="21" finToken="reprise" finSampa="R @ ' p R i z" rhymeScheme="10" stanzaId="4" />
+    <line id="22" finToken="allumer" finSampa="a l y ' m e" rhymeScheme="11" stanzaId="4" />
+    <line id="23" finToken="su" finSampa="' s y" rhymeScheme="12" stanzaId="4" />
+    <line id="24" finToken="aperçu" finSampa="a p E ' R s y" rhymeScheme="12" stanzaId="4" />
+    <line id="25" finToken="ébahissons" finSampa="e b a i ' s o~" rhymeScheme="13" stanzaId="5" />
+    <line id="26" finToken="change" finSampa="' S a~ Z" rhymeScheme="14" stanzaId="5" />
+    <line id="27" finToken="connaissons" finSampa="k 0 n E ' s o~" rhymeScheme="13" stanzaId="5" />
+    <line id="28" finToken="étrange" finSampa="e ' t R a~ Z" rhymeScheme="14" stanzaId="5" />
+    <line id="29" finToken="permis" finSampa="p E ' R m i" rhymeScheme="15" stanzaId="5" />
+    <line id="30" finToken="damis" finSampa="d a ' m i" rhymeScheme="15" stanzaId="5" />
+    <line id="31" finToken="quoccasion" finSampa="k 0 k a ' z j o~" rhymeScheme="16" stanzaId="6" />
+    <line id="32" finToken="donnée" finSampa="d 0 ' n e" rhymeScheme="17" stanzaId="6" />
+    <line id="33" finToken="passion" finSampa="p a ' s j o~" rhymeScheme="16" stanzaId="6" />
+    <line id="34" finToken="adonnée" finSampa="a d 0 ' n e" rhymeScheme="17" stanzaId="6" />
+    <line id="35" finToken="vengera" finSampa="v a~ Z @ ' R a" rhymeScheme="18" stanzaId="6" />
+    <line id="36" finToken="rangera" finSampa="R a~ Z @ ' R a" rhymeScheme="18" stanzaId="6" />
+  </poem>
+</data>

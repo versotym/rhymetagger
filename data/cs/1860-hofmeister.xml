@@ -1,0 +1,1478 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+  <poem id="0001-0000-0000-0001-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="bídu" finSampa="' b i: d u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="Bůh" finSampa="' b u: x" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="klidu" finSampa="' k l I d u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="tuch" finSampa="' t u x" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="živobytí" finSampa="' Z I v o b I c i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="krok" finSampa="' k r o k" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="nítí" finSampa="' J i: c i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="rok" finSampa="' r o k" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="úmoru" finSampa="' u: m o r u" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="vděk" finSampa="' v J\ E k" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="vzdorů" finSampa="' v z d o r u:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="výčitek" finSampa="' v i: t_S I t E k" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="hromné" finSampa="' h\ r o m n E:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="pych" finSampa="' p I x" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="mne" finSampa="m n E" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="sníh" finSampa="' s J i: x" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="prostou" finSampa="' p r o s t o_u" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="mrav" finSampa="' m r a f" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="rostou" finSampa="' r o s t o_u" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="hlav" finSampa="' h\ l a f" rhymeScheme="10" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0002-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="plají" finSampa="' p l a j i:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="snivé" finSampa="' s J I v E:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="hlavy" finSampa="' h\ l a v I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="sivé" finSampa="' s I v E:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="vichry" finSampa="' v I x r I" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="dují" finSampa="' d u j i:" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="drahá" finSampa="' d r a h\ a:" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="obletují" finSampa="' o b l E t u j i:" rhymeScheme="2" stanzaId="1" />
+    <line id="9" finToken="mne" finSampa="m n E" rhymeScheme="X" stanzaId="2" />
+    <line id="10" finToken="tuší" finSampa="' t u S i:" rhymeScheme="3" stanzaId="2" />
+    <line id="11" finToken="se" finSampa="s E" rhymeScheme="X" stanzaId="2" />
+    <line id="12" finToken="vzruší" finSampa="' v z r u S i:" rhymeScheme="3" stanzaId="2" />
+    <line id="13" finToken="toužném" finSampa="' t o_u Z n E: m" rhymeScheme="X" stanzaId="2" />
+    <line id="14" finToken="dáli" finSampa="' d a: l I" rhymeScheme="4" stanzaId="2" />
+    <line id="15" finToken="povždy" finSampa="' p o v Z d I" rhymeScheme="X" stanzaId="2" />
+    <line id="16" finToken="zalétali" finSampa="' z a l E: t a l I" rhymeScheme="4" stanzaId="2" />
+    <line id="17" finToken="touhy" finSampa="' t o_u h\ I" rhymeScheme="X" stanzaId="3" />
+    <line id="18" finToken="boje" finSampa="' b o j E" rhymeScheme="5" stanzaId="3" />
+    <line id="19" finToken="stoupám" finSampa="' s t o_u p a: m" rhymeScheme="X" stanzaId="3" />
+    <line id="20" finToken="znoje" finSampa="' z n o j E" rhymeScheme="5" stanzaId="3" />
+    <line id="21" finToken="si" finSampa="s I" rhymeScheme="X" stanzaId="3" />
+    <line id="22" finToken="žití" finSampa="' Z I c i:" rhymeScheme="6" stanzaId="3" />
+    <line id="23" finToken="nohám" finSampa="' n o h\ a: m" rhymeScheme="X" stanzaId="3" />
+    <line id="24" finToken="položiti" finSampa="' p o l o Z I c I" rhymeScheme="6" stanzaId="3" />
+    <line id="25" finToken="oči" finSampa="' o t_S I" rhymeScheme="X" stanzaId="4" />
+    <line id="26" finToken="dlouhý" finSampa="' d l o_u h\ i:" rhymeScheme="7" stanzaId="4" />
+    <line id="27" finToken="klesnou" finSampa="' k l E s n o_u" rhymeScheme="X" stanzaId="4" />
+    <line id="28" finToken="touhy" finSampa="' t o_u h\ I" rhymeScheme="7" stanzaId="4" />
+    <line id="29" finToken="schladne" finSampa="' s x l a d n E" rhymeScheme="X" stanzaId="4" />
+    <line id="30" finToken="bíti" finSampa="' b i: c I" rhymeScheme="6" stanzaId="4" />
+    <line id="31" finToken="tmách" finSampa="' t m a: x" rhymeScheme="X" stanzaId="4" />
+    <line id="32" finToken="žití" finSampa="' Z I c i:" rhymeScheme="6" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0003-0001" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="výš" finSampa="v i: S" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="odletíš" finSampa="' o d l E c i: S" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="sebou" finSampa="' s E b o_u" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="říš" finSampa="' P\ i: S" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="bych" finSampa="' b I x" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="nebesích" finSampa="' n E b E s i: x" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="sedmikrásy" finSampa="' s E d m I k r a: s I" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="sníh" finSampa="' s J i: x" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="vznět" finSampa="' v z J E t" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="nevykvět" finSampa="' n E v I k v j E t" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="byla" finSampa="' b I l a" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="svět" finSampa="' s v j E t" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="ston" finSampa="' s t o n" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="ton" finSampa="t o n" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="očích" finSampa="' o t_S i: x" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="zvon" finSampa="' z v o n" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0003-0002" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="tebe" finSampa="' t E b E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="mně" finSampa="m J E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="beznaději" finSampa="' b E z n a J\ E j I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="chvěji" finSampa="' x v j E j I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="temně" finSampa="' t E m J E" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="mně" finSampa="m J E" rhymeScheme="1" stanzaId="1" />
+    <line id="7" finToken="rozhovoru" finSampa="' r o s x o v o r u" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="více" finSampa="' v i: t_s E" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="stony" finSampa="' s t o n I" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="tony" finSampa="' t o n I" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="holubice" finSampa="' h\ o l u b I t_s E" rhymeScheme="3" stanzaId="2" />
+    <line id="12" finToken="více" finSampa="' v i: t_s E" rhymeScheme="3" stanzaId="2" />
+    <line id="13" finToken="šumí" finSampa="' S u m i:" rhymeScheme="X" stanzaId="3" />
+    <line id="14" finToken="budu" finSampa="' b u d u" rhymeScheme="5" stanzaId="3" />
+    <line id="15" finToken="třese" finSampa="' t P\ E s E" rhymeScheme="6" stanzaId="3" />
+    <line id="16" finToken="nese" finSampa="' n E s E" rhymeScheme="6" stanzaId="3" />
+    <line id="17" finToken="studu" finSampa="' s t u d u" rhymeScheme="5" stanzaId="3" />
+    <line id="18" finToken="budu" finSampa="' b u d u" rhymeScheme="5" stanzaId="3" />
+    <line id="19" finToken="nesen" finSampa="' n E s E n" rhymeScheme="X" stanzaId="4" />
+    <line id="20" finToken="snění" finSampa="' s J E J i:" rhymeScheme="7" stanzaId="4" />
+    <line id="21" finToken="duší" finSampa="' d u S i:" rhymeScheme="8" stanzaId="4" />
+    <line id="22" finToken="tuší" finSampa="' t u S i:" rhymeScheme="8" stanzaId="4" />
+    <line id="23" finToken="rozechvění" finSampa="' r o z E x v j E J i:" rhymeScheme="7" stanzaId="4" />
+    <line id="24" finToken="snění" finSampa="' s J E J i:" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0004-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="bělavé" finSampa="' b j E l a v E:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="sklon" finSampa="' s k l o n" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="zem" finSampa="' z E m" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="Orion" finSampa="' o r I j o n" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="vztýčené" finSampa="' f s t i: t_S E n E:" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="oblak" finSampa="' o b l a k" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="hvězd" finSampa="' h\ v j E s t" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="zrak" finSampa="' z r a k" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="víc" finSampa="v i: t_s" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="tmou" finSampa="' t m o_u" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="můj" finSampa="m u: j" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="mou" finSampa="m o_u" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0005-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="noci" finSampa="' n o t_s I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zřel" finSampa="' z P\ E l" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="moci" finSampa="' m o t_s I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="chvěl" finSampa="' x v j E l" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="ducha" finSampa="' d u x a" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="chrám" finSampa="' x r a: m" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="tucha" finSampa="' t u x a" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="ptám" finSampa="' p t a: m" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="trůní" finSampa="' t r u: J i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="hvězd" finSampa="' h\ v j E s t" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="duní" finSampa="' d u J i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="jest" finSampa="' j E s t" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0006-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="má" finSampa="' m a:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="pláče" finSampa="' p l a: t_S E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="své" finSampa="s v E:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="ptáče" finSampa="' p t a: t_S E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="vodopád" finSampa="' v o d o p a: t" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="řítíš" finSampa="' P\ i: c i: S" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="tě" finSampa="c E" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="svítíš" finSampa="' s v i: c i: S" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="shasíná" finSampa="' s x a s i: n a:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="září" finSampa="' z a: P\ i:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="ramena" finSampa="' r a m E n a" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="tváří" finSampa="' t v a: P\ i:" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="doznívá" finSampa="' d o z J i: v a:" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="ztrácí" finSampa="' s t r a: t_s i:" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="okovech" finSampa="' o k o v E x" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="resignací" finSampa="' r E s I g n a t_s i:" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0007-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="vnořen" finSampa="' v n o P\ E n" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="tmách" finSampa="' t m a: x" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="oheň" finSampa="' o h\ E J" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="sbořen" finSampa="' z b o P\ E n" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="ssutinách" finSampa="' s u c I n a: x" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="spěti" finSampa="' s p j E c I" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="tmít" finSampa="' t m i: t" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="ideály" finSampa="' I d E a: l I" rhymeScheme="X" stanzaId="2" />
+    <line id="9" finToken="ti" finSampa="c I" rhymeScheme="3" stanzaId="2" />
+    <line id="10" finToken="žít" finSampa="' Z i: t" rhymeScheme="4" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0008-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="nezoufej" finSampa="' n E z o_u f E j" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="kterýkoli" finSampa="' k t E r i: k o l I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="světě" finSampa="' s v j E c E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="bolí" finSampa="' b o l i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="nezoufej" finSampa="' n E z o_u f E j" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="hoře" finSampa="' h\ o P\ E" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="nesmírném" finSampa="' n E s m i: r n E: m" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="moře" finSampa="' m o P\ E" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="nezoufej" finSampa="' n E z o_u f E j" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="ráje" finSampa="' r a: j E" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="čarovný" finSampa="' t_S a r o v n i:" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="báje" finSampa="' b a: j E" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="zapomeň" finSampa="' z a p o m E J" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="kterýkoli" finSampa="' k t E r i: k o l I" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="všech" finSampa="f S E x" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="bolí" finSampa="' b o l i:" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0009-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="zkalen" finSampa="' s k a l E n" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vzdálen" finSampa="' v z d a: l E n" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="síly" finSampa="' s i: l I" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="cíli" finSampa="' t_s i: l I" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="skládá" finSampa="' s k l a: d a:" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="padá" finSampa="' p a d a:" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="Tvoje" finSampa="' t v o j E" rhymeScheme="4" stanzaId="4" />
+    <line id="8" finToken="boje" finSampa="' b o j E" rhymeScheme="4" stanzaId="4" />
+    <line id="9" finToken="oka" finSampa="' o k a" rhymeScheme="5" stanzaId="5" />
+    <line id="10" finToken="hluboka" finSampa="' h\ l u b o k a" rhymeScheme="5" stanzaId="5" />
+    <line id="11" finToken="vřava" finSampa="' v P\ a v a" rhymeScheme="6" stanzaId="6" />
+    <line id="12" finToken="nepřestává" finSampa="' n E p P\ E s t a: v a:" rhymeScheme="6" stanzaId="6" />
+    <line id="13" finToken="děti" finSampa="' J\ E c I" rhymeScheme="7" stanzaId="7" />
+    <line id="14" finToken="zápětí" finSampa="' z a: p j E c i:" rhymeScheme="7" stanzaId="7" />
+    <line id="15" finToken="moci" finSampa="' m o t_s I" rhymeScheme="8" stanzaId="8" />
+    <line id="16" finToken="noci" finSampa="' n o t_s I" rhymeScheme="8" stanzaId="8" />
+    <line id="17" finToken="zdobu" finSampa="' z d o b u" rhymeScheme="9" stanzaId="9" />
+    <line id="18" finToken="hrobu" finSampa="' h\ r o b u" rhymeScheme="9" stanzaId="9" />
+  </poem>
+  <poem id="0001-0000-0000-0010-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="idolem" finSampa="' I d o l E m" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="pláš" finSampa="' p l a: S" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="předsvitu" finSampa="' p P\ E t s v I t u" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="vláš" finSampa="v l a: S" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="vykouzlil" finSampa="' v I k o_u z l I l" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="zářící" finSampa="' z a: P\ i: t_s i:" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="třpytící" finSampa="' t P\ p I c i: t_s i:" rhymeScheme="2" stanzaId="1" />
+    <line id="8" finToken="máš" finSampa="' m a: S" rhymeScheme="1" stanzaId="1" />
+    <line id="9" finToken="tvým" finSampa="t v i: m" rhymeScheme="X" stanzaId="2" />
+    <line id="10" finToken="snách" finSampa="' s n a: x" rhymeScheme="3" stanzaId="2" />
+    <line id="11" finToken="paprsků" finSampa="' p a p r= s k u:" rhymeScheme="X" stanzaId="2" />
+    <line id="12" finToken="tužbách" finSampa="' t u Z b a: x" rhymeScheme="3" stanzaId="2" />
+    <line id="13" finToken="vždy" finSampa="v Z d I" rhymeScheme="X" stanzaId="2" />
+    <line id="14" finToken="plál" finSampa="' p l a: l" rhymeScheme="4" stanzaId="2" />
+    <line id="15" finToken="ideál" finSampa="' I d E a: l" rhymeScheme="4" stanzaId="2" />
+    <line id="16" finToken="výšinách" finSampa="' v i: S I n a: x" rhymeScheme="X" stanzaId="2" />
+    <line id="17" finToken="étheru" finSampa="' E: t E r u" rhymeScheme="5" stanzaId="3" />
+    <line id="18" finToken="Venuše" finSampa="' v E n u S E" rhymeScheme="6" stanzaId="3" />
+    <line id="19" finToken="šeru" finSampa="' S E r u" rhymeScheme="5" stanzaId="3" />
+    <line id="20" finToken="duše" finSampa="' d u S E" rhymeScheme="6" stanzaId="3" />
+    <line id="21" finToken="jen" finSampa="j E n" rhymeScheme="X" stanzaId="3" />
+    <line id="22" finToken="oblaků" finSampa="' o b l a k u:" rhymeScheme="7" stanzaId="3" />
+    <line id="23" finToken="zraků" finSampa="' z r a k u:" rhymeScheme="7" stanzaId="3" />
+    <line id="24" finToken="netuše" finSampa="' n E t u S E" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0011-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="odstíněná" finSampa="' o t s c i: J E n a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="rozechvěná" finSampa="' r o z E x v j E n a:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="zosobněna" finSampa="' z o s o b J E n a" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="vzchopen" finSampa="' f s x o p E n" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="stopen" finSampa="' s t o p E n" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="polosklopen" finSampa="' p o l o s k l o p E n" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="podobrví" finSampa="' p o d o b r= v i:" rhymeScheme="3" stanzaId="3" />
+    <line id="8" finToken="prvý" finSampa="' p r= v i:" rhymeScheme="3" stanzaId="3" />
+    <line id="9" finToken="krví" finSampa="' k r= v i:" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="mládí" finSampa="' m l a: J\ i:" rhymeScheme="4" stanzaId="4" />
+    <line id="11" finToken="kradí" finSampa="' k r a J\ i:" rhymeScheme="4" stanzaId="4" />
+    <line id="12" finToken="svádí" finSampa="' s v a: J\ i:" rhymeScheme="4" stanzaId="4" />
+    <line id="13" finToken="světlá" finSampa="' s v j E t l a:" rhymeScheme="5" stanzaId="5" />
+    <line id="14" finToken="letla" finSampa="' l E t l a" rhymeScheme="5" stanzaId="5" />
+    <line id="15" finToken="květla" finSampa="' k v j E t l a" rhymeScheme="5" stanzaId="5" />
+    <line id="16" finToken="zhouby" finSampa="' s x o_u b I" rhymeScheme="6" stanzaId="6" />
+    <line id="17" finToken="hloubi" finSampa="' h\ l o_u b I" rhymeScheme="6" stanzaId="6" />
+    <line id="18" finToken="snoubí" finSampa="' s n o_u b i:" rhymeScheme="6" stanzaId="6" />
+    <line id="19" finToken="pálá" finSampa="' p a: l a:" rhymeScheme="7" stanzaId="7" />
+    <line id="20" finToken="nenadálá" finSampa="' n E n a d a: l a:" rhymeScheme="7" stanzaId="7" />
+    <line id="21" finToken="svála" finSampa="' s v a: l a" rhymeScheme="7" stanzaId="7" />
+    <line id="22" finToken="bledá" finSampa="' b l E d a:" rhymeScheme="8" stanzaId="8" />
+    <line id="23" finToken="hledá" finSampa="' h\ l E d a:" rhymeScheme="8" stanzaId="8" />
+    <line id="24" finToken="zvedá" finSampa="' z v E d a:" rhymeScheme="8" stanzaId="8" />
+    <line id="25" finToken="vzplání" finSampa="' f s p l a: J i:" rhymeScheme="9" stanzaId="9" />
+    <line id="26" finToken="pousmání" finSampa="' p o u s m a: J i:" rhymeScheme="9" stanzaId="9" />
+    <line id="27" finToken="požehnání" finSampa="' p o Z E h\ n a: J i:" rhymeScheme="9" stanzaId="9" />
+    <line id="28" finToken="nepříšerná" finSampa="' n E p P\ i: S E r n a:" rhymeScheme="10" stanzaId="10" />
+    <line id="29" finToken="věrná" finSampa="' v j E r n a:" rhymeScheme="10" stanzaId="10" />
+    <line id="30" finToken="černá" finSampa="' t_S E r n a:" rhymeScheme="10" stanzaId="10" />
+  </poem>
+  <poem id="0001-0000-0000-0012-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="směru" finSampa="' s m J E r u" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="nespokojen" finSampa="' n E s p o k o j E n" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="ztrmácen" finSampa="' s t r= m a: t_s E n" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="znojen" finSampa="' z n o j E n" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="svém" finSampa="s v E: m" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="ztrácím" finSampa="' s t r a: t_s i: m" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="vzpomínkou" finSampa="' f s p o m i: n k o_u" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="vracím" finSampa="' v r a t_s i: m" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="rozrývá" finSampa="' r o z r i: v a:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="pláče" finSampa="' p l a: t_S E" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="bijící" finSampa="' b I j i: t_s i:" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="ptáče" finSampa="' p t a: t_S E" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="okovů" finSampa="' o k o v u:" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="vláčí" finSampa="' v l a: t_S i:" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="skutečna" finSampa="' s k u t E t_S n a" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="smáčí" finSampa="' s m a: t_S i:" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0013-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="jen" finSampa="j E n" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="vládne" finSampa="' v l a: d n E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="nedosněn" finSampa="' n E d o s J E n" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="vadne" finSampa="' v a d n E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="Tulákem" finSampa="' t u l a: k E m" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="chmurný" finSampa="' x m u r n i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="myšlenek" finSampa="' m I S l E n E k" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="zpurný" finSampa="' s p u r n i:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="přepadá" finSampa="' p P\ E p a d a:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="béře" finSampa="' b E: P\ E" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="zoufání" finSampa="' z o_u f a: J i:" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="déře" finSampa="' d E: P\ E" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="zářivý" finSampa="' z a: P\ I v i:" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="závojem" finSampa="' z a: v o j E m" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="rozletu" finSampa="' r o z l E t u" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="zem" finSampa="' z E m" rhymeScheme="4" stanzaId="4" />
+    <line id="17" finToken="Řetězem" finSampa="' P\ E c E z E m" rhymeScheme="4" stanzaId="5" />
+    <line id="18" finToken="šíji" finSampa="' S i: j I" rhymeScheme="5" stanzaId="5" />
+    <line id="19" finToken="hlodavý" finSampa="' h\ l o d a v i:" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="vpíjí" finSampa="' f p i: j i:" rhymeScheme="5" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0014-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="písní" finSampa="' p i: s J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vyzlacen" finSampa="' v I z l a t_s E n" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="nepotřísní" finSampa="' n E p o t P\ i: s J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="jen" finSampa="j E n" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="tísni" finSampa="' c i: s J I" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="naděje" finSampa="' n a J\ E j E" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="písní" finSampa="' p i: s J i:" rhymeScheme="1" stanzaId="2" />
+    <line id="8" finToken="je" finSampa="j E" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="blaha" finSampa="' b l a h\ a" rhymeScheme="4" stanzaId="3" />
+    <line id="10" finToken="zní" finSampa="' z J i:" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="vraha" finSampa="' v r a h\ a" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="bolestí" finSampa="' b o l E s c i:" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="tváří" finSampa="' t v a: P\ i:" rhymeScheme="6" stanzaId="4" />
+    <line id="14" finToken="znavenou" finSampa="' z n a v E n o_u" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="záři" finSampa="' z a: P\ I" rhymeScheme="6" stanzaId="4" />
+    <line id="16" finToken="tmou" finSampa="' t m o_u" rhymeScheme="7" stanzaId="4" />
+    <line id="17" finToken="nebe" finSampa="' n E b E" rhymeScheme="X" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0015-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="zjevení" finSampa="' z j E v E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="mou" finSampa="m o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="snění" finSampa="' s J E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="vidinou" finSampa="' v I J\ I n o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="prochvíváš" finSampa="' p r o x v i: v a: S" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="ton" finSampa="t o n" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="pláš" finSampa="' p l a: S" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="ston" finSampa="' s t o n" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="tuch" finSampa="' t u x" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="hrst" finSampa="' h\ r= s t" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="Bůh" finSampa="' b u: x" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="prsť" finSampa="' p r= s c" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="dlíš" finSampa="' d l i: S" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="výšinách" finSampa="' v i: S I n a: x" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="víš" finSampa="' v i: S" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="snách" finSampa="' s n a: x" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="hynoucí" finSampa="' h\ I n o_u t_s i:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="znáš" finSampa="' z n a: S" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="slynoucí" finSampa="' s l I n o_u t_s i:" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="lkáš" finSampa="' l k a: S" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="jedinou" finSampa="' j E J\ I n o_u" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="mám" finSampa="' m a: m" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="pohynou" finSampa="' p o h\ I n o_u" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="tmám" finSampa="' t m a: m" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="horoucí" finSampa="' h\ o r o_u t_s i:" rhymeScheme="9" stanzaId="7" />
+    <line id="26" finToken="hruď" finSampa="' h\ r u c" rhymeScheme="13" stanzaId="7" />
+    <line id="27" finToken="planoucí" finSampa="' p l a n o_u t_s i:" rhymeScheme="9" stanzaId="7" />
+    <line id="28" finToken="buď" finSampa="b u c" rhymeScheme="13" stanzaId="7" />
+  </poem>
+  <poem id="0001-0000-0000-0016-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="obrátím" finSampa="' o b r a: c i: m" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="vstříc" finSampa="f s t P\ i: t_s" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="milá" finSampa="' m I l a:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="líc" finSampa="' l i: t_s" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="stín" finSampa="' s c i: n" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="mráčku" finSampa="' m r a: t_S k u" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="hvězdy" finSampa="' h\ v j E z d I" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="vezdy" finSampa="' v E z d I" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="obláčků" finSampa="' o b l a: t_S k u:" rhymeScheme="3" stanzaId="1" />
+    <line id="10" finToken="klín" finSampa="' k l i: n" rhymeScheme="2" stanzaId="1" />
+    <line id="11" finToken="voláš" finSampa="' v o l a: S" rhymeScheme="X" stanzaId="2" />
+    <line id="12" finToken="vrásek" finSampa="' v r a: s E k" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="truchlý" finSampa="' t r u x l i:" rhymeScheme="X" stanzaId="2" />
+    <line id="14" finToken="pasek" finSampa="' p a s E k" rhymeScheme="5" stanzaId="2" />
+    <line id="15" finToken="vstříc" finSampa="f s t P\ i: t_s" rhymeScheme="6" stanzaId="2" />
+    <line id="16" finToken="máti" finSampa="' m a: c I" rhymeScheme="7" stanzaId="2" />
+    <line id="17" finToken="boji" finSampa="' b o j I" rhymeScheme="8" stanzaId="2" />
+    <line id="18" finToken="svoji" finSampa="' s v o j I" rhymeScheme="8" stanzaId="2" />
+    <line id="19" finToken="pláti" finSampa="' p l a: c I" rhymeScheme="7" stanzaId="2" />
+    <line id="20" finToken="zřítelnic" finSampa="' z P\ i: t E l J I t_s" rhymeScheme="6" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0017-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="hloubí" finSampa="' h\ l o_u b i:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="jít" finSampa="' j i: t" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="lije" finSampa="' l I j E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="třpyt" finSampa="' t P\ p I t" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="krásy" finSampa="' k r a: s I" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="vznět" finSampa="' v z J E t" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="stromy" finSampa="' s t r o m I" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="rozumět" finSampa="' r o z u m J E t" rhymeScheme="2" stanzaId="1" />
+    <line id="9" finToken="tajuplných" finSampa="' t a j u p l= n i: x" rhymeScheme="X" stanzaId="2" />
+    <line id="10" finToken="poetů" finSampa="' p o E t u:" rhymeScheme="3" stanzaId="2" />
+    <line id="11" finToken="oblakový" finSampa="' o b l a k o v i:" rhymeScheme="X" stanzaId="2" />
+    <line id="12" finToken="rozletu" finSampa="' r o z l E t u" rhymeScheme="3" stanzaId="2" />
+    <line id="13" finToken="řítit" finSampa="' P\ i: c I t" rhymeScheme="X" stanzaId="2" />
+    <line id="14" finToken="fontány" finSampa="' f o n t a: n I" rhymeScheme="4" stanzaId="2" />
+    <line id="15" finToken="bolů" finSampa="' b o l u:" rhymeScheme="X" stanzaId="2" />
+    <line id="16" finToken="zahnaný" finSampa="' z a h\ n a n i:" rhymeScheme="4" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0018-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="mojí" finSampa="' m o j i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="duch" finSampa="' d u x" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="ruch" finSampa="' r u x" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="pojí" finSampa="' p o j i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="šedin" finSampa="' S E J\ I n" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="nevidín" finSampa="' n E v I J\ i: n" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="stín" finSampa="' s c i: n" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="vidin" finSampa="' v I J\ I n" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="dumy" finSampa="' d u m I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="pad" finSampa="' p a t" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="plát" finSampa="' p l a: t" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="rumy" finSampa="' r u m I" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="rety" finSampa="' r E t I" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="ples" finSampa="' p l E s" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="nenalez" finSampa="' n E n a l E s" rhymeScheme="8" stanzaId="4" />
+    <line id="16" finToken="vzněty" finSampa="' v z J E t I" rhymeScheme="7" stanzaId="4" />
+    <line id="17" finToken="kraje" finSampa="' k r a j E" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="tmou" finSampa="' t m o_u" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="jdou" finSampa="' j d o_u" rhymeScheme="10" stanzaId="5" />
+    <line id="20" finToken="zraje" finSampa="' z r a j E" rhymeScheme="9" stanzaId="5" />
+    <line id="21" finToken="zlobě" finSampa="' z l o b j E" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="hnus" finSampa="' h\ n u s" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="Genius" finSampa="' g E J I j u s" rhymeScheme="12" stanzaId="6" />
+    <line id="24" finToken="hrobě" finSampa="' h\ r o b j E" rhymeScheme="11" stanzaId="6" />
+  </poem>
+  <poem id="0001-0000-0000-0019-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="domoviny" finSampa="' d o m o v I n I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zvuk" finSampa="' z v u k" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="stíny" finSampa="' s c i: n I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="viny" finSampa="' v I n I" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="muk" finSampa="' m u k" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="dálné" finSampa="' d a: l n E:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="shon" finSampa="' s x o n" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="palné" finSampa="' p a l n E:" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="žalné" finSampa="' Z a l n E:" rhymeScheme="3" stanzaId="2" />
+    <line id="10" finToken="ston" finSampa="' s t o n" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="zněte" finSampa="' z J E t E" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="cit" finSampa="' t_s I t" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="hřměte" finSampa="' h\ P\ m J E t E" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="hněte" finSampa="' h\ J E t E" rhymeScheme="5" stanzaId="3" />
+    <line id="15" finToken="klid" finSampa="' k l I t" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0020-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="letí" finSampa="' l E c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="objetí" finSampa="' o b j E c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="živá" finSampa="' Z I v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="símě" finSampa="' s i: m J E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="hymně" finSampa="' h\ I m J E" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="padá" finSampa="' p a d a:" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="lada" finSampa="' l a d a" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="ztrácí" finSampa="' s t r a: t_s i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="nenavrací" finSampa="' n E n a v r a t_s i:" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="bole" finSampa="' b o l E" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="pole" finSampa="' p o l E" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="víru" finSampa="' v i: r u" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="míru" finSampa="' m i: r u" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="mnohá" finSampa="' m n o h\ a:" rhymeScheme="8" stanzaId="4" />
+    <line id="16" finToken="boha" finSampa="' b o h\ a" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="oka" finSampa="' o k a" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="hluboka" finSampa="' h\ l u b o k a" rhymeScheme="9" stanzaId="5" />
+    <line id="19" finToken="skane" finSampa="' s k a n E" rhymeScheme="10" stanzaId="5" />
+    <line id="20" finToken="vzplane" finSampa="' f s p l a n E" rhymeScheme="10" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0021-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="námořníků" finSampa="' n a: m o P\ J i: k u:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="okamžiku" finSampa="' o k a m Z I k u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="vrhne" finSampa="' v r= h\ n E" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="strhne" finSampa="' s t r= h\ n E" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="šíjí" finSampa="' S i: j i:" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="ji" finSampa="j I" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="duši" finSampa="' d u S I" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="zkruší" finSampa="' s k r u S i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="šedá" finSampa="' S E d a:" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="bledá" finSampa="' b l E d a:" rhymeScheme="5" stanzaId="2" />
+    <line id="11" finToken="celý" finSampa="' t_s E l i:" rhymeScheme="6" stanzaId="2" />
+    <line id="12" finToken="li" finSampa="l I" rhymeScheme="6" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0022-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="starostí" finSampa="' s t a r o s c i:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="stíny" finSampa="' s c i: n I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="naděje" finSampa="' n a J\ E j E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="jiný" finSampa="' j I n i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="zrosené" finSampa="' z r o s E n E:" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="zvedá" finSampa="' z v E d a:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="předtuchou" finSampa="' p P\ E t u x o_u" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="bledá" finSampa="' b l E d a:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="satyra" finSampa="' s a t I r a" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="ďábla" finSampa="' J\ a: b l a" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="zoufalství" finSampa="' z o_u f a l s t v i:" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="neochabla" finSampa="' n E o x a b l a" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="vznést" finSampa="' v z n E: s t" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="zřídla" finSampa="' z P\ i: d l a" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="zdrtili" finSampa="' z d r= c I l I" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="křídla" finSampa="' k P\ i: d l a" rhymeScheme="4" stanzaId="4" />
+    <line id="17" finToken="záhadou" finSampa="' z a: h\ a d o_u" rhymeScheme="X" stanzaId="5" />
+    <line id="18" finToken="ani" finSampa="' a J I" rhymeScheme="5" stanzaId="5" />
+    <line id="19" finToken="tvou" finSampa="t v o_u" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="sklání" finSampa="' s k l a: J i:" rhymeScheme="5" stanzaId="5" />
+    <line id="21" finToken="nevědět" finSampa="' n E v j E J\ E t" rhymeScheme="X" stanzaId="6" />
+    <line id="22" finToken="žijí" finSampa="' Z I j i:" rhymeScheme="6" stanzaId="6" />
+    <line id="23" finToken="prachu" finSampa="' p r a x u" rhymeScheme="X" stanzaId="6" />
+    <line id="24" finToken="svíjí" finSampa="' s v i: j i:" rhymeScheme="6" stanzaId="6" />
+    <line id="25" finToken="zanikat" finSampa="' z a J I k a t" rhymeScheme="X" stanzaId="7" />
+    <line id="26" finToken="bahně" finSampa="' b a h\ J E" rhymeScheme="7" stanzaId="7" />
+    <line id="27" finToken="cíl" finSampa="' t_s i: l" rhymeScheme="X" stanzaId="7" />
+    <line id="28" finToken="drahně" finSampa="' d r a h\ J E" rhymeScheme="7" stanzaId="7" />
+    <line id="29" finToken="svých" finSampa="s v i: x" rhymeScheme="X" stanzaId="8" />
+    <line id="30" finToken="mříti" finSampa="' m P\ i: c I" rhymeScheme="8" stanzaId="8" />
+    <line id="31" finToken="cizáctva" finSampa="' t_s I z a: t_s t v a" rhymeScheme="X" stanzaId="8" />
+    <line id="32" finToken="žíti" finSampa="' Z i: c I" rhymeScheme="8" stanzaId="8" />
+  </poem>
+  <poem id="0001-0000-0000-0023-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="dáli" finSampa="' d a: l I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="úskalí" finSampa="' u: s k a l i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="ráj" finSampa="' r a: j" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="rodí" finSampa="' r o J\ i:" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="vodí" finSampa="' v o J\ i:" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="cíl" finSampa="' t_s i: l" rhymeScheme="X" stanzaId="2" />
+    <line id="7" finToken="moře" finSampa="' m o P\ E" rhymeScheme="3" stanzaId="3" />
+    <line id="8" finToken="zoře" finSampa="' z o P\ E" rhymeScheme="3" stanzaId="3" />
+    <line id="9" finToken="vln" finSampa="' v l= n" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="zmírá" finSampa="' z m i: r a:" rhymeScheme="4" stanzaId="4" />
+    <line id="11" finToken="víra" finSampa="' v i: r a" rhymeScheme="4" stanzaId="4" />
+    <line id="12" finToken="krok" finSampa="' k r o k" rhymeScheme="X" stanzaId="4" />
+    <line id="13" finToken="plála" finSampa="' p l a: l a" rhymeScheme="5" stanzaId="5" />
+    <line id="14" finToken="smála" finSampa="' s m a: l a" rhymeScheme="5" stanzaId="5" />
+    <line id="15" finToken="dál" finSampa="d a: l" rhymeScheme="X" stanzaId="5" />
+    <line id="16" finToken="hyne" finSampa="' h\ I n E" rhymeScheme="6" stanzaId="6" />
+    <line id="17" finToken="plyne" finSampa="' p l I n E" rhymeScheme="6" stanzaId="6" />
+    <line id="18" finToken="jej" finSampa="j E j" rhymeScheme="X" stanzaId="6" />
+  </poem>
+  <poem id="0001-0000-0000-0024-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="vodě" finSampa="' v o J\ E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="tmou" finSampa="' t m o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="dmou" finSampa="' d m o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="král" finSampa="' k r a: l" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="dál" finSampa="d a: l" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="skal" finSampa="' s k a l" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="pnou" finSampa="' p n o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="8" finToken="níží" finSampa="' J i: Z i:" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="tíží" finSampa="' c i: Z i:" rhymeScheme="3" stanzaId="2" />
+    <line id="10" finToken="tuší" finSampa="' t u S i:" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="ruší" finSampa="' r u S i:" rhymeScheme="4" stanzaId="2" />
+    <line id="12" finToken="páry" finSampa="' p a: r I" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="žáry" finSampa="' Z a: r I" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="duchů" finSampa="' d u x u:" rhymeScheme="6" stanzaId="3" />
+    <line id="15" finToken="tuchu" finSampa="' t u x u" rhymeScheme="6" stanzaId="3" />
+    <line id="16" finToken="vodě" finSampa="' v o J\ E" rhymeScheme="X" stanzaId="4" />
+    <line id="17" finToken="tmou" finSampa="' t m o_u" rhymeScheme="7" stanzaId="4" />
+    <line id="18" finToken="dmou" finSampa="' d m o_u" rhymeScheme="7" stanzaId="4" />
+    <line id="19" finToken="král" finSampa="' k r a: l" rhymeScheme="8" stanzaId="4" />
+    <line id="20" finToken="dál" finSampa="d a: l" rhymeScheme="8" stanzaId="4" />
+    <line id="21" finToken="bál" finSampa="' b a: l" rhymeScheme="8" stanzaId="4" />
+    <line id="22" finToken="zlou" finSampa="' z l o_u" rhymeScheme="7" stanzaId="4" />
+    <line id="23" finToken="kruhy" finSampa="' k r u h\ I" rhymeScheme="9" stanzaId="5" />
+    <line id="24" finToken="druhy" finSampa="' d r u h\ I" rhymeScheme="9" stanzaId="5" />
+    <line id="25" finToken="slávy" finSampa="' s l a: v I" rhymeScheme="10" stanzaId="5" />
+    <line id="26" finToken="návy" finSampa="' n a: v I" rhymeScheme="10" stanzaId="5" />
+    <line id="27" finToken="třese" finSampa="' t P\ E s E" rhymeScheme="11" stanzaId="6" />
+    <line id="28" finToken="děse" finSampa="' J\ E s E" rhymeScheme="11" stanzaId="6" />
+    <line id="29" finToken="stále" finSampa="' s t a: l E" rhymeScheme="12" stanzaId="6" />
+    <line id="30" finToken="skále" finSampa="' s k a: l E" rhymeScheme="12" stanzaId="6" />
+    <line id="31" finToken="vodě" finSampa="' v o J\ E" rhymeScheme="X" stanzaId="7" />
+    <line id="32" finToken="tmou" finSampa="' t m o_u" rhymeScheme="13" stanzaId="7" />
+    <line id="33" finToken="dmou" finSampa="' d m o_u" rhymeScheme="13" stanzaId="7" />
+    <line id="34" finToken="skal" finSampa="' s k a l" rhymeScheme="14" stanzaId="7" />
+    <line id="35" finToken="svál" finSampa="' s v a: l" rhymeScheme="14" stanzaId="7" />
+    <line id="36" finToken="smál" finSampa="' s m a: l" rhymeScheme="14" stanzaId="7" />
+    <line id="37" finToken="zlou" finSampa="' z l o_u" rhymeScheme="13" stanzaId="7" />
+  </poem>
+  <poem id="0001-0000-0000-0025-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="velikán" finSampa="' v E l I k a: n" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="keř" finSampa="' k E P\" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="blankytu" finSampa="' b l a n k I t u" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="šeř" finSampa="' S E P\" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="plá" finSampa="' p l a:" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="drahokam" finSampa="' d r a h\ o k a m" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="vysoký" finSampa="' v I s o k i:" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="sám" finSampa="s a: m" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="keř" finSampa="' k E P\" rhymeScheme="1" stanzaId="3" />
+    <line id="10" finToken="stínu" finSampa="' s c i: n u" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="svaluje" finSampa="' s v a l u j E" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="hlubinu" finSampa="' h\ l u b I n u" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="věž" finSampa="' v j E S" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="ční" finSampa="' t_S J i:" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="zář" finSampa="' z a: P\" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="sní" finSampa="' s J i:" rhymeScheme="4" stanzaId="4" />
+    <line id="17" finToken="pak" finSampa="p a k" rhymeScheme="X" stanzaId="5" />
+    <line id="18" finToken="zřít" finSampa="' z P\ i: t" rhymeScheme="5" stanzaId="5" />
+    <line id="19" finToken="výš" finSampa="v i: S" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="mřít" finSampa="' m P\ i: t" rhymeScheme="5" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0026-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="sype" finSampa="' s I p E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="lká" finSampa="' l k a:" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="vrchů" finSampa="' v r= x u:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="tká" finSampa="' t k a:" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="hlavou" finSampa="' h\ l a v o_u" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="prorvanou" finSampa="' p r o r v a n o_u" rhymeScheme="X" stanzaId="1" />
+    <line id="7" finToken="hloubky" finSampa="' h\ l o_u p k I" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="mrazivou" finSampa="' m r a z I v o_u" rhymeScheme="X" stanzaId="1" />
+    <line id="9" finToken="se" finSampa="s E" rhymeScheme="X" stanzaId="2" />
+    <line id="10" finToken="bělavém" finSampa="' b j E l a v E: m" rhymeScheme="X" stanzaId="2" />
+    <line id="11" finToken="provinění" finSampa="' p r o v I J E J i:" rhymeScheme="X" stanzaId="2" />
+    <line id="12" finToken="nevinném" finSampa="' n E v I n E: m" rhymeScheme="X" stanzaId="2" />
+    <line id="13" finToken="slunce" finSampa="' s l u n t_s E" rhymeScheme="X" stanzaId="2" />
+    <line id="14" finToken="světlokruh" finSampa="' s v j E t l o k r u x" rhymeScheme="X" stanzaId="2" />
+    <line id="15" finToken="nechal" finSampa="' n E x a l" rhymeScheme="X" stanzaId="2" />
+    <line id="16" finToken="bůh" finSampa="' b u: x" rhymeScheme="X" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0027-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="lesa" finSampa="' l E s a" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="padá" finSampa="' p a d a:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="duši" finSampa="' d u S I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="skládá" finSampa="' s k l a: d a:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="stýská" finSampa="' s t i: s k a:" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="jara" finSampa="' j a r a" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="dumu" finSampa="' d u m u" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="stará" finSampa="' s t a r a:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="náruč" finSampa="' n a: r u t_S" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="chytá" finSampa="' x I t a:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="se" finSampa="s E" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="zmítá" finSampa="' z m i: t a:" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="úpíš" finSampa="' u: p i: S" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="opuštěná" finSampa="' o p u S c E n a:" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="rozcestí" finSampa="' r o s t_s E s c i:" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="sténá" finSampa="' s t E: n a:" rhymeScheme="4" stanzaId="4" />
+    <line id="17" finToken="vztýčen" finSampa="' f s t i: t_S E n" rhymeScheme="X" stanzaId="5" />
+    <line id="18" finToken="rosí" finSampa="' r o s i:" rhymeScheme="5" stanzaId="5" />
+    <line id="19" finToken="kraji" finSampa="' k r a j I" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="prosí" finSampa="' p r o s i:" rhymeScheme="5" stanzaId="5" />
+    <line id="21" finToken="duše" finSampa="' d u S E" rhymeScheme="X" stanzaId="6" />
+    <line id="22" finToken="lichý" finSampa="' l I x i:" rhymeScheme="6" stanzaId="6" />
+    <line id="23" finToken="národ" finSampa="' n a: r o t" rhymeScheme="X" stanzaId="6" />
+    <line id="24" finToken="tichý" finSampa="' c I x i:" rhymeScheme="6" stanzaId="6" />
+  </poem>
+  <poem id="0001-0000-0000-0028-0001" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="smrti" finSampa="' s m r= c I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="hlubiny" finSampa="' h\ l u b I n I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="vláčíš" finSampa="' v l a: t_S i: S" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="stíny" finSampa="' s c i: n I" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="ovál" finSampa="' o v a: l" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="tichá" finSampa="' c I x a:" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="jemně" finSampa="' j E m J E" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="vzdychá" finSampa="' v z d I x a:" rhymeScheme="2" stanzaId="1" />
+    <line id="9" finToken="duše" finSampa="' d u S E" rhymeScheme="X" stanzaId="2" />
+    <line id="10" finToken="květla" finSampa="' k v j E t l a" rhymeScheme="3" stanzaId="2" />
+    <line id="11" finToken="vznětem" finSampa="' v z J E t E m" rhymeScheme="X" stanzaId="2" />
+    <line id="12" finToken="sletlá" finSampa="' s l E t l a:" rhymeScheme="3" stanzaId="2" />
+    <line id="13" finToken="bolu" finSampa="' b o l u" rhymeScheme="X" stanzaId="2" />
+    <line id="14" finToken="hrobě" finSampa="' h\ r o b j E" rhymeScheme="4" stanzaId="2" />
+    <line id="15" finToken="žití" finSampa="' Z I c i:" rhymeScheme="X" stanzaId="2" />
+    <line id="16" finToken="tobě" finSampa="' t o b j E" rhymeScheme="4" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0028-0002" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="smrti" finSampa="' s m r= c I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="pluje" finSampa="' p l u j E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="drtí" finSampa="' d r= c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="duje" finSampa="' d u j E" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="kloní" finSampa="' k l o J i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="hoři" finSampa="' h\ o P\ I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="toni" finSampa="' t o J I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="noří" finSampa="' n o P\ i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="tlumy" finSampa="' t l u m I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="lada" finSampa="' l a d a" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="rumy" finSampa="' r u m I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="padá" finSampa="' p a d a:" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0028-0003" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="bílý" finSampa="' b i: l i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="snící" finSampa="' s J i: t_s i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="pílí" finSampa="' p i: l i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="jásající" finSampa="' j a: s a j i: t_s i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="vrhá" finSampa="' v r= h\ a:" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="mrhá" finSampa="' m r= h\ a:" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="krutý" finSampa="' k r u t i:" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="chodí" finSampa="' x o J\ i:" rhymeScheme="5" stanzaId="2" />
+    <line id="9" finToken="pruty" finSampa="' p r u t I" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="lodi" finSampa="' l o J\ I" rhymeScheme="5" stanzaId="2" />
+    <line id="11" finToken="boří" finSampa="' b o P\ i:" rhymeScheme="6" stanzaId="2" />
+    <line id="12" finToken="noří" finSampa="' n o P\ i:" rhymeScheme="6" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0028-0004" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="vlnách" finSampa="' v l= n a: x" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="sněhobílý" finSampa="' s J E h\ o b i: l i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="žaluje" finSampa="' Z a l u j E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="kvílí" finSampa="' k v i: l i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="vlnách" finSampa="' v l= n a: x" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="ničí" finSampa="' J I t_S i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="neznámý" finSampa="' n E z n a: m i:" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="poustevničí" finSampa="' p o_u s t E v J I t_S i:" rhymeScheme="2" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0028-0005" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="roste" finSampa="' r o s t E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="tůně" finSampa="' t u: J E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="hvězdě" finSampa="' h\ v j E z J\ E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="runě" finSampa="' r u J E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="roste" finSampa="' r o s t E" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="vadne" finSampa="' v a d n E" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="smrti" finSampa="' s m r= c I" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="padne" finSampa="' p a d n E" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="lidská" finSampa="' l I t s k a:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="pluje" finSampa="' p l u j E" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="ji" finSampa="j I" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="otravuje" finSampa="' o t r a v u j E" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="uvadne" finSampa="' u v a d n E" rhymeScheme="2" stanzaId="4" />
+    <line id="14" finToken="náhle" finSampa="' n a: h\ l E" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="lásky" finSampa="' l a: s k I" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="spráhlé" finSampa="' s p r a: h\ l E:" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0029-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="slávy" finSampa="' s l a: v I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="nesmrtelný" finSampa="' n E s m r= t E l n i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="hlavy" finSampa="' h\ l a v I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="skelný" finSampa="' s k E l n i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="shaslý" finSampa="' s x a s l i:" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="tmách" finSampa="' t m a: x" rhymeScheme="X" stanzaId="1" />
+    <line id="7" finToken="času" finSampa="' t_S a s u" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="věčný" finSampa="' v j E t_S n i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="jasu" finSampa="' j a s u" rhymeScheme="3" stanzaId="2" />
+    <line id="10" finToken="nekonečný" finSampa="' n E k o n E t_S n i:" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="genij" finSampa="' g E J I j" rhymeScheme="X" stanzaId="2" />
+    <line id="12" finToken="neuznaný" finSampa="' n E u z n a n i:" rhymeScheme="X" stanzaId="2" />
+    <line id="13" finToken="slávy" finSampa="' s l a: v I" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="nesmrtelný" finSampa="' n E s m r= t E l n i:" rhymeScheme="6" stanzaId="3" />
+    <line id="15" finToken="hlavy" finSampa="' h\ l a v I" rhymeScheme="5" stanzaId="3" />
+    <line id="16" finToken="skelný" finSampa="' s k E l n i:" rhymeScheme="6" stanzaId="3" />
+    <line id="17" finToken="shaslý" finSampa="' s x a s l i:" rhymeScheme="X" stanzaId="3" />
+    <line id="18" finToken="tmách" finSampa="' t m a: x" rhymeScheme="X" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0030-0001" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="oslnivá" finSampa="' o s l= J I v a:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="oblaku" finSampa="' o b l a k u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="děsný" finSampa="' J\ E s n i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="zraku" finSampa="' z r a k u" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="satanem" finSampa="' s a t a n E m" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="líci" finSampa="' l i: t_s I" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="figurami" finSampa="' f I g u r a m I" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="šachovnici" finSampa="' S a x o v J I t_s I" rhymeScheme="2" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0030-0002" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="zář" finSampa="' z a: P\" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="poesie" finSampa="' p o E s I j E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="stich" finSampa="s c I x" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="stříbrných" finSampa="' s t P\ i: b r= n i: x" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="lije" finSampa="' l I j E" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="zrak" finSampa="' z r a k" rhymeScheme="X" stanzaId="2" />
+    <line id="7" finToken="tuší" finSampa="' t u S i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="tajemnou" finSampa="' t a j E m n o_u" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="tmou" finSampa="' t m o_u" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="duši" finSampa="' d u S I" rhymeScheme="3" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0031-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="věř" finSampa="' v j E P\" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="dceř" finSampa="t t_s E P\" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="šeř" finSampa="' S E P\" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="svém" finSampa="s v E: m" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="mém" finSampa="m E: m" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="plápolem" finSampa="' p l a: p o l E m" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="tvých" finSampa="t v i: x" rhymeScheme="3" stanzaId="3" />
+    <line id="8" finToken="paprscích" finSampa="' p a p r= s t_s i: x" rhymeScheme="3" stanzaId="3" />
+    <line id="9" finToken="oblacích" finSampa="' o b l a t_s i: x" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="ssát" finSampa="' s a: t" rhymeScheme="4" stanzaId="4" />
+    <line id="11" finToken="vzplát" finSampa="' f s p l a: t" rhymeScheme="4" stanzaId="4" />
+    <line id="12" finToken="milovat" finSampa="' m I l o v a t" rhymeScheme="4" stanzaId="4" />
+    <line id="13" finToken="peřeje" finSampa="' p E P\ E j E" rhymeScheme="5" stanzaId="5" />
+    <line id="14" finToken="usměje" finSampa="' u s m J E j E" rhymeScheme="5" stanzaId="5" />
+    <line id="15" finToken="naděje" finSampa="' n a J\ E j E" rhymeScheme="5" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0032-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="žití" finSampa="' Z I c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="svítí" finSampa="' s v i: c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="sláva" finSampa="' s l a: v a" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="řítí" finSampa="' P\ i: c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="jiný" finSampa="' j I n i:" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="stinný" finSampa="' s c I n i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="volá" finSampa="' v o l a:" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="činy" finSampa="' t_S I n I" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="odkojilo" finSampa="' o t k o j I l o" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="silo" finSampa="' s I l o" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="klíčí" finSampa="' k l i: t_S i:" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="dílo" finSampa="' J\ i: l o" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="pádí" finSampa="' p a: J\ i:" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="svádí" finSampa="' s v a: J\ i:" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="září" finSampa="' z a: P\ i:" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="řadí" finSampa="' P\ a J\ i:" rhymeScheme="4" stanzaId="4" />
+    <line id="17" finToken="závoje" finSampa="' z a: v o j E" rhymeScheme="5" stanzaId="5" />
+    <line id="18" finToken="postoje" finSampa="' p o s t o j E" rhymeScheme="5" stanzaId="5" />
+    <line id="19" finToken="síly" finSampa="' s i: l I" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="boje" finSampa="' b o j E" rhymeScheme="5" stanzaId="5" />
+    <line id="21" finToken="tísni" finSampa="' c i: s J I" rhymeScheme="6" stanzaId="6" />
+    <line id="22" finToken="vysní" finSampa="' v I s J i:" rhymeScheme="6" stanzaId="6" />
+    <line id="23" finToken="vzkříšení" finSampa="' f s k P\ i: S E J i:" rhymeScheme="X" stanzaId="6" />
+    <line id="24" finToken="písni" finSampa="' p i: s J I" rhymeScheme="6" stanzaId="6" />
+  </poem>
+  <poem id="0001-0000-0000-0033-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="mládí" finSampa="' m l a: J\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="duše" finSampa="' d u S E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="svádí" finSampa="' s v a: J\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="předtuše" finSampa="' p P\ E t u S E" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="víry" finSampa="' v i: r I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="snahy" finSampa="' s n a h\ I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="širý" finSampa="' S I r i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="vláhy" finSampa="' v l a: h\ I" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="touhy" finSampa="' t o_u h\ I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="dumě" finSampa="' d u m J E" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="dlouhý" finSampa="' d l o_u h\ i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="šumně" finSampa="' S u m J E" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="oku" finSampa="' o k u" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="Boha" finSampa="' b o h\ a" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="hluboku" finSampa="' h\ l u b o k u" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="mnohá" finSampa="' m n o h\ a:" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="ducha" finSampa="' d u x a" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="temna" finSampa="' t E m n a" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="buchá" finSampa="' b u x a:" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="přetajemná" finSampa="' p P\ E t a j E m n a:" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="bleskem" finSampa="' b l E s k E m" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="rovu" finSampa="' r o v u" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="leskem" finSampa="' l E s k E m" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="znovu" finSampa="' z n o v u" rhymeScheme="12" stanzaId="6" />
+  </poem>
+  <poem id="0001-0000-0000-0034-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="básníkem" finSampa="' b a: s J i: k E m" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="duši" finSampa="' d u S I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="rtem" finSampa="' r t E m" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="vzruší" finSampa="' v z r u S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="nešťastným" finSampa="' n E S c a s t n i: m" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="červem" finSampa="' t_S E r v E m" rhymeScheme="4" stanzaId="1" />
+    <line id="7" finToken="ničícím" finSampa="' J I t_S i: t_s i: m" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="nervem" finSampa="' n E r v E m" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="vzlet" finSampa="' v z l E t" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="povržení" finSampa="' p o v r= Z E J i:" rhymeScheme="6" stanzaId="2" />
+    <line id="11" finToken="klet" finSampa="' k l E t" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="zanícení" finSampa="' z a J i: t_s E J i:" rhymeScheme="6" stanzaId="2" />
+    <line id="13" finToken="žár" finSampa="' Z a: r" rhymeScheme="7" stanzaId="2" />
+    <line id="14" finToken="vlny" finSampa="' v l= n I" rhymeScheme="8" stanzaId="2" />
+    <line id="15" finToken="pár" finSampa="' p a: r" rhymeScheme="7" stanzaId="2" />
+    <line id="16" finToken="duchaplný" finSampa="' d u x a p l= n i:" rhymeScheme="8" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0035-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="zora" finSampa="' z o r a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="shora" finSampa="' z h\ o r a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="šlář" finSampa="S l a: P\" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="údolu" finSampa="' u: d o l u" rhymeScheme="3" stanzaId="2" />
+    <line id="5" finToken="gloriolu" finSampa="' g l o r I j o l u" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="zář" finSampa="' z a: P\" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="ztrácí" finSampa="' s t r a: t_s i:" rhymeScheme="4" stanzaId="3" />
+    <line id="8" finToken="kácí" finSampa="' k a: t_s i:" rhymeScheme="4" stanzaId="3" />
+    <line id="9" finToken="kruh" finSampa="' k r u x" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="plane" finSampa="' p l a n E" rhymeScheme="6" stanzaId="4" />
+    <line id="11" finToken="kane" finSampa="' k a n E" rhymeScheme="6" stanzaId="4" />
+    <line id="12" finToken="ruch" finSampa="' r u x" rhymeScheme="5" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0036-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="niv" finSampa="' J I f" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="div" finSampa="' J\ I f" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="rosa" finSampa="' r o s a" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="jív" finSampa="' j i: f" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="stráň" finSampa="' s t r a: J" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="pláň" finSampa="' p l a: J" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="příval" finSampa="' p P\ i: v a l" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="skráň" finSampa="' s k r a: J" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="dob" finSampa="' d o p" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="stop" finSampa="' s t o p" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="stonu" finSampa="' s t o n u" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="hrob" finSampa="' h\ r o p" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="zřím" finSampa="' z P\ i: m" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="mlčícím" finSampa="' m l= t_S i: t_s i: m" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="vždy" finSampa="v Z d I" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="svým" finSampa="s v i: m" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0037-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="ozářen" finSampa="' o z a: P\ E n" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="jeseni" finSampa="' j E s E J I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="tajemný" finSampa="' t a j E m n i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="toužení" finSampa="' t o_u Z E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="vichřicí" finSampa="' v I x P\ I t_s i:" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="zří" finSampa="' z P\ i:" rhymeScheme="X" stanzaId="2" />
+    <line id="7" finToken="toužení" finSampa="' t o_u Z E J i:" rhymeScheme="1" stanzaId="2" />
+    <line id="8" finToken="ideál" finSampa="' I d E a: l" rhymeScheme="X" stanzaId="2" />
+    <line id="9" finToken="jeseni" finSampa="' j E s E J I" rhymeScheme="1" stanzaId="2" />
+    <line id="10" finToken="zářící" finSampa="' z a: P\ i: t_s i:" rhymeScheme="2" stanzaId="2" />
+    <line id="11" finToken="hvězd" finSampa="' h\ v j E s t" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="jeseni" finSampa="' j E s E J I" rhymeScheme="1" stanzaId="3" />
+    <line id="13" finToken="vzpomínek" finSampa="' f s p o m i: n E k" rhymeScheme="X" stanzaId="3" />
+    <line id="14" finToken="toužení" finSampa="' t o_u Z E J i:" rhymeScheme="1" stanzaId="3" />
+    <line id="15" finToken="snes" finSampa="' s n E s" rhymeScheme="3" stanzaId="3" />
+    <line id="16" finToken="vzduch" finSampa="' v z d u x" rhymeScheme="X" stanzaId="4" />
+    <line id="17" finToken="toužení" finSampa="' t o_u Z E J i:" rhymeScheme="1" stanzaId="4" />
+    <line id="18" finToken="list" finSampa="' l I s t" rhymeScheme="X" stanzaId="4" />
+    <line id="19" finToken="jeseni" finSampa="' j E s E J I" rhymeScheme="1" stanzaId="4" />
+    <line id="20" finToken="kles" finSampa="' k l E s" rhymeScheme="3" stanzaId="4" />
+    <line id="21" finToken="modravém" finSampa="' m o d r a v E: m" rhymeScheme="X" stanzaId="5" />
+    <line id="22" finToken="jeseni" finSampa="' j E s E J I" rhymeScheme="1" stanzaId="5" />
+    <line id="23" finToken="jímavý" finSampa="' j i: m a v i:" rhymeScheme="X" stanzaId="5" />
+    <line id="24" finToken="toužení" finSampa="' t o_u Z E J i:" rhymeScheme="1" stanzaId="5" />
+    <line id="25" finToken="pad" finSampa="' p a t" rhymeScheme="4" stanzaId="5" />
+    <line id="26" finToken="umíráš" finSampa="' u m i: r a: S" rhymeScheme="X" stanzaId="6" />
+    <line id="27" finToken="toužení" finSampa="' t o_u Z E J i:" rhymeScheme="1" stanzaId="6" />
+    <line id="28" finToken="vzpomínka" finSampa="' f s p o m i: n k a" rhymeScheme="X" stanzaId="6" />
+    <line id="29" finToken="jeseni" finSampa="' j E s E J I" rhymeScheme="1" stanzaId="6" />
+    <line id="30" finToken="mlád" finSampa="' m l a: t" rhymeScheme="4" stanzaId="6" />
+  </poem>
+  <poem id="0001-0000-0000-0038-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="lásky" finSampa="' l a: s k I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="hříšníka" finSampa="' h\ P\ i: S J i: k a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="duše" finSampa="' d u S E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="vymyká" finSampa="' v I m I k a:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="září" finSampa="' z a: P\ i:" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="slast" finSampa="' s l a s t" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="náhle" finSampa="' n a: h\ l E" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="propast" finSampa="' p r o p a s t" rhymeScheme="2" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0039-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="záhy" finSampa="' z a: h\ I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vláhy" finSampa="' v l a: h\ I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="ani" finSampa="' a J I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="skráni" finSampa="' s k r a: J I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="projevu" finSampa="' p r o j E v u" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="přítele" finSampa="' p P\ i: t E l E" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="stmělé" finSampa="' s t m J E l E:" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="množe" finSampa="' m n o Z E" rhymeScheme="5" stanzaId="2" />
+    <line id="9" finToken="Bože" finSampa="' b o Z E" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="zpěvu" finSampa="' s p j E v u" rhymeScheme="3" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0040-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="skláněla" finSampa="' s k l a: J E l a" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="boluplná" finSampa="' b o l u p l= n a:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="valila" finSampa="' v a l I l a" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="vlna" finSampa="' v l= n a" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="prastarém" finSampa="' p r a s t a r E: m" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="zrezavělý" finSampa="' z r E z a v j E l i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="otvorem" finSampa="' o t v o r E m" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="střely" finSampa="' s t P\ E l I" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="spí" finSampa="' s p i:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="chrámě" finSampa="' x r a: m J E" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="pohybem" finSampa="' p o h\ I b E m" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="rámě" finSampa="' r a: m J E" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="srdce" finSampa="' s r= t t_s E" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="cítí" finSampa="' t_s i: c i:" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="duch" finSampa="' d u x" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="žití" finSampa="' Z I c i:" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0041-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="hloubí" finSampa="' h\ l o_u b i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="snoubí" finSampa="' s n o_u b i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="objetí" finSampa="' o b j E c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="letí" finSampa="' l E c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="změtí" finSampa="' z m J E c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="vroubí" finSampa="' v r o_u b i:" rhymeScheme="1" stanzaId="1" />
+    <line id="7" finToken="klínu" finSampa="' k l i: n u" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="stínu" finSampa="' s c i: n u" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="veslující" finSampa="' v E s l u j i: t_s i:" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="holubici" finSampa="' h\ o l u b I t_s I" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="tmící" finSampa="' t m i: t_s i:" rhymeScheme="4" stanzaId="2" />
+    <line id="12" finToken="hlubinu" finSampa="' h\ l u b I n u" rhymeScheme="3" stanzaId="2" />
+    <line id="13" finToken="kolem" finSampa="' k o l E m" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="údolem" finSampa="' u: d o l E m" rhymeScheme="5" stanzaId="3" />
+    <line id="15" finToken="splývá" finSampa="' s p l i: v a:" rhymeScheme="6" stanzaId="3" />
+    <line id="16" finToken="neumdlívá" finSampa="' n E u m d l i: v a:" rhymeScheme="6" stanzaId="3" />
+    <line id="17" finToken="snivá" finSampa="' s J I v a:" rhymeScheme="6" stanzaId="3" />
+    <line id="18" finToken="bolem" finSampa="' b o l E m" rhymeScheme="5" stanzaId="3" />
+    <line id="19" finToken="hloubí" finSampa="' h\ l o_u b i:" rhymeScheme="7" stanzaId="4" />
+    <line id="20" finToken="snoubí" finSampa="' s n o_u b i:" rhymeScheme="7" stanzaId="4" />
+    <line id="21" finToken="hříží" finSampa="' h\ P\ i: Z i:" rhymeScheme="8" stanzaId="4" />
+    <line id="22" finToken="kříží" finSampa="' k P\ i: Z i:" rhymeScheme="8" stanzaId="4" />
+    <line id="23" finToken="níží" finSampa="' J i: Z i:" rhymeScheme="8" stanzaId="4" />
+    <line id="24" finToken="loubí" finSampa="' l o_u b i:" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0042-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="týmě" finSampa="' t i: m J E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hymně" finSampa="' h\ I m J E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="mrtvo" finSampa="' m r= t v o" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="símě" finSampa="' s i: m J E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="písní" finSampa="' p i: s J i:" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="tísni" finSampa="' c i: s J I" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="není" finSampa="' n E J i:" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="třísní" finSampa="' t P\ i: s J i:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="slávy" finSampa="' s l a: v I" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="hlavy" finSampa="' h\ l a v I" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="hanbou" finSampa="' h\ a n b o_u" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="návy" finSampa="' n a: v I" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="píseň" finSampa="' p i: s E J" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="plíseň" finSampa="' p l i: s E J" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="věčné" finSampa="' v j E t_S n E:" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="tíseň" finSampa="' c i: s E J" rhymeScheme="4" stanzaId="4" />
+    <line id="17" finToken="týmě" finSampa="' t i: m J E" rhymeScheme="5" stanzaId="5" />
+    <line id="18" finToken="hymně" finSampa="' h\ I m J E" rhymeScheme="5" stanzaId="5" />
+    <line id="19" finToken="čistá" finSampa="' t_S I s t a:" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="mě" finSampa="m J E" rhymeScheme="5" stanzaId="5" />
+    <line id="21" finToken="mě" finSampa="m J E" rhymeScheme="5" stanzaId="6" />
+    <line id="22" finToken="símě" finSampa="' s i: m J E" rhymeScheme="5" stanzaId="6" />
+    <line id="23" finToken="tichém" finSampa="' c I x E: m" rhymeScheme="X" stanzaId="6" />
+    <line id="24" finToken="mě" finSampa="m J E" rhymeScheme="5" stanzaId="6" />
+  </poem>
+  <poem id="0001-0000-0000-0043-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="těžce" finSampa="' c E S t_s E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="Páně" finSampa="' p a: J E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="sirou" finSampa="' s I r o_u" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="skráně" finSampa="' s k r a: J E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="křídla" finSampa="' k P\ i: d l a" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="zemi" finSampa="' z E m I" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="vláčíš" finSampa="' v l a: t_S i: S" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="peřejemi" finSampa="' p E P\ E j E m I" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="světlo" finSampa="' s v j E t l o" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="vzplálo" finSampa="' f s p l a: l o" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="tužby" finSampa="' t u Z b I" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="hřálo" finSampa="' h\ P\ a: l o" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="mladou" finSampa="' m l a d o_u" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="pokoji" finSampa="' p o k o j I" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="hyne" finSampa="' h\ I n E" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="boji" finSampa="' b o j I" rhymeScheme="4" stanzaId="4" />
+    <line id="17" finToken="těžce" finSampa="' c E S t_s E" rhymeScheme="X" stanzaId="5" />
+    <line id="18" finToken="Páně" finSampa="' p a: J E" rhymeScheme="5" stanzaId="5" />
+    <line id="19" finToken="smělé" finSampa="' s m J E l E:" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="skráně" finSampa="' s k r a: J E" rhymeScheme="5" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0044-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="psáti" finSampa="' p s a: c I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="třese" finSampa="' t P\ E s E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="smutek" finSampa="' s m u t E k" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="lese" finSampa="' l E s E" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="zazpívati" finSampa="' z a s p i: v a c I" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="píseň" finSampa="' p i: s E J" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="je" finSampa="' j E" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="tíseň" finSampa="' c i: s E J" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="svírá" finSampa="' s v i: r a:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="není" finSampa="' n E J i:" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="oči" finSampa="' o t_S I" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="loučení" finSampa="' l o_u t_S E J i:" rhymeScheme="4" stanzaId="3" />
+    <line id="13" finToken="psáti" finSampa="' p s a: c I" rhymeScheme="1" stanzaId="4" />
+    <line id="14" finToken="ruka" finSampa="' r u k a" rhymeScheme="5" stanzaId="4" />
+    <line id="15" finToken="toužíš" finSampa="' t o_u Z i: S" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="puká" finSampa="' p u k a:" rhymeScheme="5" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0045-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="vánek" finSampa="' v a: n E k" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="zašelestí" finSampa="' z a S E l E s c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="tě" finSampa="c E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="štěstí" finSampa="' S c E s c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="během" finSampa="' b j E h\ E m" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="vzhůru" finSampa="' v s x u: r u" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="dívám" finSampa="' J\ i: v a: m" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="azuru" finSampa="' a z u r u" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="píseň" finSampa="' p i: s E J" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="nepovzbudí" finSampa="' n E p o v z b u J\ i:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="běhu" finSampa="' b j E h\ u" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="hrudi" finSampa="' h\ r u J\ I" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="sžehlý" finSampa="' z Z E h\ l i:" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="zvěstí" finSampa="' z v j E s c i:" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="budu" finSampa="' b u d u" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="štěstí" finSampa="' S c E s c i:" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0046-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="přál" finSampa="' p P\ a: l" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="světla" finSampa="' s v j E t l a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="oku" finSampa="' o k u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="hluboku" finSampa="' h\ l u b o k u" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="zkvětla" finSampa="' s k v j E t l a" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="přál" finSampa="' p P\ a: l" rhymeScheme="X" stanzaId="2" />
+    <line id="7" finToken="měla" finSampa="' m J E l a" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="přeletu" finSampa="' p P\ E l E t u" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="květů" finSampa="' k v j E t u:" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="chvěla" finSampa="' x v j E l a" rhymeScheme="3" stanzaId="2" />
+    <line id="11" finToken="přál" finSampa="' p P\ a: l" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="nedoměrným" finSampa="' n E d o m J E r n i: m" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="mně" finSampa="m J E" rhymeScheme="6" stanzaId="3" />
+    <line id="14" finToken="jemně" finSampa="' j E m J E" rhymeScheme="6" stanzaId="3" />
+    <line id="15" finToken="věrným" finSampa="' v j E r n i: m" rhymeScheme="5" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0047-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="zpívat" finSampa="' s p i: v a t" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="písní" finSampa="' p i: s J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="mi" finSampa="m I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="tísní" finSampa="' c i: s J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="touhy" finSampa="' t o_u h\ I" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="rozhlaholí" finSampa="' r o s x l a h\ o l i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="zapomenu" finSampa="' z a p o m E n u" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="bolí" finSampa="' b o l i:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="vzplane" finSampa="' f s p l a n E" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="touha" finSampa="' t o_u h\ a" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="sladká" finSampa="' s l a t k a:" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="dlouhá" finSampa="' d l o_u h\ a:" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="hledat" finSampa="' h\ l E d a t" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="šumy" finSampa="' S u m I" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="duši" finSampa="' d u S I" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="porozumí" finSampa="' p o r o z u m i:" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0048-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="tichá" finSampa="' c I x a:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="sklání" finSampa="' s k l a: J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="steskem" finSampa="' s t E s k E m" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="rozjímání" finSampa="' r o z j i: m a: J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="dumá" finSampa="' d u m a:" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="tratí" finSampa="' t r a c i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="večer" finSampa="' v E t_S E r" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="vrátí" finSampa="' v r a: c i:" rhymeScheme="2" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0049-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="témě" finSampa="' t E: m J E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="temně" finSampa="' t E m J E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="okénko" finSampa="' o k E: n k o" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="jemně" finSampa="' j E m J E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="třísni" finSampa="' t P\ i: s J I" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="tísní" finSampa="' c i: s J i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="rozevírám" finSampa="' r o z E v i: r a: m" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="písni" finSampa="' p i: s J I" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="zemi" finSampa="' z E m I" rhymeScheme="4" stanzaId="3" />
+    <line id="10" finToken="nadějemi" finSampa="' n a J\ E j E m I" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="pomněnky" finSampa="' p o m J E n k I" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="závějemi" finSampa="' z a: v j E j E m I" rhymeScheme="4" stanzaId="3" />
+    <line id="13" finToken="buchá" finSampa="' b u x a:" rhymeScheme="5" stanzaId="4" />
+    <line id="14" finToken="tucha" finSampa="' t u x a" rhymeScheme="5" stanzaId="4" />
+    <line id="15" finToken="otevírám" finSampa="' o t E v i: r a: m" rhymeScheme="3" stanzaId="4" />
+    <line id="16" finToken="ducha" finSampa="' d u x a" rhymeScheme="5" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0050-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="zřít" finSampa="' z P\ i: t" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="lán" finSampa="' l a: n" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="nesmírný" finSampa="' n E s m i: r n i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="oceán" finSampa="' o t_s E a: n" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="tajemnou" finSampa="' t a j E m n o_u" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="ponořit" finSampa="' p o n o P\ I t" rhymeScheme="1" stanzaId="2" />
+    <line id="7" finToken="perlách" finSampa="' p E r l a: x" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="mřít" finSampa="' m P\ i: t" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="korálů" finSampa="' k o r a: l u:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="jat" finSampa="' j a t" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="vil" finSampa="' v I l" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="spát" finSampa="' s p a: t" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="zřít" finSampa="' z P\ i: t" rhymeScheme="1" stanzaId="4" />
+    <line id="14" finToken="lán" finSampa="' l a: n" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="nesmírný" finSampa="' n E s m i: r n i:" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="oceán" finSampa="' o t_s E a: n" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0051-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="cherubín" finSampa="' x E r u b i: n" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hlubin" finSampa="' h\ l u b I n" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="jezera" finSampa="' j E z E r a" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="šera" finSampa="' S E r a" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="hladina" finSampa="' h\ l a J\ I n a" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="hlubina" finSampa="' h\ l u b I n a" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="lilie" finSampa="' l I l I j E" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="zalije" finSampa="' z a l I j E" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="lilii" finSampa="' l I l I I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="zaliji" finSampa="' z a l I j I" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="křídlech" finSampa="' k P\ i: d l E x" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="vzdech" finSampa="' v z d E x" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="báj" finSampa="' b a: j" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="háj" finSampa="' h\ a: j" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="chrám" finSampa="' x r a: m" rhymeScheme="8" stanzaId="4" />
+    <line id="16" finToken="sám" finSampa="s a: m" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="den" finSampa="' d E n" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="sen" finSampa="' s E n" rhymeScheme="9" stanzaId="5" />
+    <line id="19" finToken="val" finSampa="' v a l" rhymeScheme="10" stanzaId="5" />
+    <line id="20" finToken="dál" finSampa="d a: l" rhymeScheme="10" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0052-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="smavé" finSampa="' s m a v E:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="smích" finSampa="' s m i: x" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="svými" finSampa="' s v i: m I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="stříbrných" finSampa="' s t P\ i: b r= n i: x" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="chvěje" finSampa="' x v j E j E" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="čarovným" finSampa="' t_S a r o v n i: m" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="ráji" finSampa="' r a: j I" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="vím" finSampa="' v i: m" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="pojme" finSampa="' p o j m E" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="hlas" finSampa="' h\ l a s" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="ní" finSampa="J i:" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="zas" finSampa="z a s" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="smavé" finSampa="' s m a v E:" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="smích" finSampa="' s m i: x" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="svými" finSampa="' s v i: m I" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="stříbrných" finSampa="' s t P\ i: b r= n i: x" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0053-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="požaloval" finSampa="' p o Z a l o v a l" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="zaplakal" finSampa="' z a p l a k a l" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="svoje" finSampa="' s v o j E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="zotvíral" finSampa="' z o t v i: r a l" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="duši" finSampa="' d u S I" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="pověděl" finSampa="' p o v j E J\ E l" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="větví" finSampa="' v j E t v i:" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="rozestkvěl" finSampa="' r o z E s t k v j E l" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="světě" finSampa="' s v j E c E" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="klam" finSampa="' k l a m" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="svírá" finSampa="' s v i: r a:" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="umírám" finSampa="' u m i: r a: m" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0054-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="píseň" finSampa="' p i: s E J" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="oko" finSampa="' o k o" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="tíseň" finSampa="' c i: s E J" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="přehluboko" finSampa="' p P\ E h\ l u b o k o" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="vzplála" finSampa="' f s p l a: l a" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="hrála" finSampa="' h\ r a: l a" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="lhala" finSampa="' l h\ a l a" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="sami" finSampa="' s a m I" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="lila" finSampa="' l I l a" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="mlhami" finSampa="' m l= h\ a m I" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="snila" finSampa="' s J I l a" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="stála" finSampa="' s t a: l a" rhymeScheme="3" stanzaId="2" />
+    <line id="13" finToken="plála" finSampa="' p l a: l a" rhymeScheme="3" stanzaId="2" />
+    <line id="14" finToken="lhala" finSampa="' l h\ a l a" rhymeScheme="3" stanzaId="2" />
+    <line id="15" finToken="padá" finSampa="' p a d a:" rhymeScheme="6" stanzaId="3" />
+    <line id="16" finToken="ztrácí" finSampa="' s t r a: t_s i:" rhymeScheme="7" stanzaId="3" />
+    <line id="17" finToken="skládá" finSampa="' s k l a: d a:" rhymeScheme="6" stanzaId="3" />
+    <line id="18" finToken="kácí" finSampa="' k a: t_s i:" rhymeScheme="7" stanzaId="3" />
+    <line id="19" finToken="pohrdání" finSampa="' p o h\ r= d a: J i:" rhymeScheme="8" stanzaId="3" />
+    <line id="20" finToken="sklání" finSampa="' s k l a: J i:" rhymeScheme="8" stanzaId="3" />
+    <line id="21" finToken="pohrdala" finSampa="' p o h\ r= d a l a" rhymeScheme="3" stanzaId="3" />
+    <line id="22" finToken="lhala" finSampa="' l h\ a l a" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0055-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="hloub" finSampa="h\ l o_u p" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="nechodí" finSampa="' n E x o J\ i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="stoup" finSampa="' s t o_u p" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="lahodí" finSampa="' l a h\ o J\ i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="kouzlíval" finSampa="' k o_u z l i: v a l" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="kadeřích" finSampa="' k a d E P\ i: x" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="pal" finSampa="p a l" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="tvých" finSampa="t v i: x" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="vil" finSampa="' v I l" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="sen" finSampa="' s E n" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="snil" finSampa="' s J I l" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="opojen" finSampa="' o p o j E n" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="táh" finSampa="' t a: x" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="proletěl" finSampa="' p r o l E c E l" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="vzpomínkách" finSampa="' f s p o m i: n k a: x" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="oněměl" finSampa="' o J E m J E l" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="hloub" finSampa="h\ l o_u p" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="nechodí" finSampa="' n E x o J\ i:" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="stoup" finSampa="' s t o_u p" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="lodi" finSampa="' l o J\ I" rhymeScheme="10" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0056-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="líbá" finSampa="' l i: b a:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="večerem" finSampa="' v E t_S E r E m" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="mou" finSampa="m o_u" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="tiskne" finSampa="' c I s k n E" rhymeScheme="X" stanzaId="2" />
+    <line id="5" finToken="zem" finSampa="' z E m" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="mou" finSampa="m o_u" rhymeScheme="X" stanzaId="2" />
+    <line id="7" finToken="šepce" finSampa="' S E p t_s E" rhymeScheme="X" stanzaId="3" />
+    <line id="8" finToken="sněhem" finSampa="' s J E h\ E m" rhymeScheme="1" stanzaId="3" />
+    <line id="9" finToken="mou" finSampa="m o_u" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="zrálo" finSampa="' z r a: l o" rhymeScheme="2" stanzaId="4" />
+    <line id="11" finToken="étherem" finSampa="' E: t E r E m" rhymeScheme="1" stanzaId="4" />
+    <line id="12" finToken="mou" finSampa="m o_u" rhymeScheme="X" stanzaId="4" />
+    <line id="13" finToken="mladlo" finSampa="' m l a d l o" rhymeScheme="X" stanzaId="5" />
+    <line id="14" finToken="přívalem" finSampa="' p P\ i: v a l E m" rhymeScheme="1" stanzaId="5" />
+    <line id="15" finToken="mou" finSampa="m o_u" rhymeScheme="X" stanzaId="5" />
+    <line id="16" finToken="smálo" finSampa="' s m a: l o" rhymeScheme="2" stanzaId="6" />
+    <line id="17" finToken="rtem" finSampa="' r t E m" rhymeScheme="1" stanzaId="6" />
+    <line id="18" finToken="mou" finSampa="m o_u" rhymeScheme="X" stanzaId="6" />
+    <line id="19" finToken="padal" finSampa="' p a d a l" rhymeScheme="X" stanzaId="7" />
+    <line id="20" finToken="něm" finSampa="J E m" rhymeScheme="1" stanzaId="7" />
+    <line id="21" finToken="mou" finSampa="m o_u" rhymeScheme="X" stanzaId="7" />
+    <line id="22" finToken="pohrdáním" finSampa="' p o h\ r= d a: J i: m" rhymeScheme="X" stanzaId="8" />
+    <line id="23" finToken="zápalem" finSampa="' z a: p a l E m" rhymeScheme="1" stanzaId="8" />
+    <line id="24" finToken="mou" finSampa="m o_u" rhymeScheme="X" stanzaId="8" />
+    <line id="25" finToken="studu" finSampa="' s t u d u" rhymeScheme="X" stanzaId="9" />
+    <line id="26" finToken="polibkem" finSampa="' p o l I p k E m" rhymeScheme="1" stanzaId="9" />
+    <line id="27" finToken="mou" finSampa="m o_u" rhymeScheme="X" stanzaId="9" />
+  </poem>
+  <poem id="0001-0000-0000-0057-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="modlitbách" finSampa="' m o d l I d b a: x" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="kloním" finSampa="' k l o J i: m" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="tmách" finSampa="' t m a: x" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="roním" finSampa="' r o J i: m" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="snách" finSampa="' s n a: x" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="ženou" finSampa="' Z E n o_u" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="vzmach" finSampa="' v z m a x" rhymeScheme="1" stanzaId="1" />
+    <line id="8" finToken="roztouženou" finSampa="' r o s t o_u Z E n o_u" rhymeScheme="3" stanzaId="1" />
+    <line id="9" finToken="nach" finSampa="' n a x" rhymeScheme="1" stanzaId="1" />
+    <line id="10" finToken="vzplání" finSampa="' f s p l a: J i:" rhymeScheme="4" stanzaId="1" />
+    <line id="11" finToken="pustinách" finSampa="' p u s c I n a: x" rhymeScheme="1" stanzaId="1" />
+    <line id="12" finToken="odříkání" finSampa="' o d P\ i: k a: J i:" rhymeScheme="4" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0058-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="padá" finSampa="' p a d a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="lada" finSampa="' l a d a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="van" finSampa="v a n" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="štván" finSampa="' S t v a: n" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="moře" finSampa="' m o P\ E" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="obzoře" finSampa="' o b z o P\ E" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="hluk" finSampa="' h\ l u k" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="zvuk" finSampa="' z v u k" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="klesají" finSampa="' k l E s a j i:" rhymeScheme="X" stanzaId="1" />
+    <line id="10" finToken="padá" finSampa="' p a d a:" rhymeScheme="1" stanzaId="1" />
+    <line id="11" finToken="lada" finSampa="' l a d a" rhymeScheme="1" stanzaId="1" />
+    <line id="12" finToken="buď" finSampa="b u c" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="hruď" finSampa="' h\ r u c" rhymeScheme="5" stanzaId="2" />
+    <line id="14" finToken="utišení" finSampa="' u c I S E J i:" rhymeScheme="6" stanzaId="2" />
+    <line id="15" finToken="snění" finSampa="' s J E J i:" rhymeScheme="6" stanzaId="2" />
+    <line id="16" finToken="mládí" finSampa="' m l a: J\ i:" rhymeScheme="7" stanzaId="3" />
+    <line id="17" finToken="snil" finSampa="' s J I l" rhymeScheme="8" stanzaId="3" />
+    <line id="18" finToken="kradí" finSampa="' k r a J\ i:" rhymeScheme="7" stanzaId="3" />
+    <line id="19" finToken="vil" finSampa="' v I l" rhymeScheme="8" stanzaId="3" />
+    <line id="20" finToken="bázní" finSampa="' b a: z J i:" rhymeScheme="9" stanzaId="3" />
+    <line id="21" finToken="obličej" finSampa="' o b l I t_S E j" rhymeScheme="10" stanzaId="3" />
+    <line id="22" finToken="strázní" finSampa="' s t r a: z J i:" rhymeScheme="9" stanzaId="3" />
+    <line id="23" finToken="beznaděj" finSampa="' b E z n a J\ E j" rhymeScheme="10" stanzaId="3" />
+    <line id="24" finToken="padá" finSampa="' p a d a:" rhymeScheme="11" stanzaId="4" />
+    <line id="25" finToken="lada" finSampa="' l a d a" rhymeScheme="11" stanzaId="4" />
+    <line id="26" finToken="přívalem" finSampa="' p P\ i: v a l E m" rhymeScheme="X" stanzaId="4" />
+    <line id="27" finToken="skládá" finSampa="' s k l a: d a:" rhymeScheme="11" stanzaId="4" />
+    <line id="28" finToken="buď" finSampa="b u c" rhymeScheme="12" stanzaId="5" />
+    <line id="29" finToken="hruď" finSampa="' h\ r u c" rhymeScheme="12" stanzaId="5" />
+    <line id="30" finToken="rozechvění" finSampa="' r o z E x v j E J i:" rhymeScheme="13" stanzaId="5" />
+    <line id="31" finToken="snění" finSampa="' s J E J i:" rhymeScheme="13" stanzaId="5" />
+    <line id="32" finToken="lesem" finSampa="' l E s E m" rhymeScheme="14" stanzaId="6" />
+    <line id="33" finToken="ved" finSampa="v E t" rhymeScheme="15" stanzaId="6" />
+    <line id="34" finToken="plesem" finSampa="' p l E s E m" rhymeScheme="14" stanzaId="6" />
+    <line id="35" finToken="bled" finSampa="' b l E t" rhymeScheme="15" stanzaId="6" />
+    <line id="36" finToken="halen" finSampa="' h\ a l E n" rhymeScheme="16" stanzaId="6" />
+    <line id="37" finToken="prvý" finSampa="' p r= v i:" rhymeScheme="17" stanzaId="6" />
+    <line id="38" finToken="podobrví" finSampa="' p o d o b r= v i:" rhymeScheme="17" stanzaId="6" />
+    <line id="39" finToken="kalen" finSampa="' k a l E n" rhymeScheme="16" stanzaId="6" />
+    <line id="40" finToken="padá" finSampa="' p a d a:" rhymeScheme="18" stanzaId="7" />
+    <line id="41" finToken="lada" finSampa="' l a d a" rhymeScheme="18" stanzaId="7" />
+    <line id="42" finToken="bolestným" finSampa="' b o l E s t n i: m" rhymeScheme="X" stanzaId="7" />
+    <line id="43" finToken="mladá" finSampa="' m l a d a:" rhymeScheme="18" stanzaId="7" />
+    <line id="44" finToken="buď" finSampa="b u c" rhymeScheme="19" stanzaId="8" />
+    <line id="45" finToken="hruď" finSampa="' h\ r u c" rhymeScheme="19" stanzaId="8" />
+    <line id="46" finToken="uděšení" finSampa="' u J\ E S E J i:" rhymeScheme="20" stanzaId="8" />
+    <line id="47" finToken="snění" finSampa="' s J E J i:" rhymeScheme="20" stanzaId="8" />
+    <line id="48" finToken="právo" finSampa="' p r a: v o" rhymeScheme="21" stanzaId="9" />
+    <line id="49" finToken="vyléčen" finSampa="' v I l E: t_S E n" rhymeScheme="22" stanzaId="9" />
+    <line id="50" finToken="dravo" finSampa="' d r a v o" rhymeScheme="21" stanzaId="9" />
+    <line id="51" finToken="sen" finSampa="' s E n" rhymeScheme="22" stanzaId="9" />
+    <line id="52" finToken="nestřísněno" finSampa="' n E s t P\ i: s J E n o" rhymeScheme="23" stanzaId="9" />
+    <line id="53" finToken="tisíce" finSampa="' c I s i: t_s E" rhymeScheme="24" stanzaId="9" />
+    <line id="54" finToken="jméno" finSampa="' j m E: n o" rhymeScheme="23" stanzaId="9" />
+    <line id="55" finToken="světice" finSampa="' s v j E c I t_s E" rhymeScheme="24" stanzaId="9" />
+    <line id="56" finToken="padá" finSampa="' p a d a:" rhymeScheme="25" stanzaId="10" />
+    <line id="57" finToken="lada" finSampa="' l a d a" rhymeScheme="25" stanzaId="10" />
+    <line id="58" finToken="děsivou" finSampa="' J\ E s I v o_u" rhymeScheme="X" stanzaId="10" />
+    <line id="59" finToken="mladá" finSampa="' m l a d a:" rhymeScheme="25" stanzaId="10" />
+    <line id="60" finToken="padá" finSampa="' p a d a:" rhymeScheme="25" stanzaId="10" />
+    <line id="61" finToken="lada" finSampa="' l a d a" rhymeScheme="25" stanzaId="10" />
+    <line id="62" finToken="buď" finSampa="b u c" rhymeScheme="26" stanzaId="11" />
+    <line id="63" finToken="hruď" finSampa="' h\ r u c" rhymeScheme="26" stanzaId="11" />
+    <line id="64" finToken="uděšení" finSampa="' u J\ E S E J i:" rhymeScheme="27" stanzaId="11" />
+    <line id="65" finToken="snění" finSampa="' s J E J i:" rhymeScheme="27" stanzaId="11" />
+    <line id="66" finToken="svitla" finSampa="' s v I t l a" rhymeScheme="28" stanzaId="12" />
+    <line id="67" finToken="dum" finSampa="' d u m" rhymeScheme="29" stanzaId="12" />
+    <line id="68" finToken="kmitla" finSampa="' k m I t l a" rhymeScheme="28" stanzaId="12" />
+    <line id="69" finToken="rum" finSampa="' r u m" rhymeScheme="29" stanzaId="12" />
+    <line id="70" finToken="malé" finSampa="' m a l E:" rhymeScheme="30" stanzaId="12" />
+    <line id="71" finToken="tich" finSampa="' c I x" rhymeScheme="31" stanzaId="12" />
+    <line id="72" finToken="dále" finSampa="' d a: l E" rhymeScheme="30" stanzaId="12" />
+    <line id="73" finToken="tvých" finSampa="t v i: x" rhymeScheme="31" stanzaId="12" />
+    <line id="74" finToken="mizí" finSampa="' m I z i:" rhymeScheme="32" stanzaId="13" />
+    <line id="75" finToken="ryzí" finSampa="' r I z i:" rhymeScheme="32" stanzaId="13" />
+    <line id="76" finToken="vstává" finSampa="' f s t a: v a:" rhymeScheme="33" stanzaId="13" />
+    <line id="77" finToken="mává" finSampa="' m a: v a:" rhymeScheme="33" stanzaId="13" />
+    <line id="78" finToken="buď" finSampa="b u c" rhymeScheme="34" stanzaId="14" />
+    <line id="79" finToken="hruď" finSampa="' h\ r u c" rhymeScheme="34" stanzaId="14" />
+    <line id="80" finToken="spjetí" finSampa="' s p j E c i:" rhymeScheme="35" stanzaId="14" />
+    <line id="81" finToken="objetí" finSampa="' o b j E c i:" rhymeScheme="35" stanzaId="14" />
+    <line id="82" finToken="běda" finSampa="' b j E d a" rhymeScheme="36" stanzaId="15" />
+    <line id="83" finToken="bleda" finSampa="' b l E d a" rhymeScheme="36" stanzaId="15" />
+    <line id="84" finToken="sklání" finSampa="' s k l a: J i:" rhymeScheme="37" stanzaId="15" />
+    <line id="85" finToken="skrání" finSampa="' s k r a: J i:" rhymeScheme="37" stanzaId="15" />
+    <line id="86" finToken="čele" finSampa="' t_S E l E" rhymeScheme="38" stanzaId="15" />
+    <line id="87" finToken="stmělé" finSampa="' s t m J E l E:" rhymeScheme="38" stanzaId="15" />
+    <line id="88" finToken="šero" finSampa="' S E r o" rhymeScheme="39" stanzaId="15" />
+    <line id="89" finToken="dcero" finSampa="' t t_s E r o" rhymeScheme="39" stanzaId="15" />
+  </poem>
+  <poem id="0001-0000-0000-0059-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="letní" finSampa="' l E t J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hřál" finSampa="' h\ P\ a: l" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="vzletni" finSampa="' v z l E t J I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="tál" finSampa="' t a: l" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="děti" finSampa="' J\ E c I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="den" finSampa="' d E n" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="snětí" finSampa="' s J E c i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="sen" finSampa="' s E n" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="zlaté" finSampa="' z l a t E:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="stín" finSampa="' s c i: n" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="spjaté" finSampa="' s p j a t E:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="klín" finSampa="' k l i: n" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="žhavé" finSampa="' Z h\ a v E:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="snách" finSampa="' s n a: x" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="smavé" finSampa="' s m a v E:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="nach" finSampa="' n a x" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="svaté" finSampa="' s v a t E:" rhymeScheme="5" stanzaId="5" />
+    <line id="18" finToken="běl" finSampa="' b j E l" rhymeScheme="9" stanzaId="5" />
+    <line id="19" finToken="zlaté" finSampa="' z l a t E:" rhymeScheme="5" stanzaId="5" />
+    <line id="20" finToken="pel" finSampa="' p E l" rhymeScheme="9" stanzaId="5" />
+    <line id="21" finToken="jasu" finSampa="' j a s u" rhymeScheme="10" stanzaId="6" />
+    <line id="22" finToken="mé" finSampa="m E:" rhymeScheme="11" stanzaId="6" />
+    <line id="23" finToken="krásu" finSampa="' k r a: s u" rhymeScheme="10" stanzaId="6" />
+    <line id="24" finToken="dvé" finSampa="' d v E:" rhymeScheme="11" stanzaId="6" />
+    <line id="25" finToken="Vesny" finSampa="' v E s n I" rhymeScheme="12" stanzaId="7" />
+    <line id="26" finToken="zrak" finSampa="' z r a k" rhymeScheme="13" stanzaId="7" />
+    <line id="27" finToken="sny" finSampa="' s n I" rhymeScheme="12" stanzaId="7" />
+    <line id="28" finToken="oblak" finSampa="' o b l a k" rhymeScheme="13" stanzaId="7" />
+  </poem>
+  <poem id="0001-0001-0000-0001-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="nebi" finSampa="' n E b I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="stojí" finSampa="' s t o j i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="nebudeš" finSampa="' n E b u d E S" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="mojí" finSampa="' m o j i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="dvě" finSampa="' d v j E" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="pohádce" finSampa="' p o h\ a: t t_s E" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="jednom" finSampa="' j E d n o m" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="zahrádce" finSampa="' z a h\ r a: t t_s E" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="vichřice" finSampa="' v I x P\ I t_s E" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="hvízdá" finSampa="' h\ v i: z d a:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="už" finSampa="u S" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="jízda" finSampa="' j i: z d a" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="povídá" finSampa="' p o v i: d a:" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="vojna" finSampa="' v o j n a" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="dobouří" finSampa="' d o b o_u P\ i:" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="nepokojná" finSampa="' n E p o k o j n a:" rhymeScheme="4" stanzaId="4" />
+    <line id="17" finToken="dotluče" finSampa="' d o t l u t_S E" rhymeScheme="X" stanzaId="5" />
+    <line id="18" finToken="věrné" finSampa="' v j E r n E:" rhymeScheme="5" stanzaId="5" />
+    <line id="19" finToken="tebe" finSampa="' t E b E" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="nedoměrné" finSampa="' n E d o m J E r n E:" rhymeScheme="5" stanzaId="5" />
+    <line id="21" finToken="povzdechem" finSampa="' p o v z d E x E m" rhymeScheme="X" stanzaId="6" />
+    <line id="22" finToken="spínat" finSampa="' s p i: n a t" rhymeScheme="6" stanzaId="6" />
+    <line id="23" finToken="milá" finSampa="' m I l a:" rhymeScheme="X" stanzaId="6" />
+    <line id="24" finToken="zapomínat" finSampa="' z a p o m i: n a t" rhymeScheme="6" stanzaId="6" />
+    <line id="25" finToken="vojně" finSampa="' v o j J E" rhymeScheme="X" stanzaId="7" />
+    <line id="26" finToken="lkáti" finSampa="' l k a: c I" rhymeScheme="7" stanzaId="7" />
+    <line id="27" finToken="se" finSampa="s E" rhymeScheme="X" stanzaId="7" />
+    <line id="28" finToken="smáti" finSampa="' s m a: c I" rhymeScheme="7" stanzaId="7" />
+    <line id="29" finToken="mi" finSampa="m I" rhymeScheme="X" stanzaId="8" />
+    <line id="30" finToken="nespokojí" finSampa="' n E s p o k o j i:" rhymeScheme="8" stanzaId="8" />
+    <line id="31" finToken="nebudeš" finSampa="' n E b u d E S" rhymeScheme="X" stanzaId="8" />
+    <line id="32" finToken="mojí" finSampa="' m o j i:" rhymeScheme="8" stanzaId="8" />
+  </poem>
+  <poem id="0001-0001-0000-0002-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="lesem" finSampa="' l E s E m" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="chvění" finSampa="' x v j E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="světě" finSampa="' s v j E c E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="potěšení" finSampa="' p o c E S E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="více" finSampa="' v i: t_s E" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="ptáci" finSampa="' p t a: t_s I" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="mi" finSampa="m I" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="ztrácí" finSampa="' s t r a: t_s i:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="zdála" finSampa="' z d a: l a" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="věrná" finSampa="' v j E r n a:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="umí" finSampa="' u m i:" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="černá" finSampa="' t_S E r n a:" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="mi" finSampa="m I" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="mnoho" finSampa="' m n o h\ o" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="není" finSampa="' n E J i:" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="toho" finSampa="' t o h\ o" rhymeScheme="4" stanzaId="4" />
+    <line id="17" finToken="Bože" finSampa="' b o Z E" rhymeScheme="X" stanzaId="5" />
+    <line id="18" finToken="dále" finSampa="' d a: l E" rhymeScheme="5" stanzaId="5" />
+    <line id="19" finToken="všeho" finSampa="' f S E h\ o" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="nenadále" finSampa="' n E n a d a: l E" rhymeScheme="5" stanzaId="5" />
+    <line id="21" finToken="řeko" finSampa="' P\ E k o" rhymeScheme="X" stanzaId="6" />
+    <line id="22" finToken="ptáti" finSampa="' p t a: c I" rhymeScheme="6" stanzaId="6" />
+    <line id="23" finToken="světa" finSampa="' s v j E t a" rhymeScheme="X" stanzaId="6" />
+    <line id="24" finToken="vyhledati" finSampa="' v I h\ l E d a c I" rhymeScheme="6" stanzaId="6" />
+    <line id="25" finToken="ptáče" finSampa="' p t a: t_S E" rhymeScheme="X" stanzaId="7" />
+    <line id="26" finToken="svitání" finSampa="' s v I t a: J i:" rhymeScheme="7" stanzaId="7" />
+    <line id="27" finToken="snažím" finSampa="' s n a Z i: m" rhymeScheme="X" stanzaId="7" />
+    <line id="28" finToken="ni" finSampa="J I" rhymeScheme="7" stanzaId="7" />
+    <line id="29" finToken="se" finSampa="s E" rhymeScheme="X" stanzaId="8" />
+    <line id="30" finToken="kobě" finSampa="' k o b j E" rhymeScheme="8" stanzaId="8" />
+    <line id="31" finToken="hříchem" finSampa="' h\ P\ i: x E m" rhymeScheme="X" stanzaId="8" />
+    <line id="32" finToken="Tobě" finSampa="' t o b j E" rhymeScheme="8" stanzaId="8" />
+  </poem>
+  <poem id="0001-0001-0000-0060-0000" author="Hofmeister, Rudolf Richard *1868" period="1860">
+    <line id="1" finToken="dozněla" finSampa="' d o z J E l a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="duše" finSampa="' d u S E" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="prochvěla" finSampa="' p r o x v j E l a" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="duše" finSampa="' d u S E" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="srdci" finSampa="' s r= t t_s I" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="zavřela" finSampa="' z a v P\ E l a" rhymeScheme="1" stanzaId="1" />
+    <line id="7" finToken="duše" finSampa="' d u S E" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="hloubi" finSampa="' h\ l o_u b I" rhymeScheme="X" stanzaId="1" />
+    <line id="9" finToken="vzletěla" finSampa="' v z l E c E l a" rhymeScheme="1" stanzaId="1" />
+    <line id="10" finToken="duše" finSampa="' d u S E" rhymeScheme="X" stanzaId="1" />
+    <line id="11" finToken="snění" finSampa="' s J E J i:" rhymeScheme="X" stanzaId="1" />
+    <line id="12" finToken="zapěla" finSampa="' z a p j E l a" rhymeScheme="1" stanzaId="1" />
+    <line id="13" finToken="duše" finSampa="' d u S E" rhymeScheme="X" stanzaId="1" />
+    <line id="14" finToken="prašný" finSampa="' p r a S n i:" rhymeScheme="X" stanzaId="1" />
+    <line id="15" finToken="nespěla" finSampa="' n E s p j E l a" rhymeScheme="1" stanzaId="1" />
+    <line id="16" finToken="duše" finSampa="' d u S E" rhymeScheme="X" stanzaId="1" />
+    <line id="17" finToken="čekáš" finSampa="' t_S E k a: S" rhymeScheme="X" stanzaId="1" />
+    <line id="18" finToken="rozchvěla" finSampa="' r o s x v j E l a" rhymeScheme="1" stanzaId="1" />
+    <line id="19" finToken="duše" finSampa="' d u S E" rhymeScheme="X" stanzaId="1" />
+    <line id="20" finToken="píseň" finSampa="' p i: s E J" rhymeScheme="X" stanzaId="1" />
+    <line id="21" finToken="zapěla" finSampa="' z a p j E l a" rhymeScheme="1" stanzaId="1" />
+    <line id="22" finToken="duše" finSampa="' d u S E" rhymeScheme="X" stanzaId="1" />
+  </poem>
+</data>

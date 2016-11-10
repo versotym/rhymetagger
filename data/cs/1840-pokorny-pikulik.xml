@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+  <poem id="0001-0000-0000-0001-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="pomeranče" finSampa="' p o m E r a n t_S E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="zlém" finSampa="' z l E: m" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="chudé" finSampa="' x u d E:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="stromem" finSampa="' s t r o m E m" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="chuti" finSampa="' x u c I" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="žaludek" finSampa="' Z a l u d E k" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="nevyložil" finSampa="' n E v I l o Z I l" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="vděk" finSampa="' v J\ E k" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="posloužily" finSampa="' p o s l o_u Z I l I" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="lhář" finSampa="' l h\ a: P\" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="proto" finSampa="' p r o t o" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="honorář" finSampa="' h\ o n o r a: P\" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="kritikářů" finSampa="' k r I c I k a: P\ u:" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="nádavek" finSampa="' n a: d a v E k" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="cechu" finSampa="' t_s E x u" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="padavek" finSampa="' p a d a v E k" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0002-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="křehká" finSampa="' k P\ E x k a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="rukou" finSampa="' r u k o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="neroztlukou" finSampa="' n E r o s t l u k o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="lehká" finSampa="' l E x k a:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0003-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="Pravda" finSampa="' p r a v d a" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="nohou" finSampa="' n o h\ o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="pomáhají" finSampa="' p o m a: h\ a j i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="pomohou" finSampa="' p o m o h\ o_u" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0004-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="ubohý" finSampa="' u b o h\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="svadl" finSampa="' s v a d l=" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="padl" finSampa="' p a d l=" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="nohy" finSampa="' n o h\ I" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0005-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="řekne" finSampa="' P\ E k n E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zvenčí" finSampa="' z v E n t_S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="nevlastenčí" finSampa="' n E v l a s t E n t_S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="pěkné" finSampa="' p j E k n E:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0006-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="roli" finSampa="' r o l I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="den" finSampa="' d E n" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="ten" finSampa="t E n" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="voli" finSampa="' v o l I" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0007-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="vidět" finSampa="' v I J\ E t" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="bludu" finSampa="' b l u d u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="studu" finSampa="' s t u d u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="stydět" finSampa="' s t I J\ E t" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0008-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="nohu" finSampa="' n o h\ u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zmařil" finSampa="' z m a P\ I l" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="vylichvařil" finSampa="' v I l I x v a P\ I l" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="Bohu" finSampa="' b o h\ u" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0009-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="baví" finSampa="' b a v i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="výše" finSampa="' v i: S E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="břiše" finSampa="' b P\ I S E" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="staví" finSampa="' s t a v i:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0010-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="bledá" finSampa="' b l E d a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="bručí" finSampa="' b r u t_S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="učí" finSampa="' u t_S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="hledá" finSampa="' h\ l E d a:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0011-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="žena" finSampa="' Z E n a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="děl" finSampa="' J\ E l" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="spěl" finSampa="' s p j E l" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="kolena" finSampa="' k o l E n a" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0012-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="Úhořičky" finSampa="' u: h\ o P\ I t_S k I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="Držgrešličky" finSampa="' d r= Z g r E S l I t_S k I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="pádný" finSampa="' p a: d n i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="žádný" finSampa="' Z a: d n i:" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0013-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="škodí" finSampa="' S k o J\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="kalem" finSampa="' k a l E m" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="malém" finSampa="' m a l E: m" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="hodí" finSampa="' h\ o J\ i:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0014-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="kdysi" finSampa="' g d I s I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="němu" finSampa="' J E m u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="změnu" finSampa="' z m J E n u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="visí" finSampa="' v I s i:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0015-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="klnou" finSampa="' k l= n o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vinu" finSampa="' v I n u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="synů" finSampa="' s I n u:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="plnou" finSampa="' p l= n o_u" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0016-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="chřadne" finSampa="' x P\ a d n E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="odvěká" finSampa="' o d v j E k a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="člověka" finSampa="' t_S l o v j E k a" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="dne" finSampa="' d n E" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0017-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="vznešenou" finSampa="' v z n E S E n o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="razí" finSampa="' r a z i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="vrazi" finSampa="' v r a z I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="ženou" finSampa="' Z E n o_u" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0018-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="pnul" finSampa="' p n u l" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="sešedivil" finSampa="' s E S E J\ I v I l" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="divil" finSampa="' J\ I v I l" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="zbohatnul" finSampa="' z b o h\ a t n u l" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0019-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="stále" finSampa="' s t a: l E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="davu" finSampa="' d a v u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="hávu" finSampa="' h\ a: v u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="dále" finSampa="' d a: l E" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0020-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="tucha" finSampa="' t u x a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="velikém" finSampa="' v E l I k E: m" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="všelikém" finSampa="' f S E l I k E: m" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="ducha" finSampa="' d u x a" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0021-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="proroci" finSampa="' p r o r o t_s I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="špatně" finSampa="' S p a t J E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="platně" finSampa="' p l a t J E" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="pomoci" finSampa="' p o m o t_s I" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0022-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="píše" finSampa="' p i: S E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="sladce" finSampa="' s l a t t_s E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="svítí" finSampa="' s v i: c i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="bohatce" finSampa="' b o h\ a t t_s E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="hřeje" finSampa="' h\ P\ E j E" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="pálí" finSampa="' p a: l i:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="oře" finSampa="' o P\ E" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="válí" finSampa="' v a: l i:" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="jiné" finSampa="' j I n E:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="petroleje" finSampa="' p E t r o l E j E" rhymeScheme="2" stanzaId="3" />
+    <line id="11" finToken="svítí" finSampa="' s v i: c i:" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="hřeje" finSampa="' h\ P\ E j E" rhymeScheme="2" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0023-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="Březí" finSampa="' b P\ E z i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="nalupu" finSampa="' n a l u p u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="chalupu" finSampa="' x a l u p u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="mezí" finSampa="' m E z i:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0024-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="dbejte" finSampa="' d b E j t E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zplodil" finSampa="' s p l o J\ I l" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="neuškodil" finSampa="' n E u S k o J\ I l" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="dejte" finSampa="' d E j t E" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0025-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="soudců" finSampa="' s o_u t t_s u:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="zaoře" finSampa="' z a o P\ E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="schvalovati" finSampa="' s x v a l o v a c I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="dvoře" finSampa="' d v o P\ E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="chvělo" finSampa="' x v j E l o" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="rozvahy" finSampa="' r o z v a h\ I" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="blahý" finSampa="' b l a h\ i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="tělo" finSampa="' c E l o" rhymeScheme="2" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0026-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="plovat" finSampa="' p l o v a t" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="nehoní" finSampa="' n E h\ o J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="nevoní" finSampa="' n E v o J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="podkuřovat" finSampa="' p o t k u P\ o v a t" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0027-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="více" finSampa="' v i: t_s E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="svíce" finSampa="' s v i: t_s E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="polích" finSampa="' p o l i: x" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="Litice" finSampa="' l I c I t_s E" rhymeScheme="3" stanzaId="1" />
+    <line id="5" finToken="tisíce" finSampa="' c I s i: t_s E" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="holých" finSampa="' h\ o l i: x" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0028-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="krkavci" finSampa="' k r= k a f t_s I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="nosem" finSampa="' n o s E m" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="byli" finSampa="' b I l I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="parkosem" finSampa="' p a r k o s E m" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="parkosem" finSampa="' p a r k o s E m" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="mízy" finSampa="' m i: z I" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="kýchnutím" finSampa="' k i: x n u c i: m" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="nezmizí" finSampa="' n E z m I z i:" rhymeScheme="2" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0029-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="ryzí" finSampa="' r I z i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="fůr" finSampa="' f u: r" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="dvůr" finSampa="' d v u: r" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="cizí" finSampa="' t_s I z i:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0030-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="učencova" finSampa="' u t_S E n t_s o v a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hnisu" finSampa="' h\ J I s u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="slova" finSampa="' s l o v a" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="dějepisu" finSampa="' J\ E j E p I s u" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0031-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="dobu" finSampa="' d o b u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="tlakem" finSampa="' t l a k E m" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="vlakem" finSampa="' v l a k E m" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="hrobu" finSampa="' h\ r o b u" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0032-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="dveře" finSampa="' d v E P\ E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="podezřele" finSampa="' p o d E z P\ E l E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="směle" finSampa="' s m J E l E" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="béře" finSampa="' b E: P\ E" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0033-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="vloha" finSampa="' v l o h\ a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="větu" finSampa="' v j E t u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="vznětu" finSampa="' v z J E t u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="Boha" finSampa="' b o h\ a" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0034-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="stolic" finSampa="' s t o l I t_s" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="výtečný" finSampa="' v i: t E t_S n i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zbytečný" finSampa="' z b I t E t_S n i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="napolovic" finSampa="' n a p o l o v I t_s" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0035-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="psala" finSampa="' p s a l a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="mrzí" finSampa="' m r= z i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="brzy" finSampa="' b r= z I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="radovala" finSampa="' r a d o v a l a" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0036-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="to" finSampa="t o" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="lokaji" finSampa="' l o k a j I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="potaji" finSampa="' p o t a j I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="zlato" finSampa="' z l a t o" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0037-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="dřeva" finSampa="' d P\ E v a" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="otes" finSampa="' o t E s" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="Kacabajka" finSampa="' k a t_s a b a j k a" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="dnes" finSampa="d n E s" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="častokráte" finSampa="' t_S a s t o k r a: t E" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="voleno" finSampa="' v o l E n o" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="přišla" finSampa="' p P\ I S l a" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="poleno" finSampa="' p o l E n o" rhymeScheme="2" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0038-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="lpící" finSampa="' l p i: t_s i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zvyku" finSampa="' z v I k u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="radnici" finSampa="' r a d J I t_s I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="jazyků" finSampa="' j a z I k u:" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0039-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="šklebil" finSampa="' S k l E b I l" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="měka" finSampa="' m J E k a" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="člověka" finSampa="' t_S l o v j E k a" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="nebyl" finSampa="' n E b I l" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0040-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="Otto" finSampa="' o t o" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hračku" finSampa="' h\ r a t_S k u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="Šimáčků" finSampa="' S I m a: t_S k u:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="proto" finSampa="' p r o t o" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0041-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="znatel" finSampa="' z n a t E l" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="přidat" finSampa="' p P\ I d a t" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="vydat" finSampa="' v I d a t" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="nakladatel" finSampa="' n a k l a d a t E l" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0042-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="luhů" finSampa="' l u h\ u:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="chodit" finSampa="' x o J\ I t" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zrodit" finSampa="' z r o J\ I t" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="dobrodruhů" finSampa="' d o b r o d r u h\ u:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0043-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="tklivých" finSampa="' t k l I v i: x" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hřešil" finSampa="' h\ P\ E S I l" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="těšil" finSampa="' c E S I l" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="spravedlivých" finSampa="' s p r a v E d l I v i: x" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0044-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="blížil" finSampa="' b l i: Z I l" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hýřit" finSampa="' h\ i: P\ I t" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="smířit" finSampa="' s m i: P\ I t" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="neublížil" finSampa="' n E u b l i: Z I l" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0045-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="lidu" finSampa="' l I d u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="přeletí" finSampa="' p P\ E l E c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="teleti" finSampa="' t E l E c I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="židu" finSampa="' Z I d u" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0046-0000" author="Pokorný-Pikulík, Josef Václav *1842" period="1840">
+    <line id="1" finToken="lidí" finSampa="' l I J\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="víčka" finSampa="' v i: t_S k a" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="nenávidí" finSampa="' n E n a: v I J\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="andělíčka" finSampa="' a n J\ E l i: t_S k a" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="celý" finSampa="' t_s E l i:" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="černí" finSampa="' t_S E r J i:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="neposkvrní" finSampa="' n E p o s k v r= J i:" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="malicherní" finSampa="' m a l I x E r J i:" rhymeScheme="3" stanzaId="2" />
+  </poem>
+</data>

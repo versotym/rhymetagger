@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+  <poem id="0001-0001-0000-0001-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="velikánem" finSampa="' v E l I k a: n E m" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="biče" finSampa="' b I t_S E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="snadno" finSampa="' s n a d n o" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="klíče" finSampa="' k l i: t_S E" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0002-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="stolisté" finSampa="' s t o l I s t E:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="nové" finSampa="' n o v E:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zajisté" finSampa="' z a j I s t E:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="kritikové" finSampa="' k r I c I k o v E:" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0003-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="trávník" finSampa="' t r a: v J i: k" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="to" finSampa="t o" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="přírodě" finSampa="' p P\ i: r o J\ E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="bláto" finSampa="' b l a: t o" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0004-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="kvítí" finSampa="' k v i: c i:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="měkká" finSampa="' m J E k a:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="krásné" finSampa="' k r a: s n E:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="seká" finSampa="' s E k a:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0005-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="Dcery" finSampa="' t t_s E r I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="zkoušek" finSampa="' s k o_u S E k" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="otcem" finSampa="' o t t_s E m" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="dědoušek" finSampa="' J\ E d o_u S E k" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0006-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="tajemstvím" finSampa="' t a j E m s t v i: m" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="líčka" finSampa="' l i: t_S k a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="platánů" finSampa="' p l a t a: n u:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="hubička" finSampa="' h\ u b I t_S k a" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0007-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="velducha" finSampa="' v E l d u x a" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="celý" finSampa="' t_s E l i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="máj" finSampa="' m a: j" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="velí" finSampa="' v E l i:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0008-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="pomstily" finSampa="' p o m s c I l I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="kosmické" finSampa="' k o s m I t_s k E:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="baby" finSampa="' b a b I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="komické" finSampa="' k o m I t_s k E:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0009-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="nový" finSampa="' n o v i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vavřínový" finSampa="' v a v P\ i: n o v i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="zmoci" finSampa="' z m o t_s I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="půlnoci" finSampa="' p u: l n o t_s I" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0010-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="ctěn" finSampa="' t_s c E n" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="českého" finSampa="' t_S E s k E: h\ o" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="chápali" finSampa="' x a: p a l I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="plného" finSampa="' p l= n E: h\ o" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0011-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="řadu" finSampa="' P\ a d u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="dary" finSampa="' d a r I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="Eldoradu" finSampa="' E l d o r a d u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="rozmary" finSampa="' r o z m a r I" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0012-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="vzala" finSampa="' v z a l a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="stala" finSampa="' s t a l a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="věnce" finSampa="' v j E n t_s E" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="milence" finSampa="' m I l E n t_s E" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0013-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="hostem" finSampa="' h\ o s t E m" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="postavy" finSampa="' p o s t a v I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="dámy" finSampa="' d a: m I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="zábavy" finSampa="' z a: b a v I" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0014-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="lije" finSampa="' l I j E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="letem" finSampa="' l E t E m" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="institutu" finSampa="' I n s c I t u t u" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="parapletem" finSampa="' p a r a p l E t E m" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0015-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="znáš" finSampa="' z n a: S" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hrát" finSampa="' h\ r a: t" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="kolikrát" finSampa="' k o l I k r a: t" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="mariage" finSampa="' m a r I j a: S" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0016-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="povídek" finSampa="' p o v i: d E k" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="letu" finSampa="' l E t u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="předčítám" finSampa="' p P\ E t t_S i: t a: m" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="Fiamettu" finSampa="' f I j a m E t u" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0017-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="Pegasem" finSampa="' p E g a s E m" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="Parnasu" finSampa="' p a r n a s u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="cti" finSampa="' t_s c I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="věhlasu" finSampa="' v j E h\ l a s u" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="sudí" finSampa="' s u J\ i:" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="postačí" finSampa="' p o s t a t_S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="smířils" finSampa="' s m i: P\ I l s" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="nejmladší" finSampa="' n E j m l a t S i:" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0018-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="skalách" finSampa="' s k a l a: x" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="žene" finSampa="' Z E n E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="stáří" finSampa="' s t a: P\ i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="klene" finSampa="' k l E n E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="vzoru" finSampa="' v z o r u" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="předčí" finSampa="' p P\ E t t_S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="přátel" finSampa="' p P\ a: t E l" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="řečí" finSampa="' P\ E t_S i:" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0019-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="poesii" finSampa="' p o E s I j I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="komedii" finSampa="' k o m E J\ I I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="ráje" finSampa="' r a: j E" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="báje" finSampa="' b a: j E" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="smeklo" finSampa="' s m E k l o" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="hostiny" finSampa="' h\ o s c I n I" rhymeScheme="4" stanzaId="1" />
+    <line id="7" finToken="hodiny" finSampa="' h\ o J\ I n I" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="peklo" finSampa="' p E k l o" rhymeScheme="3" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0020-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="blahu" finSampa="' b l a h\ u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="směje" finSampa="' s m J E j E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="přeje" finSampa="' p P\ E j E" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="Prahu" finSampa="' p r a h\ u" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="vadit" finSampa="' v a J\ I t" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="vsadit" finSampa="' f s a J\ I t" rhymeScheme="3" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0021-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="jsem" finSampa="' j s E m" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="svojí" finSampa="' s v o j i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="mi" finSampa="m I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="spojí" finSampa="' s p o j i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="rok" finSampa="' r o k" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="sklámání" finSampa="' s k l a: m a: J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="ten" finSampa="t E n" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="poznání" finSampa="' p o z n a: J i:" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0022-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="básníka" finSampa="' b a: s J i: k a" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="vlajkou" finSampa="' v l a j k o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="ješitnosť" finSampa="' j E S I t n o s c" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="bájkou" finSampa="' b a: j k o_u" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0023-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="jsi" finSampa="' j s I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="zraku" finSampa="' z r a k u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="jsa" finSampa="' j s a" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="draku" finSampa="' d r a k u" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0024-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="lásky" finSampa="' l a: s k I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="krásky" finSampa="' k r a: s k I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="mívá" finSampa="' m i: v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="pěti" finSampa="' p j E c I" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="dětí" finSampa="' J\ E c i:" rhymeScheme="3" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0025-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="žárlivosti" finSampa="' Z a: r l I v o s c I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="velí" finSampa="' v E l i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="ctnosti" finSampa="' t_s t n o s c I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="manželi" finSampa="' m a n Z E l I" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0026-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="hrá" finSampa="' h\ r a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="umírá" finSampa="' u m i: r a:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="zdravý" finSampa="' z d r a v i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="domněle" finSampa="' d o m J E l E" rhymeScheme="3" stanzaId="1" />
+    <line id="5" finToken="uměle" finSampa="' u m J E l E" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="pravý" finSampa="' p r a v i:" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0027-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="neshledáš" finSampa="' n E s x l E d a: S" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="pěje" finSampa="' p j E j E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="dbá" finSampa="' d b a:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="obličeje" finSampa="' o b l I t_S E j E" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0028-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="andělem" finSampa="' a n J\ E l E m" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="velkou" finSampa="' v E l k o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="údělem" finSampa="' u: J\ E l E m" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="znělkou" finSampa="' z J E l k o_u" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0029-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="Phaedry" finSampa="' f a j d r I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="polemika" finSampa="' p o l E m I k a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="Britanikus" finSampa="' b r I t a J I k u s" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="britanika" finSampa="' b r I t a J I k a" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0030-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="ženskou" finSampa="' Z E n s k o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="spojila" finSampa="' s p o j I l a" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="Emila" finSampa="' E m I l a" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="společenskou" finSampa="' s p o l E t_S E n s k o_u" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0031-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="oplývají" finSampa="' o p l i: v a j i:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="slouží" finSampa="' s l o_u Z i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="přirozeno" finSampa="' p P\ I r o z E n o" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="touží" finSampa="' t o_u Z i:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0032-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="nehraje" finSampa="' n E h\ r a j E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="vina" finSampa="' v I n a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="nám" finSampa="n a: m" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="elektřina" finSampa="' E l E k t P\ I n a" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0033-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="pisatelem" finSampa="' p I s a t E l E m" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hostitelem" finSampa="' h\ o s c I t E l E m" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="plody" finSampa="' p l o d I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="vody" finSampa="' v o d I" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0034-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="Jan" finSampa="' j a n" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="žije" finSampa="' Z I j E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zván" finSampa="' z v a: n" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="poesie" finSampa="' p o E s I j E" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0035-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="stejné" finSampa="' s t E j n E:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="Tvoji" finSampa="' t v o j I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="prchal" finSampa="' p r= x a l" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="bojí" finSampa="' b o j i:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0001-0000-0036-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="však" finSampa="f S a k" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="hranu" finSampa="' h\ r a n u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="Naninu" finSampa="' n a J I n u" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="Nánu" finSampa="' n a: n u" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0002-0000-0001-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="lítat" finSampa="' l i: t a t" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="čítat" finSampa="' t_S i: t a t" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="statné" finSampa="' s t a t n E:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="zdatné" finSampa="' z d a t n E:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="kroku" finSampa="' k r o k u" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="skoku" finSampa="' s k o k u" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="zušlechtěny" finSampa="' z u S l E x c E n I" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="ženy" finSampa="' Z E n I" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="jíti" finSampa="' j i: c I" rhymeScheme="5" stanzaId="1" />
+    <line id="10" finToken="zříti" finSampa="' z P\ i: c I" rhymeScheme="5" stanzaId="1" />
+    <line id="11" finToken="chovat" finSampa="' x o v a t" rhymeScheme="6" stanzaId="1" />
+    <line id="12" finToken="utužovat" finSampa="' u t u Z o v a t" rhymeScheme="6" stanzaId="1" />
+    <line id="13" finToken="pěstit" finSampa="' p j E s c I t" rhymeScheme="7" stanzaId="1" />
+    <line id="14" finToken="klestit" finSampa="' k l E s c I t" rhymeScheme="7" stanzaId="1" />
+    <line id="15" finToken="tvrdá" finSampa="' t v r= d a:" rhymeScheme="8" stanzaId="1" />
+    <line id="16" finToken="hrdá" finSampa="' h\ r= d a:" rhymeScheme="8" stanzaId="1" />
+    <line id="17" finToken="době" finSampa="' d o b j E" rhymeScheme="9" stanzaId="1" />
+    <line id="18" finToken="svobodě" finSampa="' s v o b o J\ E" rhymeScheme="9" stanzaId="1" />
+    <line id="19" finToken="svatou" finSampa="' s v a t o_u" rhymeScheme="10" stanzaId="1" />
+    <line id="20" finToken="zlatou" finSampa="' z l a t o_u" rhymeScheme="10" stanzaId="1" />
+    <line id="21" finToken="vznětu" finSampa="' v z J E t u" rhymeScheme="11" stanzaId="1" />
+    <line id="22" finToken="letu" finSampa="' l E t u" rhymeScheme="11" stanzaId="1" />
+    <line id="23" finToken="zdaru" finSampa="' z d a r u" rhymeScheme="12" stanzaId="1" />
+    <line id="24" finToken="zmaru" finSampa="' z m a r u" rhymeScheme="12" stanzaId="1" />
+    <line id="25" finToken="žíti" finSampa="' Z i: c I" rhymeScheme="13" stanzaId="1" />
+    <line id="26" finToken="míti" finSampa="' m i: c I" rhymeScheme="13" stanzaId="1" />
+    <line id="27" finToken="ctíti" finSampa="' t_s c i: c I" rhymeScheme="13" stanzaId="1" />
+  </poem>
+  <poem id="0001-0002-0000-0002-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="roztomilý" finSampa="' r o s t o m I l i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="svitu" finSampa="' s v I t u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="úbělovou" finSampa="' u: b j E l o v o_u" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="citů" finSampa="' t_s I t u:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="mojí" finSampa="' m o j i:" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="líto" finSampa="' l i: t o" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="otužilý" finSampa="' o t u Z I l i:" rhymeScheme="1" stanzaId="2" />
+    <line id="8" finToken="to" finSampa="t o" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="pažích" finSampa="' p a Z i: x" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="bludu" finSampa="' b l u d u" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="se" finSampa="s E" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="budu" finSampa="' b u d u" rhymeScheme="4" stanzaId="3" />
+    <line id="13" finToken="básníků" finSampa="' b a: s J i: k u:" rhymeScheme="X" stanzaId="3" />
+    <line id="14" finToken="zříme" finSampa="' z P\ i: m E" rhymeScheme="5" stanzaId="3" />
+    <line id="15" finToken="družce" finSampa="' d r u S t_s E" rhymeScheme="X" stanzaId="3" />
+    <line id="16" finToken="víme" finSampa="' v i: m E" rhymeScheme="5" stanzaId="3" />
+    <line id="17" finToken="někdy" finSampa="' J E g d I" rhymeScheme="X" stanzaId="4" />
+    <line id="18" finToken="slabá" finSampa="' s l a b a:" rhymeScheme="6" stanzaId="4" />
+    <line id="19" finToken="se" finSampa="s E" rhymeScheme="X" stanzaId="4" />
+    <line id="20" finToken="chabá" finSampa="' x a b a:" rhymeScheme="6" stanzaId="4" />
+    <line id="21" finToken="děvo" finSampa="' J\ E v o" rhymeScheme="X" stanzaId="5" />
+    <line id="22" finToken="ďas" finSampa="' J\ a s" rhymeScheme="7" stanzaId="5" />
+    <line id="23" finToken="pouhé" finSampa="' p o_u h\ E:" rhymeScheme="X" stanzaId="5" />
+    <line id="24" finToken="pás" finSampa="' p a: s" rhymeScheme="7" stanzaId="5" />
+    <line id="25" finToken="růžová" finSampa="' r u: Z o v a:" rhymeScheme="X" stanzaId="5" />
+    <line id="26" finToken="oku" finSampa="' o k u" rhymeScheme="8" stanzaId="5" />
+    <line id="27" finToken="pohlédnu" finSampa="' p o h\ l E: d n u" rhymeScheme="X" stanzaId="5" />
+    <line id="28" finToken="skoku" finSampa="' s k o k u" rhymeScheme="8" stanzaId="5" />
+    <line id="29" finToken="skok" finSampa="' s k o k" rhymeScheme="X" stanzaId="5" />
+    <line id="30" finToken="vloudím" finSampa="' v l o_u J\ i: m" rhymeScheme="9" stanzaId="5" />
+    <line id="31" finToken="komůrkách" finSampa="' k o m u: r k a: x" rhymeScheme="X" stanzaId="5" />
+    <line id="32" finToken="bloudím" finSampa="' b l o_u J\ i: m" rhymeScheme="9" stanzaId="5" />
+    <line id="33" finToken="mně" finSampa="m J E" rhymeScheme="X" stanzaId="6" />
+    <line id="34" finToken="milovaná" finSampa="' m I l o v a n a:" rhymeScheme="10" stanzaId="6" />
+    <line id="35" finToken="srdéčko" finSampa="' s r= d E: t_S k o" rhymeScheme="X" stanzaId="6" />
+    <line id="36" finToken="vyšlapaná" finSampa="' v I S l a p a n a:" rhymeScheme="10" stanzaId="6" />
+  </poem>
+  <poem id="0001-0002-0000-0003-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="věru" finSampa="' v j E r u" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="cítí" finSampa="' t_s i: c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="Sokol" finSampa="' s o k o l" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="zříti" finSampa="' z P\ i: c I" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="Sokol" finSampa="' s o k o l" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="zočil" finSampa="' z o t_S I l" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="skokem" finSampa="' s k o k E m" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="skočil" finSampa="' s k o t_S I l" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="bratr" finSampa="' b r a t r=" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="hoří" finSampa="' h\ o P\ i:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="zanedbává" finSampa="' z a n E d b a: v a:" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="koří" finSampa="' k o P\ i:" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="onu" finSampa="' o n u" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="očku" finSampa="' o t_S k u" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="milý" finSampa="' m I l i:" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="odbočku" finSampa="' o d b o t_S k u" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0004-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="švihákem" finSampa="' S v I h\ a: k E m" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="musí" finSampa="' m u s i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="velkotouč" finSampa="' v E l k o t o_u t_S" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="zkusí" finSampa="' s k u s i:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0002-0000-0005-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="býti" finSampa="' b i: c I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="zvyky" finSampa="' z v I k I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="sokolny" finSampa="' s o k o l n I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="prostocviky" finSampa="' p r o s t o t_s v I k I" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0003-0000-0001-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="Venušina" finSampa="' v E n u S I n a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="kvete" finSampa="' k v E t E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="pavučina" finSampa="' p a v u t_S I n a" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="nevyplete" finSampa="' n E v I p l E t E" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0003-0000-0002-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="azurové" finSampa="' a z u r o v E:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="perleťové" finSampa="' p E r l E c o v E:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="zřela" finSampa="' z P\ E l a" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="měla" finSampa="' m J E l a" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0003-0000-0003-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="zrcadlem" finSampa="' z r= t_s a d l E m" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="zříti" finSampa="' z P\ i: c I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="pohlédne" finSampa="' p o h\ l E: d n E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="cítí" finSampa="' t_s i: c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="číst" finSampa="' t_S i: s t" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="snadno" finSampa="' s n a d n o" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="hladinou" finSampa="' h\ l a J\ I n o_u" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="dno" finSampa="' d n o" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="se" finSampa="s E" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="jeví" finSampa="' j E v i:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="opačně" finSampa="' o p a t_S J E" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="děvy" finSampa="' J\ E v I" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0004-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="píše" finSampa="' p i: S E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="Bětka" finSampa="' b j E t k a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="psaní" finSampa="' p s a J i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="pětka" finSampa="' p j E t k a" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0003-0000-0005-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="zahradou" finSampa="' z a h\ r a d o_u" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="zovu" finSampa="' z o v u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="hrom" finSampa="' h\ r o m" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="znovu" finSampa="' z n o v u" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0003-0000-0006-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="diamant" finSampa="' J\ I j a m a n t" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="růže" finSampa="' r u: Z E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="sklo" finSampa="' s k l o" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="muže" finSampa="' m u Z E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="vtělený" finSampa="' f c E l E n i:" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="přítel" finSampa="' p P\ i: t E l" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="byl" finSampa="' b I l" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="ctitel" finSampa="' t_s c I t E l" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="jsem" finSampa="' j s E m" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="vlohy" finSampa="' v l o h\ I" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="šedivou" finSampa="' S E J\ I v o_u" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="rohy" finSampa="' r o h\ I" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="nemají" finSampa="' n E m a j i:" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="vady" finSampa="' v a d I" rhymeScheme="5" stanzaId="4" />
+    <line id="15" finToken="šilhají" finSampa="' S I l h\ a j i:" rhymeScheme="4" stanzaId="4" />
+    <line id="16" finToken="rády" finSampa="' r a: d I" rhymeScheme="5" stanzaId="4" />
+    <line id="17" finToken="čilá" finSampa="' t_S I l a:" rhymeScheme="X" stanzaId="5" />
+    <line id="18" finToken="práci" finSampa="' p r a: t_s I" rhymeScheme="6" stanzaId="5" />
+    <line id="19" finToken="tobě" finSampa="' t o b j E" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="vrací" finSampa="' v r a t_s i:" rhymeScheme="6" stanzaId="5" />
+    <line id="21" finToken="často" finSampa="' t_S a s t o" rhymeScheme="X" stanzaId="5" />
+    <line id="22" finToken="mijí" finSampa="' m I j i:" rhymeScheme="7" stanzaId="5" />
+    <line id="23" finToken="tebou" finSampa="' t E b o_u" rhymeScheme="X" stanzaId="5" />
+    <line id="24" finToken="šijí" finSampa="' S I j i:" rhymeScheme="7" stanzaId="5" />
+    <line id="25" finToken="srdci" finSampa="' s r= t t_s I" rhymeScheme="X" stanzaId="6" />
+    <line id="26" finToken="zima" finSampa="' z I m a" rhymeScheme="8" stanzaId="6" />
+    <line id="27" finToken="zhusta" finSampa="' s x u s t a" rhymeScheme="X" stanzaId="6" />
+    <line id="28" finToken="jímá" finSampa="' j i: m a:" rhymeScheme="8" stanzaId="6" />
+    <line id="29" finToken="třeba" finSampa="' t P\ E b a" rhymeScheme="X" stanzaId="6" />
+    <line id="30" finToken="opíti" finSampa="' o p i: c I" rhymeScheme="9" stanzaId="6" />
+    <line id="31" finToken="již" finSampa="j I S" rhymeScheme="X" stanzaId="6" />
+    <line id="32" finToken="zatopiti" finSampa="' z a t o p I c I" rhymeScheme="9" stanzaId="6" />
+    <line id="33" finToken="vede" finSampa="' v E d E" rhymeScheme="10" stanzaId="7" />
+    <line id="34" finToken="měla" finSampa="' m J E l a" rhymeScheme="11" stanzaId="7" />
+    <line id="35" finToken="jela" finSampa="' j E l a" rhymeScheme="11" stanzaId="7" />
+    <line id="36" finToken="jede" finSampa="' j E d E" rhymeScheme="10" stanzaId="7" />
+    <line id="37" finToken="sametu" finSampa="' s a m E t u" rhymeScheme="12" stanzaId="8" />
+    <line id="38" finToken="vábí" finSampa="' v a: b i:" rhymeScheme="13" stanzaId="8" />
+    <line id="39" finToken="odvetu" finSampa="' o d v E t u" rhymeScheme="12" stanzaId="8" />
+    <line id="40" finToken="hedvábí" finSampa="' h\ E d v a: b i:" rhymeScheme="13" stanzaId="8" />
+    <line id="41" finToken="ctnosti" finSampa="' t_s t n o s c I" rhymeScheme="14" stanzaId="9" />
+    <line id="42" finToken="svého" finSampa="' s v E: h\ o" rhymeScheme="15" stanzaId="9" />
+    <line id="43" finToken="dosti" finSampa="' d o s c I" rhymeScheme="14" stanzaId="9" />
+    <line id="44" finToken="každého" finSampa="' k a Z d E: h\ o" rhymeScheme="15" stanzaId="9" />
+    <line id="45" finToken="tebe" finSampa="' t E b E" rhymeScheme="X" stanzaId="10" />
+    <line id="46" finToken="přestala" finSampa="' p P\ E s t a l a" rhymeScheme="16" stanzaId="10" />
+    <line id="47" finToken="stále" finSampa="' s t a: l E" rhymeScheme="X" stanzaId="10" />
+    <line id="48" finToken="zůstala" finSampa="' z u: s t a l a" rhymeScheme="16" stanzaId="10" />
+    <line id="49" finToken="zoubků" finSampa="' z o_u p k u:" rhymeScheme="X" stanzaId="11" />
+    <line id="50" finToken="pořadem" finSampa="' p o P\ a d E m" rhymeScheme="17" stanzaId="11" />
+    <line id="51" finToken="ženo" finSampa="' Z E n o" rhymeScheme="X" stanzaId="11" />
+    <line id="52" finToken="pokladem" finSampa="' p o k l a d E m" rhymeScheme="17" stanzaId="11" />
+    <line id="53" finToken="lících" finSampa="' l i: t_s i: x" rhymeScheme="X" stanzaId="12" />
+    <line id="54" finToken="ran" finSampa="' r a n" rhymeScheme="18" stanzaId="12" />
+    <line id="55" finToken="tvými" finSampa="' t v i: m I" rhymeScheme="X" stanzaId="12" />
+    <line id="56" finToken="pobodán" finSampa="' p o b o d a: n" rhymeScheme="18" stanzaId="12" />
+    <line id="57" finToken="hlásku" finSampa="' h\ l a: s k u" rhymeScheme="X" stanzaId="13" />
+    <line id="58" finToken="byl" finSampa="' b I l" rhymeScheme="19" stanzaId="13" />
+    <line id="59" finToken="čtrnáctého" finSampa="' t_S t r= n a: t_s t E: h\ o" rhymeScheme="X" stanzaId="13" />
+    <line id="60" finToken="zbyl" finSampa="' z b I l" rhymeScheme="19" stanzaId="13" />
+  </poem>
+  <poem id="0001-0003-0000-0007-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="pohodlí" finSampa="' p o h\ o d l i:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="bledé" finSampa="' b l E d E:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="věř" finSampa="' v j E P\" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="nedovede" finSampa="' n E d o v E d E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="drahokam" finSampa="' d r a h\ o k a m" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="klenotem" finSampa="' k l E n o t E m" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="stkvost" finSampa="s t k v o s t" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="překotem" finSampa="' p P\ E k o t E m" rhymeScheme="2" stanzaId="1" />
+    <line id="9" finToken="se" finSampa="s E" rhymeScheme="X" stanzaId="2" />
+    <line id="10" finToken="zástavě" finSampa="' z a: s t a v j E" rhymeScheme="3" stanzaId="2" />
+    <line id="11" finToken="klenotu" finSampa="' k l E n o t u" rhymeScheme="X" stanzaId="2" />
+    <line id="12" finToken="zábavě" finSampa="' z a: b a v j E" rhymeScheme="3" stanzaId="2" />
+    <line id="13" finToken="drahoušku" finSampa="' d r a h\ o_u S k u" rhymeScheme="X" stanzaId="3" />
+    <line id="14" finToken="neztratil" finSampa="' n E s t r a c I l" rhymeScheme="4" stanzaId="3" />
+    <line id="15" finToken="nadála" finSampa="' n a d a: l a" rhymeScheme="X" stanzaId="3" />
+    <line id="16" finToken="vyplatil" finSampa="' v I p l a c I l" rhymeScheme="4" stanzaId="3" />
+    <line id="17" finToken="slavíčkem" finSampa="' s l a v i: t_S k E m" rhymeScheme="X" stanzaId="3" />
+    <line id="18" finToken="dvoranu" finSampa="' d v o r a n u" rhymeScheme="5" stanzaId="3" />
+    <line id="19" finToken="hospody" finSampa="' h\ o s p o d I" rhymeScheme="X" stanzaId="3" />
+    <line id="20" finToken="ránu" finSampa="' r a: n u" rhymeScheme="5" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0008-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="nešťastník" finSampa="' n E S c a s t J i: k" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="proženu" finSampa="' p r o Z E n u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="učinil" finSampa="' u t_S I J I l" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="ženu" finSampa="' Z E n u" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0003-0000-0009-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="zdaru" finSampa="' z d a r u" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="výši" finSampa="' v i: S I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="vínem" finSampa="' v i: n E m" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="číši" finSampa="' t_S i: S I" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="ale" finSampa="' a l E" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="zdraví" finSampa="' z d r a v i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="stačí" finSampa="' s t a t_S i:" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="spraví" finSampa="' s p r a v i:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="blahu" finSampa="' b l a h\ u" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="tchýně" finSampa="' t x i: J E" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="sklenku" finSampa="' s k l E n k u" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="líně" finSampa="' l i: J E" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0004-0000-0001-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="pravý" finSampa="' p r a v i:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="stručně" finSampa="' s t r u t_S J E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="pianě" finSampa="' p I j a J E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="čtveroručně" finSampa="' t_S t v E r o r u t_S J E" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0004-0000-0002-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="muku" finSampa="' m u k u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="ruku" finSampa="' r u k u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="klubu" finSampa="' k l u b u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="hubu" finSampa="' h\ u b u" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0004-0000-0003-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="poupátko" finSampa="' p o_u p a: t k o" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="šuká" finSampa="' S u k a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="puká" finSampa="' p u k a:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="zanícení" finSampa="' z a J i: t_s E J i:" rhymeScheme="3" stanzaId="1" />
+    <line id="5" finToken="děvčátko" finSampa="' J\ E f t_S a: t k o" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="tvoje" finSampa="' t v o j E" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="svoje" finSampa="' s v o j E" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="vyražení" finSampa="' v I r a Z E J i:" rhymeScheme="3" stanzaId="2" />
+  </poem>
+  <poem id="0001-0004-0000-0004-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="hluku" finSampa="' h\ l u k u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="pannu" finSampa="' p a n u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="stranu" finSampa="' s t r a n u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="ruku" finSampa="' r u k u" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0004-0000-0005-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="milky" finSampa="' m I l k I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="sloh" finSampa="' s l o x" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="básně" finSampa="' b a: s J E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="tvaroh" finSampa="' t v a r o x" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="tobě" finSampa="' t o b j E" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="poeto" finSampa="' p o E t o" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="to" finSampa="t o" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="sobě" finSampa="' s o b j E" rhymeScheme="2" stanzaId="2" />
+  </poem>
+  <poem id="0001-0004-0000-0006-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="všestranný" finSampa="' f S E s t r a n i:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="tichu" finSampa="' c I x u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="pak" finSampa="p a k" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="smíchu" finSampa="' s m i: x u" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="postava" finSampa="' p o s t a v a" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="kráčí" finSampa="' k r a: t_S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="ach" finSampa="' a x" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="pláči" finSampa="' p l a: t_S I" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0004-0000-0007-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="volení" finSampa="' v o l E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="volbou" finSampa="' v o l b o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="holení" finSampa="' h\ o l E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="holbou" finSampa="' h\ o l b o_u" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0004-0000-0008-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="světa" finSampa="' s v j E t a" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="hádku" finSampa="' h\ a: t k u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="konci" finSampa="' k o n t_s I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="počátku" finSampa="' p o t_S a: t k u" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="se" finSampa="s E" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="honci" finSampa="' h\ o n t_s I" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="chcete" finSampa="' x t_s E t E" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="konci" finSampa="' k o n t_s I" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0004-0000-0009-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="věru" finSampa="' v j E r u" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="chvíli" finSampa="' x v i: l I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="dvacet" finSampa="' d v a t_s E t" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="cíli" finSampa="' t_s i: l I" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0004-0000-0010-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="hlasů" finSampa="' h\ l a s u:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hlavu" finSampa="' h\ l a v u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="stavu" finSampa="' s t a v u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="vlasů" finSampa="' v l a s u:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0004-0000-0011-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="holobrádka" finSampa="' h\ o l o b r a: t k a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="muže" finSampa="' m u Z E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zkrátka" finSampa="' s k r a: t k a" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="nemůže" finSampa="' n E m u: Z E" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0004-0000-0012-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="chvíli" finSampa="' x v i: l I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="ženou" finSampa="' Z E n o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="brusič" finSampa="' b r u s I t_S" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="nabroušenou" finSampa="' n a b r o_u S E n o_u" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0004-0000-0013-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="nejsladší" finSampa="' n E j s l a t S i:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="pečivo" finSampa="' p E t_S I v o" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="nejsladší" finSampa="' n E j s l a t S i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="pivo" finSampa="' p I v o" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0004-0000-0014-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="tobě" finSampa="' t o b j E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="klep" finSampa="' k l E p" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="době" finSampa="' d o b j E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="sklep" finSampa="' s k l E p" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0004-0000-0015-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="ty" finSampa="t I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="kázeň" finSampa="' k a: z E J" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="každičké" finSampa="' k a Z J\ I t_S k E:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="bázeň" finSampa="' b a: z E J" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="kviká" finSampa="' k v I k a:" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="kominíka" finSampa="' k o m I J i: k a" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0004-0000-0016-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="malovati" finSampa="' m a l o v a c I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="portrety" finSampa="' p o r t r E t I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="pouhé" finSampa="' p o_u h\ E:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="klevety" finSampa="' k l E v E t I" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="ženu" finSampa="' Z E n u" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="hrozná" finSampa="' h\ r o z n a:" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="vlastní" finSampa="' v l a s t J i:" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="pozná" finSampa="' p o z n a:" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0004-0000-0017-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="věštcem" finSampa="' v j E S t t_s E m" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="napije" finSampa="' n a p I j E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="třínožce" finSampa="' t P\ i: n o S t_s E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="Pythie" finSampa="' p I c I j E" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0004-0000-0018-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="kousky" finSampa="' k o_u s k I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="dána" finSampa="' d a: n a" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="housky" finSampa="' h\ o_u s k I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="pána" finSampa="' p a: n a" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0005-0000-0001-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="svatě" finSampa="' s v a c E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="snese" finSampa="' s n E s E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="plese" finSampa="' p l E s E" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="kabátě" finSampa="' k a b a: c E" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0005-0000-0002-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="chtějí" finSampa="' x c E j i:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="pojedou" finSampa="' p o j E d o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="mají" finSampa="' m a j i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="dovedou" finSampa="' d o v E d o_u" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0005-0000-0003-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="vdáti" finSampa="' v d a: c I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="ráji" finSampa="' r a: j I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="uzenáři" finSampa="' u z E n a: P\ I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="nadělají" finSampa="' n a J\ E l a j i:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0005-0000-0004-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="chvíle" finSampa="' x v i: l E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="žije" finSampa="' Z I j E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="svoje" finSampa="' s v o j E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="studie" finSampa="' s t u J\ I j E" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0005-0000-0005-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="Listonoši" finSampa="' l I s t o n o S I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hoši" finSampa="' h\ o S I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="znají" finSampa="' z n a j i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="zvyku" finSampa="' z v I k u" rhymeScheme="3" stanzaId="1" />
+    <line id="5" finToken="cviku" finSampa="' t_s v I k u" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="nalítají" finSampa="' n a l i: t a j i:" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0005-0000-0006-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="plesů" finSampa="' p l E s u:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="zlatí" finSampa="' z l a c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="léků" finSampa="' l E: k u:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="užívati" finSampa="' u Z i: v a c I" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0005-0000-0007-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="lodě" finSampa="' l o J\ E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="námořnický" finSampa="' n a: m o P\ J I t_s k i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="komín" finSampa="' k o m i: n" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="kominický" finSampa="' k o m I J I t_s k i:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0005-0000-0008-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="zříti" finSampa="' z P\ i: c I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="cítí" finSampa="' t_s i: c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="ti" finSampa="c I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="otevříti" finSampa="' o t E v P\ i: c I" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0006-0000-0001-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="dívce" finSampa="' J\ i: f t_s E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="chodí" finSampa="' x o J\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="každodenně" finSampa="' k a Z d o d E n J E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="vodí" finSampa="' v o J\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="máme" finSampa="' m a: m E" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="něha" finSampa="' J E h\ a" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="děvče" finSampa="' J\ E f t_S E" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="běhá" finSampa="' b j E h\ a:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="slečinka" finSampa="' s l E t_S I n k a" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="šviháky" finSampa="' S v I h\ a: k I" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="prazvláštní" finSampa="' p r a z v l a: S t J i:" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="háky" finSampa="' h\ a: k I" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="dívenka" finSampa="' J\ i: v E n k a" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="zvolá" finSampa="' z v o l a:" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="dělají" finSampa="' J\ E l a j i:" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="kola" finSampa="' k o l a" rhymeScheme="4" stanzaId="4" />
+    <line id="17" finToken="drahá" finSampa="' d r a h\ a:" rhymeScheme="X" stanzaId="5" />
+    <line id="18" finToken="Otakara" finSampa="' o t a k a r a" rhymeScheme="5" stanzaId="5" />
+    <line id="19" finToken="pokojíku" finSampa="' p o k o j i: k u" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="kárá" finSampa="' k a: r a:" rhymeScheme="5" stanzaId="5" />
+    <line id="21" finToken="chopí" finSampa="' x o p i:" rhymeScheme="X" stanzaId="6" />
+    <line id="22" finToken="zcela" finSampa="' s t_s E l a" rhymeScheme="6" stanzaId="6" />
+    <line id="23" finToken="zachránil" finSampa="' z a x r a: J I l" rhymeScheme="X" stanzaId="6" />
+    <line id="24" finToken="archanděla" finSampa="' a r x a n J\ E l a" rhymeScheme="6" stanzaId="6" />
+  </poem>
+  <poem id="0001-0006-0000-0002-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="oba" finSampa="' o b a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="doba" finSampa="' d o b a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="sdílí" finSampa="' z J\ i: l i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="chvíli" finSampa="' x v i: l I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="nepoznané" finSampa="' n E p o z n a n E:" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="kane" finSampa="' k a n E" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="novou" finSampa="' n o v o_u" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="zovou" finSampa="' z o v o_u" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="dýše" finSampa="' d i: S E" rhymeScheme="5" stanzaId="1" />
+    <line id="10" finToken="říše" finSampa="' P\ i: S E" rhymeScheme="5" stanzaId="1" />
+    <line id="11" finToken="jasu" finSampa="' j a s u" rhymeScheme="6" stanzaId="1" />
+    <line id="12" finToken="spásu" finSampa="' s p a: s u" rhymeScheme="6" stanzaId="1" />
+    <line id="13" finToken="okem" finSampa="' o k E m" rhymeScheme="7" stanzaId="1" />
+    <line id="14" finToken="sokem" finSampa="' s o k E m" rhymeScheme="7" stanzaId="1" />
+    <line id="15" finToken="štěstí" finSampa="' S c E s c i:" rhymeScheme="8" stanzaId="1" />
+    <line id="16" finToken="kvésti" finSampa="' k v E: s c I" rhymeScheme="8" stanzaId="1" />
+    <line id="17" finToken="musím" finSampa="' m u s i: m" rhymeScheme="9" stanzaId="1" />
+    <line id="18" finToken="zkusím" finSampa="' s k u s i: m" rhymeScheme="9" stanzaId="1" />
+    <line id="19" finToken="čítá" finSampa="' t_S i: t a:" rhymeScheme="10" stanzaId="1" />
+    <line id="20" finToken="vítá" finSampa="' v i: t a:" rhymeScheme="10" stanzaId="1" />
+  </poem>
+  <poem id="0001-0006-0000-0003-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="čas" finSampa="' t_S a s" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hlas" finSampa="' h\ l a s" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="platil" finSampa="' p l a c I l" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="zhatil" finSampa="' s x a c I l" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="příteli" finSampa="' p P\ i: t E l I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="li" finSampa="l I" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="zralé" finSampa="' z r a l E:" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="dále" finSampa="' d a: l E" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="piloval" finSampa="' p I l o v a l" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="vzpjal" finSampa="f s p j a l" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="vstoupí" finSampa="' f s t o_u p i:" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="hloupý" finSampa="' h\ l o_u p i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="lát" finSampa="' l a: t" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="kolikrát" finSampa="' k o l I k r a: t" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="stále" finSampa="' s t a: l E" rhymeScheme="4" stanzaId="4" />
+    <line id="16" finToken="neuzralé" finSampa="' n E u z r a l E:" rhymeScheme="4" stanzaId="4" />
+    <line id="17" finToken="plod" finSampa="' p l o t" rhymeScheme="8" stanzaId="5" />
+    <line id="18" finToken="vod" finSampa="' v o t" rhymeScheme="8" stanzaId="5" />
+    <line id="19" finToken="svitu" finSampa="' s v I t u" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="maturitu" finSampa="' m a t u r I t u" rhymeScheme="9" stanzaId="5" />
+  </poem>
+  <poem id="0001-0006-0000-0004-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="gigantem" finSampa="' g I g a n t E m" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="moři" finSampa="' m o P\ I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="bezměrný" finSampa="' b E z m J E r n i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="noří" finSampa="' n o P\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="mlýně" finSampa="' m l i: J E" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="poušti" finSampa="' p o_u S c I" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="chamsinem" finSampa="' x a m s I n E m" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="pouští" finSampa="' p o_u S c i:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="srovnání" finSampa="' s r o v n a: J i:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="oku" finSampa="' o k u" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="světu" finSampa="' s v j E t u" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="skoku" finSampa="' s k o k u" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0006-0000-0005-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="blíží" finSampa="' b l i: Z i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hřeje" finSampa="' h\ P\ E j E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="vzhlíží" finSampa="' f s x l i: Z i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="přeje" finSampa="' p P\ E j E" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="peří" finSampa="' p E P\ i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="světu" finSampa="' s v j E t u" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="keři" finSampa="' k E P\ I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="květu" finSampa="' k v j E t u" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="údy" finSampa="' u: d I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="síně" finSampa="' s i: J E" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="nudy" finSampa="' n u d I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="víně" finSampa="' v i: J E" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="peří" finSampa="' p E P\ i:" rhymeScheme="3" stanzaId="4" />
+    <line id="14" finToken="světu" finSampa="' s v j E t u" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="keři" finSampa="' k E P\ I" rhymeScheme="3" stanzaId="4" />
+    <line id="16" finToken="květu" finSampa="' k v j E t u" rhymeScheme="4" stanzaId="4" />
+    <line id="17" finToken="vesna" finSampa="' v E s n a" rhymeScheme="7" stanzaId="5" />
+    <line id="18" finToken="šátkem" finSampa="' S a: t k E m" rhymeScheme="8" stanzaId="5" />
+    <line id="19" finToken="sna" finSampa="' s n a" rhymeScheme="7" stanzaId="5" />
+    <line id="20" finToken="svátkem" finSampa="' s v a: t k E m" rhymeScheme="8" stanzaId="5" />
+    <line id="21" finToken="sadě" finSampa="' s a J\ E" rhymeScheme="9" stanzaId="6" />
+    <line id="22" finToken="vůní" finSampa="' v u: J i:" rhymeScheme="10" stanzaId="6" />
+    <line id="23" finToken="hradě" finSampa="' h\ r a J\ E" rhymeScheme="9" stanzaId="6" />
+    <line id="24" finToken="trůní" finSampa="' t r u: J i:" rhymeScheme="10" stanzaId="6" />
+    <line id="25" finToken="zemí" finSampa="' z E m i:" rhymeScheme="11" stanzaId="7" />
+    <line id="26" finToken="hrobě" finSampa="' h\ r o b j E" rhymeScheme="12" stanzaId="7" />
+    <line id="27" finToken="perutěmi" finSampa="' p E r u c E m I" rhymeScheme="11" stanzaId="7" />
+    <line id="28" finToken="robě" finSampa="' r o b j E" rhymeScheme="12" stanzaId="7" />
+    <line id="29" finToken="radě" finSampa="' r a J\ E" rhymeScheme="9" stanzaId="8" />
+    <line id="30" finToken="duní" finSampa="' d u J i:" rhymeScheme="10" stanzaId="8" />
+    <line id="31" finToken="hradě" finSampa="' h\ r a J\ E" rhymeScheme="9" stanzaId="8" />
+    <line id="32" finToken="trůní" finSampa="' t r u: J i:" rhymeScheme="10" stanzaId="8" />
+  </poem>
+  <poem id="0001-0006-0000-0006-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="si" finSampa="s I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="kloní" finSampa="' k l o J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="pláče" finSampa="' p l a: t_S E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="roní" finSampa="' r o J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="oplakává" finSampa="' o p l a k a: v a:" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="matky" finSampa="' m a t k I" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="vzdáleného" finSampa="' v z d a: l E n E: h\ o" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="statky" finSampa="' s t a t k I" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="nářek" finSampa="' n a: P\ E k" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="kanou" finSampa="' k a n o_u" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="dlouho" finSampa="' d l o_u h\ o" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="pannou" finSampa="' p a n o_u" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0006-0000-0007-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="pohřbené" finSampa="' p o h\ P\ b E n E:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="ruměnné" finSampa="' r u m J E n E:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="hloží" finSampa="' h\ l o Z i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="vloží" finSampa="' v l o Z i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="řase" finSampa="' P\ a s E" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="se" finSampa="s E" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="davy" finSampa="' d a v I" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="zdraví" finSampa="' z d r a v i:" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="značí" finSampa="' z n a t_S i:" rhymeScheme="5" stanzaId="1" />
+    <line id="10" finToken="kráčí" finSampa="' k r a: t_S i:" rhymeScheme="5" stanzaId="1" />
+  </poem>
+  <poem id="0001-0006-0000-0008-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="obchodník" finSampa="' o p x o d J i: k" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="klamem" finSampa="' k l a m E m" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="přísloví" finSampa="' p P\ i: s l o v i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="krámem" finSampa="' k r a: m E m" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="kovářem" finSampa="' k o v a: P\ E m" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="pochybuje" finSampa="' p o x I b u j E" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="pochyby" finSampa="' p o x I b I" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="kuje" finSampa="' k u j E" rhymeScheme="2" stanzaId="2" />
+  </poem>
+  <poem id="0001-0006-0000-0009-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="staří" finSampa="' s t a P\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="maří" finSampa="' m a P\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="sdílet" finSampa="' z J\ i: l E t" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="výlet" finSampa="' v i: l E t" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0006-0000-0010-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="moc" finSampa="' m o t_s" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="táhne" finSampa="' t a: h\ n E" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="noc" finSampa="' n o t_s" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="táhne" finSampa="' t a: h\ n E" rhymeScheme="X" stanzaId="1" />
+  </poem>
+  <poem id="0001-0006-0000-0011-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="těla" finSampa="' c E l a" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="mil" finSampa="' m I l" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="velké" finSampa="' v E l k E:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="vystavil" finSampa="' v I s t a v I l" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0006-0000-0012-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="musí" finSampa="' m u s i:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="zdravý" finSampa="' z d r a v i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="padnou" finSampa="' p a d n o_u" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="staví" finSampa="' s t a v i:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0006-0000-0013-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="kdosi" finSampa="' g d o s I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="kosi" finSampa="' k o s I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="spolu" finSampa="' s p o l u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="všecku" finSampa="' f S E t_s k u" rhymeScheme="3" stanzaId="1" />
+    <line id="5" finToken="stolu" finSampa="' s t o l u" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="německu" finSampa="' J E m E t_s k u" rhymeScheme="3" stanzaId="1" />
+  </poem>
+  <poem id="0001-0006-0000-0014-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="boji" finSampa="' b o j I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="síly" finSampa="' s i: l I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="milý" finSampa="' m I l i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="bojí" finSampa="' b o j i:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0006-0000-0015-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="žije" finSampa="' Z I j E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vrstvy" finSampa="' v r= s t v I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="pije" finSampa="' p I j E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="bratrství" finSampa="' b r a t r= s t v i:" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0006-0000-0016-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="asi" finSampa="' a s I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="časy" finSampa="' t_S a s I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="lík" finSampa="l i: k" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="knedlík" finSampa="' k n E d l i: k" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="žena" finSampa="' Z E n a" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="věna" finSampa="' v j E n a" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="věru" finSampa="' v j E r u" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="steru" finSampa="' s t E r u" rhymeScheme="4" stanzaId="1" />
+  </poem>
+  <poem id="0001-0006-0000-0017-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="bude" finSampa="' b u d E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="lžiproroci" finSampa="' l Z I p r o r o t_s I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="býti" finSampa="' b i: c I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="půlnoci" finSampa="' p u: l n o t_s I" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0006-0000-0018-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="vládne" finSampa="' v l a: d n E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="pravý" finSampa="' p r a v i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="chráníš" finSampa="' x r a: J i: S" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="dravý" finSampa="' d r a v i:" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0006-0000-0019-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="dojdeš" finSampa="' d o j d E S" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="přísloví" finSampa="' p P\ i: s l o v i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="pouhá" finSampa="' p o_u h\ a:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="hotový" finSampa="' h\ o t o v i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="nepoctivý" finSampa="' n E p o t_s c I v i:" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="namane" finSampa="' n a m a n E" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="oceán" finSampa="' o t_s E a: n" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="dostane" finSampa="' d o s t a n E" rhymeScheme="2" stanzaId="1" />
+  </poem>
+  <poem id="0001-0006-0000-0020-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="usnul" finSampa="' u s n u l" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="oblažena" finSampa="' o b l a Z E n a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="ním" finSampa="J i: m" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="žena" finSampa="' Z E n a" rhymeScheme="1" stanzaId="1" />
+  </poem>
+  <poem id="0001-0006-0000-0021-0000" author="Wunsch, Hugo Václav *1857" period="1850">
+    <line id="1" finToken="pomlouvání" finSampa="' p o m l o_u v a: J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="ohlášky" finSampa="' o h\ l a: S k I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="paní" finSampa="' p a J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="vážky" finSampa="' v a: S k I" rhymeScheme="2" stanzaId="1" />
+  </poem>
+</data>

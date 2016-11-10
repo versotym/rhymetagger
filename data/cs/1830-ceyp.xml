@@ -1,0 +1,1743 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+  <poem id="0001-0000-0000-0001-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="vzdálené" finSampa="' v z d a: l E n E:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="spánek" finSampa="' s p a: n E k" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="rozklene" finSampa="' r o s k l E n E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="vánek" finSampa="' v a: n E k" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="sad" finSampa="' s a t" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="staví" finSampa="' s t a v i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="vnad" finSampa="' v n a t" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="blahoslaví" finSampa="' b l a h\ o s l a v i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="výkvěte" finSampa="' v i: k v j E t E" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="zmájí" finSampa="' z m a: j i:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="knížete" finSampa="' k J i: Z E t E" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="zrájí" finSampa="' z r a: j i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="darové" finSampa="' d a r o v E:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="ohvězděné" finSampa="' o h\ v j E z J\ E n E:" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="vděkové" finSampa="' v J\ E k o v E:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="porosené" finSampa="' p o r o s E n E:" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="rozence" finSampa="' r o z E n t_s E" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="jásá" finSampa="' j a: s a:" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="kvítence" finSampa="' k v i: t E n t_s E" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="hlásá" finSampa="' h\ l a: s a:" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="hlaholu" finSampa="' h\ l a h\ o l u" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="díky" finSampa="' J\ i: k I" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="úkolu" finSampa="' u: k o l u" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="převeliký" finSampa="' p P\ E v E l I k i:" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="zní" finSampa="' z J i:" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="retů" finSampa="' r E t u:" rhymeScheme="14" stanzaId="7" />
+    <line id="27" finToken="nadechni" finSampa="' n a d E x J I" rhymeScheme="13" stanzaId="7" />
+    <line id="28" finToken="vzletu" finSampa="' v z l E t u" rhymeScheme="14" stanzaId="7" />
+    <line id="29" finToken="den" finSampa="' d E n" rhymeScheme="15" stanzaId="8" />
+    <line id="30" finToken="záři" finSampa="' z a: P\ I" rhymeScheme="16" stanzaId="8" />
+    <line id="31" finToken="odměněn" finSampa="' o d m J E J E n" rhymeScheme="15" stanzaId="8" />
+    <line id="32" finToken="tváří" finSampa="' t v a: P\ i:" rhymeScheme="16" stanzaId="8" />
+  </poem>
+  <poem id="0001-0000-0000-0002-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="přichází" finSampa="' p P\ I x a: z i:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="dveří" finSampa="' d v E P\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="obstupují" finSampa="' o p s t u p u j i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="peří" finSampa="' p E P\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="odpočívá" finSampa="' o t p o t_S i: v a:" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="chumelici" finSampa="' x u m E l I t_s I" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="sedni" finSampa="' s E d J I" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="světnici" finSampa="' s v j E t J I t_s I" rhymeScheme="2" stanzaId="1" />
+    <line id="9" finToken="někdo" finSampa="' J E g d o" rhymeScheme="X" stanzaId="1" />
+    <line id="10" finToken="skočí" finSampa="' s k o t_S i:" rhymeScheme="3" stanzaId="1" />
+    <line id="11" finToken="nás" finSampa="n a: s" rhymeScheme="X" stanzaId="1" />
+    <line id="12" finToken="kročí" finSampa="' k r o t_S i:" rhymeScheme="3" stanzaId="1" />
+    <line id="13" finToken="lidé" finSampa="' l I d E:" rhymeScheme="X" stanzaId="1" />
+    <line id="14" finToken="nyní" finSampa="' n I J i:" rhymeScheme="4" stanzaId="1" />
+    <line id="15" finToken="se" finSampa="s E" rhymeScheme="X" stanzaId="1" />
+    <line id="16" finToken="jíní" finSampa="' j i: J i:" rhymeScheme="4" stanzaId="1" />
+    <line id="17" finToken="potůček" finSampa="' p o t u: t_S E k" rhymeScheme="X" stanzaId="1" />
+    <line id="18" finToken="ptačí" finSampa="' p t a t_S i:" rhymeScheme="5" stanzaId="1" />
+    <line id="19" finToken="človíčka" finSampa="' t_S l o v i: t_S k a" rhymeScheme="X" stanzaId="1" />
+    <line id="20" finToken="mračí" finSampa="' m r a t_S i:" rhymeScheme="5" stanzaId="1" />
+    <line id="21" finToken="jistbě" finSampa="' j I z d b j E" rhymeScheme="X" stanzaId="1" />
+    <line id="22" finToken="zanotuji" finSampa="' z a n o t u j I" rhymeScheme="6" stanzaId="1" />
+    <line id="23" finToken="pažiť" finSampa="' p a Z I c" rhymeScheme="X" stanzaId="1" />
+    <line id="24" finToken="zotavují" finSampa="' z o t a v u j i:" rhymeScheme="6" stanzaId="1" />
+    <line id="25" finToken="slyšel" finSampa="' s l I S E l" rhymeScheme="X" stanzaId="1" />
+    <line id="26" finToken="času" finSampa="' t_S a s u" rhymeScheme="7" stanzaId="1" />
+    <line id="27" finToken="hostí" finSampa="' h\ o s c i:" rhymeScheme="X" stanzaId="1" />
+    <line id="28" finToken="jasu" finSampa="' j a s u" rhymeScheme="7" stanzaId="1" />
+    <line id="29" finToken="dílo" finSampa="' J\ i: l o" rhymeScheme="X" stanzaId="1" />
+    <line id="30" finToken="druhu" finSampa="' d r u h\ u" rhymeScheme="8" stanzaId="1" />
+    <line id="31" finToken="sáhne" finSampa="' s a: h\ n E" rhymeScheme="X" stanzaId="1" />
+    <line id="32" finToken="kruhu" finSampa="' k r u h\ u" rhymeScheme="8" stanzaId="1" />
+    <line id="33" finToken="staví" finSampa="' s t a v i:" rhymeScheme="X" stanzaId="1" />
+    <line id="34" finToken="dává" finSampa="' d a: v a:" rhymeScheme="9" stanzaId="1" />
+    <line id="35" finToken="naslouchá" finSampa="' n a s l o_u x a:" rhymeScheme="X" stanzaId="1" />
+    <line id="36" finToken="vstává" finSampa="' f s t a: v a:" rhymeScheme="9" stanzaId="1" />
+    <line id="37" finToken="odrostkové" finSampa="' o d r o s t k o v E:" rhymeScheme="X" stanzaId="1" />
+    <line id="38" finToken="sluchu" finSampa="' s l u x u" rhymeScheme="10" stanzaId="1" />
+    <line id="39" finToken="podál" finSampa="' p o d a: l" rhymeScheme="X" stanzaId="1" />
+    <line id="40" finToken="duchu" finSampa="' d u x u" rhymeScheme="10" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0003-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="soumračí" finSampa="' s o_u m r a t_S i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="není" finSampa="' n E J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="obláčí" finSampa="' o b l a: t_S i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="není" finSampa="' n E J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="zmar" finSampa="' z m a r" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="prahy" finSampa="' p r a h\ I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="škvar" finSampa="S k v a r" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="vrahy" finSampa="' v r a h\ I" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="dědinu" finSampa="' J\ E J\ I n u" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="popelem" finSampa="' p o p E l E m" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="hodinu" finSampa="' h\ o J\ I n u" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="nepřítelem" finSampa="' n E p P\ i: t E l E m" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="bran" finSampa="' b r a n" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="hude" finSampa="' h\ u d E" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="ran" finSampa="' r a n" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="rudé" finSampa="' r u d E:" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="poplach" finSampa="' p o p l a x" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="vítá" finSampa="' v i: t a:" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="strach" finSampa="' s t r a x" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="lítá" finSampa="' l i: t a:" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="zřícenin" finSampa="' z P\ i: t_s E J I n" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="vkrade" finSampa="' f k r a d E" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="čeledín" finSampa="' t_S E l E J\ i: n" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="klade" finSampa="' k l a d E" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="spěch" finSampa="' s p j E x" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="teče" finSampa="' t E t_S E" rhymeScheme="14" stanzaId="7" />
+    <line id="27" finToken="měch" finSampa="' m J E x" rhymeScheme="13" stanzaId="7" />
+    <line id="28" finToken="vleče" finSampa="' v l E t_S E" rhymeScheme="14" stanzaId="7" />
+    <line id="29" finToken="provodí" finSampa="' p r o v o J\ i:" rhymeScheme="15" stanzaId="8" />
+    <line id="30" finToken="směle" finSampa="' s m J E l E" rhymeScheme="16" stanzaId="8" />
+    <line id="31" finToken="nerodí" finSampa="' n E r o J\ i:" rhymeScheme="15" stanzaId="8" />
+    <line id="32" finToken="vřele" finSampa="' v P\ E l E" rhymeScheme="16" stanzaId="8" />
+    <line id="33" finToken="ženštiny" finSampa="' Z E n S c I n I" rhymeScheme="17" stanzaId="9" />
+    <line id="34" finToken="spěli" finSampa="' s p j E l I" rhymeScheme="18" stanzaId="9" />
+    <line id="35" finToken="sutiny" finSampa="' s u c I n I" rhymeScheme="17" stanzaId="9" />
+    <line id="36" finToken="chvěly" finSampa="' x v j E l I" rhymeScheme="18" stanzaId="9" />
+    <line id="37" finToken="zbabělci" finSampa="' z b a b j E l t_s I" rhymeScheme="19" stanzaId="10" />
+    <line id="38" finToken="svírá" finSampa="' s v i: r a:" rhymeScheme="20" stanzaId="10" />
+    <line id="39" finToken="smělci" finSampa="' s m J E l t_s I" rhymeScheme="19" stanzaId="10" />
+    <line id="40" finToken="zastírá" finSampa="' z a s c i: r a:" rhymeScheme="20" stanzaId="10" />
+    <line id="41" finToken="pole" finSampa="' p o l E" rhymeScheme="21" stanzaId="11" />
+    <line id="42" finToken="jatý" finSampa="' j a t i:" rhymeScheme="22" stanzaId="11" />
+    <line id="43" finToken="pachole" finSampa="' p a x o l E" rhymeScheme="21" stanzaId="11" />
+    <line id="44" finToken="zlatý" finSampa="' z l a t i:" rhymeScheme="22" stanzaId="11" />
+    <line id="45" finToken="Španěli" finSampa="' S p a J E l I" rhymeScheme="23" stanzaId="12" />
+    <line id="46" finToken="drazí" finSampa="' d r a z i:" rhymeScheme="24" stanzaId="12" />
+    <line id="47" finToken="ocelí" finSampa="' o t_s E l i:" rhymeScheme="23" stanzaId="12" />
+    <line id="48" finToken="vrazi" finSampa="' v r a z I" rhymeScheme="24" stanzaId="12" />
+    <line id="49" finToken="nádobu" finSampa="' n a: d o b u" rhymeScheme="25" stanzaId="13" />
+    <line id="50" finToken="směje" finSampa="' s m J E j E" rhymeScheme="26" stanzaId="13" />
+    <line id="51" finToken="chorobu" finSampa="' x o r o b u" rhymeScheme="25" stanzaId="13" />
+    <line id="52" finToken="naleje" finSampa="' n a l E j E" rhymeScheme="26" stanzaId="13" />
+    <line id="53" finToken="tuk" finSampa="' t u k" rhymeScheme="27" stanzaId="14" />
+    <line id="54" finToken="letu" finSampa="' l E t u" rhymeScheme="28" stanzaId="14" />
+    <line id="55" finToken="zvuk" finSampa="' z v u k" rhymeScheme="27" stanzaId="14" />
+    <line id="56" finToken="retů" finSampa="' r E t u:" rhymeScheme="28" stanzaId="14" />
+    <line id="57" finToken="nemluví" finSampa="' n E m l u v i:" rhymeScheme="29" stanzaId="15" />
+    <line id="58" finToken="dnové" finSampa="' d n o v E:" rhymeScheme="30" stanzaId="15" />
+    <line id="59" finToken="sinaví" finSampa="' s I n a v i:" rhymeScheme="29" stanzaId="15" />
+    <line id="60" finToken="rtové" finSampa="' r t o v E:" rhymeScheme="30" stanzaId="15" />
+    <line id="61" finToken="kvas" finSampa="' k v a s" rhymeScheme="31" stanzaId="16" />
+    <line id="62" finToken="tuší" finSampa="' t u S i:" rhymeScheme="32" stanzaId="16" />
+    <line id="63" finToken="zas" finSampa="z a s" rhymeScheme="31" stanzaId="16" />
+    <line id="64" finToken="duši" finSampa="' d u S I" rhymeScheme="32" stanzaId="16" />
+    <line id="65" finToken="vína" finSampa="' v i: n a" rhymeScheme="33" stanzaId="17" />
+    <line id="66" finToken="vůdce" finSampa="' v u: t t_s E" rhymeScheme="34" stanzaId="17" />
+    <line id="67" finToken="hrdina" finSampa="' h\ r= J\ I n a" rhymeScheme="33" stanzaId="17" />
+    <line id="68" finToken="škůdce" finSampa="' S k u: t t_s E" rhymeScheme="34" stanzaId="17" />
+  </poem>
+  <poem id="0001-0000-0000-0004-0001" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="mlad" finSampa="m l a t" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="brat" finSampa="b r a t" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="boj" finSampa="' b o j" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="voj" finSampa="' v o j" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="vrah" finSampa="' v r a x" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="práh" finSampa="' p r a: x" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="díl" finSampa="' J\ i: l" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="mil" finSampa="' m I l" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="můj" finSampa="m u: j" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="opatruj" finSampa="' o p a t r u j" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="řeč" finSampa="' P\ E t_S" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="meč" finSampa="' m E t_S" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="hlas" finSampa="' h\ l a s" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="vlas" finSampa="' v l a s" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="přivine" finSampa="' p P\ I v I n E" rhymeScheme="8" stanzaId="4" />
+    <line id="16" finToken="pokyne" finSampa="' p o k I n E" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="statečný" finSampa="' s t a t E t_S n i:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="válečný" finSampa="' v a: l E t_S n i:" rhymeScheme="9" stanzaId="5" />
+    <line id="19" finToken="rodiny" finSampa="' r o J\ I n I" rhymeScheme="10" stanzaId="5" />
+    <line id="20" finToken="jediný" finSampa="' j E J\ I n i:" rhymeScheme="10" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0004-0002" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="blízku" finSampa="' b l i: s k u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vísku" finSampa="' v i: s k u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="ples" finSampa="' p l E s" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="dnes" finSampa="d n E s" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="polétá" finSampa="' p o l E: t a:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="třepetá" finSampa="' t P\ E p E t a:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="zní" finSampa="' z J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="rumění" finSampa="' r u m J E J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="pár" finSampa="' p a: r" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="žár" finSampa="' Z a: r" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="svět" finSampa="' s v j E t" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="let" finSampa="' l E t" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="slavíček" finSampa="' s l a v i: t_S E k" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="měsíček" finSampa="' m J E s i: t_S E k" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="rozmarýn" finSampa="' r o z m a r i: n" rhymeScheme="8" stanzaId="4" />
+    <line id="16" finToken="baldachýn" finSampa="' b a l d a x i: n" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="pecí" finSampa="' p E t_s i:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="mládenci" finSampa="' m l a: d E n t_s I" rhymeScheme="9" stanzaId="5" />
+    <line id="19" finToken="znoj" finSampa="' z n o j" rhymeScheme="10" stanzaId="5" />
+    <line id="20" finToken="hoj" finSampa="' h\ o j" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="mít" finSampa="' m i: t" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="být" finSampa="' b i: t" rhymeScheme="11" stanzaId="6" />
+    <line id="23" finToken="zakrnět" finSampa="' z a k r= J E t" rhymeScheme="12" stanzaId="6" />
+    <line id="24" finToken="zhubenět" finSampa="' s x u b E J E t" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="výslužku" finSampa="' v i: s l u S k u" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="ženušku" finSampa="' Z E n u S k u" rhymeScheme="13" stanzaId="7" />
+    <line id="27" finToken="dnes" finSampa="d n E s" rhymeScheme="14" stanzaId="7" />
+    <line id="28" finToken="kdes" finSampa="g d E s" rhymeScheme="14" stanzaId="7" />
+    <line id="29" finToken="dveří" finSampa="' d v E P\ i:" rhymeScheme="15" stanzaId="8" />
+    <line id="30" finToken="zaměří" finSampa="' z a m J E P\ i:" rhymeScheme="15" stanzaId="8" />
+    <line id="31" finToken="prolétá" finSampa="' p r o l E: t a:" rhymeScheme="16" stanzaId="8" />
+    <line id="32" finToken="ptá" finSampa="' p t a:" rhymeScheme="16" stanzaId="8" />
+    <line id="33" finToken="spí" finSampa="' s p i:" rhymeScheme="17" stanzaId="9" />
+    <line id="34" finToken="osopí" finSampa="' o s o p i:" rhymeScheme="17" stanzaId="9" />
+    <line id="35" finToken="tvář" finSampa="' t v a: P\" rhymeScheme="18" stanzaId="9" />
+    <line id="36" finToken="hospodář" finSampa="' h\ o s p o d a: P\" rhymeScheme="18" stanzaId="9" />
+    <line id="37" finToken="sápavě" finSampa="' s a: p a v j E" rhymeScheme="19" stanzaId="10" />
+    <line id="38" finToken="zábavě" finSampa="' z a: b a v j E" rhymeScheme="19" stanzaId="10" />
+    <line id="39" finToken="pán" finSampa="' p a: n" rhymeScheme="20" stanzaId="10" />
+    <line id="40" finToken="chán" finSampa="' x a: n" rhymeScheme="20" stanzaId="10" />
+    <line id="41" finToken="přej" finSampa="' p P\ E j" rhymeScheme="21" stanzaId="11" />
+    <line id="42" finToken="chvěj" finSampa="' x v j E j" rhymeScheme="21" stanzaId="11" />
+    <line id="43" finToken="kvas" finSampa="' k v a s" rhymeScheme="22" stanzaId="11" />
+    <line id="44" finToken="zas" finSampa="z a s" rhymeScheme="22" stanzaId="11" />
+    <line id="45" finToken="můj" finSampa="m u: j" rhymeScheme="23" stanzaId="12" />
+    <line id="46" finToken="pomiluj" finSampa="' p o m I l u j" rhymeScheme="23" stanzaId="12" />
+    <line id="47" finToken="vést" finSampa="' v E: s t" rhymeScheme="24" stanzaId="12" />
+    <line id="48" finToken="trest" finSampa="' t r E s t" rhymeScheme="24" stanzaId="12" />
+    <line id="49" finToken="hostitel" finSampa="' h\ o s c I t E l" rhymeScheme="25" stanzaId="13" />
+    <line id="50" finToken="povrhel" finSampa="' p o v r= h\ E l" rhymeScheme="25" stanzaId="13" />
+    <line id="51" finToken="dost" finSampa="d o s t" rhymeScheme="26" stanzaId="13" />
+    <line id="52" finToken="chvost" finSampa="' x v o s t" rhymeScheme="26" stanzaId="13" />
+    <line id="53" finToken="hostinu" finSampa="' h\ o s c I n u" rhymeScheme="27" stanzaId="14" />
+    <line id="54" finToken="dědinu" finSampa="' J\ E J\ I n u" rhymeScheme="27" stanzaId="14" />
+    <line id="55" finToken="radostí" finSampa="' r a d o s c i:" rhymeScheme="28" stanzaId="14" />
+    <line id="56" finToken="svornosti" finSampa="' s v o r n o s c I" rhymeScheme="28" stanzaId="14" />
+  </poem>
+  <poem id="0001-0000-0000-0004-0003" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="obrazem" finSampa="' o b r a z E m" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zem" finSampa="' z E m" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="opodál" finSampa="' o p o d a: l" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="vzal" finSampa="' v z a l" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="pochován" finSampa="' p o x o v a: n" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="zažehnán" finSampa="' z a Z E h\ n a: n" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="hruší" finSampa="' h\ r u S i:" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="duši" finSampa="' d u S I" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="Syn" finSampa="' s I n" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="vin" finSampa="' v I n" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="podletí" finSampa="' p o d l E c i:" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="nadsvětí" finSampa="' n a t s v j E c i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="vesluje" finSampa="' v E s l u j E" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="zaduje" finSampa="' z a d u j E" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="zašplechtá" finSampa="' z a S p l E x t a:" rhymeScheme="8" stanzaId="4" />
+    <line id="16" finToken="pošeptá" finSampa="' p o S E p t a:" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="zní" finSampa="' z J i:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="záhrobní" finSampa="' z a: h\ r o b J i:" rhymeScheme="9" stanzaId="5" />
+    <line id="19" finToken="dupoce" finSampa="' d u p o t_s E" rhymeScheme="10" stanzaId="5" />
+    <line id="20" finToken="řehoce" finSampa="' P\ E h\ o t_s E" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="Jan" finSampa="' j a n" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="pán" finSampa="' p a: n" rhymeScheme="11" stanzaId="6" />
+    <line id="23" finToken="nádheře" finSampa="' n a: d h\ E P\ E" rhymeScheme="12" stanzaId="6" />
+    <line id="24" finToken="vře" finSampa="' v P\ E" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="pych" finSampa="' p I x" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="hřích" finSampa="' h\ P\ i: x" rhymeScheme="13" stanzaId="7" />
+    <line id="27" finToken="zbled" finSampa="' z b l E t" rhymeScheme="14" stanzaId="7" />
+    <line id="28" finToken="zhléd" finSampa="' s x l E: t" rhymeScheme="14" stanzaId="7" />
+    <line id="29" finToken="postava" finSampa="' p o s t a v a" rhymeScheme="15" stanzaId="8" />
+    <line id="30" finToken="ohava" finSampa="' o h\ a v a" rhymeScheme="15" stanzaId="8" />
+    <line id="31" finToken="pruh" finSampa="' p r u x" rhymeScheme="16" stanzaId="8" />
+    <line id="32" finToken="duch" finSampa="' d u x" rhymeScheme="16" stanzaId="8" />
+    <line id="33" finToken="blbotá" finSampa="' b l= b o t a:" rhymeScheme="17" stanzaId="9" />
+    <line id="34" finToken="kolotá" finSampa="' k o l o t a:" rhymeScheme="17" stanzaId="9" />
+    <line id="35" finToken="pes" finSampa="' p E s" rhymeScheme="18" stanzaId="9" />
+    <line id="36" finToken="běs" finSampa="' b j E s" rhymeScheme="18" stanzaId="9" />
+    <line id="37" finToken="lán" finSampa="' l a: n" rhymeScheme="19" stanzaId="10" />
+    <line id="38" finToken="Jan" finSampa="' j a n" rhymeScheme="19" stanzaId="10" />
+    <line id="39" finToken="led" finSampa="' l E t" rhymeScheme="20" stanzaId="10" />
+    <line id="40" finToken="hled" finSampa="' h\ l E t" rhymeScheme="20" stanzaId="10" />
+    <line id="41" finToken="druh" finSampa="' d r u x" rhymeScheme="21" stanzaId="11" />
+    <line id="42" finToken="duch" finSampa="' d u x" rhymeScheme="21" stanzaId="11" />
+    <line id="43" finToken="duchové" finSampa="' d u x o v E:" rhymeScheme="22" stanzaId="11" />
+    <line id="44" finToken="ďasové" finSampa="' J\ a s o v E:" rhymeScheme="22" stanzaId="11" />
+    <line id="45" finToken="umrlce" finSampa="' u m r= l t_s E" rhymeScheme="23" stanzaId="12" />
+    <line id="46" finToken="řehoce" finSampa="' P\ E h\ o t_s E" rhymeScheme="23" stanzaId="12" />
+    <line id="47" finToken="slabině" finSampa="' s l a b I J E" rhymeScheme="24" stanzaId="12" />
+    <line id="48" finToken="hladině" finSampa="' h\ l a J\ I J E" rhymeScheme="24" stanzaId="12" />
+    <line id="49" finToken="noc" finSampa="' n o t_s" rhymeScheme="25" stanzaId="13" />
+    <line id="50" finToken="moc" finSampa="m o t_s" rhymeScheme="25" stanzaId="13" />
+    <line id="51" finToken="lupení" finSampa="' l u p E J i:" rhymeScheme="26" stanzaId="13" />
+    <line id="52" finToken="rumění" finSampa="' r u m J E J i:" rhymeScheme="26" stanzaId="13" />
+    <line id="53" finToken="šveholí" finSampa="' S v E h\ o l i:" rhymeScheme="27" stanzaId="14" />
+    <line id="54" finToken="údolí" finSampa="' u: d o l i:" rhymeScheme="27" stanzaId="14" />
+    <line id="55" finToken="les" finSampa="' l E s" rhymeScheme="28" stanzaId="14" />
+    <line id="56" finToken="ples" finSampa="' p l E s" rhymeScheme="28" stanzaId="14" />
+    <line id="57" finToken="dnu" finSampa="' d n u" rhymeScheme="29" stanzaId="15" />
+    <line id="58" finToken="snu" finSampa="' s n u" rhymeScheme="29" stanzaId="15" />
+    <line id="59" finToken="ví" finSampa="' v i:" rhymeScheme="30" stanzaId="15" />
+    <line id="60" finToken="nepoví" finSampa="' n E p o v i:" rhymeScheme="30" stanzaId="15" />
+    <line id="61" finToken="hladinu" finSampa="' h\ l a J\ I n u" rhymeScheme="31" stanzaId="16" />
+    <line id="62" finToken="zdechlinu" finSampa="' z d E x l I n u" rhymeScheme="31" stanzaId="16" />
+    <line id="63" finToken="jezeře" finSampa="' j E z E P\ E" rhymeScheme="32" stanzaId="16" />
+    <line id="64" finToken="krákoře" finSampa="' k r a: k o P\ E" rhymeScheme="32" stanzaId="16" />
+  </poem>
+  <poem id="0001-0000-0000-0005-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="květ" finSampa="' k v j E t" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="děd" finSampa="' J\ E t" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="vzývá" finSampa="' v z i: v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="vichřice" finSampa="' v I x P\ I t_s E" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="sporý" finSampa="' s p o r i:" rhymeScheme="4" stanzaId="1" />
+    <line id="7" finToken="světnice" finSampa="' s v j E t J I t_s E" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="tvory" finSampa="' t v o r I" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="stoly" finSampa="' s t o l I" rhymeScheme="5" stanzaId="1" />
+    <line id="10" finToken="davech" finSampa="' d a v E x" rhymeScheme="6" stanzaId="1" />
+    <line id="11" finToken="svévoli" finSampa="' s v E: v o l I" rhymeScheme="5" stanzaId="1" />
+    <line id="12" finToken="stavech" finSampa="' s t a v E x" rhymeScheme="6" stanzaId="1" />
+    <line id="13" finToken="zrak" finSampa="' z r a k" rhymeScheme="7" stanzaId="1" />
+    <line id="14" finToken="halí" finSampa="' h\ a l i:" rhymeScheme="8" stanzaId="1" />
+    <line id="15" finToken="mrak" finSampa="' m r a k" rhymeScheme="7" stanzaId="1" />
+    <line id="16" finToken="zachechtali" finSampa="' z a x E x t a l I" rhymeScheme="8" stanzaId="1" />
+    <line id="17" finToken="pohled" finSampa="' p o h\ l E t" rhymeScheme="9" stanzaId="1" />
+    <line id="18" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="10" stanzaId="1" />
+    <line id="19" finToken="děd" finSampa="' J\ E t" rhymeScheme="9" stanzaId="1" />
+    <line id="20" finToken="vzývá" finSampa="' v z i: v a:" rhymeScheme="10" stanzaId="1" />
+    <line id="21" finToken="hřmot" finSampa="' h\ P\ m o t" rhymeScheme="11" stanzaId="1" />
+    <line id="22" finToken="obočí" finSampa="' o b o t_S i:" rhymeScheme="12" stanzaId="1" />
+    <line id="23" finToken="hrot" finSampa="' h\ r o t" rhymeScheme="11" stanzaId="1" />
+    <line id="24" finToken="oči" finSampa="' o t_S I" rhymeScheme="12" stanzaId="1" />
+    <line id="25" finToken="pomněnek" finSampa="' p o m J E n E k" rhymeScheme="13" stanzaId="1" />
+    <line id="26" finToken="něhy" finSampa="' J E h\ I" rhymeScheme="14" stanzaId="1" />
+    <line id="27" finToken="studének" finSampa="' s t u d E: n E k" rhymeScheme="13" stanzaId="1" />
+    <line id="28" finToken="sněhy" finSampa="' s J E h\ I" rhymeScheme="14" stanzaId="1" />
+    <line id="29" finToken="luzích" finSampa="' l u z i: x" rhymeScheme="15" stanzaId="1" />
+    <line id="30" finToken="máji" finSampa="' m a: j I" rhymeScheme="16" stanzaId="1" />
+    <line id="31" finToken="smích" finSampa="' s m i: x" rhymeScheme="15" stanzaId="1" />
+    <line id="32" finToken="ráji" finSampa="' r a: j I" rhymeScheme="16" stanzaId="1" />
+    <line id="33" finToken="zlatohlav" finSampa="' z l a t o h\ l a f" rhymeScheme="17" stanzaId="1" />
+    <line id="34" finToken="sady" finSampa="' s a d I" rhymeScheme="18" stanzaId="1" />
+    <line id="35" finToken="stav" finSampa="' s t a f" rhymeScheme="17" stanzaId="1" />
+    <line id="36" finToken="vnady" finSampa="' v n a d I" rhymeScheme="18" stanzaId="1" />
+    <line id="37" finToken="temniny" finSampa="' t E m J I n I" rhymeScheme="19" stanzaId="1" />
+    <line id="38" finToken="nezasvítí" finSampa="' n E z a s v i: c i:" rhymeScheme="20" stanzaId="1" />
+    <line id="39" finToken="neviny" finSampa="' n E v I n I" rhymeScheme="19" stanzaId="1" />
+    <line id="40" finToken="třpytí" finSampa="' t P\ p I c i:" rhymeScheme="20" stanzaId="1" />
+    <line id="41" finToken="sterými" finSampa="' s t E r i: m I" rhymeScheme="21" stanzaId="1" />
+    <line id="42" finToken="skvějí" finSampa="' s k v j E j i:" rhymeScheme="22" stanzaId="1" />
+    <line id="43" finToken="vonnými" finSampa="' v o n i: m I" rhymeScheme="21" stanzaId="1" />
+    <line id="44" finToken="její" finSampa="' j E j i:" rhymeScheme="22" stanzaId="1" />
+    <line id="45" finToken="pablesky" finSampa="' p a b l E s k I" rhymeScheme="23" stanzaId="1" />
+    <line id="46" finToken="zírá" finSampa="' z i: r a:" rhymeScheme="24" stanzaId="1" />
+    <line id="47" finToken="nebeský" finSampa="' n E b E s k i:" rhymeScheme="23" stanzaId="1" />
+    <line id="48" finToken="víra" finSampa="' v i: r a" rhymeScheme="24" stanzaId="1" />
+    <line id="49" finToken="nezhltí" finSampa="' n E s x l= c i:" rhymeScheme="25" stanzaId="1" />
+    <line id="50" finToken="nezapadne" finSampa="' n E z a p a d n E" rhymeScheme="26" stanzaId="1" />
+    <line id="51" finToken="posvítí" finSampa="' p o s v i: c i:" rhymeScheme="25" stanzaId="1" />
+    <line id="52" finToken="chladné" finSampa="' x l a d n E:" rhymeScheme="26" stanzaId="1" />
+    <line id="53" finToken="můj" finSampa="m u: j" rhymeScheme="27" stanzaId="1" />
+    <line id="54" finToken="pěje" finSampa="' p j E j E" rhymeScheme="28" stanzaId="1" />
+    <line id="55" finToken="sluj" finSampa="' s l u j" rhymeScheme="27" stanzaId="1" />
+    <line id="56" finToken="chvěje" finSampa="' x v j E j E" rhymeScheme="28" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0006-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="míhá" finSampa="' m i: h\ a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vane" finSampa="' v a n E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="stane" finSampa="' s t a n E" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="probíhá" finSampa="' p r o b i: h\ a:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="beránky" finSampa="' b E r a: n k I" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="stojí" finSampa="' s t o j i:" rhymeScheme="4" stanzaId="1" />
+    <line id="7" finToken="červánky" finSampa="' t_S E r v a: n k I" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="nepokoji" finSampa="' n E p o k o j I" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="proudí" finSampa="' p r o_u J\ i:" rhymeScheme="5" stanzaId="1" />
+    <line id="10" finToken="bloudí" finSampa="' b l o_u J\ i:" rhymeScheme="5" stanzaId="1" />
+    <line id="11" finToken="supí" finSampa="' s u p i:" rhymeScheme="6" stanzaId="1" />
+    <line id="12" finToken="tlupy" finSampa="' t l u p I" rhymeScheme="6" stanzaId="1" />
+    <line id="13" finToken="stáje" finSampa="' s t a: j E" rhymeScheme="7" stanzaId="1" />
+    <line id="14" finToken="vlaje" finSampa="' v l a j E" rhymeScheme="7" stanzaId="1" />
+    <line id="15" finToken="stáda" finSampa="' s t a: d a" rhymeScheme="8" stanzaId="1" />
+    <line id="16" finToken="Lada" finSampa="' l a d a" rhymeScheme="8" stanzaId="1" />
+    <line id="17" finToken="choří" finSampa="' x o P\ i:" rhymeScheme="9" stanzaId="1" />
+    <line id="18" finToken="doubravy" finSampa="' d o_u b r a v I" rhymeScheme="10" stanzaId="1" />
+    <line id="19" finToken="hoří" finSampa="' h\ o P\ i:" rhymeScheme="9" stanzaId="1" />
+    <line id="20" finToken="staví" finSampa="' s t a v i:" rhymeScheme="10" stanzaId="1" />
+    <line id="21" finToken="lesníka" finSampa="' l E s J i: k a" rhymeScheme="11" stanzaId="1" />
+    <line id="22" finToken="psíka" finSampa="' p s i: k a" rhymeScheme="11" stanzaId="1" />
+    <line id="23" finToken="rudí" finSampa="' r u J\ i:" rhymeScheme="12" stanzaId="1" />
+    <line id="24" finToken="hledá" finSampa="' h\ l E d a:" rhymeScheme="13" stanzaId="1" />
+    <line id="25" finToken="budí" finSampa="' b u J\ i:" rhymeScheme="12" stanzaId="1" />
+    <line id="26" finToken="zvedá" finSampa="' z v E d a:" rhymeScheme="13" stanzaId="1" />
+    <line id="27" finToken="stanul" finSampa="' s t a n u l" rhymeScheme="14" stanzaId="2" />
+    <line id="28" finToken="zmáhá" finSampa="' z m a: h\ a:" rhymeScheme="15" stanzaId="2" />
+    <line id="29" finToken="blaha" finSampa="' b l a h\ a" rhymeScheme="15" stanzaId="2" />
+    <line id="30" finToken="skanul" finSampa="' s k a n u l" rhymeScheme="14" stanzaId="2" />
+    <line id="31" finToken="postřelený" finSampa="' p o s t P\ E l E n i:" rhymeScheme="16" stanzaId="2" />
+    <line id="32" finToken="nepřítele" finSampa="' n E p P\ i: t E l E" rhymeScheme="17" stanzaId="2" />
+    <line id="33" finToken="těle" finSampa="' c E l E" rhymeScheme="17" stanzaId="2" />
+    <line id="34" finToken="rameně" finSampa="' r a m E J E" rhymeScheme="18" stanzaId="2" />
+    <line id="35" finToken="odmrštěný" finSampa="' o d m r= S c E n i:" rhymeScheme="16" stanzaId="2" />
+    <line id="36" finToken="hlavy" finSampa="' h\ l a v I" rhymeScheme="19" stanzaId="2" />
+    <line id="37" finToken="bravy" finSampa="' b r a v I" rhymeScheme="19" stanzaId="2" />
+    <line id="38" finToken="proměně" finSampa="' p r o m J E J E" rhymeScheme="18" stanzaId="2" />
+    <line id="39" finToken="kroutí" finSampa="' k r o_u c i:" rhymeScheme="20" stanzaId="2" />
+    <line id="40" finToken="hnouti" finSampa="' h\ n o_u c I" rhymeScheme="20" stanzaId="2" />
+    <line id="41" finToken="vryla" finSampa="' v r I l a" rhymeScheme="21" stanzaId="2" />
+    <line id="42" finToken="ruce" finSampa="' r u t_s E" rhymeScheme="22" stanzaId="2" />
+    <line id="43" finToken="měli" finSampa="' m J E l I" rhymeScheme="23" stanzaId="2" />
+    <line id="44" finToken="vyla" finSampa="' v I l a" rhymeScheme="21" stanzaId="2" />
+    <line id="45" finToken="zněly" finSampa="' z J E l I" rhymeScheme="23" stanzaId="2" />
+    <line id="46" finToken="muce" finSampa="' m u t_s E" rhymeScheme="22" stanzaId="2" />
+    <line id="47" finToken="lnuli" finSampa="' l n u l I" rhymeScheme="24" stanzaId="2" />
+    <line id="48" finToken="zkamenělé" finSampa="' s k a m E J E l E:" rhymeScheme="25" stanzaId="2" />
+    <line id="49" finToken="celé" finSampa="' t_s E l E:" rhymeScheme="25" stanzaId="2" />
+    <line id="50" finToken="nepohnuli" finSampa="' n E p o h\ n u l I" rhymeScheme="24" stanzaId="2" />
+    <line id="51" finToken="stalo" finSampa="' s t a l o" rhymeScheme="26" stanzaId="3" />
+    <line id="52" finToken="moře" finSampa="' m o P\ E" rhymeScheme="27" stanzaId="3" />
+    <line id="53" finToken="dálo" finSampa="' d a: l o" rhymeScheme="26" stanzaId="3" />
+    <line id="54" finToken="hoře" finSampa="' h\ o P\ E" rhymeScheme="27" stanzaId="3" />
+    <line id="55" finToken="vlasů" finSampa="' v l a s u:" rhymeScheme="28" stanzaId="3" />
+    <line id="56" finToken="pustině" finSampa="' p u s c I J E" rhymeScheme="29" stanzaId="3" />
+    <line id="57" finToken="hlíně" finSampa="' h\ l i: J E" rhymeScheme="29" stanzaId="3" />
+    <line id="58" finToken="kvasů" finSampa="' k v a s u:" rhymeScheme="28" stanzaId="3" />
+    <line id="59" finToken="hoví" finSampa="' h\ o v i:" rhymeScheme="30" stanzaId="4" />
+    <line id="60" finToken="snuje" finSampa="' s n u j E" rhymeScheme="31" stanzaId="4" />
+    <line id="61" finToken="vypravuje" finSampa="' v I p r a v u j E" rhymeScheme="31" stanzaId="4" />
+    <line id="62" finToken="slouhovi" finSampa="' s l o_u h\ o v I" rhymeScheme="30" stanzaId="4" />
+    <line id="63" finToken="čase" finSampa="' t_S a s E" rhymeScheme="32" stanzaId="4" />
+    <line id="64" finToken="pase" finSampa="' p a s E" rhymeScheme="32" stanzaId="4" />
+    <line id="65" finToken="laje" finSampa="' l a j E" rhymeScheme="33" stanzaId="4" />
+    <line id="66" finToken="šalmaje" finSampa="' S a l m a j E" rhymeScheme="33" stanzaId="4" />
+    <line id="67" finToken="pílí" finSampa="' p i: l i:" rhymeScheme="34" stanzaId="4" />
+    <line id="68" finToken="bravem" finSampa="' b r a v E m" rhymeScheme="35" stanzaId="4" />
+    <line id="69" finToken="usedavém" finSampa="' u s E d a v E: m" rhymeScheme="35" stanzaId="4" />
+    <line id="70" finToken="kvílí" finSampa="' k v i: l i:" rhymeScheme="34" stanzaId="4" />
+    <line id="71" finToken="kříže" finSampa="' k P\ i: Z E" rhymeScheme="36" stanzaId="5" />
+    <line id="72" finToken="dále" finSampa="' d a: l E" rhymeScheme="37" stanzaId="5" />
+    <line id="73" finToken="chýže" finSampa="' x i: Z E" rhymeScheme="36" stanzaId="5" />
+    <line id="74" finToken="chvále" finSampa="' x v a: l E" rhymeScheme="37" stanzaId="5" />
+    <line id="75" finToken="době" finSampa="' d o b j E" rhymeScheme="38" stanzaId="5" />
+    <line id="76" finToken="moku" finSampa="' m o k u" rhymeScheme="39" stanzaId="5" />
+    <line id="77" finToken="zlobě" finSampa="' z l o b j E" rhymeScheme="38" stanzaId="5" />
+    <line id="78" finToken="kroku" finSampa="' k r o k u" rhymeScheme="39" stanzaId="5" />
+    <line id="79" finToken="soků" finSampa="' s o k u:" rhymeScheme="39" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0007-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="tvrze" finSampa="' t v r= z E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="bojuje" finSampa="' b o j u j E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="drze" finSampa="' d r= z E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="vnucuje" finSampa="' v n u t_s u j E" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="Peruané" finSampa="' p E r u a n E:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="nepřítel" finSampa="' n E p P\ i: t E l" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="branné" finSampa="' b r a n E:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="hajitel" finSampa="' h\ a j I t E l" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="voje" finSampa="' v o j E" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="božnici" finSampa="' b o Z J I t_s I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="stroje" finSampa="' s t r o j E" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="přílbici" finSampa="' p P\ i: l b I t_s I" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="seči" finSampa="' s E t_S I" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="vyškubem" finSampa="' v I S k u b E m" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="blahořečí" finSampa="' b l a h\ o P\ E t_S i:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="dubem" finSampa="' d u b E m" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="bráně" finSampa="' b r a: J E" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="zahyne" finSampa="' z a h\ I n E" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="ráně" finSampa="' r a: J E" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="hrdinné" finSampa="' h\ r= J\ I n E:" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="brány" finSampa="' b r a: n I" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="nohou" finSampa="' n o h\ o_u" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="stany" finSampa="' s t a n I" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="pomohou" finSampa="' p o m o h\ o_u" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="půtce" finSampa="' p u: t t_s E" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="zápalu" finSampa="' z a: p a l u" rhymeScheme="14" stanzaId="7" />
+    <line id="27" finToken="škůdce" finSampa="' S k u: t t_s E" rhymeScheme="13" stanzaId="7" />
+    <line id="28" finToken="pochvalu" finSampa="' p o x v a l u" rhymeScheme="14" stanzaId="7" />
+    <line id="29" finToken="páže" finSampa="' p a: Z E" rhymeScheme="15" stanzaId="8" />
+    <line id="30" finToken="družině" finSampa="' d r u Z I J E" rhymeScheme="16" stanzaId="8" />
+    <line id="31" finToken="táže" finSampa="' t a: Z E" rhymeScheme="15" stanzaId="8" />
+    <line id="32" finToken="rekyně" finSampa="' r E k I J E" rhymeScheme="16" stanzaId="8" />
+    <line id="33" finToken="umřely" finSampa="' u m P\ E l I" rhymeScheme="17" stanzaId="9" />
+    <line id="34" finToken="provolává" finSampa="' p r o v o l a: v a:" rhymeScheme="18" stanzaId="9" />
+    <line id="35" finToken="ocelí" finSampa="' o t_s E l i:" rhymeScheme="17" stanzaId="9" />
+    <line id="36" finToken="vzdává" finSampa="' v z d a: v a:" rhymeScheme="18" stanzaId="9" />
+  </poem>
+  <poem id="0001-0000-0000-0008-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="síni" finSampa="' s i: J I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="Moslemíni" finSampa="' m o s l E m i: J I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="dýmají" finSampa="' d i: m a j i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="srkají" finSampa="' s r= k a j i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="stiská" finSampa="' s c I s k a:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="blýská" finSampa="' b l i: s k a:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="turbany" finSampa="' t u r b a n I" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="zcuchaný" finSampa="' s t_s u x a n i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="baše" finSampa="' b a S E" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="naše" finSampa="' n a S E" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="ručnici" finSampa="' r u t_S J I t_s I" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="dívčici" finSampa="' J\ i: f t_S I t_s I" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="znova" finSampa="' z n o v a" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="sova" finSampa="' s o v a" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="podívá" finSampa="' p o J\ i: v a:" rhymeScheme="8" stanzaId="4" />
+    <line id="16" finToken="ukrývá" finSampa="' u k r i: v a:" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="zboží" finSampa="' z b o Z i:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="loži" finSampa="' l o Z I" rhymeScheme="9" stanzaId="5" />
+    <line id="19" finToken="oponu" finSampa="' o p o n u" rhymeScheme="10" stanzaId="5" />
+    <line id="20" finToken="úklonu" finSampa="' u: k l o n u" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="tkani" finSampa="' t k a J I" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="brání" finSampa="' b r a: J i:" rhymeScheme="11" stanzaId="6" />
+    <line id="23" finToken="záclona" finSampa="' z a: t_s l o n a" rhymeScheme="12" stanzaId="6" />
+    <line id="24" finToken="dívčina" finSampa="' J\ i: f t_S I n a" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="snímá" finSampa="' s J i: m a:" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="vznímá" finSampa="' v z J i: m a:" rhymeScheme="13" stanzaId="7" />
+    <line id="27" finToken="div" finSampa="' J\ I f" rhymeScheme="14" stanzaId="7" />
+    <line id="28" finToken="živ" finSampa="' Z I f" rhymeScheme="14" stanzaId="7" />
+    <line id="29" finToken="černé" finSampa="' t_S E r n E:" rhymeScheme="15" stanzaId="8" />
+    <line id="30" finToken="souměrné" finSampa="' s o_u m J E r n E:" rhymeScheme="15" stanzaId="8" />
+    <line id="31" finToken="bašeti" finSampa="' b a S E c I" rhymeScheme="16" stanzaId="8" />
+    <line id="32" finToken="děvčeti" finSampa="' J\ E f t_S E c I" rhymeScheme="16" stanzaId="8" />
+    <line id="33" finToken="otvírají" finSampa="' o t v i: r a j i:" rhymeScheme="17" stanzaId="9" />
+    <line id="34" finToken="nedýchají" finSampa="' n E d i: x a j i:" rhymeScheme="17" stanzaId="9" />
+    <line id="35" finToken="med" finSampa="' m E t" rhymeScheme="18" stanzaId="9" />
+    <line id="36" finToken="led" finSampa="' l E t" rhymeScheme="18" stanzaId="9" />
+    <line id="37" finToken="prudce" finSampa="' p r u t t_s E" rhymeScheme="19" stanzaId="10" />
+    <line id="38" finToken="muce" finSampa="' m u t_s E" rhymeScheme="19" stanzaId="10" />
+    <line id="39" finToken="snem" finSampa="' s n E m" rhymeScheme="20" stanzaId="10" />
+    <line id="40" finToken="zem" finSampa="' z E m" rhymeScheme="20" stanzaId="10" />
+    <line id="41" finToken="svícen" finSampa="' s v i: t_s E n" rhymeScheme="21" stanzaId="11" />
+    <line id="42" finToken="jícen" finSampa="' j i: t_s E n" rhymeScheme="21" stanzaId="11" />
+    <line id="43" finToken="hřích" finSampa="' h\ P\ i: x" rhymeScheme="22" stanzaId="11" />
+    <line id="44" finToken="sníh" finSampa="' s J i: x" rhymeScheme="22" stanzaId="11" />
+    <line id="45" finToken="trhá" finSampa="' t r= h\ a:" rhymeScheme="23" stanzaId="12" />
+    <line id="46" finToken="vrhá" finSampa="' v r= h\ a:" rhymeScheme="23" stanzaId="12" />
+    <line id="47" finToken="smál" finSampa="' s m a: l" rhymeScheme="24" stanzaId="12" />
+    <line id="48" finToken="dál" finSampa="d a: l" rhymeScheme="24" stanzaId="12" />
+  </poem>
+  <poem id="0001-0000-0000-0009-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="tíží" finSampa="' c i: Z i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="most" finSampa="' m o s t" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="níží" finSampa="' J i: Z i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="kost" finSampa="' k o s t" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="hostí" finSampa="' h\ o s c i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="zasedá" finSampa="' z a s E d a:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="udalosti" finSampa="' u d a l o s c I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="povídá" finSampa="' p o v i: d a:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="slídí" finSampa="' s l i: J\ i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="dvéře" finSampa="' d v E: P\ E" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="lidi" finSampa="' l I J\ I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="dvoře" finSampa="' d v o P\ E" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="ubožáku" finSampa="' u b o Z a: k u" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="nadějí" finSampa="' n a J\ E j i:" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="darebáků" finSampa="' d a r E b a: k u:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="usmějí" finSampa="' u s m J E j i:" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="přiklopýtá" finSampa="' p P\ I k l o p i: t a:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="prokřehlou" finSampa="' p r o k P\ E h\ l o_u" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="vítá" finSampa="' v i: t a:" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="rozlítnou" finSampa="' r o z l i: t n o_u" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="chápe" finSampa="' x a: p E" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="boru" finSampa="' b o r u" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="sápe" finSampa="' s a: p E" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="závoru" finSampa="' z a: v o r u" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="měrou" finSampa="' m J E r o_u" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="zaoupí" finSampa="' z a o_u p i:" rhymeScheme="14" stanzaId="7" />
+    <line id="27" finToken="derou" finSampa="' d E r o_u" rhymeScheme="13" stanzaId="7" />
+    <line id="28" finToken="pokropí" finSampa="' p o k r o p i:" rhymeScheme="14" stanzaId="7" />
+    <line id="29" finToken="taje" finSampa="' t a j E" rhymeScheme="15" stanzaId="8" />
+    <line id="30" finToken="mé" finSampa="m E:" rhymeScheme="16" stanzaId="8" />
+    <line id="31" finToken="ráje" finSampa="' r a: j E" rhymeScheme="15" stanzaId="8" />
+    <line id="32" finToken="milené" finSampa="' m I l E n E:" rhymeScheme="16" stanzaId="8" />
+    <line id="33" finToken="plotu" finSampa="' p l o t u" rhymeScheme="17" stanzaId="9" />
+    <line id="34" finToken="domova" finSampa="' d o m o v a" rhymeScheme="18" stanzaId="9" />
+    <line id="35" finToken="žebrotu" finSampa="' Z E b r o t u" rhymeScheme="17" stanzaId="9" />
+    <line id="36" finToken="hřbitova" finSampa="' h\ P\ b I t o v a" rhymeScheme="18" stanzaId="9" />
+    <line id="37" finToken="utratili" finSampa="' u t r a c I l I" rhymeScheme="19" stanzaId="10" />
+    <line id="38" finToken="sůl" finSampa="' s u: l" rhymeScheme="20" stanzaId="10" />
+    <line id="39" finToken="nezradily" finSampa="' n E z r a J\ I l I" rhymeScheme="19" stanzaId="10" />
+    <line id="40" finToken="hůl" finSampa="' h\ u: l" rhymeScheme="20" stanzaId="10" />
+    <line id="41" finToken="dětem" finSampa="' J\ E t E m" rhymeScheme="21" stanzaId="11" />
+    <line id="42" finToken="pronese" finSampa="' p r o n E s E" rhymeScheme="22" stanzaId="11" />
+    <line id="43" finToken="světem" finSampa="' s v j E t E m" rhymeScheme="21" stanzaId="11" />
+    <line id="44" finToken="ponese" finSampa="' p o n E s E" rhymeScheme="22" stanzaId="11" />
+    <line id="45" finToken="vbíhá" finSampa="' v b i: h\ a:" rhymeScheme="23" stanzaId="12" />
+    <line id="46" finToken="přichází" finSampa="' p P\ I x a: z i:" rhymeScheme="24" stanzaId="12" />
+    <line id="47" finToken="míhá" finSampa="' m i: h\ a:" rhymeScheme="23" stanzaId="12" />
+    <line id="48" finToken="provází" finSampa="' p r o v a: z i:" rhymeScheme="24" stanzaId="12" />
+    <line id="49" finToken="boru" finSampa="' b o r u" rhymeScheme="25" stanzaId="13" />
+    <line id="50" finToken="popravišti" finSampa="' p o p r a v I S c I" rhymeScheme="26" stanzaId="13" />
+    <line id="51" finToken="choru" finSampa="' x o r u" rhymeScheme="25" stanzaId="13" />
+    <line id="52" finToken="zasviští" finSampa="' z a s v I S c i:" rhymeScheme="26" stanzaId="13" />
+    <line id="53" finToken="lese" finSampa="' l E s E" rhymeScheme="27" stanzaId="14" />
+    <line id="54" finToken="kostele" finSampa="' k o s t E l E" rhymeScheme="28" stanzaId="14" />
+    <line id="55" finToken="se" finSampa="s E" rhymeScheme="27" stanzaId="14" />
+    <line id="56" finToken="střechýle" finSampa="' s t P\ E x i: l E" rhymeScheme="28" stanzaId="14" />
+    <line id="57" finToken="těle" finSampa="' c E l E" rhymeScheme="29" stanzaId="15" />
+    <line id="58" finToken="sen" finSampa="' s E n" rhymeScheme="30" stanzaId="15" />
+    <line id="59" finToken="směle" finSampa="' s m J E l E" rhymeScheme="29" stanzaId="15" />
+    <line id="60" finToken="jen" finSampa="j E n" rhymeScheme="30" stanzaId="15" />
+    <line id="61" finToken="pohostí" finSampa="' p o h\ o s c i:" rhymeScheme="31" stanzaId="16" />
+    <line id="62" finToken="noci" finSampa="' n o t_s I" rhymeScheme="32" stanzaId="16" />
+    <line id="63" finToken="kosti" finSampa="' k o s c I" rhymeScheme="31" stanzaId="16" />
+    <line id="64" finToken="pomoci" finSampa="' p o m o t_s I" rhymeScheme="32" stanzaId="16" />
+    <line id="65" finToken="stánek" finSampa="' s t a: n E k" rhymeScheme="33" stanzaId="17" />
+    <line id="66" finToken="zakráká" finSampa="' z a k r a: k a:" rhymeScheme="34" stanzaId="17" />
+    <line id="67" finToken="spánek" finSampa="' s p a: n E k" rhymeScheme="33" stanzaId="17" />
+    <line id="68" finToken="žebráka" finSampa="' Z E b r a: k a" rhymeScheme="34" stanzaId="17" />
+    <line id="69" finToken="chmury" finSampa="' x m u r I" rhymeScheme="35" stanzaId="18" />
+    <line id="70" finToken="oblaky" finSampa="' o b l a k I" rhymeScheme="36" stanzaId="18" />
+    <line id="71" finToken="shůry" finSampa="' z h\ u: r I" rhymeScheme="35" stanzaId="18" />
+    <line id="72" finToken="podušky" finSampa="' p o d u S k I" rhymeScheme="36" stanzaId="18" />
+    <line id="73" finToken="snovidění" finSampa="' s n o v I J\ E J i:" rhymeScheme="37" stanzaId="19" />
+    <line id="74" finToken="vrata" finSampa="' v r a t a" rhymeScheme="38" stanzaId="19" />
+    <line id="75" finToken="odění" finSampa="' o J\ E J i:" rhymeScheme="37" stanzaId="19" />
+    <line id="76" finToken="uvítá" finSampa="' u v i: t a:" rhymeScheme="38" stanzaId="19" />
+    <line id="77" finToken="dále" finSampa="' d a: l E" rhymeScheme="39" stanzaId="20" />
+    <line id="78" finToken="úroků" finSampa="' u: r o k u:" rhymeScheme="40" stanzaId="20" />
+    <line id="79" finToken="stále" finSampa="' s t a: l E" rhymeScheme="39" stanzaId="20" />
+    <line id="80" finToken="boku" finSampa="' b o k u" rhymeScheme="40" stanzaId="20" />
+    <line id="81" finToken="plane" finSampa="' p l a n E" rhymeScheme="41" stanzaId="21" />
+    <line id="82" finToken="mne" finSampa="m n E" rhymeScheme="42" stanzaId="21" />
+    <line id="83" finToken="kane" finSampa="' k a n E" rhymeScheme="41" stanzaId="21" />
+    <line id="84" finToken="lne" finSampa="' l n E" rhymeScheme="42" stanzaId="21" />
+    <line id="85" finToken="démantový" finSampa="' d E: m a n t o v i:" rhymeScheme="43" stanzaId="22" />
+    <line id="86" finToken="neznámým" finSampa="' n E z n a: m i: m" rhymeScheme="44" stanzaId="22" />
+    <line id="87" finToken="slovy" finSampa="' s l o v I" rhymeScheme="43" stanzaId="22" />
+    <line id="88" finToken="svým" finSampa="s v i: m" rhymeScheme="44" stanzaId="22" />
+    <line id="89" finToken="slaví" finSampa="' s l a v i:" rhymeScheme="45" stanzaId="23" />
+    <line id="90" finToken="zulíbá" finSampa="' z u l i: b a:" rhymeScheme="46" stanzaId="23" />
+    <line id="91" finToken="vpraví" finSampa="' f p r a v i:" rhymeScheme="45" stanzaId="23" />
+    <line id="92" finToken="odívá" finSampa="' o J\ i: v a:" rhymeScheme="46" stanzaId="23" />
+    <line id="93" finToken="mladnou" finSampa="' m l a d n o_u" rhymeScheme="47" stanzaId="24" />
+    <line id="94" finToken="kraj" finSampa="' k r a j" rhymeScheme="48" stanzaId="24" />
+    <line id="95" finToken="ladnou" finSampa="' l a d n o_u" rhymeScheme="47" stanzaId="24" />
+    <line id="96" finToken="háj" finSampa="' h\ a: j" rhymeScheme="48" stanzaId="24" />
+    <line id="97" finToken="věstí" finSampa="' v j E s c i:" rhymeScheme="49" stanzaId="25" />
+    <line id="98" finToken="pramení" finSampa="' p r a m E J i:" rhymeScheme="50" stanzaId="25" />
+    <line id="99" finToken="klestí" finSampa="' k l E s c i:" rhymeScheme="49" stanzaId="25" />
+    <line id="100" finToken="sní" finSampa="' s J i:" rhymeScheme="50" stanzaId="25" />
+  </poem>
+  <poem id="0001-0000-0000-0010-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="různý" finSampa="' r u: z n i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hostí" finSampa="' h\ o s c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="luzný" finSampa="' l u z n i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="milosti" finSampa="' m I l o s c I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="kráká" finSampa="' k r a: k a:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="hrouží" finSampa="' h\ r o_u Z i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="ptáka" finSampa="' p t a: k a" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="plouží" finSampa="' p l o_u Z i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="blankytu" finSampa="' b l a n k I t u" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="stená" finSampa="' s t E n a:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="svitu" finSampa="' s v I t u" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="fena" finSampa="' f E n a" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="sedí" finSampa="' s E J\ i:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="řítí" finSampa="' P\ i: c i:" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="hledí" finSampa="' h\ l E J\ i:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="žití" finSampa="' Z I c i:" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="pláče" finSampa="' p l a: t_S E" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="prostovlasá" finSampa="' p r o s t o v l a s a:" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="ptáče" finSampa="' p t a: t_S E" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="hasá" finSampa="' h\ a s a:" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="zašelestí" finSampa="' z a S E l E s c i:" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="vějí" finSampa="' v j E j i:" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="věsti" finSampa="' v j E s c I" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="dějí" finSampa="' J\ E j i:" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="večernice" finSampa="' v E t_S E r J I t_s E" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="směje" finSampa="' s m J E j E" rhymeScheme="14" stanzaId="7" />
+    <line id="27" finToken="líce" finSampa="' l i: t_s E" rhymeScheme="13" stanzaId="7" />
+    <line id="28" finToken="leje" finSampa="' l E j E" rhymeScheme="14" stanzaId="7" />
+    <line id="29" finToken="objetí" finSampa="' o b j E c i:" rhymeScheme="15" stanzaId="8" />
+    <line id="30" finToken="pookřáti" finSampa="' p o o k P\ a: c I" rhymeScheme="16" stanzaId="8" />
+    <line id="31" finToken="obětí" finSampa="' o b j E c i:" rhymeScheme="15" stanzaId="8" />
+    <line id="32" finToken="máti" finSampa="' m a: c I" rhymeScheme="16" stanzaId="8" />
+    <line id="33" finToken="pudíš" finSampa="' p u J\ i: S" rhymeScheme="17" stanzaId="9" />
+    <line id="34" finToken="těchy" finSampa="' c E x I" rhymeScheme="18" stanzaId="9" />
+    <line id="35" finToken="trudíš" finSampa="' t r u J\ i: S" rhymeScheme="17" stanzaId="9" />
+    <line id="36" finToken="vzdechy" finSampa="' v z d E x I" rhymeScheme="18" stanzaId="9" />
+    <line id="37" finToken="bouchá" finSampa="' b o_u x a:" rhymeScheme="19" stanzaId="10" />
+    <line id="38" finToken="vypravuje" finSampa="' v I p r a v u j E" rhymeScheme="20" stanzaId="10" />
+    <line id="39" finToken="slouchá" finSampa="' s l o_u x a:" rhymeScheme="19" stanzaId="10" />
+    <line id="40" finToken="vyjasňuje" finSampa="' v I j a s J u j E" rhymeScheme="20" stanzaId="10" />
+    <line id="41" finToken="spěchající" finSampa="' s p j E x a j i: t_s i:" rhymeScheme="21" stanzaId="11" />
+    <line id="42" finToken="pozdravení" finSampa="' p o z d r a v E J i:" rhymeScheme="22" stanzaId="11" />
+    <line id="43" finToken="stonající" finSampa="' s t o n a j i: t_s i:" rhymeScheme="21" stanzaId="11" />
+    <line id="44" finToken="jmění" finSampa="' j m J E J i:" rhymeScheme="22" stanzaId="11" />
+    <line id="45" finToken="sklopí" finSampa="' s k l o p i:" rhymeScheme="23" stanzaId="12" />
+    <line id="46" finToken="vlaje" finSampa="' v l a j E" rhymeScheme="24" stanzaId="12" />
+    <line id="47" finToken="kropí" finSampa="' k r o p i:" rhymeScheme="23" stanzaId="12" />
+    <line id="48" finToken="háje" finSampa="' h\ a: j E" rhymeScheme="24" stanzaId="12" />
+  </poem>
+  <poem id="0001-0000-0000-0011-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="radnici" finSampa="' r a d J I t_s I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="Kostnici" finSampa="' k o s t J I t_s I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="pták" finSampa="' p t a: k" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="žák" finSampa="' Z a: k" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="rozmilý" finSampa="' r o z m I l i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="chlácholí" finSampa="' x l a: x o l i:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="práv" finSampa="' p r a: f" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="zdráv" finSampa="' z d r a: f" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="sbor" finSampa="' z b o r" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="hor" finSampa="' h\ o r" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="nekují" finSampa="' n E k u j i:" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="varují" finSampa="' v a r u j i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="Želivský" finSampa="' Z E l I f s k i:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="nebeský" finSampa="' n E b E s k i:" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="živ" finSampa="' Z I f" rhymeScheme="8" stanzaId="4" />
+    <line id="16" finToken="křiv" finSampa="' k P\ I f" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="den" finSampa="' d E n" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="ven" finSampa="v E n" rhymeScheme="9" stanzaId="5" />
+    <line id="19" finToken="vypršel" finSampa="' v I p r= S E l" rhymeScheme="10" stanzaId="5" />
+    <line id="20" finToken="nevyšel" finSampa="' n E v I S E l" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="třetí" finSampa="' t P\ E c i:" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="viděti" finSampa="' v I J\ E c I" rhymeScheme="11" stanzaId="6" />
+    <line id="23" finToken="láj" finSampa="' l a: j" rhymeScheme="12" stanzaId="6" />
+    <line id="24" finToken="stáj" finSampa="' s t a: j" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="hábitu" finSampa="' h\ a: b I t u" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="pocitu" finSampa="' p o t_s I t u" rhymeScheme="13" stanzaId="7" />
+    <line id="27" finToken="proradu" finSampa="' p r o r a d u" rhymeScheme="14" stanzaId="7" />
+    <line id="28" finToken="hromadu" finSampa="' h\ r o m a d u" rhymeScheme="14" stanzaId="7" />
+    <line id="29" finToken="ještěří" finSampa="' j E S c E P\ i:" rhymeScheme="15" stanzaId="8" />
+    <line id="30" finToken="žoldnéři" finSampa="' Z o l d n E: P\ I" rhymeScheme="15" stanzaId="8" />
+    <line id="31" finToken="vchodu" finSampa="' f x o d u" rhymeScheme="16" stanzaId="8" />
+    <line id="32" finToken="pochodu" finSampa="' p o x o d u" rhymeScheme="16" stanzaId="8" />
+    <line id="33" finToken="měst" finSampa="' m J E s t" rhymeScheme="17" stanzaId="9" />
+    <line id="34" finToken="pěsť" finSampa="p j E s c" rhymeScheme="17" stanzaId="9" />
+    <line id="35" finToken="kříž" finSampa="' k P\ i: S" rhymeScheme="18" stanzaId="9" />
+    <line id="36" finToken="blíž" finSampa="b l i: S" rhymeScheme="18" stanzaId="9" />
+    <line id="37" finToken="povalí" finSampa="' p o v a l i:" rhymeScheme="19" stanzaId="10" />
+    <line id="38" finToken="přivalí" finSampa="' p P\ I v a l i:" rhymeScheme="19" stanzaId="10" />
+    <line id="39" finToken="strach" finSampa="' s t r a x" rhymeScheme="20" stanzaId="10" />
+    <line id="40" finToken="brach" finSampa="' b r a x" rhymeScheme="20" stanzaId="10" />
+    <line id="41" finToken="konšelé" finSampa="' k o n S E l E:" rhymeScheme="21" stanzaId="11" />
+    <line id="42" finToken="ctitele" finSampa="' t_s c I t E l E" rhymeScheme="21" stanzaId="11" />
+    <line id="43" finToken="pasuje" finSampa="' p a s u j E" rhymeScheme="22" stanzaId="11" />
+    <line id="44" finToken="ukuje" finSampa="' u k u j E" rhymeScheme="22" stanzaId="11" />
+    <line id="45" finToken="potlouká" finSampa="' p o t l o_u k a:" rhymeScheme="23" stanzaId="12" />
+    <line id="46" finToken="vytlouká" finSampa="' v I t l o_u k a:" rhymeScheme="23" stanzaId="12" />
+    <line id="47" finToken="domů" finSampa="' d o m u:" rhymeScheme="24" stanzaId="12" />
+    <line id="48" finToken="pohromu" finSampa="' p o h\ r o m u" rhymeScheme="24" stanzaId="12" />
+    <line id="49" finToken="promění" finSampa="' p r o m J E J i:" rhymeScheme="25" stanzaId="13" />
+    <line id="50" finToken="zní" finSampa="' z J i:" rhymeScheme="25" stanzaId="13" />
+    <line id="51" finToken="Králové" finSampa="' k r a: l o v E:" rhymeScheme="26" stanzaId="13" />
+    <line id="52" finToken="své" finSampa="s v E:" rhymeScheme="26" stanzaId="13" />
+  </poem>
+  <poem id="0001-0000-0000-0012-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="dne" finSampa="' d n E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hloubi" finSampa="' h\ l o_u b I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="loubí" finSampa="' l o_u b i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="vkradne" finSampa="' f k r a d n E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="stany" finSampa="' s t a n I" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="žalostící" finSampa="' Z a l o s c i: t_s i:" rhymeScheme="4" stanzaId="1" />
+    <line id="7" finToken="rány" finSampa="' r a: n I" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="spící" finSampa="' s p i: t_s i:" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="sadě" finSampa="' s a J\ E" rhymeScheme="5" stanzaId="1" />
+    <line id="10" finToken="zemřelých" finSampa="' z E m P\ E l i: x" rhymeScheme="6" stanzaId="1" />
+    <line id="11" finToken="hradě" finSampa="' h\ r a J\ E" rhymeScheme="5" stanzaId="1" />
+    <line id="12" finToken="bdělých" finSampa="' b J\ E l i: x" rhymeScheme="6" stanzaId="1" />
+    <line id="13" finToken="zhostí" finSampa="' s x o s c i:" rhymeScheme="7" stanzaId="1" />
+    <line id="14" finToken="ticha" finSampa="' c I x a" rhymeScheme="8" stanzaId="1" />
+    <line id="15" finToken="veškerostí" finSampa="' v E S k E r o s c i:" rhymeScheme="7" stanzaId="1" />
+    <line id="16" finToken="zticha" finSampa="' s c I x a" rhymeScheme="8" stanzaId="1" />
+    <line id="17" finToken="lůžka" finSampa="' l u: S k a" rhymeScheme="9" stanzaId="2" />
+    <line id="18" finToken="řítí" finSampa="' P\ i: c i:" rhymeScheme="10" stanzaId="2" />
+    <line id="19" finToken="kvítí" finSampa="' k v i: c i:" rhymeScheme="10" stanzaId="2" />
+    <line id="20" finToken="bůžka" finSampa="' b u: S k a" rhymeScheme="9" stanzaId="2" />
+    <line id="21" finToken="zpěvu" finSampa="' s p j E v u" rhymeScheme="11" stanzaId="2" />
+    <line id="22" finToken="zjevu" finSampa="' z j E v u" rhymeScheme="11" stanzaId="2" />
+    <line id="23" finToken="pídí" finSampa="' p i: J\ i:" rhymeScheme="12" stanzaId="2" />
+    <line id="24" finToken="láně" finSampa="' l a: J E" rhymeScheme="13" stanzaId="2" />
+    <line id="25" finToken="šidí" finSampa="' S I J\ i:" rhymeScheme="12" stanzaId="2" />
+    <line id="26" finToken="Páně" finSampa="' p a: J E" rhymeScheme="13" stanzaId="2" />
+    <line id="27" finToken="matce" finSampa="' m a t t_s E" rhymeScheme="14" stanzaId="2" />
+    <line id="28" finToken="hřbitově" finSampa="' h\ P\ b I t o v j E" rhymeScheme="15" stanzaId="2" />
+    <line id="29" finToken="pudu" finSampa="' p u d u" rhymeScheme="16" stanzaId="2" />
+    <line id="30" finToken="rově" finSampa="' r o v j E" rhymeScheme="15" stanzaId="2" />
+    <line id="31" finToken="sladce" finSampa="' s l a t t_s E" rhymeScheme="14" stanzaId="2" />
+    <line id="32" finToken="trudu" finSampa="' t r u d u" rhymeScheme="16" stanzaId="2" />
+    <line id="33" finToken="plahočí" finSampa="' p l a h\ o t_S i:" rhymeScheme="17" stanzaId="2" />
+    <line id="34" finToken="otročí" finSampa="' o t r o t_S i:" rhymeScheme="17" stanzaId="2" />
+    <line id="35" finToken="vije" finSampa="' v I j E" rhymeScheme="18" stanzaId="2" />
+    <line id="36" finToken="žije" finSampa="' Z I j E" rhymeScheme="18" stanzaId="2" />
+    <line id="37" finToken="milencovi" finSampa="' m I l E n t_s o v I" rhymeScheme="19" stanzaId="2" />
+    <line id="38" finToken="nový" finSampa="' n o v i:" rhymeScheme="19" stanzaId="2" />
+    <line id="39" finToken="káti" finSampa="' k a: c I" rhymeScheme="20" stanzaId="2" />
+    <line id="40" finToken="provinění" finSampa="' p r o v I J E J i:" rhymeScheme="21" stanzaId="2" />
+    <line id="41" finToken="pokoření" finSampa="' p o k o P\ E J i:" rhymeScheme="21" stanzaId="2" />
+    <line id="42" finToken="vyzískati" finSampa="' v I z i: s k a c I" rhymeScheme="20" stanzaId="2" />
+    <line id="43" finToken="nese" finSampa="' n E s E" rhymeScheme="22" stanzaId="2" />
+    <line id="44" finToken="třese" finSampa="' t P\ E s E" rhymeScheme="22" stanzaId="2" />
+    <line id="45" finToken="těla" finSampa="' c E l a" rhymeScheme="23" stanzaId="2" />
+    <line id="46" finToken="stále" finSampa="' s t a: l E" rhymeScheme="24" stanzaId="2" />
+    <line id="47" finToken="dále" finSampa="' d a: l E" rhymeScheme="24" stanzaId="2" />
+    <line id="48" finToken="kostela" finSampa="' k o s t E l a" rhymeScheme="23" stanzaId="2" />
+    <line id="49" finToken="znění" finSampa="' z J E J i:" rhymeScheme="21" stanzaId="3" />
+    <line id="50" finToken="pění" finSampa="' p j E J i:" rhymeScheme="21" stanzaId="3" />
+    <line id="51" finToken="oltáře" finSampa="' o l t a: P\ E" rhymeScheme="25" stanzaId="3" />
+    <line id="52" finToken="davy" finSampa="' d a v I" rhymeScheme="26" stanzaId="3" />
+    <line id="53" finToken="tváře" finSampa="' t v a: P\ E" rhymeScheme="25" stanzaId="3" />
+    <line id="54" finToken="hlavy" finSampa="' h\ l a v I" rhymeScheme="26" stanzaId="3" />
+    <line id="55" finToken="cele" finSampa="' t_s E l E" rhymeScheme="27" stanzaId="3" />
+    <line id="56" finToken="časů" finSampa="' t_S a s u:" rhymeScheme="28" stanzaId="3" />
+    <line id="57" finToken="kostele" finSampa="' k o s t E l E" rhymeScheme="27" stanzaId="3" />
+    <line id="58" finToken="žasu" finSampa="' Z a s u" rhymeScheme="28" stanzaId="3" />
+    <line id="59" finToken="pásu" finSampa="' p a: s u" rhymeScheme="28" stanzaId="3" />
+    <line id="60" finToken="stiská" finSampa="' s c I s k a:" rhymeScheme="29" stanzaId="3" />
+    <line id="61" finToken="stýská" finSampa="' s t i: s k a:" rhymeScheme="29" stanzaId="3" />
+    <line id="62" finToken="blíží" finSampa="' b l i: Z i:" rhymeScheme="30" stanzaId="3" />
+    <line id="63" finToken="skuhře" finSampa="' s k u h\ P\ E" rhymeScheme="31" stanzaId="3" />
+    <line id="64" finToken="chýži" finSampa="' x i: Z I" rhymeScheme="30" stanzaId="3" />
+    <line id="65" finToken="dospěti" finSampa="' d o s p j E c I" rhymeScheme="32" stanzaId="3" />
+    <line id="66" finToken="kuře" finSampa="' k u P\ E" rhymeScheme="31" stanzaId="3" />
+    <line id="67" finToken="světí" finSampa="' s v j E c i:" rhymeScheme="32" stanzaId="3" />
+    <line id="68" finToken="znikni" finSampa="' z J I k J I" rhymeScheme="33" stanzaId="3" />
+    <line id="69" finToken="svlíkni" finSampa="' s v l i: k J I" rhymeScheme="33" stanzaId="3" />
+    <line id="70" finToken="podlaze" finSampa="' p o d l a z E" rhymeScheme="34" stanzaId="3" />
+    <line id="71" finToken="draze" finSampa="' d r a z E" rhymeScheme="34" stanzaId="3" />
+    <line id="72" finToken="trne" finSampa="' t r= n E" rhymeScheme="35" stanzaId="4" />
+    <line id="73" finToken="rosí" finSampa="' r o s i:" rhymeScheme="36" stanzaId="4" />
+    <line id="74" finToken="váhá" finSampa="' v a: h\ a:" rhymeScheme="37" stanzaId="4" />
+    <line id="75" finToken="hrne" finSampa="' h\ r= n E" rhymeScheme="35" stanzaId="4" />
+    <line id="76" finToken="prosí" finSampa="' p r o s i:" rhymeScheme="36" stanzaId="4" />
+    <line id="77" finToken="drahá" finSampa="' d r a h\ a:" rhymeScheme="37" stanzaId="4" />
+    <line id="78" finToken="budí" finSampa="' b u J\ i:" rhymeScheme="38" stanzaId="5" />
+    <line id="79" finToken="třese" finSampa="' t P\ E s E" rhymeScheme="39" stanzaId="5" />
+    <line id="80" finToken="rudí" finSampa="' r u J\ i:" rhymeScheme="38" stanzaId="5" />
+    <line id="81" finToken="hrudi" finSampa="' h\ r u J\ I" rhymeScheme="38" stanzaId="5" />
+    <line id="82" finToken="vznese" finSampa="' v z n E s E" rhymeScheme="39" stanzaId="5" />
+    <line id="83" finToken="hlavo" finSampa="' h\ l a v o" rhymeScheme="40" stanzaId="5" />
+    <line id="84" finToken="siné" finSampa="' s I n E:" rhymeScheme="X" stanzaId="5" />
+    <line id="85" finToken="zdrávo" finSampa="' z d r a: v o" rhymeScheme="40" stanzaId="5" />
+    <line id="86" finToken="trhá" finSampa="' t r= h\ a:" rhymeScheme="41" stanzaId="5" />
+    <line id="87" finToken="roce" finSampa="' r o t_s E" rhymeScheme="42" stanzaId="5" />
+    <line id="88" finToken="drhá" finSampa="' d r= h\ a:" rhymeScheme="41" stanzaId="5" />
+    <line id="89" finToken="hluboce" finSampa="' h\ l u b o t_s E" rhymeScheme="42" stanzaId="5" />
+    <line id="90" finToken="příšery" finSampa="' p P\ i: S E r I" rhymeScheme="43" stanzaId="5" />
+    <line id="91" finToken="neučiní" finSampa="' n E u t_S I J i:" rhymeScheme="44" stanzaId="5" />
+    <line id="92" finToken="který" finSampa="' k t E r i:" rhymeScheme="43" stanzaId="5" />
+    <line id="93" finToken="zastíní" finSampa="' z a s c i: J i:" rhymeScheme="44" stanzaId="5" />
+    <line id="94" finToken="doma" finSampa="' d o m a" rhymeScheme="45" stanzaId="5" />
+    <line id="95" finToken="vzíti" finSampa="' v z i: c I" rhymeScheme="46" stanzaId="5" />
+    <line id="96" finToken="míti" finSampa="' m i: c I" rhymeScheme="46" stanzaId="5" />
+    <line id="97" finToken="křídloma" finSampa="' k P\ i: d l o m a" rhymeScheme="45" stanzaId="5" />
+    <line id="98" finToken="chaty" finSampa="' x a t I" rhymeScheme="47" stanzaId="5" />
+    <line id="99" finToken="stáda" finSampa="' s t a: d a" rhymeScheme="48" stanzaId="5" />
+    <line id="100" finToken="zlatý" finSampa="' z l a t i:" rhymeScheme="47" stanzaId="5" />
+    <line id="101" finToken="ráda" finSampa="' r a: d a" rhymeScheme="48" stanzaId="5" />
+    <line id="102" finToken="Boží" finSampa="' b o Z i:" rhymeScheme="49" stanzaId="6" />
+    <line id="103" finToken="vystavuje" finSampa="' v I s t a v u j E" rhymeScheme="50" stanzaId="6" />
+    <line id="104" finToken="kolena" finSampa="' k o l E n a" rhymeScheme="51" stanzaId="6" />
+    <line id="105" finToken="oslavuje" finSampa="' o s l a v u j E" rhymeScheme="50" stanzaId="6" />
+    <line id="106" finToken="žena" finSampa="' Z E n a" rhymeScheme="51" stanzaId="6" />
+    <line id="107" finToken="složí" finSampa="' s l o Z i:" rhymeScheme="49" stanzaId="6" />
+    <line id="108" finToken="vyděšená" finSampa="' v I J\ E S E n a:" rhymeScheme="51" stanzaId="6" />
+    <line id="109" finToken="divá" finSampa="' J\ I v a:" rhymeScheme="52" stanzaId="7" />
+    <line id="110" finToken="zaobalí" finSampa="' z a o b a l i:" rhymeScheme="53" stanzaId="7" />
+    <line id="111" finToken="zahřívá" finSampa="' z a h\ P\ i: v a:" rhymeScheme="52" stanzaId="7" />
+    <line id="112" finToken="šírá" finSampa="' S i: r a:" rhymeScheme="54" stanzaId="7" />
+    <line id="113" finToken="halí" finSampa="' h\ a l i:" rhymeScheme="53" stanzaId="7" />
+    <line id="114" finToken="čmýrá" finSampa="' t_S m i: r a:" rhymeScheme="54" stanzaId="7" />
+    <line id="115" finToken="obluda" finSampa="' o b l u d a" rhymeScheme="55" stanzaId="7" />
+    <line id="116" finToken="nebi" finSampa="' n E b I" rhymeScheme="56" stanzaId="7" />
+    <line id="117" finToken="rudá" finSampa="' r u d a:" rhymeScheme="55" stanzaId="7" />
+    <line id="118" finToken="šklebí" finSampa="' S k l E b i:" rhymeScheme="56" stanzaId="7" />
+    <line id="119" finToken="plyne" finSampa="' p l I n E" rhymeScheme="57" stanzaId="7" />
+    <line id="120" finToken="opásaná" finSampa="' o p a: s a n a:" rhymeScheme="58" stanzaId="7" />
+    <line id="121" finToken="kyne" finSampa="' k I n E" rhymeScheme="57" stanzaId="7" />
+    <line id="122" finToken="panna" finSampa="' p a n a" rhymeScheme="58" stanzaId="7" />
+    <line id="123" finToken="pomoz" finSampa="' p o m o s" rhymeScheme="59" stanzaId="8" />
+    <line id="124" finToken="volá" finSampa="' v o l a:" rhymeScheme="60" stanzaId="8" />
+    <line id="125" finToken="lomoz" finSampa="' l o m o s" rhymeScheme="59" stanzaId="8" />
+    <line id="126" finToken="zdola" finSampa="' z d o l a" rhymeScheme="60" stanzaId="8" />
+    <line id="127" finToken="stíhá" finSampa="' s c i: h\ a:" rhymeScheme="61" stanzaId="8" />
+    <line id="128" finToken="zdvihá" finSampa="' z d v I h\ a:" rhymeScheme="61" stanzaId="8" />
+    <line id="129" finToken="kreje" finSampa="' k r E j E" rhymeScheme="62" stanzaId="8" />
+    <line id="130" finToken="pílí" finSampa="' p i: l i:" rhymeScheme="63" stanzaId="8" />
+    <line id="131" finToken="zmýlí" finSampa="' z m i: l i:" rhymeScheme="63" stanzaId="8" />
+    <line id="132" finToken="poděje" finSampa="' p o J\ E j E" rhymeScheme="62" stanzaId="8" />
+    <line id="133" finToken="Synu" finSampa="' s I n u" rhymeScheme="64" stanzaId="8" />
+    <line id="134" finToken="letí" finSampa="' l E c i:" rhymeScheme="65" stanzaId="8" />
+    <line id="135" finToken="chudinu" finSampa="' x u J\ I n u" rhymeScheme="64" stanzaId="8" />
+    <line id="136" finToken="neodvětí" finSampa="' n E o d v j E c i:" rhymeScheme="65" stanzaId="8" />
+    <line id="137" finToken="buku" finSampa="' b u k u" rhymeScheme="66" stanzaId="8" />
+    <line id="138" finToken="kuku" finSampa="' k u k u" rhymeScheme="66" stanzaId="8" />
+    <line id="139" finToken="ránek" finSampa="' r a: n E k" rhymeScheme="67" stanzaId="9" />
+    <line id="140" finToken="denní" finSampa="' d E n J i:" rhymeScheme="68" stanzaId="9" />
+    <line id="141" finToken="kuropění" finSampa="' k u r o p j E J i:" rhymeScheme="68" stanzaId="9" />
+    <line id="142" finToken="stánek" finSampa="' s t a: n E k" rhymeScheme="67" stanzaId="9" />
+    <line id="143" finToken="otvírá" finSampa="' o t v i: r a:" rhymeScheme="69" stanzaId="9" />
+    <line id="144" finToken="zavírá" finSampa="' z a v i: r a:" rhymeScheme="69" stanzaId="9" />
+    <line id="145" finToken="stane" finSampa="' s t a n E" rhymeScheme="70" stanzaId="10" />
+    <line id="146" finToken="vysílená" finSampa="' v I s i: l E n a:" rhymeScheme="71" stanzaId="10" />
+    <line id="147" finToken="ustrašená" finSampa="' u s t r a S E n a:" rhymeScheme="71" stanzaId="10" />
+    <line id="148" finToken="kane" finSampa="' k a n E" rhymeScheme="70" stanzaId="10" />
+    <line id="149" finToken="prostře" finSampa="' p r o s t P\ E" rhymeScheme="72" stanzaId="10" />
+    <line id="150" finToken="drkotá" finSampa="' d r= k o t a:" rhymeScheme="73" stanzaId="10" />
+    <line id="151" finToken="ostře" finSampa="' o s t P\ E" rhymeScheme="72" stanzaId="10" />
+    <line id="152" finToken="kolotá" finSampa="' k o l o t a:" rhymeScheme="73" stanzaId="10" />
+    <line id="153" finToken="hlesla" finSampa="' h\ l E s l a" rhymeScheme="74" stanzaId="10" />
+    <line id="154" finToken="tomu" finSampa="' t o m u" rhymeScheme="75" stanzaId="10" />
+    <line id="155" finToken="přinesla" finSampa="' p P\ I n E s l a" rhymeScheme="74" stanzaId="10" />
+    <line id="156" finToken="domů" finSampa="' d o m u:" rhymeScheme="75" stanzaId="10" />
+    <line id="157" finToken="zevlujících" finSampa="' z E v l u j i: t_s i: x" rhymeScheme="76" stanzaId="11" />
+    <line id="158" finToken="vystoupí" finSampa="' v I s t o_u p i:" rhymeScheme="77" stanzaId="11" />
+    <line id="159" finToken="skočí" finSampa="' s k o t_S i:" rhymeScheme="78" stanzaId="11" />
+    <line id="160" finToken="chrlících" finSampa="' x r= l i: t_s i: x" rhymeScheme="76" stanzaId="11" />
+    <line id="161" finToken="zaoupí" finSampa="' z a o_u p i:" rhymeScheme="77" stanzaId="11" />
+    <line id="162" finToken="očí" finSampa="' o t_S i:" rhymeScheme="78" stanzaId="11" />
+    <line id="163" finToken="schvátí" finSampa="' s x v a: c i:" rhymeScheme="79" stanzaId="11" />
+    <line id="164" finToken="nepotratí" finSampa="' n E p o t r a c i:" rhymeScheme="79" stanzaId="11" />
+    <line id="165" finToken="zápasiti" finSampa="' z a: p a s I c I" rhymeScheme="80" stanzaId="11" />
+    <line id="166" finToken="dravé" finSampa="' d r a v E:" rhymeScheme="81" stanzaId="11" />
+    <line id="167" finToken="požíravé" finSampa="' p o Z i: r a v E:" rhymeScheme="81" stanzaId="11" />
+    <line id="168" finToken="plave" finSampa="' p l a v E" rhymeScheme="81" stanzaId="11" />
+    <line id="169" finToken="díka" finSampa="' J\ i: k a" rhymeScheme="82" stanzaId="11" />
+    <line id="170" finToken="chytí" finSampa="' x I c i:" rhymeScheme="80" stanzaId="11" />
+    <line id="171" finToken="nešťastníka" finSampa="' n E S c a s t J i: k a" rhymeScheme="82" stanzaId="11" />
+    <line id="172" finToken="jásá" finSampa="' j a: s a:" rhymeScheme="83" stanzaId="11" />
+    <line id="173" finToken="těší" finSampa="' c E S i:" rhymeScheme="84" stanzaId="11" />
+    <line id="174" finToken="pásá" finSampa="' p a: s a:" rhymeScheme="83" stanzaId="11" />
+    <line id="175" finToken="spěší" finSampa="' s p j E S i:" rhymeScheme="84" stanzaId="11" />
+    <line id="176" finToken="pevnině" finSampa="' p E v J I J E" rhymeScheme="85" stanzaId="11" />
+    <line id="177" finToken="žasne" finSampa="' Z a s n E" rhymeScheme="86" stanzaId="11" />
+    <line id="178" finToken="spasné" finSampa="' s p a s n E:" rhymeScheme="86" stanzaId="11" />
+    <line id="179" finToken="jedině" finSampa="' j E J\ I J E" rhymeScheme="85" stanzaId="11" />
+    <line id="180" finToken="oklamaná" finSampa="' o k l a m a n a:" rhymeScheme="87" stanzaId="12" />
+    <line id="181" finToken="zahalí" finSampa="' z a h\ a l i:" rhymeScheme="88" stanzaId="12" />
+    <line id="182" finToken="rána" finSampa="' r a: n a" rhymeScheme="87" stanzaId="12" />
+    <line id="183" finToken="povalí" finSampa="' p o v a l i:" rhymeScheme="88" stanzaId="12" />
+    <line id="184" finToken="mdloba" finSampa="' m d l o b a" rhymeScheme="89" stanzaId="12" />
+    <line id="185" finToken="roba" finSampa="' r o b a" rhymeScheme="89" stanzaId="12" />
+    <line id="186" finToken="neprocitla" finSampa="' n E p r o t_s I t l a" rhymeScheme="X" stanzaId="12" />
+    <line id="187" finToken="svatyně" finSampa="' s v a t I J E" rhymeScheme="85" stanzaId="13" />
+    <line id="188" finToken="spějí" finSampa="' s p j E j i:" rhymeScheme="90" stanzaId="13" />
+    <line id="189" finToken="přítelkyně" finSampa="' p P\ i: t E l k I J E" rhymeScheme="85" stanzaId="13" />
+    <line id="190" finToken="zastaví" finSampa="' z a s t a v i:" rhymeScheme="91" stanzaId="13" />
+    <line id="191" finToken="vypráví" finSampa="' v I p r a: v i:" rhymeScheme="91" stanzaId="13" />
+    <line id="192" finToken="její" finSampa="' j E j i:" rhymeScheme="90" stanzaId="13" />
+    <line id="193" finToken="rozškubaný" finSampa="' r o s S k u b a n i:" rhymeScheme="92" stanzaId="13" />
+    <line id="194" finToken="rozmetaný" finSampa="' r o z m E t a n i:" rhymeScheme="92" stanzaId="13" />
+    <line id="195" finToken="šeří" finSampa="' S E P\ i:" rhymeScheme="93" stanzaId="14" />
+    <line id="196" finToken="nemá" finSampa="' n E m a:" rhymeScheme="94" stanzaId="14" />
+    <line id="197" finToken="němá" finSampa="' J E m a:" rhymeScheme="94" stanzaId="14" />
+    <line id="198" finToken="svěří" finSampa="' s v j E P\ i:" rhymeScheme="93" stanzaId="14" />
+    <line id="199" finToken="nedožila" finSampa="' n E d o Z I l a" rhymeScheme="95" stanzaId="14" />
+    <line id="200" finToken="byla" finSampa="' b I l a" rhymeScheme="95" stanzaId="14" />
+    <line id="201" finToken="duchy" finSampa="' d u x I" rhymeScheme="X" stanzaId="14" />
+  </poem>
+  <poem id="0001-0000-0000-0013-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="chlapče" finSampa="' x l a p t_S E" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="lunou" finSampa="' l u n o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="borku" finSampa="' b o r k u" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="sunou" finSampa="' s u n o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="světe" finSampa="' s v j E t E" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="pláni" finSampa="' p l a: J I" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="kolébá" finSampa="' k o l E: b a:" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="chrání" finSampa="' x r a: J i:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="modlí" finSampa="' m o d l i:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="tobě" finSampa="' t o b j E" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="uléčí" finSampa="' u l E: t_S i:" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="robě" finSampa="' r o b j E" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="kleci" finSampa="' k l E t_s I" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="ptáček" finSampa="' p t a: t_S E k" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="zbudí" finSampa="' z b u J\ i:" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="synáček" finSampa="' s I n a: t_S E k" rhymeScheme="4" stanzaId="4" />
+    <line id="17" finToken="dobrá" finSampa="' d o b r a:" rhymeScheme="X" stanzaId="5" />
+    <line id="18" finToken="prozpěvuje" finSampa="' p r o s p j E v u j E" rhymeScheme="5" stanzaId="5" />
+    <line id="19" finToken="zaroseným" finSampa="' z a r o s E n i: m" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="opatruje" finSampa="' o p a t r u j E" rhymeScheme="5" stanzaId="5" />
+    <line id="21" finToken="jeho" finSampa="' j E h\ o" rhymeScheme="X" stanzaId="6" />
+    <line id="22" finToken="kruší" finSampa="' k r u S i:" rhymeScheme="6" stanzaId="6" />
+    <line id="23" finToken="ubožátko" finSampa="' u b o Z a: t k o" rhymeScheme="X" stanzaId="6" />
+    <line id="24" finToken="duši" finSampa="' d u S I" rhymeScheme="6" stanzaId="6" />
+    <line id="25" finToken="přítomnost" finSampa="' p P\ i: t o m n o s t" rhymeScheme="X" stanzaId="7" />
+    <line id="26" finToken="lékem" finSampa="' l E: k E m" rhymeScheme="7" stanzaId="7" />
+    <line id="27" finToken="chvíli" finSampa="' x v i: l I" rhymeScheme="X" stanzaId="7" />
+    <line id="28" finToken="rekem" finSampa="' r E k E m" rhymeScheme="7" stanzaId="7" />
+    <line id="29" finToken="orumění" finSampa="' o r u m J E J i:" rhymeScheme="X" stanzaId="8" />
+    <line id="30" finToken="siné" finSampa="' s I n E:" rhymeScheme="8" stanzaId="8" />
+    <line id="31" finToken="úsměv" finSampa="' u: s m J E f" rhymeScheme="X" stanzaId="8" />
+    <line id="32" finToken="line" finSampa="' l I n E" rhymeScheme="8" stanzaId="8" />
+    <line id="33" finToken="plaší" finSampa="' p l a S i:" rhymeScheme="X" stanzaId="9" />
+    <line id="34" finToken="velí" finSampa="' v E l i:" rhymeScheme="9" stanzaId="9" />
+    <line id="35" finToken="rumy" finSampa="' r u m I" rhymeScheme="X" stanzaId="9" />
+    <line id="36" finToken="celí" finSampa="' t_s E l i:" rhymeScheme="9" stanzaId="9" />
+    <line id="37" finToken="chorobečku" finSampa="' x o r o b E t_S k u" rhymeScheme="X" stanzaId="10" />
+    <line id="38" finToken="spáti" finSampa="' s p a: c I" rhymeScheme="10" stanzaId="10" />
+    <line id="39" finToken="volá" finSampa="' v o l a:" rhymeScheme="X" stanzaId="10" />
+    <line id="40" finToken="máti" finSampa="' m a: c I" rhymeScheme="10" stanzaId="10" />
+    <line id="41" finToken="řeči" finSampa="' P\ E t_S I" rhymeScheme="X" stanzaId="11" />
+    <line id="42" finToken="loví" finSampa="' l o v i:" rhymeScheme="11" stanzaId="11" />
+    <line id="43" finToken="noří" finSampa="' n o P\ i:" rhymeScheme="X" stanzaId="11" />
+    <line id="44" finToken="hoví" finSampa="' h\ o v i:" rhymeScheme="11" stanzaId="11" />
+    <line id="45" finToken="slzy" finSampa="' s l= z I" rhymeScheme="X" stanzaId="12" />
+    <line id="46" finToken="rojí" finSampa="' r o j i:" rhymeScheme="12" stanzaId="12" />
+    <line id="47" finToken="rosa" finSampa="' r o s a" rhymeScheme="X" stanzaId="12" />
+    <line id="48" finToken="znoji" finSampa="' z n o j I" rhymeScheme="12" stanzaId="12" />
+    <line id="49" finToken="šťastné" finSampa="' S c a s t n E:" rhymeScheme="X" stanzaId="13" />
+    <line id="50" finToken="kraji" finSampa="' k r a j I" rhymeScheme="13" stanzaId="13" />
+    <line id="51" finToken="očí" finSampa="' o t_S i:" rhymeScheme="X" stanzaId="13" />
+    <line id="52" finToken="ssají" finSampa="' s a j i:" rhymeScheme="13" stanzaId="13" />
+    <line id="53" finToken="robátko" finSampa="' r o b a: t k o" rhymeScheme="X" stanzaId="14" />
+    <line id="54" finToken="hlavička" finSampa="' h\ l a v I t_S k a" rhymeScheme="14" stanzaId="14" />
+    <line id="55" finToken="spánku" finSampa="' s p a: n k u" rhymeScheme="X" stanzaId="14" />
+    <line id="56" finToken="matička" finSampa="' m a c I t_S k a" rhymeScheme="14" stanzaId="14" />
+    <line id="57" finToken="záhrobní" finSampa="' z a: h\ r o b J i:" rhymeScheme="X" stanzaId="15" />
+    <line id="58" finToken="zračí" finSampa="' z r a t_S i:" rhymeScheme="15" stanzaId="15" />
+    <line id="59" finToken="ruka" finSampa="' r u k a" rhymeScheme="X" stanzaId="15" />
+    <line id="60" finToken="zatlačí" finSampa="' z a t l a t_S i:" rhymeScheme="15" stanzaId="15" />
+  </poem>
+  <poem id="0001-0000-0000-0014-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="odbývá" finSampa="' o d b i: v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="točí" finSampa="' t o t_S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zardívá" finSampa="' z a r J\ i: v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="oči" finSampa="' o t_S I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="spad" finSampa="' s p a t" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="dřímá" finSampa="' d P\ i: m a:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="mlad" finSampa="m l a t" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="třímá" finSampa="' t P\ i: m a:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="páž" finSampa="p a: S" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="kobce" finSampa="' k o p t_s E" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="palaš" finSampa="' p a l a S" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="hrobce" finSampa="' h\ r o p t_s E" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="pán" finSampa="' p a: n" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="stůně" finSampa="' s t u: J E" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="stan" finSampa="' s t a n" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="Luně" finSampa="' l u J E" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="hradě" finSampa="' h\ r a J\ E" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="pitka" finSampa="' p I t k a" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="zahradě" finSampa="' z a h\ r a J\ E" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="militka" finSampa="' m I l I t k a" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="list" finSampa="' l I s t" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="hledí" finSampa="' h\ l E J\ i:" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="svist" finSampa="' s v I s t" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="zbledí" finSampa="' z b l E J\ i:" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="jme" finSampa="' j m E" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="zakokrhá" finSampa="' z a k o k r= h\ a:" rhymeScheme="14" stanzaId="7" />
+    <line id="27" finToken="uškubne" finSampa="' u S k u b n E" rhymeScheme="13" stanzaId="7" />
+    <line id="28" finToken="trhá" finSampa="' t r= h\ a:" rhymeScheme="14" stanzaId="7" />
+    <line id="29" finToken="dotrhne" finSampa="' d o t r= h\ n E" rhymeScheme="15" stanzaId="8" />
+    <line id="30" finToken="Lile" finSampa="' l I l E" rhymeScheme="16" stanzaId="8" />
+    <line id="31" finToken="rozlehne" finSampa="' r o z l E h\ n E" rhymeScheme="15" stanzaId="8" />
+    <line id="32" finToken="čile" finSampa="' t_S I l E" rhymeScheme="16" stanzaId="8" />
+    <line id="33" finToken="zahradní" finSampa="' z a h\ r a d J i:" rhymeScheme="17" stanzaId="9" />
+    <line id="34" finToken="zašelestí" finSampa="' z a S E l E s c i:" rhymeScheme="18" stanzaId="9" />
+    <line id="35" finToken="zní" finSampa="' z J i:" rhymeScheme="17" stanzaId="9" />
+    <line id="36" finToken="věstí" finSampa="' v j E s c i:" rhymeScheme="18" stanzaId="9" />
+    <line id="37" finToken="taláře" finSampa="' t a l a: P\ E" rhymeScheme="19" stanzaId="10" />
+    <line id="38" finToken="věje" finSampa="' v j E j E" rhymeScheme="20" stanzaId="10" />
+    <line id="39" finToken="vře" finSampa="' v P\ E" rhymeScheme="19" stanzaId="10" />
+    <line id="40" finToken="chvěje" finSampa="' x v j E j E" rhymeScheme="20" stanzaId="10" />
+    <line id="41" finToken="přivinou" finSampa="' p P\ I v I n o_u" rhymeScheme="21" stanzaId="11" />
+    <line id="42" finToken="slastné" finSampa="' s l a s t n E:" rhymeScheme="22" stanzaId="11" />
+    <line id="43" finToken="rozplynou" finSampa="' r o s p l I n o_u" rhymeScheme="21" stanzaId="11" />
+    <line id="44" finToken="šťastné" finSampa="' S c a s t n E:" rhymeScheme="22" stanzaId="11" />
+    <line id="45" finToken="nebi" finSampa="' n E b I" rhymeScheme="23" stanzaId="12" />
+    <line id="46" finToken="taláru" finSampa="' t a l a: r u" rhymeScheme="24" stanzaId="12" />
+    <line id="47" finToken="poroby" finSampa="' p o r o b I" rhymeScheme="23" stanzaId="12" />
+    <line id="48" finToken="žáru" finSampa="' Z a: r u" rhymeScheme="24" stanzaId="12" />
+    <line id="49" finToken="hlas" finSampa="' h\ l a s" rhymeScheme="25" stanzaId="13" />
+    <line id="50" finToken="šedé" finSampa="' S E d E:" rhymeScheme="26" stanzaId="13" />
+    <line id="51" finToken="vlas" finSampa="' v l a s" rhymeScheme="25" stanzaId="13" />
+    <line id="52" finToken="jede" finSampa="' j E d E" rhymeScheme="26" stanzaId="13" />
+    <line id="53" finToken="laškuje" finSampa="' l a S k u j E" rhymeScheme="27" stanzaId="14" />
+    <line id="54" finToken="děvice" finSampa="' J\ E v I t_s E" rhymeScheme="28" stanzaId="14" />
+    <line id="55" finToken="svlažuje" finSampa="' s v l a Z u j E" rhymeScheme="27" stanzaId="14" />
+    <line id="56" finToken="zřenice" finSampa="' z P\ E J I t_s E" rhymeScheme="28" stanzaId="14" />
+    <line id="57" finToken="hradě" finSampa="' h\ r a J\ E" rhymeScheme="29" stanzaId="15" />
+    <line id="58" finToken="pitka" finSampa="' p I t k a" rhymeScheme="30" stanzaId="15" />
+    <line id="59" finToken="zahradě" finSampa="' z a h\ r a J\ E" rhymeScheme="29" stanzaId="15" />
+    <line id="60" finToken="militka" finSampa="' m I l I t k a" rhymeScheme="30" stanzaId="15" />
+  </poem>
+  <poem id="0001-0000-0000-0015-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="chrounile" finSampa="' x r o_u J I l E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="sopí" finSampa="' s o p i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="Křtitele" finSampa="' k P\ c I t E l E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="tropí" finSampa="' t r o p i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="posavad" finSampa="' p o s a v a t" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="sedá" finSampa="' s E d a:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="milerád" finSampa="' m I l E r a: t" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="zvedá" finSampa="' z v E d a:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="planinou" finSampa="' p l a J I n o_u" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="boru" finSampa="' b o r u" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="spočinou" finSampa="' s p o t_S I n o_u" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="koru" finSampa="' k o r u" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="kruh" finSampa="' k r u x" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="klečí" finSampa="' k l E t_S i:" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="vzduch" finSampa="' v z d u x" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="řeči" finSampa="' P\ E t_S I" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="kola" finSampa="' k o l a" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="zjista" finSampa="' z j I s t a" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="zavolá" finSampa="' z a v o l a:" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="místa" finSampa="' m i: s t a" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="udeří" finSampa="' u d E P\ i:" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="snuje" finSampa="' s n u j E" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="zavíří" finSampa="' z a v i: P\ i:" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="poletuje" finSampa="' p o l E t u j E" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="lese" finSampa="' l E s E" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="sype" finSampa="' s I p E" rhymeScheme="14" stanzaId="7" />
+    <line id="27" finToken="otřese" finSampa="' o t P\ E s E" rhymeScheme="13" stanzaId="7" />
+    <line id="28" finToken="skřípe" finSampa="' s k P\ i: p E" rhymeScheme="14" stanzaId="7" />
+    <line id="29" finToken="kolu" finSampa="' k o l u" rhymeScheme="15" stanzaId="8" />
+    <line id="30" finToken="naložený" finSampa="' n a l o Z E n i:" rhymeScheme="16" stanzaId="8" />
+    <line id="31" finToken="sobolu" finSampa="' s o b o l u" rhymeScheme="15" stanzaId="8" />
+    <line id="32" finToken="zapřaženy" finSampa="' z a p P\ a Z E n I" rhymeScheme="16" stanzaId="8" />
+    <line id="33" finToken="zaměří" finSampa="' z a m J E P\ i:" rhymeScheme="17" stanzaId="9" />
+    <line id="34" finToken="cesty" finSampa="' t_s E s t I" rhymeScheme="18" stanzaId="9" />
+    <line id="35" finToken="oboří" finSampa="' o b o P\ i:" rhymeScheme="17" stanzaId="9" />
+    <line id="36" finToken="pěstí" finSampa="' p j E s c i:" rhymeScheme="18" stanzaId="9" />
+    <line id="37" finToken="zápolí" finSampa="' z a: p o l i:" rhymeScheme="19" stanzaId="10" />
+    <line id="38" finToken="vzdychá" finSampa="' v z d I x a:" rhymeScheme="20" stanzaId="10" />
+    <line id="39" finToken="chlácholí" finSampa="' x l a: x o l i:" rhymeScheme="19" stanzaId="10" />
+    <line id="40" finToken="zticha" finSampa="' s c I x a" rhymeScheme="20" stanzaId="10" />
+    <line id="41" finToken="pokrývá" finSampa="' p o k r i: v a:" rhymeScheme="21" stanzaId="11" />
+    <line id="42" finToken="blýská" finSampa="' b l i: s k a:" rhymeScheme="22" stanzaId="11" />
+    <line id="43" finToken="přibývá" finSampa="' p P\ I b i: v a:" rhymeScheme="21" stanzaId="11" />
+    <line id="44" finToken="dubiska" finSampa="' d u b I s k a" rhymeScheme="22" stanzaId="11" />
+    <line id="45" finToken="rozléhá" finSampa="' r o z l E: h\ a:" rhymeScheme="23" stanzaId="12" />
+    <line id="46" finToken="seveřice" finSampa="' s E v E P\ I t_s E" rhymeScheme="24" stanzaId="12" />
+    <line id="47" finToken="zažehá" finSampa="' z a Z E h\ a:" rhymeScheme="23" stanzaId="12" />
+    <line id="48" finToken="svíce" finSampa="' s v i: t_s E" rhymeScheme="24" stanzaId="12" />
+    <line id="49" finToken="kleč" finSampa="' k l E t_S" rhymeScheme="25" stanzaId="13" />
+    <line id="50" finToken="kotí" finSampa="' k o c i:" rhymeScheme="26" stanzaId="13" />
+    <line id="51" finToken="preč" finSampa="p r E t_S" rhymeScheme="25" stanzaId="13" />
+    <line id="52" finToken="krotí" finSampa="' k r o c i:" rhymeScheme="26" stanzaId="13" />
+    <line id="53" finToken="burácí" finSampa="' b u r a: t_s i:" rhymeScheme="27" stanzaId="14" />
+    <line id="54" finToken="drhá" finSampa="' d r= h\ a:" rhymeScheme="28" stanzaId="14" />
+    <line id="55" finToken="vojáci" finSampa="' v o j a: t_s I" rhymeScheme="27" stanzaId="14" />
+    <line id="56" finToken="vrhá" finSampa="' v r= h\ a:" rhymeScheme="28" stanzaId="14" />
+    <line id="57" finToken="brok" finSampa="' b r o k" rhymeScheme="29" stanzaId="15" />
+    <line id="58" finToken="odolati" finSampa="' o d o l a c I" rhymeScheme="30" stanzaId="15" />
+    <line id="59" finToken="skok" finSampa="' s k o k" rhymeScheme="29" stanzaId="15" />
+    <line id="60" finToken="schvátí" finSampa="' s x v a: c i:" rhymeScheme="30" stanzaId="15" />
+    <line id="61" finToken="ochranné" finSampa="' o x r a n E:" rhymeScheme="31" stanzaId="16" />
+    <line id="62" finToken="pálí" finSampa="' p a: l i:" rhymeScheme="32" stanzaId="16" />
+    <line id="63" finToken="nahýbne" finSampa="' n a h\ i: b n E" rhymeScheme="31" stanzaId="16" />
+    <line id="64" finToken="svalí" finSampa="' s v a l i:" rhymeScheme="32" stanzaId="16" />
+    <line id="65" finToken="zazvučí" finSampa="' z a z v u t_S i:" rhymeScheme="33" stanzaId="17" />
+    <line id="66" finToken="noci" finSampa="' n o t_s I" rhymeScheme="34" stanzaId="17" />
+    <line id="67" finToken="vyskočí" finSampa="' v I s k o t_S i:" rhymeScheme="33" stanzaId="17" />
+    <line id="68" finToken="pomoci" finSampa="' p o m o t_s I" rhymeScheme="34" stanzaId="17" />
+    <line id="69" finToken="trup" finSampa="' t r u p" rhymeScheme="35" stanzaId="18" />
+    <line id="70" finToken="zoufanlivě" finSampa="' z o_u f a n l I v j E" rhymeScheme="36" stanzaId="18" />
+    <line id="71" finToken="dub" finSampa="' d u p" rhymeScheme="35" stanzaId="18" />
+    <line id="72" finToken="divě" finSampa="' J\ I v j E" rhymeScheme="36" stanzaId="18" />
+    <line id="73" finToken="čin" finSampa="' t_S I n" rhymeScheme="37" stanzaId="19" />
+    <line id="74" finToken="kouzelníkem" finSampa="' k o_u z E l J i: k E m" rhymeScheme="38" stanzaId="19" />
+    <line id="75" finToken="třtin" finSampa="' t P\ c I n" rhymeScheme="37" stanzaId="19" />
+    <line id="76" finToken="poustevníkem" finSampa="' p o_u s t E v J i: k E m" rhymeScheme="38" stanzaId="19" />
+  </poem>
+  <poem id="0001-0000-0000-0016-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="výšině" finSampa="' v i: S I J E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="pustině" finSampa="' p u s c I J E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="šero" finSampa="' S E r o" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="jezero" finSampa="' j E z E r o" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="brodí" finSampa="' b r o J\ i:" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="doprovodí" finSampa="' d o p r o v o J\ i:" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="vděku" finSampa="' v J\ E k u" rhymeScheme="4" stanzaId="4" />
+    <line id="8" finToken="řeku" finSampa="' P\ E k u" rhymeScheme="4" stanzaId="4" />
+    <line id="9" finToken="chřestí" finSampa="' x P\ E s c i:" rhymeScheme="5" stanzaId="5" />
+    <line id="10" finToken="věstí" finSampa="' v j E s c i:" rhymeScheme="5" stanzaId="5" />
+    <line id="11" finToken="měra" finSampa="' m J E r a" rhymeScheme="6" stanzaId="6" />
+    <line id="12" finToken="jezera" finSampa="' j E z E r a" rhymeScheme="6" stanzaId="6" />
+    <line id="13" finToken="stanu" finSampa="' s t a n u" rhymeScheme="7" stanzaId="7" />
+    <line id="14" finToken="nepřestanu" finSampa="' n E p P\ E s t a n u" rhymeScheme="7" stanzaId="7" />
+    <line id="15" finToken="hrobní" finSampa="' h\ r o b J i:" rhymeScheme="8" stanzaId="8" />
+    <line id="16" finToken="drobný" finSampa="' d r o b n i:" rhymeScheme="8" stanzaId="8" />
+    <line id="17" finToken="korálů" finSampa="' k o r a: l u:" rhymeScheme="9" stanzaId="9" />
+    <line id="18" finToken="křišťálu" finSampa="' k P\ I S c a: l u" rhymeScheme="9" stanzaId="9" />
+    <line id="19" finToken="spáti" finSampa="' s p a: c I" rhymeScheme="10" stanzaId="10" />
+    <line id="20" finToken="zlatý" finSampa="' z l a t i:" rhymeScheme="10" stanzaId="10" />
+    <line id="21" finToken="zazvoní" finSampa="' z a z v o J i:" rhymeScheme="11" stanzaId="11" />
+    <line id="22" finToken="poroní" finSampa="' p o r o J i:" rhymeScheme="11" stanzaId="11" />
+    <line id="23" finToken="zplane" finSampa="' s p l a n E" rhymeScheme="12" stanzaId="12" />
+    <line id="24" finToken="vstane" finSampa="' f s t a n E" rhymeScheme="12" stanzaId="12" />
+    <line id="25" finToken="pěti" finSampa="' p j E c I" rhymeScheme="13" stanzaId="13" />
+    <line id="26" finToken="vyprávěti" finSampa="' v I p r a: v j E c I" rhymeScheme="13" stanzaId="13" />
+    <line id="27" finToken="vésti" finSampa="' v E: s c I" rhymeScheme="14" stanzaId="14" />
+    <line id="28" finToken="štěstí" finSampa="' S c E s c i:" rhymeScheme="14" stanzaId="14" />
+    <line id="29" finToken="zašumí" finSampa="' z a S u m i:" rhymeScheme="15" stanzaId="15" />
+    <line id="30" finToken="tlumí" finSampa="' t l u m i:" rhymeScheme="15" stanzaId="15" />
+  </poem>
+  <poem id="0001-0000-0000-0017-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="lese" finSampa="' l E s E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="nese" finSampa="' n E s E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="hordy" finSampa="' h\ o r d I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="lordy" finSampa="' l o r d I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="houští" finSampa="' h\ o_u S c i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="pouští" finSampa="' p o_u S c i:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="smělí" finSampa="' s m J E l i:" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="nepříteli" finSampa="' n E p P\ i: t E l I" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="řítí" finSampa="' P\ i: c i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="mstíti" finSampa="' m s c i: c I" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="rány" finSampa="' r a: n I" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="páni" finSampa="' p a: J I" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="kopí" finSampa="' k o p i:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="chopí" finSampa="' x o p i:" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="koně" finSampa="' k o J E" rhymeScheme="8" stanzaId="4" />
+    <line id="16" finToken="honě" finSampa="' h\ o J E" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="sboru" finSampa="' z b o r u" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="táboru" finSampa="' t a: b o r u" rhymeScheme="9" stanzaId="5" />
+    <line id="19" finToken="cení" finSampa="' t_s E J i:" rhymeScheme="10" stanzaId="5" />
+    <line id="20" finToken="mění" finSampa="' m J E J i:" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="objímá" finSampa="' o b j i: m a:" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="snímá" finSampa="' s J i: m a:" rhymeScheme="11" stanzaId="6" />
+    <line id="23" finToken="staví" finSampa="' s t a v i:" rhymeScheme="12" stanzaId="6" />
+    <line id="24" finToken="slaví" finSampa="' s l a v i:" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="páni" finSampa="' p a: J I" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="přání" finSampa="' p P\ a: J i:" rhymeScheme="13" stanzaId="7" />
+    <line id="27" finToken="rekův" finSampa="' r E k u: f" rhymeScheme="14" stanzaId="7" />
+    <line id="28" finToken="věkův" finSampa="' v j E k u: f" rhymeScheme="14" stanzaId="7" />
+  </poem>
+  <poem id="0001-0000-0000-0018-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="zmoří" finSampa="' z m o P\ i:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="vříská" finSampa="' v P\ i: s k a:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="nezvonilo" finSampa="' n E z v o J I l o" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="ohniska" finSampa="' o h\ J I s k a" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="posed" finSampa="' p o s E t" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="hřmotí" finSampa="' h\ P\ m o c i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="práci" finSampa="' p r a: t_s I" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="nerobotí" finSampa="' n E r o b o c i:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="sápe" finSampa="' s a: p E" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="pili" finSampa="' p I l I" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="chovám" finSampa="' x o v a: m" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="zkrkavčili" finSampa="' s k r= k a f t_S I l I" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="odrostkové" finSampa="' o d r o s t k o v E:" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="slehla" finSampa="' s l E h\ l a" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="skrblice" finSampa="' s k r= b l I t_s E" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="vběhla" finSampa="' v b j E h\ l a" rhymeScheme="4" stanzaId="4" />
+    <line id="17" finToken="zvoní" finSampa="' z v o J i:" rhymeScheme="X" stanzaId="5" />
+    <line id="18" finToken="krákoře" finSampa="' k r a: k o P\ E" rhymeScheme="5" stanzaId="5" />
+    <line id="19" finToken="šustí" finSampa="' S u s c i:" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="komoře" finSampa="' k o m o P\ E" rhymeScheme="5" stanzaId="5" />
+    <line id="21" finToken="obletují" finSampa="' o b l E t u j i:" rhymeScheme="X" stanzaId="6" />
+    <line id="22" finToken="šumí" finSampa="' S u m i:" rhymeScheme="6" stanzaId="6" />
+    <line id="23" finToken="derou" finSampa="' d E r o_u" rhymeScheme="X" stanzaId="6" />
+    <line id="24" finToken="tlumí" finSampa="' t l u m i:" rhymeScheme="6" stanzaId="6" />
+    <line id="25" finToken="sezobají" finSampa="' s E z o b a j i:" rhymeScheme="X" stanzaId="7" />
+    <line id="26" finToken="zkazí" finSampa="' s k a z i:" rhymeScheme="7" stanzaId="7" />
+    <line id="27" finToken="dozvonilo" finSampa="' d o z v o J I l o" rhymeScheme="X" stanzaId="7" />
+    <line id="28" finToken="razí" finSampa="' r a z i:" rhymeScheme="7" stanzaId="7" />
+    <line id="29" finToken="opařená" finSampa="' o p a P\ E n a:" rhymeScheme="X" stanzaId="8" />
+    <line id="30" finToken="Boží" finSampa="' b o Z i:" rhymeScheme="8" stanzaId="8" />
+    <line id="31" finToken="děsí" finSampa="' J\ E s i:" rhymeScheme="X" stanzaId="8" />
+    <line id="32" finToken="rohoží" finSampa="' r o h\ o Z i:" rhymeScheme="8" stanzaId="8" />
+    <line id="33" finToken="kouří" finSampa="' k o_u P\ i:" rhymeScheme="X" stanzaId="9" />
+    <line id="34" finToken="hluku" finSampa="' h\ l u k u" rhymeScheme="9" stanzaId="9" />
+    <line id="35" finToken="řítí" finSampa="' P\ i: c i:" rhymeScheme="X" stanzaId="9" />
+    <line id="36" finToken="muku" finSampa="' m u k u" rhymeScheme="9" stanzaId="9" />
+    <line id="37" finToken="žalmy" finSampa="' Z a l m I" rhymeScheme="X" stanzaId="10" />
+    <line id="38" finToken="říká" finSampa="' P\ i: k a:" rhymeScheme="10" stanzaId="10" />
+    <line id="39" finToken="rozsvěcuje" finSampa="' r o s v j E t_s u j E" rhymeScheme="X" stanzaId="10" />
+    <line id="40" finToken="stříká" finSampa="' s t P\ i: k a:" rhymeScheme="10" stanzaId="10" />
+    <line id="41" finToken="zavítají" finSampa="' z a v i: t a j i:" rhymeScheme="X" stanzaId="11" />
+    <line id="42" finToken="pyká" finSampa="' p I k a:" rhymeScheme="10" stanzaId="11" />
+    <line id="43" finToken="mece" finSampa="' m E t_s E" rhymeScheme="X" stanzaId="11" />
+    <line id="44" finToken="vzlyká" finSampa="' v z l I k a:" rhymeScheme="10" stanzaId="11" />
+    <line id="45" finToken="učiněná" finSampa="' u t_S I J E n a:" rhymeScheme="X" stanzaId="12" />
+    <line id="46" finToken="hoří" finSampa="' h\ o P\ i:" rhymeScheme="11" stanzaId="12" />
+    <line id="47" finToken="hněte" finSampa="' h\ J E t E" rhymeScheme="X" stanzaId="12" />
+    <line id="48" finToken="moří" finSampa="' m o P\ i:" rhymeScheme="11" stanzaId="12" />
+    <line id="49" finToken="vyzváněli" finSampa="' v I z v a: J E l I" rhymeScheme="12" stanzaId="13" />
+    <line id="50" finToken="stlaly" finSampa="' s t l a l I" rhymeScheme="13" stanzaId="13" />
+    <line id="51" finToken="přiletěli" finSampa="' p P\ I l E c E l I" rhymeScheme="12" stanzaId="13" />
+    <line id="52" finToken="zakrákali" finSampa="' z a k r a: k a l I" rhymeScheme="13" stanzaId="13" />
+    <line id="53" finToken="není" finSampa="' n E J i:" rhymeScheme="X" stanzaId="14" />
+    <line id="54" finToken="přiletují" finSampa="' p P\ I l E t u j i:" rhymeScheme="14" stanzaId="14" />
+    <line id="55" finToken="skrblici" finSampa="' s k r= b l I t_s I" rhymeScheme="X" stanzaId="14" />
+    <line id="56" finToken="vypravují" finSampa="' v I p r a v u j i:" rhymeScheme="14" stanzaId="14" />
+  </poem>
+  <poem id="0001-0000-0000-0019-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="krev" finSampa="' k r E f" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="řev" finSampa="' P\ E f" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="patami" finSampa="' p a t a m I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="branami" finSampa="' b r a n a m I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="Náchodu" finSampa="' n a: x o d u" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="pochodu" finSampa="' p o x o d u" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="zrychluje" finSampa="' z r I x l u j E" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="stačuje" finSampa="' s t a t_S u j E" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="viděti" finSampa="' v I J\ E c I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="dětí" finSampa="' J\ E c i:" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="okenici" finSampa="' o k E J I t_s I" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="vrátnici" finSampa="' v r a: t J I t_s I" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="šramotí" finSampa="' S r a m o c i:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="naproti" finSampa="' n a p r o c I" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="ryzáku" finSampa="' r I z a: k u" rhymeScheme="8" stanzaId="4" />
+    <line id="16" finToken="žluťáků" finSampa="' Z l u c a: k u:" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="obzírá" finSampa="' o b z i: r a:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="zastírá" finSampa="' z a s c i: r a:" rhymeScheme="9" stanzaId="5" />
+    <line id="19" finToken="oře" finSampa="' o P\ E" rhymeScheme="10" stanzaId="5" />
+    <line id="20" finToken="neoře" finSampa="' n E o P\ E" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="oboří" finSampa="' o b o P\ i:" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="rytíři" finSampa="' r I c i: P\ I" rhymeScheme="11" stanzaId="6" />
+    <line id="23" finToken="pokuta" finSampa="' p o k u t a" rhymeScheme="12" stanzaId="6" />
+    <line id="24" finToken="ukuta" finSampa="' u k u t a" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="střemení" finSampa="' s t P\ E m E J i:" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="nelení" finSampa="' n E l E J i:" rhymeScheme="13" stanzaId="7" />
+    <line id="27" finToken="slovu" finSampa="' s l o v u" rhymeScheme="14" stanzaId="7" />
+    <line id="28" finToken="podkovu" finSampa="' p o t k o v u" rhymeScheme="14" stanzaId="7" />
+    <line id="29" finToken="náramek" finSampa="' n a: r a m E k" rhymeScheme="15" stanzaId="8" />
+    <line id="30" finToken="zámek" finSampa="' z a: m E k" rhymeScheme="15" stanzaId="8" />
+    <line id="31" finToken="šlepěje" finSampa="' S l E p j E j E" rhymeScheme="16" stanzaId="8" />
+    <line id="32" finToken="zapěje" finSampa="' z a p j E j E" rhymeScheme="16" stanzaId="8" />
+    <line id="33" finToken="vlčice" finSampa="' v l= t_S I t_s E" rhymeScheme="17" stanzaId="9" />
+    <line id="34" finToken="odvece" finSampa="' o d v E t_s E" rhymeScheme="17" stanzaId="9" />
+    <line id="35" finToken="hovoří" finSampa="' h\ o v o P\ i:" rhymeScheme="18" stanzaId="9" />
+    <line id="36" finToken="nádvoří" finSampa="' n a: d v o P\ i:" rhymeScheme="18" stanzaId="9" />
+    <line id="37" finToken="sednici" finSampa="' s E d J I t_s I" rhymeScheme="19" stanzaId="10" />
+    <line id="38" finToken="okenici" finSampa="' o k E J I t_s I" rhymeScheme="19" stanzaId="10" />
+    <line id="39" finToken="skulinou" finSampa="' s k u l I n o_u" rhymeScheme="20" stanzaId="10" />
+    <line id="40" finToken="družinou" finSampa="' d r u Z I n o_u" rhymeScheme="20" stanzaId="10" />
+    <line id="41" finToken="námi" finSampa="' n a: m I" rhymeScheme="21" stanzaId="11" />
+    <line id="42" finToken="neznámý" finSampa="' n E z n a: m i:" rhymeScheme="21" stanzaId="11" />
+    <line id="43" finToken="hastroši" finSampa="' h\ a s t r o S I" rhymeScheme="22" stanzaId="11" />
+    <line id="44" finToken="zbrojnoši" finSampa="' z b r o j n o S I" rhymeScheme="22" stanzaId="11" />
+    <line id="45" finToken="chuděra" finSampa="' x u J\ E r a" rhymeScheme="23" stanzaId="12" />
+    <line id="46" finToken="večera" finSampa="' v E t_S E r a" rhymeScheme="23" stanzaId="12" />
+    <line id="47" finToken="volají" finSampa="' v o l a j i:" rhymeScheme="24" stanzaId="12" />
+    <line id="48" finToken="klusají" finSampa="' k l u s a j i:" rhymeScheme="24" stanzaId="12" />
+    <line id="49" finToken="vyvinul" finSampa="' v I v I n u l" rhymeScheme="25" stanzaId="13" />
+    <line id="50" finToken="spočinul" finSampa="' s p o t_S I n u l" rhymeScheme="25" stanzaId="13" />
+    <line id="51" finToken="stráni" finSampa="' s t r a: J I" rhymeScheme="26" stanzaId="13" />
+    <line id="52" finToken="dumání" finSampa="' d u m a: J i:" rhymeScheme="26" stanzaId="13" />
+    <line id="53" finToken="Čechy" finSampa="' t_S E x I" rhymeScheme="27" stanzaId="14" />
+    <line id="54" finToken="povzdechy" finSampa="' p o v z d E x I" rhymeScheme="27" stanzaId="14" />
+    <line id="55" finToken="úkrytu" finSampa="' u: k r I t u" rhymeScheme="28" stanzaId="14" />
+    <line id="56" finToken="úsvitu" finSampa="' u: s v I t u" rhymeScheme="28" stanzaId="14" />
+    <line id="57" finToken="chýž" finSampa="x i: S" rhymeScheme="29" stanzaId="15" />
+    <line id="58" finToken="uvidíš" finSampa="' u v I J\ i: S" rhymeScheme="29" stanzaId="15" />
+    <line id="59" finToken="dvoře" finSampa="' d v o P\ E" rhymeScheme="30" stanzaId="15" />
+    <line id="60" finToken="hovoře" finSampa="' h\ o v o P\ E" rhymeScheme="30" stanzaId="15" />
+  </poem>
+  <poem id="0001-0000-0000-0020-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="holeček" finSampa="' h\ o l E t_S E k" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="věneček" finSampa="' v j E n E t_S E k" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="zmije" finSampa="' z m I j E" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="kryje" finSampa="' k r I j E" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="zápolí" finSampa="' z a: p o l i:" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="údolí" finSampa="' u: d o l i:" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="pleti" finSampa="' p l E c I" rhymeScheme="4" stanzaId="4" />
+    <line id="8" finToken="neodvětí" finSampa="' n E o d v j E c i:" rhymeScheme="4" stanzaId="4" />
+    <line id="9" finToken="očí" finSampa="' o t_S i:" rhymeScheme="5" stanzaId="5" />
+    <line id="10" finToken="nebočí" finSampa="' n E b o t_S i:" rhymeScheme="5" stanzaId="5" />
+    <line id="11" finToken="květy" finSampa="' k v j E t I" rhymeScheme="6" stanzaId="6" />
+    <line id="12" finToken="rety" finSampa="' r E t I" rhymeScheme="6" stanzaId="6" />
+    <line id="13" finToken="líce" finSampa="' l i: t_s E" rhymeScheme="7" stanzaId="7" />
+    <line id="14" finToken="více" finSampa="' v i: t_s E" rhymeScheme="7" stanzaId="7" />
+    <line id="15" finToken="zkolí" finSampa="' s k o l i:" rhymeScheme="8" stanzaId="8" />
+    <line id="16" finToken="údolí" finSampa="' u: d o l i:" rhymeScheme="8" stanzaId="8" />
+    <line id="17" finToken="hoří" finSampa="' h\ o P\ i:" rhymeScheme="9" stanzaId="9" />
+    <line id="18" finToken="podvoří" finSampa="' p o d v o P\ i:" rhymeScheme="9" stanzaId="9" />
+    <line id="19" finToken="bědování" finSampa="' b j E d o v a: J i:" rhymeScheme="10" stanzaId="10" />
+    <line id="20" finToken="nezachrání" finSampa="' n E z a x r a: J i:" rhymeScheme="10" stanzaId="10" />
+    <line id="21" finToken="roli" finSampa="' r o l I" rhymeScheme="8" stanzaId="11" />
+    <line id="22" finToken="údolí" finSampa="' u: d o l i:" rhymeScheme="8" stanzaId="11" />
+    <line id="23" finToken="odpraví" finSampa="' o t p r a v i:" rhymeScheme="11" stanzaId="12" />
+    <line id="24" finToken="vystaví" finSampa="' v I s t a v i:" rhymeScheme="11" stanzaId="12" />
+    <line id="25" finToken="rozmarýnou" finSampa="' r o z m a r i: n o_u" rhymeScheme="12" stanzaId="13" />
+    <line id="26" finToken="kalinou" finSampa="' k a l I n o_u" rhymeScheme="12" stanzaId="13" />
+    <line id="27" finToken="lůže" finSampa="' l u: Z E" rhymeScheme="13" stanzaId="14" />
+    <line id="28" finToken="růže" finSampa="' r u: Z E" rhymeScheme="13" stanzaId="14" />
+    <line id="29" finToken="máti" finSampa="' m a: c I" rhymeScheme="14" stanzaId="15" />
+    <line id="30" finToken="milovati" finSampa="' m I l o v a c I" rhymeScheme="14" stanzaId="15" />
+    <line id="31" finToken="plesy" finSampa="' p l E s I" rhymeScheme="15" stanzaId="16" />
+    <line id="32" finToken="běsy" finSampa="' b j E s I" rhymeScheme="15" stanzaId="16" />
+    <line id="33" finToken="závoditi" finSampa="' z a: v o J\ I c I" rhymeScheme="16" stanzaId="17" />
+    <line id="34" finToken="víti" finSampa="' v i: c I" rhymeScheme="16" stanzaId="17" />
+    <line id="35" finToken="nepřeruší" finSampa="' n E p P\ E r u S i:" rhymeScheme="17" stanzaId="18" />
+    <line id="36" finToken="neohluší" finSampa="' n E o h\ l u S i:" rhymeScheme="17" stanzaId="18" />
+    <line id="37" finToken="roli" finSampa="' r o l I" rhymeScheme="18" stanzaId="19" />
+    <line id="38" finToken="údolí" finSampa="' u: d o l i:" rhymeScheme="18" stanzaId="19" />
+  </poem>
+  <poem id="0001-0000-0000-0021-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="komoře" finSampa="' k o m o P\ E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="lníček" finSampa="' l J i: t_S E k" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="spoře" finSampa="' s p o P\ E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="čeledníček" finSampa="' t_S E l E d J i: t_S E k" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="kolovrátek" finSampa="' k o l o v r a: t E k" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="postele" finSampa="' p o s t E l E" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="svátek" finSampa="' s v a: t E k" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="cele" finSampa="' t_s E l E" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="panímáma" finSampa="' p a J i: m a: m a" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="zlato" finSampa="' z l a t o" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="sama" finSampa="' s a m a" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="to" finSampa="t o" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="ruky" finSampa="' r u k I" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="hyká" finSampa="' h\ I k a:" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="zvuky" finSampa="' z v u k I" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="klika" finSampa="' k l I k a" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="světnice" finSampa="' s v j E t J I t_s E" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="kotí" finSampa="' k o c i:" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="přástevnice" finSampa="' p P\ a: s t E v J I t_s E" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="potí" finSampa="' p o c i:" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="chasu" finSampa="' x a s u" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="dude" finSampa="' d u d E" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="basu" finSampa="' b a s u" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="hude" finSampa="' h\ u d E" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="hosté" finSampa="' h\ o s t E:" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="křivonozí" finSampa="' k P\ I v o n o z i:" rhymeScheme="14" stanzaId="7" />
+    <line id="27" finToken="prosté" finSampa="' p r o s t E:" rhymeScheme="13" stanzaId="7" />
+    <line id="28" finToken="kozí" finSampa="' k o z i:" rhymeScheme="14" stanzaId="7" />
+    <line id="29" finToken="muzikáři" finSampa="' m u z I k a: P\ I" rhymeScheme="15" stanzaId="8" />
+    <line id="30" finToken="obstupují" finSampa="' o p s t u p u j i:" rhymeScheme="16" stanzaId="8" />
+    <line id="31" finToken="tváří" finSampa="' t v a: P\ i:" rhymeScheme="15" stanzaId="8" />
+    <line id="32" finToken="zanotují" finSampa="' z a n o t u j i:" rhymeScheme="16" stanzaId="8" />
+    <line id="33" finToken="pojď" finSampa="' p o j c" rhymeScheme="X" stanzaId="9" />
+    <line id="34" finToken="hoď" finSampa="' h\ o c" rhymeScheme="X" stanzaId="9" />
+    <line id="35" finToken="Tómy" finSampa="' t o: m I" rhymeScheme="17" stanzaId="9" />
+    <line id="36" finToken="stromy" finSampa="' s t r o m I" rhymeScheme="17" stanzaId="9" />
+    <line id="37" finToken="pojď" finSampa="' p o j c" rhymeScheme="X" stanzaId="10" />
+    <line id="38" finToken="hoď" finSampa="' h\ o c" rhymeScheme="X" stanzaId="10" />
+    <line id="39" finToken="květu" finSampa="' k v j E t u" rhymeScheme="18" stanzaId="10" />
+    <line id="40" finToken="letu" finSampa="' l E t u" rhymeScheme="18" stanzaId="10" />
+    <line id="41" finToken="pojď" finSampa="' p o j c" rhymeScheme="X" stanzaId="11" />
+    <line id="42" finToken="hoď" finSampa="' h\ o c" rhymeScheme="X" stanzaId="11" />
+    <line id="43" finToken="máme" finSampa="' m a: m E" rhymeScheme="19" stanzaId="11" />
+    <line id="44" finToken="zahasáme" finSampa="' z a h\ a s a: m E" rhymeScheme="19" stanzaId="11" />
+    <line id="45" finToken="skočí" finSampa="' s k o t_S i:" rhymeScheme="20" stanzaId="12" />
+    <line id="46" finToken="zubí" finSampa="' z u b i:" rhymeScheme="21" stanzaId="12" />
+    <line id="47" finToken="bočí" finSampa="' b o t_S i:" rhymeScheme="20" stanzaId="12" />
+    <line id="48" finToken="chlubí" finSampa="' x l u b i:" rhymeScheme="21" stanzaId="12" />
+    <line id="49" finToken="škorně" finSampa="' S k o r J E" rhymeScheme="22" stanzaId="13" />
+    <line id="50" finToken="šosem" finSampa="' S o s E m" rhymeScheme="23" stanzaId="13" />
+    <line id="51" finToken="dvorně" finSampa="' d v o r J E" rhymeScheme="22" stanzaId="13" />
+    <line id="52" finToken="nosem" finSampa="' n o s E m" rhymeScheme="23" stanzaId="13" />
+    <line id="53" finToken="přadlenko" finSampa="' p P\ a d l E n k o" rhymeScheme="24" stanzaId="14" />
+    <line id="54" finToken="děvenko" finSampa="' J\ E v E n k o" rhymeScheme="24" stanzaId="14" />
+    <line id="55" finToken="kvapík" finSampa="' k v a p i: k" rhymeScheme="25" stanzaId="14" />
+    <line id="56" finToken="chlapík" finSampa="' x l a p i: k" rhymeScheme="25" stanzaId="14" />
+    <line id="57" finToken="dnes" finSampa="d n E s" rhymeScheme="26" stanzaId="15" />
+    <line id="58" finToken="ples" finSampa="' p l E s" rhymeScheme="26" stanzaId="15" />
+    <line id="59" finToken="léto" finSampa="' l E: t o" rhymeScheme="27" stanzaId="15" />
+    <line id="60" finToken="Běto" finSampa="' b j E t o" rhymeScheme="27" stanzaId="15" />
+    <line id="61" finToken="půli" finSampa="' p u: l I" rhymeScheme="28" stanzaId="16" />
+    <line id="62" finToken="kruhu" finSampa="' k r u h\ u" rhymeScheme="29" stanzaId="16" />
+    <line id="63" finToken="špulí" finSampa="' S p u l i:" rhymeScheme="28" stanzaId="16" />
+    <line id="64" finToken="druhu" finSampa="' d r u h\ u" rhymeScheme="29" stanzaId="16" />
+    <line id="65" finToken="ruky" finSampa="' r u k I" rhymeScheme="30" stanzaId="17" />
+    <line id="66" finToken="řítí" finSampa="' P\ i: c i:" rhymeScheme="31" stanzaId="17" />
+    <line id="67" finToken="muky" finSampa="' m u k I" rhymeScheme="30" stanzaId="17" />
+    <line id="68" finToken="vznítí" finSampa="' v z J i: c i:" rhymeScheme="31" stanzaId="17" />
+    <line id="69" finToken="točí" finSampa="' t o t_S i:" rhymeScheme="32" stanzaId="18" />
+    <line id="70" finToken="strhne" finSampa="' s t r= h\ n E" rhymeScheme="33" stanzaId="18" />
+    <line id="71" finToken="oči" finSampa="' o t_S I" rhymeScheme="32" stanzaId="18" />
+    <line id="72" finToken="vrhne" finSampa="' v r= h\ n E" rhymeScheme="33" stanzaId="18" />
+    <line id="73" finToken="puchem" finSampa="' p u x E m" rhymeScheme="34" stanzaId="19" />
+    <line id="74" finToken="hůry" finSampa="' h\ u: r I" rhymeScheme="35" stanzaId="19" />
+    <line id="75" finToken="ruchem" finSampa="' r u x E m" rhymeScheme="34" stanzaId="19" />
+    <line id="76" finToken="stvůry" finSampa="' s t v u: r I" rhymeScheme="35" stanzaId="19" />
+    <line id="77" finToken="spasí" finSampa="' s p a s i:" rhymeScheme="36" stanzaId="20" />
+    <line id="78" finToken="dýše" finSampa="' d i: S E" rhymeScheme="37" stanzaId="20" />
+    <line id="79" finToken="hlasy" finSampa="' h\ l a s I" rhymeScheme="36" stanzaId="20" />
+    <line id="80" finToken="říše" finSampa="' P\ i: S E" rhymeScheme="37" stanzaId="20" />
+  </poem>
+  <poem id="0001-0000-0000-0022-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="vzdychá" finSampa="' v z d I x a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="bdí" finSampa="' b J\ i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zticha" finSampa="' s c I x a" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="spí" finSampa="' s p i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="mění" finSampa="' m J E J i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="volání" finSampa="' v o l a: J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="hřebení" finSampa="' h\ P\ E b E J i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="vrzání" finSampa="' v r= z a: J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="stojí" finSampa="' s t o j i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="podepřen" finSampa="' p o d E p P\ E n" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="rojí" finSampa="' r o j i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="sen" finSampa="' s E n" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="tíseň" finSampa="' c i: s E J" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="šermuje" finSampa="' S E r m u j E" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="píseň" finSampa="' p i: s E J" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="miluje" finSampa="' m I l u j E" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="nedbánlivým" finSampa="' n E d b a: n l I v i: m" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="pamětliv" finSampa="' p a m J E t l I f" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="přičinlivým" finSampa="' p P\ I t_S I n l I v i: m" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="živ" finSampa="' Z I f" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="vázne" finSampa="' v a: z n E" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="úskoky" finSampa="' u: s k o k I" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="rázné" finSampa="' r a: z n E:" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="bezděky" finSampa="' b E z J\ E k I" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="spáti" finSampa="' s p a: c I" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="ospalost" finSampa="' o s p a l o s t" rhymeScheme="14" stanzaId="7" />
+    <line id="27" finToken="státi" finSampa="' s t a: c I" rhymeScheme="13" stanzaId="7" />
+    <line id="28" finToken="dost" finSampa="d o s t" rhymeScheme="14" stanzaId="7" />
+    <line id="29" finToken="stěny" finSampa="' s c E n I" rhymeScheme="15" stanzaId="8" />
+    <line id="30" finToken="plahočí" finSampa="' p l a h\ o t_S i:" rhymeScheme="16" stanzaId="8" />
+    <line id="31" finToken="zahalený" finSampa="' z a h\ a l E n i:" rhymeScheme="15" stanzaId="8" />
+    <line id="32" finToken="očí" finSampa="' o t_S i:" rhymeScheme="16" stanzaId="8" />
+    <line id="33" finToken="stane" finSampa="' s t a n E" rhymeScheme="17" stanzaId="9" />
+    <line id="34" finToken="stráž" finSampa="' s t r a: S" rhymeScheme="18" stanzaId="9" />
+    <line id="35" finToken="zplane" finSampa="' s p l a n E" rhymeScheme="17" stanzaId="9" />
+    <line id="36" finToken="páž" finSampa="p a: S" rhymeScheme="18" stanzaId="9" />
+    <line id="37" finToken="topí" finSampa="' t o p i:" rhymeScheme="19" stanzaId="10" />
+    <line id="38" finToken="rtem" finSampa="' r t E m" rhymeScheme="20" stanzaId="10" />
+    <line id="39" finToken="sopí" finSampa="' s o p i:" rhymeScheme="19" stanzaId="10" />
+    <line id="40" finToken="životem" finSampa="' Z I v o t E m" rhymeScheme="20" stanzaId="10" />
+    <line id="41" finToken="kročí" finSampa="' k r o t_S i:" rhymeScheme="21" stanzaId="11" />
+    <line id="42" finToken="nožnice" finSampa="' n o Z J I t_s E" rhymeScheme="22" stanzaId="11" />
+    <line id="43" finToken="oči" finSampa="' o t_S I" rhymeScheme="21" stanzaId="11" />
+    <line id="44" finToken="šavlice" finSampa="' S a v l I t_s E" rhymeScheme="22" stanzaId="11" />
+    <line id="45" finToken="zbledne" finSampa="' z b l E d n E" rhymeScheme="23" stanzaId="12" />
+    <line id="46" finToken="čas" finSampa="' t_S a s" rhymeScheme="24" stanzaId="12" />
+    <line id="47" finToken="vzhlédne" finSampa="' f s x l E: d n E" rhymeScheme="23" stanzaId="12" />
+    <line id="48" finToken="zas" finSampa="z a s" rhymeScheme="24" stanzaId="12" />
+    <line id="49" finToken="zbrani" finSampa="' z b r a J I" rhymeScheme="25" stanzaId="13" />
+    <line id="50" finToken="místě" finSampa="' m i: s c E" rhymeScheme="26" stanzaId="13" />
+    <line id="51" finToken="svítání" finSampa="' s v i: t a: J i:" rhymeScheme="25" stanzaId="13" />
+    <line id="52" finToken="staniště" finSampa="' s t a J I S c E" rhymeScheme="26" stanzaId="13" />
+    <line id="53" finToken="rota" finSampa="' r o t a" rhymeScheme="27" stanzaId="14" />
+    <line id="54" finToken="tam" finSampa="t a m" rhymeScheme="28" stanzaId="14" />
+    <line id="55" finToken="motá" finSampa="' m o t a:" rhymeScheme="27" stanzaId="14" />
+    <line id="56" finToken="sám" finSampa="s a: m" rhymeScheme="28" stanzaId="14" />
+    <line id="57" finToken="měří" finSampa="' m J E P\ i:" rhymeScheme="29" stanzaId="15" />
+    <line id="58" finToken="čest" finSampa="' t_S E s t" rhymeScheme="30" stanzaId="15" />
+    <line id="59" finToken="svěří" finSampa="' s v j E P\ i:" rhymeScheme="29" stanzaId="15" />
+    <line id="60" finToken="věst" finSampa="' v j E s t" rhymeScheme="30" stanzaId="15" />
+    <line id="61" finToken="praví" finSampa="' p r a v i:" rhymeScheme="31" stanzaId="16" />
+    <line id="62" finToken="zdroj" finSampa="' z d r o j" rhymeScheme="32" stanzaId="16" />
+    <line id="63" finToken="dáví" finSampa="' d a: v i:" rhymeScheme="31" stanzaId="16" />
+    <line id="64" finToken="voj" finSampa="' v o j" rhymeScheme="32" stanzaId="16" />
+  </poem>
+  <poem id="0001-0000-0000-0023-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="denní" finSampa="' d E n J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="ratolest" finSampa="' r a t o l E s t" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="není" finSampa="' n E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="naručest" finSampa="' n a r u t_S E s t" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="mílo" finSampa="' m i: l o" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="manželku" finSampa="' m a n Z E l k u" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="dílo" finSampa="' J\ i: l o" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="kolébku" finSampa="' k o l E: p k u" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="všemi" finSampa="' f S E m I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="běd" finSampa="' b j E t" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="zemi" finSampa="' z E m I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="sled" finSampa="' s l E t" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="díka" finSampa="' J\ i: k a" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="nám" finSampa="n a: m" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="řemesníka" finSampa="' P\ E m E s J i: k a" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="vychovám" finSampa="' v I x o v a: m" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="hřbitově" finSampa="' h\ P\ b I t o v j E" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="zvuk" finSampa="' z v u k" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="hově" finSampa="' h\ o v j E" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="hluk" finSampa="' h\ l u k" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="znoji" finSampa="' z n o j I" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="šelestu" finSampa="' S E l E s t u" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="strojí" finSampa="' s t r o j i:" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="cestu" finSampa="' t_s E s t u" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="synku" finSampa="' s I n k u" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="mé" finSampa="m E:" rhymeScheme="14" stanzaId="7" />
+    <line id="27" finToken="matinku" finSampa="' m a c I n k u" rhymeScheme="13" stanzaId="7" />
+    <line id="28" finToken="své" finSampa="s v E:" rhymeScheme="14" stanzaId="7" />
+    <line id="29" finToken="políbení" finSampa="' p o l i: b E J i:" rhymeScheme="15" stanzaId="8" />
+    <line id="30" finToken="hruď" finSampa="' h\ r u c" rhymeScheme="16" stanzaId="8" />
+    <line id="31" finToken="brnění" finSampa="' b r= J E J i:" rhymeScheme="15" stanzaId="8" />
+    <line id="32" finToken="buď" finSampa="b u c" rhymeScheme="16" stanzaId="8" />
+    <line id="33" finToken="muže" finSampa="' m u Z E" rhymeScheme="17" stanzaId="9" />
+    <line id="34" finToken="úspěchu" finSampa="' u: s p j E x u" rhymeScheme="18" stanzaId="9" />
+    <line id="35" finToken="lůže" finSampa="' l u: Z E" rhymeScheme="17" stanzaId="9" />
+    <line id="36" finToken="snachu" finSampa="' s n a x u" rhymeScheme="18" stanzaId="9" />
+    <line id="37" finToken="cestu" finSampa="' t_s E s t u" rhymeScheme="19" stanzaId="10" />
+    <line id="38" finToken="řemeslo" finSampa="' P\ E m E s l o" rhymeScheme="20" stanzaId="10" />
+    <line id="39" finToken="nevěstu" finSampa="' n E v j E s t u" rhymeScheme="19" stanzaId="10" />
+    <line id="40" finToken="zlo" finSampa="' z l o" rhymeScheme="20" stanzaId="10" />
+    <line id="41" finToken="změny" finSampa="' z m J E n I" rhymeScheme="21" stanzaId="11" />
+    <line id="42" finToken="spočívá" finSampa="' s p o t_S i: v a:" rhymeScheme="22" stanzaId="11" />
+    <line id="43" finToken="opuštěný" finSampa="' o p u S c E n i:" rhymeScheme="21" stanzaId="11" />
+    <line id="44" finToken="dospívá" finSampa="' d o s p i: v a:" rhymeScheme="22" stanzaId="11" />
+    <line id="45" finToken="denní" finSampa="' d E n J i:" rhymeScheme="23" stanzaId="12" />
+    <line id="46" finToken="ratolest" finSampa="' r a t o l E s t" rhymeScheme="24" stanzaId="12" />
+    <line id="47" finToken="není" finSampa="' n E J i:" rhymeScheme="23" stanzaId="12" />
+    <line id="48" finToken="naručest" finSampa="' n a r u t_S E s t" rhymeScheme="24" stanzaId="12" />
+    <line id="49" finToken="drobí" finSampa="' d r o b i:" rhymeScheme="25" stanzaId="13" />
+    <line id="50" finToken="hled" finSampa="' h\ l E t" rhymeScheme="26" stanzaId="13" />
+    <line id="51" finToken="robí" finSampa="' r o b i:" rhymeScheme="25" stanzaId="13" />
+    <line id="52" finToken="naposled" finSampa="' n a p o s l E t" rhymeScheme="26" stanzaId="13" />
+  </poem>
+  <poem id="0001-0000-0000-0024-0001" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="pomíjí" finSampa="' p o m i: j i:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="obléhají" finSampa="' o b l E: h\ a j i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="posádka" finSampa="' p o s a: t k a" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="hájí" finSampa="' h\ a: j i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="velí" finSampa="' v E l i:" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="řítí" finSampa="' P\ i: c i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="míru" finSampa="' m i: r u" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="skvíti" finSampa="' s k v i: c I" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="rodu" finSampa="' r o d u" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="Sobieskému" finSampa="' s o b j E s k E: m u" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="měl" finSampa="' m J E l" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="ctnému" finSampa="' t_s t n E: m u" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="plane" finSampa="' p l a n E" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="zbrojí" finSampa="' z b r o j i:" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="děla" finSampa="' J\ E l a" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="boji" finSampa="' b o j I" rhymeScheme="4" stanzaId="4" />
+    <line id="17" finToken="béře" finSampa="' b E: P\ E" rhymeScheme="X" stanzaId="5" />
+    <line id="18" finToken="znova" finSampa="' z n o v a" rhymeScheme="5" stanzaId="5" />
+    <line id="19" finToken="trčí" finSampa="' t r= t_S i:" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="ocelová" finSampa="' o t_s E l o v a:" rhymeScheme="5" stanzaId="5" />
+    <line id="21" finToken="nese" finSampa="' n E s E" rhymeScheme="X" stanzaId="6" />
+    <line id="22" finToken="běli" finSampa="' b j E l I" rhymeScheme="6" stanzaId="6" />
+    <line id="23" finToken="Mekce" finSampa="' m E k t_s E" rhymeScheme="X" stanzaId="6" />
+    <line id="24" finToken="velí" finSampa="' v E l i:" rhymeScheme="6" stanzaId="6" />
+    <line id="25" finToken="natesati" finSampa="' n a t E s a c I" rhymeScheme="X" stanzaId="7" />
+    <line id="26" finToken="napícháme" finSampa="' n a p i: x a: m E" rhymeScheme="7" stanzaId="7" />
+    <line id="27" finToken="zaopatřte" finSampa="' z a o p a t P\ t E" rhymeScheme="X" stanzaId="7" />
+    <line id="28" finToken="upoutáme" finSampa="' u p o_u t a: m E" rhymeScheme="7" stanzaId="7" />
+    <line id="29" finToken="Lecha" finSampa="' l E x a" rhymeScheme="X" stanzaId="8" />
+    <line id="30" finToken="ztéci" finSampa="' s t E: t_s I" rhymeScheme="8" stanzaId="8" />
+    <line id="31" finToken="valy" finSampa="' v a l I" rhymeScheme="X" stanzaId="8" />
+    <line id="32" finToken="téci" finSampa="' t E: t_s I" rhymeScheme="8" stanzaId="8" />
+    <line id="33" finToken="se" finSampa="s E" rhymeScheme="X" stanzaId="9" />
+    <line id="34" finToken="dlíti" finSampa="' d l i: c I" rhymeScheme="9" stanzaId="9" />
+    <line id="35" finToken="bráti" finSampa="' b r a: c I" rhymeScheme="X" stanzaId="9" />
+    <line id="36" finToken="míti" finSampa="' m i: c I" rhymeScheme="9" stanzaId="9" />
+    <line id="37" finToken="bojovnými" finSampa="' b o j o v n i: m I" rhymeScheme="X" stanzaId="10" />
+    <line id="38" finToken="duje" finSampa="' d u j E" rhymeScheme="10" stanzaId="10" />
+    <line id="39" finToken="Leši" finSampa="' l E S I" rhymeScheme="X" stanzaId="10" />
+    <line id="40" finToken="sluje" finSampa="' s l u j E" rhymeScheme="10" stanzaId="10" />
+    <line id="41" finToken="duní" finSampa="' d u J i:" rhymeScheme="X" stanzaId="11" />
+    <line id="42" finToken="meče" finSampa="' m E t_S E" rhymeScheme="11" stanzaId="11" />
+    <line id="43" finToken="voj" finSampa="' v o j" rhymeScheme="X" stanzaId="11" />
+    <line id="44" finToken="seče" finSampa="' s E t_S E" rhymeScheme="11" stanzaId="11" />
+    <line id="45" finToken="vítá" finSampa="' v i: t a:" rhymeScheme="X" stanzaId="12" />
+    <line id="46" finToken="spějí" finSampa="' s p j E j i:" rhymeScheme="12" stanzaId="12" />
+    <line id="47" finToken="svůj" finSampa="s v u: j" rhymeScheme="X" stanzaId="12" />
+    <line id="48" finToken="odrážejí" finSampa="' o d r a: Z E j i:" rhymeScheme="12" stanzaId="12" />
+    <line id="49" finToken="kvapí" finSampa="' k v a p i:" rhymeScheme="X" stanzaId="13" />
+    <line id="50" finToken="smolu" finSampa="' s m o l u" rhymeScheme="13" stanzaId="13" />
+    <line id="51" finToken="vrhají" finSampa="' v r= h\ a j i:" rhymeScheme="X" stanzaId="13" />
+    <line id="52" finToken="spolu" finSampa="' s p o l u" rhymeScheme="13" stanzaId="13" />
+    <line id="53" finToken="řítí" finSampa="' P\ i: c i:" rhymeScheme="X" stanzaId="14" />
+    <line id="54" finToken="davy" finSampa="' d a v I" rhymeScheme="14" stanzaId="14" />
+    <line id="55" finToken="pevnosti" finSampa="' p E v n o s c I" rhymeScheme="X" stanzaId="14" />
+    <line id="56" finToken="staví" finSampa="' s t a v i:" rhymeScheme="14" stanzaId="14" />
+    <line id="57" finToken="kapli" finSampa="' k a p l I" rhymeScheme="X" stanzaId="15" />
+    <line id="58" finToken="klečí" finSampa="' k l E t_S i:" rhymeScheme="15" stanzaId="15" />
+    <line id="59" finToken="vítězství" finSampa="' v i: c E s t v i:" rhymeScheme="X" stanzaId="15" />
+    <line id="60" finToken="seči" finSampa="' s E t_S I" rhymeScheme="15" stanzaId="15" />
+    <line id="61" finToken="vrazí" finSampa="' v r a z i:" rhymeScheme="X" stanzaId="16" />
+    <line id="62" finToken="hyne" finSampa="' h\ I n E" rhymeScheme="16" stanzaId="16" />
+    <line id="63" finToken="Chrzanowská" finSampa="' x P\ a n o f s k a:" rhymeScheme="X" stanzaId="16" />
+    <line id="64" finToken="vline" finSampa="' v l I n E" rhymeScheme="16" stanzaId="16" />
+    <line id="65" finToken="chopí" finSampa="' x o p i:" rhymeScheme="X" stanzaId="17" />
+    <line id="66" finToken="zbraní" finSampa="' z b r a J i:" rhymeScheme="17" stanzaId="17" />
+    <line id="67" finToken="pádíc" finSampa="' p a: J\ i: t_s" rhymeScheme="X" stanzaId="17" />
+    <line id="68" finToken="paní" finSampa="' p a J i:" rhymeScheme="17" stanzaId="17" />
+    <line id="69" finToken="poděsí" finSampa="' p o J\ E s i:" rhymeScheme="X" stanzaId="18" />
+    <line id="70" finToken="Poláci" finSampa="' p o l a: t_s I" rhymeScheme="18" stanzaId="18" />
+    <line id="71" finToken="řítí" finSampa="' P\ i: c i:" rhymeScheme="X" stanzaId="18" />
+    <line id="72" finToken="kácí" finSampa="' k a: t_s i:" rhymeScheme="18" stanzaId="18" />
+    <line id="73" finToken="boji" finSampa="' b o j I" rhymeScheme="X" stanzaId="19" />
+    <line id="74" finToken="zmoci" finSampa="' z m o t_s I" rhymeScheme="19" stanzaId="19" />
+    <line id="75" finToken="kmitne" finSampa="' k m I t n E" rhymeScheme="X" stanzaId="19" />
+    <line id="76" finToken="pomoci" finSampa="' p o m o t_s I" rhymeScheme="19" stanzaId="19" />
+    <line id="77" finToken="lupu" finSampa="' l u p u" rhymeScheme="X" stanzaId="20" />
+    <line id="78" finToken="drahné" finSampa="' d r a h\ n E:" rhymeScheme="20" stanzaId="20" />
+    <line id="79" finToken="oslavence" finSampa="' o s l a v E n t_s E" rhymeScheme="X" stanzaId="20" />
+    <line id="80" finToken="táhne" finSampa="' t a: h\ n E" rhymeScheme="20" stanzaId="20" />
+  </poem>
+  <poem id="0001-0000-0000-0024-0002" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="zvony" finSampa="' z v o n I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="činu" finSampa="' t_S I n u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="proudí" finSampa="' p r o_u J\ i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="Hospodinu" finSampa="' h\ o s p o J\ I n u" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="béře" finSampa="' b E: P\ E" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="pláni" finSampa="' p l a: J I" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="se" finSampa="s E" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="požehnání" finSampa="' p o Z E h\ n a: J i:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="krvácí" finSampa="' k r= v a: t_s i:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="rozestane" finSampa="' r o z E s t a n E" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="pláče" finSampa="' p l a: t_S E" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="branné" finSampa="' b r a n E:" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="hlasem" finSampa="' h\ l a s E m" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="pánu" finSampa="' p a: n u" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="prchají" finSampa="' p r= x a j i:" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="Janu" finSampa="' j a n u" rhymeScheme="4" stanzaId="4" />
+    <line id="17" finToken="bojovníci" finSampa="' b o j o v J i: t_s I" rhymeScheme="X" stanzaId="5" />
+    <line id="18" finToken="králi" finSampa="' k r a: l I" rhymeScheme="5" stanzaId="5" />
+    <line id="19" finToken="má" finSampa="' m a:" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="chvály" finSampa="' x v a: l I" rhymeScheme="5" stanzaId="5" />
+    <line id="21" finToken="hučí" finSampa="' h\ u t_S i:" rhymeScheme="X" stanzaId="6" />
+    <line id="22" finToken="víří" finSampa="' v i: P\ i:" rhymeScheme="6" stanzaId="6" />
+    <line id="23" finToken="pevnosti" finSampa="' p E v n o s c I" rhymeScheme="X" stanzaId="6" />
+    <line id="24" finToken="bohatýři" finSampa="' b o h\ a t i: P\ I" rhymeScheme="6" stanzaId="6" />
+    <line id="25" finToken="spatří" finSampa="' s p a t P\ i:" rhymeScheme="X" stanzaId="7" />
+    <line id="26" finToken="obnaženou" finSampa="' o b n a Z E n o_u" rhymeScheme="7" stanzaId="7" />
+    <line id="27" finToken="se" finSampa="s E" rhymeScheme="X" stanzaId="7" />
+    <line id="28" finToken="poslzenou" finSampa="' p o s l= z E n o_u" rhymeScheme="7" stanzaId="7" />
+    <line id="29" finToken="zdvíhá" finSampa="' z d v i: h\ a:" rhymeScheme="X" stanzaId="8" />
+    <line id="30" finToken="hlesne" finSampa="' h\ l E s n E" rhymeScheme="8" stanzaId="8" />
+    <line id="31" finToken="strnou" finSampa="' s t r= n o_u" rhymeScheme="X" stanzaId="8" />
+    <line id="32" finToken="sklesne" finSampa="' s k l E s n E" rhymeScheme="8" stanzaId="8" />
+    <line id="33" finToken="tají" finSampa="' t a j i:" rhymeScheme="X" stanzaId="9" />
+    <line id="34" finToken="celý" finSampa="' t_s E l i:" rhymeScheme="9" stanzaId="9" />
+    <line id="35" finToken="hořem" finSampa="' h\ o P\ E m" rhymeScheme="X" stanzaId="9" />
+    <line id="36" finToken="želí" finSampa="' Z E l i:" rhymeScheme="9" stanzaId="9" />
+    <line id="37" finToken="Polku" finSampa="' p o l k u" rhymeScheme="X" stanzaId="10" />
+    <line id="38" finToken="obětovnost" finSampa="' o b j E t o v n o s t" rhymeScheme="10" stanzaId="10" />
+    <line id="39" finToken="Chrzanowská" finSampa="' x P\ a n o f s k a:" rhymeScheme="X" stanzaId="10" />
+    <line id="40" finToken="hodnost" finSampa="' h\ o d n o s t" rhymeScheme="10" stanzaId="10" />
+    <line id="41" finToken="tasí" finSampa="' t a s i:" rhymeScheme="X" stanzaId="11" />
+    <line id="42" finToken="svaté" finSampa="' s v a t E:" rhymeScheme="11" stanzaId="11" />
+    <line id="43" finToken="zemi" finSampa="' z E m I" rhymeScheme="X" stanzaId="11" />
+    <line id="44" finToken="třikráte" finSampa="' t P\ I k r a: t E" rhymeScheme="11" stanzaId="11" />
+  </poem>
+  <poem id="0001-0000-0000-0025-0000" author="Ceyp z Peclinovce, Jan Bohumil *1835" period="1830">
+    <line id="1" finToken="den" finSampa="' d E n" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="ave" finSampa="' a v E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="konejší" finSampa="' k o n E j S i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="hravé" finSampa="' h\ r a v E:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="stojí" finSampa="' s t o j i:" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="kmitá" finSampa="' k m I t a:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="oprátka" finSampa="' o p r a: t k a" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="zmítá" finSampa="' z m i: t a:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="ptáci" finSampa="' p t a: t_s I" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="nečasy" finSampa="' n E t_S a s I" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="zohyzděna" finSampa="' z o h\ I z J\ E n a" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="vlasy" finSampa="' v l a s I" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="zírá" finSampa="' z i: r a:" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="roní" finSampa="' r o J i:" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="skučí" finSampa="' s k u t_S i:" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="zvoní" finSampa="' z v o J i:" rhymeScheme="4" stanzaId="4" />
+    <line id="17" finToken="vyje" finSampa="' v I j E" rhymeScheme="X" stanzaId="5" />
+    <line id="18" finToken="zbojníkovu" finSampa="' z b o j J i: k o v u" rhymeScheme="5" stanzaId="5" />
+    <line id="19" finToken="supi" finSampa="' s u p I" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="rovu" finSampa="' r o v u" rhymeScheme="5" stanzaId="5" />
+    <line id="21" finToken="kryjí" finSampa="' k r I j i:" rhymeScheme="X" stanzaId="6" />
+    <line id="22" finToken="pílí" finSampa="' p i: l i:" rhymeScheme="6" stanzaId="6" />
+    <line id="23" finToken="svět" finSampa="' s v j E t" rhymeScheme="X" stanzaId="6" />
+    <line id="24" finToken="bílý" finSampa="' b i: l i:" rhymeScheme="6" stanzaId="6" />
+    <line id="25" finToken="jede" finSampa="' j E d E" rhymeScheme="X" stanzaId="7" />
+    <line id="26" finToken="šepce" finSampa="' S E p t_s E" rhymeScheme="7" stanzaId="7" />
+    <line id="27" finToken="slídí" finSampa="' s l i: J\ i:" rhymeScheme="X" stanzaId="7" />
+    <line id="28" finToken="hřebce" finSampa="' h\ P\ E p t_s E" rhymeScheme="7" stanzaId="7" />
+    <line id="29" finToken="ježí" finSampa="' j E Z i:" rhymeScheme="X" stanzaId="8" />
+    <line id="30" finToken="plane" finSampa="' p l a n E" rhymeScheme="8" stanzaId="8" />
+    <line id="31" finToken="ledví" finSampa="' l E d v i:" rhymeScheme="X" stanzaId="8" />
+    <line id="32" finToken="stane" finSampa="' s t a n E" rhymeScheme="8" stanzaId="8" />
+    <line id="33" finToken="lotře" finSampa="' l o t P\ E" rhymeScheme="X" stanzaId="9" />
+    <line id="34" finToken="místa" finSampa="' m i: s t a" rhymeScheme="9" stanzaId="9" />
+    <line id="35" finToken="obdaroval" finSampa="' o b d a r o v a l" rhymeScheme="X" stanzaId="9" />
+    <line id="36" finToken="jista" finSampa="' j I s t a" rhymeScheme="9" stanzaId="9" />
+    <line id="37" finToken="schvátím" finSampa="' s x v a: c i: m" rhymeScheme="X" stanzaId="10" />
+    <line id="38" finToken="háku" finSampa="' h\ a: k u" rhymeScheme="10" stanzaId="10" />
+    <line id="39" finToken="tasí" finSampa="' t a s i:" rhymeScheme="X" stanzaId="10" />
+    <line id="40" finToken="ptáků" finSampa="' p t a: k u:" rhymeScheme="10" stanzaId="10" />
+    <line id="41" finToken="dorážejí" finSampa="' d o r a: Z E j i:" rhymeScheme="X" stanzaId="11" />
+    <line id="42" finToken="kůru" finSampa="' k u: r u" rhymeScheme="11" stanzaId="11" />
+    <line id="43" finToken="řehce" finSampa="' P\ E x t_s E" rhymeScheme="X" stanzaId="11" />
+    <line id="44" finToken="vzhůru" finSampa="' v s x u: r u" rhymeScheme="11" stanzaId="11" />
+    <line id="45" finToken="trhne" finSampa="' t r= h\ n E" rhymeScheme="X" stanzaId="12" />
+    <line id="46" finToken="oře" finSampa="' o P\ E" rhymeScheme="12" stanzaId="12" />
+    <line id="47" finToken="lebku" finSampa="' l E p k u" rhymeScheme="X" stanzaId="12" />
+    <line id="48" finToken="hoře" finSampa="' h\ o P\ E" rhymeScheme="12" stanzaId="12" />
+    <line id="49" finToken="domů" finSampa="' d o m u:" rhymeScheme="X" stanzaId="13" />
+    <line id="50" finToken="vladyky" finSampa="' v l a d I k I" rhymeScheme="13" stanzaId="13" />
+    <line id="51" finToken="hrabe" finSampa="' h\ r a b E" rhymeScheme="X" stanzaId="13" />
+    <line id="52" finToken="ryky" finSampa="' r I k I" rhymeScheme="13" stanzaId="13" />
+    <line id="53" finToken="pána" finSampa="' p a: n a" rhymeScheme="X" stanzaId="14" />
+    <line id="54" finToken="hloží" finSampa="' h\ l o Z i:" rhymeScheme="14" stanzaId="14" />
+    <line id="55" finToken="kapli" finSampa="' k a p l I" rhymeScheme="X" stanzaId="14" />
+    <line id="56" finToken="Boží" finSampa="' b o Z i:" rhymeScheme="14" stanzaId="14" />
+  </poem>
+</data>

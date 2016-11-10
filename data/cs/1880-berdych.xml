@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+  <poem id="0001-0000-0000-0001-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="klid" finSampa="' k l I t" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="duši" finSampa="' d u S I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="uši" finSampa="' u S I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="hlas" finSampa="' h\ l a s" rhymeScheme="3" stanzaId="1" />
+    <line id="5" finToken="políbit" finSampa="' p o l i: b I t" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="zhas" finSampa="s x a s" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="políbit" finSampa="' p o l i: b I t" rhymeScheme="1" stanzaId="1" />
+    <line id="8" finToken="kamen" finSampa="' k a m E n" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="sedí" finSampa="' s E J\ i:" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="bledí" finSampa="' b l E J\ i:" rhymeScheme="5" stanzaId="2" />
+    <line id="11" finToken="vypráví" finSampa="' v I p r a: v i:" rhymeScheme="6" stanzaId="2" />
+    <line id="12" finToken="pramen" finSampa="' p r a m E n" rhymeScheme="4" stanzaId="2" />
+    <line id="13" finToken="bezpráví" finSampa="' b E s p r a: v i:" rhymeScheme="6" stanzaId="2" />
+    <line id="14" finToken="nemohou" finSampa="' n E m o h\ o_u" rhymeScheme="7" stanzaId="2" />
+    <line id="15" finToken="života" finSampa="' Z I v o t a" rhymeScheme="8" stanzaId="2" />
+    <line id="16" finToken="oči" finSampa="' o t_S I" rhymeScheme="9" stanzaId="3" />
+    <line id="17" finToken="oblohou" finSampa="' o b l o h\ o_u" rhymeScheme="7" stanzaId="3" />
+    <line id="18" finToken="vkročí" finSampa="' f k r o t_S i:" rhymeScheme="9" stanzaId="3" />
+    <line id="19" finToken="zívne" finSampa="' z i: v n E" rhymeScheme="10" stanzaId="3" />
+    <line id="20" finToken="ztroskotá" finSampa="' s t r o s k o t a:" rhymeScheme="8" stanzaId="3" />
+    <line id="21" finToken="plivne" finSampa="' p l I v n E" rhymeScheme="10" stanzaId="3" />
+    <line id="22" finToken="nezáživné" finSampa="' n E z a: Z I v n E:" rhymeScheme="10" stanzaId="3" />
+    <line id="23" finToken="života" finSampa="' Z I v o t a" rhymeScheme="8" stanzaId="3" />
+    <line id="24" finToken="mládí" finSampa="' m l a: J\ i:" rhymeScheme="11" stanzaId="3" />
+    <line id="25" finToken="mlčící" finSampa="' m l= t_S i: t_s i:" rhymeScheme="12" stanzaId="3" />
+    <line id="26" finToken="kamarádi" finSampa="' k a m a r a: J\ I" rhymeScheme="11" stanzaId="3" />
+    <line id="27" finToken="hrčící" finSampa="' h\ r= t_S i: t_s i:" rhymeScheme="12" stanzaId="3" />
+    <line id="28" finToken="šera" finSampa="' S E r a" rhymeScheme="13" stanzaId="4" />
+    <line id="29" finToken="doutnají" finSampa="' d o_u t n a j i:" rhymeScheme="14" stanzaId="4" />
+    <line id="30" finToken="večera" finSampa="' v E t_S E r a" rhymeScheme="13" stanzaId="4" />
+    <line id="31" finToken="vzrůstají" finSampa="' v z r u: s t a j i:" rhymeScheme="14" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0002-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="ukolébá" finSampa="' u k o l E: b a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="nasytí" finSampa="' n a s I c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="chleba" finSampa="' x l E b a" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="zasvítí" finSampa="' z a s v i: c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="srdce" finSampa="' s r= t t_s E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="váš" finSampa="v a: S" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="ruce" finSampa="' r u t_s E" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="Otčenáš" finSampa="' o t t_S E n a: S" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="jinam" finSampa="' j I n a m" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="moc" finSampa="' m o t_s" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="připomínám" finSampa="' p P\ I p o m i: n a: m" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="noc" finSampa="' n o t_s" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0003-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="rozbíhaly" finSampa="' r o z b i: h\ a l I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="mraky" finSampa="' m r a k I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="skály" finSampa="' s k a: l I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="zázraky" finSampa="' z a: z r a k I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="třáslo" finSampa="' t P\ a: s l o" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="ochrannou" finSampa="' o x r a n o_u" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="zhaslo" finSampa="' s x a s l o" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="ránou" finSampa="' r a: n o_u" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="námi" finSampa="' n a: m I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="moc" finSampa="m o t_s" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="vodami" finSampa="' v o d a m I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="noc" finSampa="' n o t_s" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0004-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="žízni" finSampa="' Z i: z J I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="studenou" finSampa="' s t u d E n o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="vyzní" finSampa="' v I z J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="Tvou" finSampa="t v o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="matek" finSampa="' m a t E k" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="stuleny" finSampa="' s t u l E n I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="zmatek" finSampa="' z m a t E k" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="kameny" finSampa="' k a m E n I" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="mešká" finSampa="' m E S k a:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="přitiskl" finSampa="' p P\ I c I s k l=" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="těžká" finSampa="' c E S k a:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="vytryskl" finSampa="' v I t r I s k l=" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="kamen" finSampa="' k a m E n" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="poprvé" finSampa="' p o p r= v E:" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="zmámen" finSampa="' z m a: m E n" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="teprve" finSampa="' t E p r= v E" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="žízni" finSampa="' Z i: z J I" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="studenou" finSampa="' s t u d E n o_u" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="vyzní" finSampa="' v I z J i:" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="zdviženou" finSampa="' z d v I Z E n o_u" rhymeScheme="10" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0005-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="dlaně" finSampa="' d l a J E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="dotýká" finSampa="' d o t i: k a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="ně" finSampa="J E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="veliká" finSampa="' v E l I k a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="se" finSampa="s E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="zkrvaví" finSampa="' s k r= v a v i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="míse" finSampa="' m i: s E" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="ví" finSampa="' v i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="hladí" finSampa="' h\ l a J\ i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="hajinká" finSampa="' h\ a j I n k a:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="mládí" finSampa="' m l a: J\ i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="papínka" finSampa="' p a p i: n k a" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="zvoní" finSampa="' z v o J i:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="spjat" finSampa="' s p j a t" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="honí" finSampa="' h\ o J i:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="snad" finSampa="s n a t" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="kvítí" finSampa="' k v i: c i:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="je" finSampa="j E" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="svítí" finSampa="' s v i: c i:" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="je" finSampa="j E" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="ořem" finSampa="' o P\ E m" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="provazy" finSampa="' p r o v a z I" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="hořem" finSampa="' h\ o P\ E m" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="prorazí" finSampa="' p r o r a z i:" rhymeScheme="12" stanzaId="6" />
+  </poem>
+  <poem id="0001-0000-0000-0006-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="Slunci" finSampa="' s l u n t_s I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="nebe" finSampa="' n E b E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="život" finSampa="' Z I v o t" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="sebe" finSampa="' s E b E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="časem" finSampa="' t_S a s E m" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="bolet" finSampa="' b o l E t" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="časem" finSampa="' t_S a s E m" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="let" finSampa="' l E t" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="táhli" finSampa="' t a: h\ l I" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="kroku" finSampa="' k r o k u" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="sebou" finSampa="' s E b o_u" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="roků" finSampa="' r o k u:" rhymeScheme="3" stanzaId="3" />
+    <line id="13" finToken="touha" finSampa="' t o_u h\ a" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="plece" finSampa="' p l E t_s E" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="touha" finSampa="' t o_u h\ a" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="klece" finSampa="' k l E t_s E" rhymeScheme="4" stanzaId="4" />
+    <line id="17" finToken="šedým" finSampa="' S E d i: m" rhymeScheme="X" stanzaId="5" />
+    <line id="18" finToken="hložím" finSampa="' h\ l o Z i: m" rhymeScheme="5" stanzaId="5" />
+    <line id="19" finToken="vesele" finSampa="' v E s E l E" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="božím" finSampa="' b o Z i: m" rhymeScheme="5" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0007-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="bílá" finSampa="' b i: l a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zavzlyká" finSampa="' z a v z l I k a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="byla" finSampa="' b I l a" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="bílá" finSampa="' b i: l a:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="básníka" finSampa="' b a: s J i: k a" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="květem" finSampa="' k v j E t E m" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="vůně" finSampa="' v u: J E" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="světem" finSampa="' s v j E t E m" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="květem" finSampa="' k v j E t E m" rhymeScheme="3" stanzaId="2" />
+    <line id="10" finToken="nestůně" finSampa="' n E s t u: J E" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="žilo" finSampa="' Z I l o" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="odříká" finSampa="' o d P\ i: k a:" rhymeScheme="2" stanzaId="3" />
+    <line id="13" finToken="žilo" finSampa="' Z I l o" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="bylo" finSampa="' b I l o" rhymeScheme="5" stanzaId="3" />
+    <line id="15" finToken="utíká" finSampa="' u c i: k a:" rhymeScheme="2" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0008-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="stolu" finSampa="' s t o l u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="psí" finSampa="' p s i:" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="spolu" finSampa="' s p o l u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="víc" finSampa="v i: t_s" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="lože" finSampa="' l o Z E" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="tělem" finSampa="' c E l E m" rhymeScheme="X" stanzaId="2" />
+    <line id="7" finToken="Bože" finSampa="' b o Z E" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="svou" finSampa="s v o_u" rhymeScheme="X" stanzaId="2" />
+    <line id="9" finToken="bude" finSampa="' b u d E" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="mdlou" finSampa="' m d l o_u" rhymeScheme="X" stanzaId="3" />
+    <line id="11" finToken="všude" finSampa="' f S u d E" rhymeScheme="3" stanzaId="3" />
+    <line id="12" finToken="zdráv" finSampa="' z d r a: f" rhymeScheme="X" stanzaId="3" />
+    <line id="13" finToken="údy" finSampa="' u: d I" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="byl" finSampa="' b I l" rhymeScheme="X" stanzaId="4" />
+    <line id="15" finToken="pudy" finSampa="' p u d I" rhymeScheme="4" stanzaId="4" />
+    <line id="16" finToken="bestialní" finSampa="' b E s c I j a l J i:" rhymeScheme="X" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0009-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="druhu" finSampa="' d r u h\ u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="tuláků" finSampa="' t u l a: k u:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="žebráků" finSampa="' Z E b r a: k u:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="dobrodruhů" finSampa="' d o b r o d r u h\ u:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="končících" finSampa="' k o n t_S i: t_s i: x" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="holé" finSampa="' h\ o l E:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="kole" finSampa="' k o l E" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="tančících" finSampa="' t a n t_S i: t_s i: x" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="Pustá" finSampa="' p u s t a:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="tichu" finSampa="' c I x u" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="smíchu" finSampa="' s m i: x u" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="ústa" finSampa="' u: s t a" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="tudy" finSampa="' t u d I" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="zastavil" finSampa="' z a s t a v I l" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="promluvil" finSampa="' p r o m l u v I l" rhymeScheme="8" stanzaId="4" />
+    <line id="16" finToken="chudý" finSampa="' x u d i:" rhymeScheme="7" stanzaId="4" />
+    <line id="17" finToken="drahá" finSampa="' d r a h\ a:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="měl" finSampa="' m J E l" rhymeScheme="X" stanzaId="5" />
+    <line id="19" finToken="měl" finSampa="' m J E l" rhymeScheme="X" stanzaId="5" />
+    <line id="20" finToken="vraha" finSampa="' v r a h\ a" rhymeScheme="9" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0010-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="sálalo" finSampa="' s a: l a l o" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="slova" finSampa="' s l o v a" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="plakalo" finSampa="' p l a k a l o" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="znova" finSampa="' z n o v a" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="mlékem" finSampa="' m l E: k E m" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="smála" finSampa="' s m a: l a" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="okem" finSampa="' o k E m" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="hrála" finSampa="' h\ r a: l a" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="mělká" finSampa="' m J E l k a:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="rozdvojí" finSampa="' r o z d v o j i:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="velká" finSampa="' v E l k a:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="odkojí" finSampa="' o t k o j i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="sálalo" finSampa="' s a: l a l o" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="nová" finSampa="' n o v a:" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="plakalo" finSampa="' p l a k a l o" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="znova" finSampa="' z n o v a" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0011-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="těžké" finSampa="' c E S k E:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="bludičky" finSampa="' b l u J\ I t_S k I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="láska" finSampa="' l a: s k a" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="chudičký" finSampa="' x u J\ I t_S k i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="nes" finSampa="' n E s" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="matek" finSampa="' m a t E k" rhymeScheme="X" stanzaId="3" />
+    <line id="7" finToken="spal" finSampa="' s p a l" rhymeScheme="2" stanzaId="3" />
+    <line id="8" finToken="dálky" finSampa="' d a: l k I" rhymeScheme="X" stanzaId="3" />
+    <line id="9" finToken="vibroval" finSampa="' v I b r o v a l" rhymeScheme="2" stanzaId="3" />
+    <line id="10" finToken="nes" finSampa="n E s" rhymeScheme="X" stanzaId="4" />
+    <line id="11" finToken="vztekle" finSampa="' f s t E k l E" rhymeScheme="X" stanzaId="5" />
+    <line id="12" finToken="kovové" finSampa="' k o v o v E:" rhymeScheme="3" stanzaId="5" />
+    <line id="13" finToken="spjaly" finSampa="' s p j a l I" rhymeScheme="X" stanzaId="5" />
+    <line id="14" finToken="hrobové" finSampa="' h\ r o b o v E:" rhymeScheme="3" stanzaId="5" />
+    <line id="15" finToken="nes" finSampa="n E s" rhymeScheme="X" stanzaId="6" />
+  </poem>
+  <poem id="0001-0000-0000-0012-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="dolech" finSampa="' d o l E x" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="buší" finSampa="' b u S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="bolech" finSampa="' b o l E x" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="duši" finSampa="' d u S I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="pánu" finSampa="' p a: n u" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="ztracená" finSampa="' s t r a t_s E n a:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="hanu" finSampa="' h\ a n u" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="zelená" finSampa="' z E l E n a:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="veselý" finSampa="' v E s E l i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="blednou" finSampa="' b l E d n o_u" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="posteli" finSampa="' p o s t E l I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="jednou" finSampa="' j E d n o_u" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="dolech" finSampa="' d o l E x" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="širém" finSampa="' S I r E: m" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="bolech" finSampa="' b o l E x" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="vírem" finSampa="' v i: r E m" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0013-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="Země" finSampa="' z E m J E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="poselstvím" finSampa="' p o s E l s t v i: m" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="jemně" finSampa="' j E m J E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="panenstvím" finSampa="' p a n E n s t v i: m" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="proudy" finSampa="' p r o_u d I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="zahučí" finSampa="' z a h\ u t_S i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="hroudy" finSampa="' h\ r o_u d I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="náručí" finSampa="' n a: r u t_S i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="hloupý" finSampa="' h\ l o_u p i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="rty" finSampa="' r t I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="skoupí" finSampa="' s k o_u p i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="puberty" finSampa="' p u b E r t I" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="budu" finSampa="' b u d u" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="širokém" finSampa="' S I r o k E: m" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="údů" finSampa="' u: d u:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="jablkem" finSampa="' j a b l= k E m" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0014-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="celou" finSampa="' t_s E l o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="dveře" finSampa="' d v E P\ E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zkrvácelou" finSampa="' s k r= v a: t_s E l o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="důvěře" finSampa="' d u: v j E P\ E" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="zpíval" finSampa="' s p i: v a l" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="ulicí" finSampa="' u l I t_s i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="díval" finSampa="' J\ i: v a l" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="vábící" finSampa="' v a: b i: t_s i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="pluly" finSampa="' p l u l I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="snad" finSampa="s n a t" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="zažehnuly" finSampa="' z a Z E h\ n u l I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="kavalkád" finSampa="' k a v a l k a: t" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="ženy" finSampa="' Z E n I" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="svět" finSampa="' s v j E t" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="zatraceny" finSampa="' z a t r a t_s E n I" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="hned" finSampa="h\ n E t" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="tu" finSampa="t u" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="nedotek" finSampa="' n E d o t E k" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="svitu" finSampa="' s v I t u" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="nevěstek" finSampa="' n E v j E s t E k" rhymeScheme="10" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0015-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="Karnevalu" finSampa="' k a r n E v a l u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="dveří" finSampa="' d v E P\ i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="sálu" finSampa="' s a: l u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="kadeří" finSampa="' k a d E P\ i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="marně" finSampa="' m a r J E" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="bál" finSampa="' b a: l" rhymeScheme="4" stanzaId="1" />
+    <line id="7" finToken="dupárně" finSampa="' d u p a: r J E" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="debutoval" finSampa="' d E b u t o v a l" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="marně" finSampa="' m a r J E" rhymeScheme="3" stanzaId="1" />
+    <line id="10" finToken="autoři" finSampa="' a_u t o P\ I" rhymeScheme="5" stanzaId="1" />
+    <line id="11" finToken="jednotvárně" finSampa="' j E d n o t v a: r J E" rhymeScheme="3" stanzaId="1" />
+    <line id="12" finToken="umoří" finSampa="' u m o P\ i:" rhymeScheme="5" stanzaId="1" />
+    <line id="13" finToken="plní" finSampa="' p l= J i:" rhymeScheme="6" stanzaId="1" />
+    <line id="14" finToken="hřbitovy" finSampa="' h\ P\ b I t o v I" rhymeScheme="7" stanzaId="1" />
+    <line id="15" finToken="trní" finSampa="' t r= J i:" rhymeScheme="6" stanzaId="1" />
+    <line id="16" finToken="hrobový" finSampa="' h\ r o b o v i:" rhymeScheme="7" stanzaId="1" />
+    <line id="17" finToken="není" finSampa="' n E J i:" rhymeScheme="8" stanzaId="1" />
+    <line id="18" finToken="klekání" finSampa="' k l E k a: J i:" rhymeScheme="9" stanzaId="1" />
+    <line id="19" finToken="opojení" finSampa="' o p o j E J i:" rhymeScheme="8" stanzaId="1" />
+    <line id="20" finToken="pokání" finSampa="' p o k a: J i:" rhymeScheme="9" stanzaId="1" />
+    <line id="21" finToken="zničit" finSampa="' z J I t_S I t" rhymeScheme="10" stanzaId="1" />
+    <line id="22" finToken="dát" finSampa="' d a: t" rhymeScheme="11" stanzaId="1" />
+    <line id="23" finToken="vzklíčit" finSampa="' f s k l i: t_S I t" rhymeScheme="10" stanzaId="1" />
+    <line id="24" finToken="zobjímat" finSampa="' z o b j i: m a t" rhymeScheme="11" stanzaId="1" />
+  </poem>
+  <poem id="0001-0000-0000-0016-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="dlaně" finSampa="' d l a J E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="smavou" finSampa="' s m a v o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="odevzdaně" finSampa="' o d E v z d a J E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="hlavou" finSampa="' h\ l a v o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="vyčítala" finSampa="' v I t_S i: t a l a" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="mušelín" finSampa="' m u S E l i: n" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="stála" finSampa="' s t a: l a" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="klín" finSampa="' k l i: n" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="se" finSampa="s E" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="smál" finSampa="' s m a: l" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="rose" finSampa="' r o s E" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="dál" finSampa="d a: l" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="lehce" finSampa="' l E x t_s E" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="ulicí" finSampa="' u l I t_s i:" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="lebce" finSampa="' l E p t_s E" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="tulící" finSampa="' t u l i: t_s i:" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="spaly" finSampa="' s p a l I" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="utrápená" finSampa="' u t r a: p E n a:" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="rozštěkali" finSampa="' r o s S c E k a l I" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="opuštěná" finSampa="' o p u S c E n a:" rhymeScheme="10" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0017-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="neroztříští" finSampa="' n E r o s t P\ i: S c i:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="úskalí" finSampa="' u: s k a l i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="žili" finSampa="' Z I l I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="prospali" finSampa="' p r o s p a l I" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="se" finSampa="s E" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="hukotem" finSampa="' h\ u k o t E m" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="smíchu" finSampa="' s m i: x u" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="životem" finSampa="' Z I v o t E m" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="pláči" finSampa="' p l a: t_S I" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="nevděkem" finSampa="' n E v J\ E k E m" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="živořilo" finSampa="' Z I v o P\ I l o" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="člověkem" finSampa="' t_S l o v j E k E m" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0018-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="odpuštění" finSampa="' o t p u S c E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="řetězem" finSampa="' P\ E c E z E m" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="není" finSampa="' n E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="zem" finSampa="' z E m" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="hrubý" finSampa="' h\ r u b i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="pohladil" finSampa="' p o h\ l a J\ I l" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="zuby" finSampa="' z u b I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="nezradil" finSampa="' n E z r a J\ I l" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="bila" finSampa="' b I l a" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="psům" finSampa="' p s u: m" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="skryla" finSampa="' s k r I l a" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="nebesům" finSampa="' n E b E s u: m" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0019-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="muže" finSampa="' m u Z E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="žil" finSampa="' Z I l" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="vil" finSampa="' v I l" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="růže" finSampa="' r u: Z E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="dalo" finSampa="' d a l o" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="Ti" finSampa="c I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="zasvítí" finSampa="' z a s v i: c i:" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="málo" finSampa="' m a: l o" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="lože" finSampa="' l o Z E" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="zahřívá" finSampa="' z a h\ P\ i: v a:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="zazpívá" finSampa="' z a s p i: v a:" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="Bože" finSampa="' b o Z E" rhymeScheme="5" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0020-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="klid" finSampa="' k l I t" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="tragiky" finSampa="' t r a g I k I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="slavíky" finSampa="' s l a v i: k I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="klid" finSampa="' k l I t" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="smuteční" finSampa="' s m u t E t_S J i:" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="střeží" finSampa="' s t P\ E Z i:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="leží" finSampa="' l E Z i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="zní" finSampa="' z J i:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="Ave" finSampa="' a v E" rhymeScheme="4" stanzaId="3" />
+    <line id="10" finToken="opouští" finSampa="' o p o_u S c i:" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="tmavé" finSampa="' t m a v E:" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="rozpouští" finSampa="' r o s p o_u S c i:" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="andělé" finSampa="' a n J\ E l E:" rhymeScheme="6" stanzaId="4" />
+    <line id="14" finToken="země" finSampa="' z E m J E" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="mně" finSampa="m J E" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="nesměle" finSampa="' n E s m J E l E" rhymeScheme="6" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0021-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="hrází" finSampa="' h\ r a: z i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="magické" finSampa="' m a g I t_s k E:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="přechází" finSampa="' p P\ E x a: z i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="extási" finSampa="' E k s t a: s I" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="tragické" finSampa="' t r a g I t_s k E:" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="kolemjdoucí" finSampa="' k o l E m j d o_u t_s i:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="jsou" finSampa="' j s o_u" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="žhnoucí" finSampa="' Z h\ n o_u t_s i:" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="vroucí" finSampa="' v r o_u t_s i:" rhymeScheme="3" stanzaId="2" />
+    <line id="10" finToken="noblessou" finSampa="' n o b l E s o_u" rhymeScheme="4" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0022-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="pohoří" finSampa="' p o h\ o P\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hovoří" finSampa="' h\ o v o P\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="pláně" finSampa="' p l a: J E" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="líbají" finSampa="' l i: b a j i:" rhymeScheme="3" stanzaId="2" />
+    <line id="5" finToken="potají" finSampa="' p o t a j i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="ně" finSampa="J E" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="večera" finSampa="' v E t_S E r a" rhymeScheme="4" stanzaId="3" />
+    <line id="8" finToken="šera" finSampa="' S E r a" rhymeScheme="4" stanzaId="3" />
+    <line id="9" finToken="svádí" finSampa="' s v a: J\ i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="zarůsti" finSampa="' z a r u: s c I" rhymeScheme="6" stanzaId="4" />
+    <line id="11" finToken="odpustí" finSampa="' o t p u s c i:" rhymeScheme="6" stanzaId="4" />
+    <line id="12" finToken="Mládí" finSampa="' m l a: J\ i:" rhymeScheme="5" stanzaId="4" />
+    <line id="13" finToken="rána" finSampa="' r a: n a" rhymeScheme="7" stanzaId="5" />
+    <line id="14" finToken="zoraná" finSampa="' z o r a n a:" rhymeScheme="7" stanzaId="5" />
+    <line id="15" finToken="usnem" finSampa="' u s n E m" rhymeScheme="8" stanzaId="5" />
+    <line id="16" finToken="tam" finSampa="t a m" rhymeScheme="9" stanzaId="6" />
+    <line id="17" finToken="hrám" finSampa="' h\ r a: m" rhymeScheme="9" stanzaId="6" />
+    <line id="18" finToken="dusnem" finSampa="' d u s n E m" rhymeScheme="8" stanzaId="6" />
+    <line id="19" finToken="pohoří" finSampa="' p o h\ o P\ i:" rhymeScheme="10" stanzaId="7" />
+    <line id="20" finToken="ponoří" finSampa="' p o n o P\ i:" rhymeScheme="10" stanzaId="7" />
+    <line id="21" finToken="skloní" finSampa="' s k l o J i:" rhymeScheme="11" stanzaId="7" />
+    <line id="22" finToken="umlká" finSampa="' u m l= k a:" rhymeScheme="12" stanzaId="8" />
+    <line id="23" finToken="lká" finSampa="' l k a:" rhymeScheme="12" stanzaId="8" />
+    <line id="24" finToken="roní" finSampa="' r o J i:" rhymeScheme="11" stanzaId="8" />
+  </poem>
+  <poem id="0001-0000-0000-0023-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="východě" finSampa="' v i: x o J\ E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="půvabu" finSampa="' p u: v a b u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="vodě" finSampa="' v o J\ E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="hedvábu" finSampa="' h\ E d v a: b u" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="dosud" finSampa="' d o s u t" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="přemítat" finSampa="' p P\ E m i: t a t" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="osud" finSampa="' o s u t" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="aromat" finSampa="' a r o m a t" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="zdvihne" finSampa="' z d v I h\ n E" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="daleka" finSampa="' d a l E k a" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="tíhne" finSampa="' c i: h\ n E" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="odtéká" finSampa="' o t E: k a:" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0024-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="rosy" finSampa="' r o s I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="dnem" finSampa="' d n E m" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="záhadném" finSampa="' z a: h\ a d n E: m" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="prosí" finSampa="' p r o s i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="spolu" finSampa="' s p o l u" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="zapadnem" finSampa="' z a p a d n E m" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="snem" finSampa="' s n E m" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="bolů" finSampa="' b o l u:" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="Zemi" finSampa="' z E m I" rhymeScheme="4" stanzaId="3" />
+    <line id="10" finToken="strojí" finSampa="' s t r o j i:" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="Tvojí" finSampa="' t v o j i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="rozkošemi" finSampa="' r o s k o S E m I" rhymeScheme="4" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0025-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="zpíval" finSampa="' s p i: v a l" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="lež" finSampa="' l E S" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="rival" finSampa="' r I v a l" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="též" finSampa="t E: S" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="znavil" finSampa="' z n a v I l" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="též" finSampa="t E: S" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="pravil" finSampa="' p r a v I l" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="lež" finSampa="' l E S" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="byla" finSampa="' b I l a" rhymeScheme="4" stanzaId="3" />
+    <line id="10" finToken="snem" finSampa="' s n E m" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="síla" finSampa="' s i: l a" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="vzdorujem" finSampa="' v z d o r u j E m" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="byla" finSampa="' b I l a" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="znát" finSampa="' z n a: t" rhymeScheme="6" stanzaId="4" />
+    <line id="15" finToken="ukonejšila" finSampa="' u k o n E j S I l a" rhymeScheme="4" stanzaId="4" />
+    <line id="16" finToken="lhát" finSampa="' l h\ a: t" rhymeScheme="6" stanzaId="4" />
+    <line id="17" finToken="zpíval" finSampa="' s p i: v a l" rhymeScheme="7" stanzaId="5" />
+    <line id="18" finToken="lež" finSampa="' l E S" rhymeScheme="8" stanzaId="5" />
+    <line id="19" finToken="rival" finSampa="' r I v a l" rhymeScheme="7" stanzaId="5" />
+    <line id="20" finToken="též" finSampa="t E: S" rhymeScheme="8" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0026-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="kráse" finSampa="' k r a: s E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="otvírá" finSampa="' o t v i: r a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="spáse" finSampa="' s p a: s E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="obírá" finSampa="' o b i: r a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="vábí" finSampa="' v a: b i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="si" finSampa="s I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="hedvábí" finSampa="' h\ E d v a: b i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="bezhlasý" finSampa="' b E s x l a s i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="pěna" finSampa="' p j E n a" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="věříme" finSampa="' v j E P\ i: m E" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="Nazaréna" finSampa="' n a z a r E: n a" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="resumé" finSampa="' r E z I m E:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="drazí" finSampa="' d r a z i:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="zem" finSampa="' z E m" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="vrazi" finSampa="' v r a z I" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="příkladem" finSampa="' p P\ i: k l a d E m" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="žádné" finSampa="' Z a: d n E:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="květ" finSampa="' k v j E t" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="vadne" finSampa="' v a d n E" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="nerozkvet" finSampa="' n E r o s k v E t" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="sláva" finSampa="' s l a: v a" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="rád" finSampa="' r a: t" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="hlava" finSampa="' h\ l a v a" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="vyplakat" finSampa="' v I p l a k a t" rhymeScheme="12" stanzaId="6" />
+  </poem>
+  <poem id="0001-0000-0000-0027-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="nenavrátí" finSampa="' n E n a v r a: c i:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="stran" finSampa="' s t r a n" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="rozmetán" finSampa="' r o z m E t a: n" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="vrátí" finSampa="' v r a: c i:" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="jiný" finSampa="' j I n i:" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="rozpadly" finSampa="' r o s p a d l I" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="nezvadly" finSampa="' n E z v a d l I" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="jiný" finSampa="' j I n i:" rhymeScheme="X" stanzaId="2" />
+    <line id="9" finToken="krvavou" finSampa="' k r= v a v o_u" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="dokonáno" finSampa="' d o k o n a: n o" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="ráno" finSampa="' r a: n o" rhymeScheme="3" stanzaId="3" />
+    <line id="12" finToken="krvavou" finSampa="' k r= v a v o_u" rhymeScheme="X" stanzaId="3" />
+    <line id="13" finToken="vrátí" finSampa="' v r a: c i:" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="tradici" finSampa="' t r a J\ I t_s I" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="líci" finSampa="' l i: t_s I" rhymeScheme="4" stanzaId="4" />
+    <line id="16" finToken="vrátí" finSampa="' v r a: c i:" rhymeScheme="X" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0028-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="beru" finSampa="' b E r u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="kliku" finSampa="' k l I k u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="šeru" finSampa="' S E r u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="slavíků" finSampa="' s l a v i: k u:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="mnou" finSampa="m n o_u" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="paruce" finSampa="' p a r u t_s E" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="slavnou" finSampa="' s l a v n o_u" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="srdce" finSampa="' s r= t t_s E" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="bílá" finSampa="' b i: l a:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="doupěti" finSampa="' d o_u p j E c I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="naklonila" finSampa="' n a k l o J I l a" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="objetí" finSampa="' o b j E c i:" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0029-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="tuší" finSampa="' t u S i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="duší" finSampa="' d u S i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="duší" finSampa="' d u S i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="prudšími" finSampa="' p r u t S i: m I" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="žilce" finSampa="' Z I l t_s E" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="krve" finSampa="' k r= v E" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="chvilce" finSampa="' x v I l t_s E" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="poprvé" finSampa="' p o p r= v E:" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="něhu" finSampa="' J E h\ u" rhymeScheme="4" stanzaId="3" />
+    <line id="10" finToken="života" finSampa="' Z I v o t a" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="břehů" finSampa="' b P\ E h\ u:" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="ztroskotá" finSampa="' s t r o s k o t a:" rhymeScheme="5" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0030-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="si" finSampa="s I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="ramena" finSampa="' r a m E n a" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="visí" finSampa="' v I s i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="kamenná" finSampa="' k a m E n a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="dny" finSampa="' d n I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="muce" finSampa="' m u t_s E" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="průhledný" finSampa="' p r u: h\ l E d n i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="ruce" finSampa="' r u t_s E" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="prudkém" finSampa="' p r u t k E: m" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="nás" finSampa="n a: s" rhymeScheme="6" stanzaId="2" />
+    <line id="11" finToken="smutkem" finSampa="' s m u t k E m" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="Satanas" finSampa="' s a t a n a s" rhymeScheme="6" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0031-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="spláchne" finSampa="' s p l a: x n E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vzlykem" finSampa="' v z l I k E m" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="máchne" finSampa="' m a: x n E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="bojovníkem" finSampa="' b o j o v J i: k E m" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="mojí" finSampa="' m o j i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="tklivý" finSampa="' t k l I v i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="boji" finSampa="' b o j I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="křiví" finSampa="' k P\ I v i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="lidé" finSampa="' l I d E:" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="dětinnou" finSampa="' J\ E c I n o_u" rhymeScheme="6" stanzaId="2" />
+    <line id="11" finToken="přijde" finSampa="' p P\ I j d E" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="zahynou" finSampa="' z a h\ I n o_u" rhymeScheme="6" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0032-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="Slunce" finSampa="' s l u n t_s E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="obilí" finSampa="' o b I l i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="korunce" finSampa="' k o r u n t_s E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="motýlí" finSampa="' m o t i: l i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="bály" finSampa="' b a: l I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="dní" finSampa="' d J i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="ssály" finSampa="' s a: l I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="poslední" finSampa="' p o s l E d J i:" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="odpočívá" finSampa="' o t p o t_S i: v a:" rhymeScheme="4" stanzaId="3" />
+    <line id="10" finToken="klid" finSampa="' k l I t" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="hřmít" finSampa="' h\ P\ m i: t" rhymeScheme="5" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0033-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="vracím" finSampa="' v r a t_s i: m" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="stín" finSampa="' s c i: n" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="ztrácím" finSampa="' s t r a: t_s i: m" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="Bolestín" finSampa="' b o l E s c i: n" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="matky" finSampa="' m a t k I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="stromy" finSampa="' s t r o m I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="sladký" finSampa="' s l a t k i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="svědomí" finSampa="' s v j E d o m i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="ještě" finSampa="' j E S c E" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="dlaní" finSampa="' d l a J i:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="deště" finSampa="' d E S c E" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="pokání" finSampa="' p o k a: J i:" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0034-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="bolesti" finSampa="' b o l E s c I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="štěstí" finSampa="' S c E s c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="mít" finSampa="' m i: t" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="dravé" finSampa="' d r a v E:" rhymeScheme="3" stanzaId="1" />
+    <line id="5" finToken="zdravé" finSampa="' z d r a v E:" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="bít" finSampa="' b i: t" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="mnohém" finSampa="' m n o h\ E: m" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="bohem" finSampa="' b o h\ E m" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="jmen" finSampa="' j m E n" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="tuhá" finSampa="' t u h\ a:" rhymeScheme="6" stanzaId="2" />
+    <line id="11" finToken="druha" finSampa="' d r u h\ a" rhymeScheme="6" stanzaId="2" />
+    <line id="12" finToken="kmen" finSampa="' k m E n" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="ratolesti" finSampa="' r a t o l E s c I" rhymeScheme="7" stanzaId="3" />
+    <line id="14" finToken="kvésti" finSampa="' k v E: s c I" rhymeScheme="7" stanzaId="3" />
+    <line id="15" finToken="mé" finSampa="m E:" rhymeScheme="8" stanzaId="3" />
+    <line id="16" finToken="zdravé" finSampa="' z d r a v E:" rhymeScheme="9" stanzaId="3" />
+    <line id="17" finToken="dravé" finSampa="' d r a v E:" rhymeScheme="9" stanzaId="3" />
+    <line id="18" finToken="nesklame" finSampa="' n E s k l a m E" rhymeScheme="8" stanzaId="3" />
+    <line id="19" finToken="bázně" finSampa="' b a: z J E" rhymeScheme="10" stanzaId="4" />
+    <line id="20" finToken="strázně" finSampa="' s t r a: z J E" rhymeScheme="10" stanzaId="4" />
+    <line id="21" finToken="hřmít" finSampa="' h\ P\ m i: t" rhymeScheme="11" stanzaId="4" />
+    <line id="22" finToken="bolesti" finSampa="' b o l E s c I" rhymeScheme="7" stanzaId="4" />
+    <line id="23" finToken="štěstí" finSampa="' S c E s c i:" rhymeScheme="7" stanzaId="4" />
+    <line id="24" finToken="bít" finSampa="' b i: t" rhymeScheme="11" stanzaId="4" />
+    <line id="25" finToken="bít" finSampa="' b i: t" rhymeScheme="11" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0035-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="ránu" finSampa="' r a: n u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="klid" finSampa="' k l I t" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="lánu" finSampa="' l a: n u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="políbit" finSampa="' p o l i: b I t" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="těla" finSampa="' c E l a" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="přivinout" finSampa="' p P\ I v I n o_u t" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="chtěla" finSampa="' x c E l a" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="pout" finSampa="' p o_u t" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="jen" finSampa="j E n" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="rozechvět" finSampa="' r o z E x v j E t" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="říjen" finSampa="' P\ i: j E n" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="let" finSampa="' l E t" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="krví" finSampa="' k r= v i:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="burácí" finSampa="' b u r a: t_s i:" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="zmrví" finSampa="' z m r= v i:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="sedláci" finSampa="' s E d l a: t_s I" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0036-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="vzpomínek" finSampa="' f s p o m i: n E k" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="lety" finSampa="' l E t I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="lék" finSampa="' l E: k" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="portréty" finSampa="' p o r t r E: t I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="vzdoru" finSampa="' v z d o r u" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="záměrů" finSampa="' z a: m J E r u:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="vzorů" finSampa="' v z o r u:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="závěru" finSampa="' z a: v j E r u" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="dříve" finSampa="' d P\ i: v E" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="dal" finSampa="' d a l" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="tklivé" finSampa="' t k l I v E:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="dal" finSampa="' d a l" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="bílé" finSampa="' b i: l E:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="se" finSampa="s E" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="rozpustilé" finSampa="' r o s p u s c I l E:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="se" finSampa="s E" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="kalí" finSampa="' k a l i:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="blín" finSampa="' b l i: n" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="milovali" finSampa="' m I l o v a l I" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="klín" finSampa="' k l i: n" rhymeScheme="10" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0037-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="chorý" finSampa="' x o r i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zasténá" finSampa="' z a s t E: n a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="mori" finSampa="' m o r I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="Chopina" finSampa="' S o p E: n a" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="dálky" finSampa="' d a: l k I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="zavzlykat" finSampa="' z a v z l I k a t" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="Katafalky" finSampa="' k a t a f a l k I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="řad" finSampa="' P\ a t" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="nevzkřísí" finSampa="' n E f s k P\ i: s i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="grandiosní" finSampa="' g r a n J\ I j o s J i:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="kulisy" finSampa="' k u l I s I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="dozní" finSampa="' d o z J i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="nerozsvěcí" finSampa="' n E r o s v j E t_s i:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="je" finSampa="' j E" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="věcí" finSampa="' v j E t_s i:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="přikryje" finSampa="' p P\ I k r I j E" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0038-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="lesů" finSampa="' l E s u:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="sám" finSampa="s a: m" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="nesu" finSampa="' n E s u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="dřímotám" finSampa="' d P\ i: m o t a: m" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="vane" finSampa="' v a n E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="přilákal" finSampa="' p P\ I l a: k a l" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="zotvírané" finSampa="' z o t v i: r a n E:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="vyplakal" finSampa="' v I p l a k a l" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="instinktivně" finSampa="' I n s c I n k c I v J E" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="uhodí" finSampa="' u h\ o J\ i:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="divně" finSampa="' J\ I v J E" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="odrodí" finSampa="' o d r o J\ i:" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0039-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="vřavy" finSampa="' v P\ a v I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="zasmušilém" finSampa="' z a s m u S I l E: m" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="doupěti" finSampa="' d o_u p j E c I" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="bezstarostně" finSampa="' b E s t a r o s t J E" rhymeScheme="X" stanzaId="1" />
+    <line id="5" finToken="mušek" finSampa="' m u S E k" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="byly" finSampa="' b I l I" rhymeScheme="X" stanzaId="1" />
+    <line id="7" finToken="táhla" finSampa="' t a: h\ l a" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="vise" finSampa="' v I s E" rhymeScheme="X" stanzaId="1" />
+    <line id="9" finToken="stříbro" finSampa="' s t P\ i: b r o" rhymeScheme="X" stanzaId="1" />
+    <line id="10" finToken="hrála" finSampa="' h\ r a: l a" rhymeScheme="X" stanzaId="2" />
+    <line id="11" finToken="pochody" finSampa="' p o x o d I" rhymeScheme="X" stanzaId="2" />
+    <line id="12" finToken="ránu" finSampa="' r a: n u" rhymeScheme="X" stanzaId="2" />
+    <line id="13" finToken="jitrům" finSampa="' j I t r u: m" rhymeScheme="X" stanzaId="2" />
+    <line id="14" finToken="kokrhal" finSampa="' k o k r= h\ a l" rhymeScheme="X" stanzaId="2" />
+    <line id="15" finToken="hrdlech" finSampa="' h\ r= d l E x" rhymeScheme="X" stanzaId="2" />
+    <line id="16" finToken="věží" finSampa="' v j E Z i:" rhymeScheme="X" stanzaId="2" />
+    <line id="17" finToken="prokletí" finSampa="' p r o k l E c i:" rhymeScheme="X" stanzaId="2" />
+    <line id="18" finToken="bylo" finSampa="' b I l o" rhymeScheme="X" stanzaId="2" />
+    <line id="19" finToken="víš" finSampa="' v i: S" rhymeScheme="X" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0040-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="žalmy" finSampa="' Z a l m I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="mi" finSampa="m I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="vzteklém" finSampa="' f s t E k l E: m" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="peklem" finSampa="' p E k l E m" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="smát" finSampa="' s m a: t" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="resumovat" finSampa="' r E s u m o v a t" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="cítím" finSampa="' t_s i: c i: m" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="žitím" finSampa="' Z I c i: m" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="mlčí" finSampa="' m l= t_S i:" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="chrčí" finSampa="' x r= t_S i:" rhymeScheme="5" stanzaId="2" />
+    <line id="11" finToken="smát" finSampa="' s m a: t" rhymeScheme="3" stanzaId="2" />
+    <line id="12" finToken="milovat" finSampa="' m I l o v a t" rhymeScheme="3" stanzaId="2" />
+    <line id="13" finToken="příklad" finSampa="' p P\ i: k l a t" rhymeScheme="6" stanzaId="3" />
+    <line id="14" finToken="třikrát" finSampa="' t P\ I k r a: t" rhymeScheme="6" stanzaId="3" />
+    <line id="15" finToken="tady" finSampa="' t a d I" rhymeScheme="7" stanzaId="3" />
+    <line id="16" finToken="hlady" finSampa="' h\ l a d I" rhymeScheme="7" stanzaId="3" />
+    <line id="17" finToken="nepochopil" finSampa="' n E p o x o p I l" rhymeScheme="8" stanzaId="3" />
+    <line id="18" finToken="propil" finSampa="' p r o p I l" rhymeScheme="8" stanzaId="3" />
+    <line id="19" finToken="smál" finSampa="' s m a: l" rhymeScheme="9" stanzaId="3" />
+    <line id="20" finToken="resumoval" finSampa="' r E s u m o v a l" rhymeScheme="9" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0041-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="opuštěné" finSampa="' o p u S c E n E:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zaloudal" finSampa="' z a l o_u d a l" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="neluštěné" finSampa="' n E l u S c E n E:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="stál" finSampa="' s t a: l" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="ztrávil" finSampa="' s t r a: v I l" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="mží" finSampa="' m Z i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="plavil" finSampa="' p l a v I l" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="rozhemží" finSampa="' r o s x E m Z i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="stál" finSampa="' s t a: l" rhymeScheme="2" stanzaId="3" />
+    <line id="10" finToken="hlavu" finSampa="' h\ l a v u" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="plál" finSampa="' p l a: l" rhymeScheme="2" stanzaId="3" />
+    <line id="12" finToken="splavu" finSampa="' s p l a v u" rhymeScheme="5" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0042-0000" author="Berdych, Kamil *1885" period="1880">
+    <line id="1" finToken="stonat" finSampa="' s t o n a t" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="kdesi" finSampa="' g d E s I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="robinsonád" finSampa="' r o b I n s o n a: t" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="děsí" finSampa="' J\ E s i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="nálad" finSampa="' n a: l a t" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="skal" finSampa="' s k a l" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="tomu" finSampa="' t o m u" rhymeScheme="X" stanzaId="1" />
+    <line id="8" finToken="roztřískal" finSampa="' r o s t P\ i: s k a l" rhymeScheme="3" stanzaId="1" />
+    <line id="9" finToken="vzala" finSampa="' v z a l a" rhymeScheme="X" stanzaId="1" />
+    <line id="10" finToken="vod" finSampa="' v o t" rhymeScheme="4" stanzaId="1" />
+    <line id="11" finToken="si" finSampa="s I" rhymeScheme="X" stanzaId="1" />
+    <line id="12" finToken="národ" finSampa="' n a: r o t" rhymeScheme="4" stanzaId="1" />
+    <line id="13" finToken="břehu" finSampa="' b P\ E h\ u" rhymeScheme="X" stanzaId="1" />
+    <line id="14" finToken="kraj" finSampa="' k r a j" rhymeScheme="5" stanzaId="1" />
+    <line id="15" finToken="nevolníků" finSampa="' n E v o l J i: k u:" rhymeScheme="X" stanzaId="1" />
+    <line id="16" finToken="báj" finSampa="' b a: j" rhymeScheme="5" stanzaId="1" />
+    <line id="17" finToken="prosby" finSampa="' p r o z b I" rhymeScheme="X" stanzaId="1" />
+    <line id="18" finToken="front" finSampa="' f r o n t" rhymeScheme="6" stanzaId="1" />
+    <line id="19" finToken="ještě" finSampa="' j E S c E" rhymeScheme="X" stanzaId="1" />
+    <line id="20" finToken="horizont" finSampa="' h\ o r I z o n t" rhymeScheme="6" stanzaId="1" />
+    <line id="21" finToken="stonat" finSampa="' s t o n a t" rhymeScheme="7" stanzaId="1" />
+    <line id="22" finToken="pěny" finSampa="' p j E n I" rhymeScheme="8" stanzaId="1" />
+    <line id="23" finToken="robinsonád" finSampa="' r o b I n s o n a: t" rhymeScheme="7" stanzaId="1" />
+    <line id="24" finToken="karantény" finSampa="' k a r a n t E: n I" rhymeScheme="8" stanzaId="1" />
+  </poem>
+</data>

@@ -1,0 +1,2125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+  <poem id="0001-0000-0000-0001-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="cesty" finSampa="' t_s E s t I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="peřestý" finSampa="' p E P\ E s t i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="básníka" finSampa="' b a: s J i: k a" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="zamyká" finSampa="' z a m I k a:" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="rozdmýchal" finSampa="' r o z d m i: x a l" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="dál" finSampa="d a: l" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="netuší" finSampa="' n E t u S i:" rhymeScheme="4" stanzaId="4" />
+    <line id="8" finToken="duší" finSampa="' d u S i:" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0002-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="stará" finSampa="' s t a r a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="spolu" finSampa="' s p o l u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="jara" finSampa="' j a r a" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="stvolu" finSampa="' s t v o l u" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="stále" finSampa="' s t a: l E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="pláti" finSampa="' p l a: c I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="neskonale" finSampa="' n E s k o n a l E" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="vrátí" finSampa="' v r a: c i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="ni" finSampa="J I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="pýše" finSampa="' p i: S E" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="zapadání" finSampa="' z a p a d a: J i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="tiše" finSampa="' c I S E" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0003-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="létu" finSampa="' l E: t u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="mládí" finSampa="' m l a: J\ i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="světů" finSampa="' s v j E t u:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="rádi" finSampa="' r a: J\ I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="údolu" finSampa="' u: d o l u" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="volně" finSampa="' v o l J E" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="vrcholů" finSampa="' v r= x o l u:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="bolně" finSampa="' b o l J E" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="naklání" finSampa="' n a k l a: J i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="kývá" finSampa="' k i: v a:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="zachrání" finSampa="' z a x r a: J i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="dívá" finSampa="' J\ i: v a:" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0004-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="šel" finSampa="' S E l" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="spící" finSampa="' s p i: t_s i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="monotonní" finSampa="' m o n o t o n J i:" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="šeptající" finSampa="' S E p t a j i: t_s i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="nenašel" finSampa="' n E n a S E l" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="zapadlé" finSampa="' z a p a d l E:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="sena" finSampa="' s E n a" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="se" finSampa="s E" rhymeScheme="X" stanzaId="2" />
+    <line id="9" finToken="rozložená" finSampa="' r o z l o Z E n a:" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="mdle" finSampa="m d l E" rhymeScheme="3" stanzaId="2" />
+    <line id="11" finToken="probuzen" finSampa="' p r o b u z E n" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="křoví" finSampa="' k P\ o v i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="sem" finSampa="' s E m" rhymeScheme="X" stanzaId="3" />
+    <line id="14" finToken="chorálový" finSampa="' x o r a: l o v i:" rhymeScheme="6" stanzaId="3" />
+    <line id="15" finToken="sen" finSampa="' s E n" rhymeScheme="5" stanzaId="3" />
+    <line id="16" finToken="pláč" finSampa="' p l a: t_S" rhymeScheme="7" stanzaId="4" />
+    <line id="17" finToken="moje" finSampa="' m o j E" rhymeScheme="8" stanzaId="4" />
+    <line id="18" finToken="sobě" finSampa="' s o b j E" rhymeScheme="X" stanzaId="4" />
+    <line id="19" finToken="svoje" finSampa="' s v o j E" rhymeScheme="8" stanzaId="4" />
+    <line id="20" finToken="nač" finSampa="n a t_S" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0005-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="kdysi" finSampa="' g d I s I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="cest" finSampa="' t_s E s t" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="visí" finSampa="' v I s i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="hvězd" finSampa="' h\ v j E s t" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="posud" finSampa="' p o s u t" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="pnout" finSampa="' p n o_u t" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="osud" finSampa="' o s u t" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="kout" finSampa="' k o_u t" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="jednou" finSampa="' j E d n o_u" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="dál" finSampa="d a: l" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="zblednou" finSampa="' z b l E d n o_u" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="žal" finSampa="' Z a l" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="rádi" finSampa="' r a: J\ I" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="víc" finSampa="v i: t_s" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="mládí" finSampa="' m l a: J\ i:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="vstříc" finSampa="f s t P\ i: t_s" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="stínů" finSampa="' s c i: n u:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="vzplál" finSampa="' f s p l a: l" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="klínu" finSampa="' k l i: n u" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="dál" finSampa="d a: l" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="jitra" finSampa="' j I t r a" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="kvést" finSampa="' k v E: s t" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="nitra" finSampa="' J I t r a" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="hvězd" finSampa="' h\ v j E s t" rhymeScheme="12" stanzaId="6" />
+  </poem>
+  <poem id="0001-0000-0000-0006-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="tebe" finSampa="' t E b E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="náručí" finSampa="' n a: r u t_S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="nebe" finSampa="' n E b E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="zaskučí" finSampa="' z a s k u t_S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="ně" finSampa="J E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="zpěv" finSampa="' s p j E f" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="maně" finSampa="' m a J E" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="koroptev" finSampa="' k o r o p t E f" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="si" finSampa="s I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="jasanu" finSampa="' j a s a n u" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="nepoděsí" finSampa="' n E p o J\ E s i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="snů" finSampa="' s n u:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="tu" finSampa="t u" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="doplálo" finSampa="' d o p l a: l o" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="květů" finSampa="' k v j E t u:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="zůstalo" finSampa="' z u: s t a l o" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="nenavrátí" finSampa="' n E n a v r a: c i:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="chvíli" finSampa="' x v i: l I" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="ztratí" finSampa="' s t r a c i:" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="napili" finSampa="' n a p I l I" rhymeScheme="10" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0007-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="stará" finSampa="' s t a r a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="jara" finSampa="' j a r a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="les" finSampa="' l E s" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="háji" finSampa="' h\ a: j I" rhymeScheme="3" stanzaId="1" />
+    <line id="5" finToken="nes" finSampa="' n E s" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="šalmaji" finSampa="' S a l m a j I" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="rozepěl" finSampa="' r o z E p j E l" rhymeScheme="4" stanzaId="1" />
+    <line id="8" finToken="vjel" finSampa="' v j E l" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="stála" finSampa="' s t a: l a" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="hrála" finSampa="' h\ r a: l a" rhymeScheme="5" stanzaId="2" />
+    <line id="11" finToken="prosvítala" finSampa="' p r o s v i: t a l a" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="tměl" finSampa="' t m J E l" rhymeScheme="4" stanzaId="2" />
+    <line id="13" finToken="chvěl" finSampa="' x v j E l" rhymeScheme="4" stanzaId="3" />
+    <line id="14" finToken="zpět" finSampa="s p j E t" rhymeScheme="6" stanzaId="3" />
+    <line id="15" finToken="svadla" finSampa="' s v a d l a" rhymeScheme="7" stanzaId="3" />
+    <line id="16" finToken="květ" finSampa="' k v j E t" rhymeScheme="6" stanzaId="3" />
+    <line id="17" finToken="padla" finSampa="' p a d l a" rhymeScheme="7" stanzaId="3" />
+    <line id="18" finToken="jara" finSampa="' j a r a" rhymeScheme="8" stanzaId="3" />
+    <line id="19" finToken="stará" finSampa="' s t a r a:" rhymeScheme="8" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0008-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="snivá" finSampa="' s J I v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="zamlžená" finSampa="' z a m l= Z E n a:" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="sténá" finSampa="' s t E: n a:" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="dívá" finSampa="' J\ i: v a:" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="snivá" finSampa="' s J I v a:" rhymeScheme="1" stanzaId="2" />
+    <line id="7" finToken="zníti" finSampa="' z J i: c I" rhymeScheme="3" stanzaId="3" />
+    <line id="8" finToken="bití" finSampa="' b I c i:" rhymeScheme="3" stanzaId="3" />
+    <line id="9" finToken="spilá" finSampa="' s p I l a:" rhymeScheme="4" stanzaId="3" />
+    <line id="10" finToken="bílá" finSampa="' b i: l a:" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="spíná" finSampa="' s p i: n a:" rhymeScheme="5" stanzaId="4" />
+    <line id="12" finToken="Oněgina" finSampa="' o J E g I n a" rhymeScheme="5" stanzaId="4" />
+    <line id="13" finToken="stlívá" finSampa="' s t l i: v a:" rhymeScheme="1" stanzaId="4" />
+    <line id="14" finToken="snivá" finSampa="' s J I v a:" rhymeScheme="1" stanzaId="4" />
+    <line id="15" finToken="touze" finSampa="' t o_u z E" rhymeScheme="X" stanzaId="5" />
+    <line id="16" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="1" stanzaId="5" />
+  </poem>
+  <poem id="0001-0000-0000-0009-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="odpůldni" finSampa="' o t p u: l d J I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="padá" finSampa="' p a d a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="poslední" finSampa="' p o s l E d J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="vkrádá" finSampa="' f k r a: d a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="ráda" finSampa="' r a: d a" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="zoufalý" finSampa="' z o_u f a l i:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="zbývá" finSampa="' z b i: v a:" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="doufali" finSampa="' d o_u f a l I" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="splývá" finSampa="' s p l i: v a:" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="stmívá" finSampa="' s t m i: v a:" rhymeScheme="4" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0010-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="vzplane" finSampa="' f s p l a n E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="květ" finSampa="' k v j E t" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="rozsápané" finSampa="' r o s a: p a n E:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="vmet" finSampa="v m E t" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="velká" finSampa="' v E l k a:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="dovedu" finSampa="' d o v E d u" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="nelká" finSampa="' n E l k a:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="posledu" finSampa="' p o s l E d u" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="docela" finSampa="' d o t_s E l a" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="dívá" finSampa="' J\ i: v a:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="shořela" finSampa="' s x o P\ E l a" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="příliš" finSampa="' p P\ i: l I S" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="náš" finSampa="n a: S" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="schýlíš" finSampa="' s x i: l i: S" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="nepoznáš" finSampa="' n E p o z n a: S" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0011-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="tělo" finSampa="' c E l o" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="věšel" finSampa="' v j E S E l" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="chvělo" finSampa="' x v j E l o" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="nešel" finSampa="' n E S E l" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="duší" finSampa="' d u S i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="nyní" finSampa="' n I J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="hluší" finSampa="' h\ l u S i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="skříní" finSampa="' s k P\ i: J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="vryla" finSampa="' v r I l a" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="mně" finSampa="m J E" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="zbylá" finSampa="' z b I l a:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="temně" finSampa="' t E m J E" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0012-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="pošlapány" finSampa="' p o S l a p a: n I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zvolna" finSampa="' z v o l n a" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="brány" finSampa="' b r a: n I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="bolná" finSampa="' b o l n a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="zvolna" finSampa="' z v o l n a" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="opustili" finSampa="' o p u s c I l I" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="bolná" finSampa="' b o l n a:" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="bílý" finSampa="' b i: l i:" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="opustili" finSampa="' o p u s c I l I" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="si" finSampa="s I" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="bílý" finSampa="' b i: l i:" rhymeScheme="3" stanzaId="3" />
+    <line id="12" finToken="kdesi" finSampa="' g d E s I" rhymeScheme="4" stanzaId="3" />
+    <line id="13" finToken="záhy" finSampa="' z a: h\ I" rhymeScheme="5" stanzaId="4" />
+    <line id="14" finToken="varhany" finSampa="' v a r h\ a n I" rhymeScheme="6" stanzaId="4" />
+    <line id="15" finToken="práhy" finSampa="' p r a: h\ I" rhymeScheme="5" stanzaId="4" />
+    <line id="16" finToken="pošlapány" finSampa="' p o S l a p a: n I" rhymeScheme="6" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0013-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="spi" finSampa="' s p I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="žádné" finSampa="' Z a: d n E:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="vadne" finSampa="' v a d n E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="padá" finSampa="' p a d a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="spi" finSampa="' s p I" rhymeScheme="X" stanzaId="1" />
+    <line id="6" finToken="spi" finSampa="' s p I" rhymeScheme="X" stanzaId="2" />
+    <line id="7" finToken="tratí" finSampa="' t r a c i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="nenavrátí" finSampa="' n E n a v r a: c i:" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="ráda" finSampa="' r a: d a" rhymeScheme="2" stanzaId="2" />
+    <line id="10" finToken="spi" finSampa="' s p I" rhymeScheme="X" stanzaId="2" />
+    <line id="11" finToken="spi" finSampa="' s p I" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="zítra" finSampa="' z i: t r a" rhymeScheme="4" stanzaId="3" />
+    <line id="13" finToken="nitra" finSampa="' J I t r a" rhymeScheme="4" stanzaId="3" />
+    <line id="14" finToken="mladá" finSampa="' m l a d a:" rhymeScheme="2" stanzaId="3" />
+    <line id="15" finToken="spi" finSampa="' s p I" rhymeScheme="X" stanzaId="3" />
+    <line id="16" finToken="spi" finSampa="' s p I" rhymeScheme="X" stanzaId="4" />
+    <line id="17" finToken="opadané" finSampa="' o p a d a n E:" rhymeScheme="5" stanzaId="4" />
+    <line id="18" finToken="vane" finSampa="' v a n E" rhymeScheme="5" stanzaId="4" />
+    <line id="19" finToken="ráda" finSampa="' r a: d a" rhymeScheme="2" stanzaId="4" />
+    <line id="20" finToken="spi" finSampa="' s p I" rhymeScheme="X" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0014-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="svou" finSampa="s v o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="bolavou" finSampa="' b o l a v o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="mlh" finSampa="' m l= x" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="zvlh" finSampa="z v l= x" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="anděli" finSampa="' a n J\ E l I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="viděli" finSampa="' v I J\ E l I" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="objetí" finSampa="' o b j E c i:" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="prokletí" finSampa="' p r o k l E c i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="splněna" finSampa="' s p l= J E n a" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="zasténá" finSampa="' z a s t E: n a:" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="stlumený" finSampa="' s t l u m E n i:" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="ztracený" finSampa="' s t r a t_s E n i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="dnes" finSampa="d n E s" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="dopověz" finSampa="' d o p o v j E s" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="jasmínu" finSampa="' j a s m i: n u" rhymeScheme="8" stanzaId="4" />
+    <line id="16" finToken="zahynu" finSampa="' z a h\ I n u" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0015-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="bude" finSampa="' b u d E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hrudi" finSampa="' h\ r u J\ I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="rudé" finSampa="' r u d E:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="zbudí" finSampa="' z b u J\ i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="noci" finSampa="' n o t_s I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="písní" finSampa="' p i: s J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="pomoci" finSampa="' p o m o t_s I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="tísní" finSampa="' c i: s J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="skříží" finSampa="' s k P\ i: Z i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="požehnání" finSampa="' p o Z E h\ n a: J i:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="tíží" finSampa="' c i: Z i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="odříkání" finSampa="' o d P\ i: k a: J i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="vzplane" finSampa="' f s p l a n E" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="vlahá" finSampa="' v l a h\ a:" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="požehnané" finSampa="' p o Z E h\ n a n E:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="drahá" finSampa="' d r a h\ a:" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0016-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="chvělo" finSampa="' x v j E l o" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="šel" finSampa="' S E l" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zabělelo" finSampa="' z a b j E l E l o" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="skvěl" finSampa="' s k v j E l" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="lukami" finSampa="' l u k a m I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="modlila" finSampa="' m o d l I l a" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="vzpomínkami" finSampa="' f s p o m i: n k a m I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="zalila" finSampa="' z a l I l a" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="náhle" finSampa="' n a: h\ l E" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="plakala" finSampa="' p l a k a l a" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="neobsáhlé" finSampa="' n E o p s a: h\ l E:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="čekala" finSampa="' t_S E k a l a" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="mně" finSampa="m J E" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="jásavě" finSampa="' j a: s a v j E" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="země" finSampa="' z E m J E" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="záplavě" finSampa="' z a: p l a v j E" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0017-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="květů" finSampa="' k v j E t u:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="tvou" finSampa="t v o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zvonky" finSampa="' z v o n k I" rhymeScheme="3" stanzaId="1" />
+    <line id="4" finToken="hlavou" finSampa="' h\ l a v o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="anemonky" finSampa="' a n E m o n k I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="dal" finSampa="' d a l" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="tu" finSampa="t u" rhymeScheme="1" stanzaId="2" />
+    <line id="8" finToken="povídal" finSampa="' p o v i: d a l" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="spaly" finSampa="' s p a l I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="hrudi" finSampa="' h\ r u J\ I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="dáli" finSampa="' d a: l I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="plály" finSampa="' p l a: l I" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="ptali" finSampa="' p t a l I" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="probudí" finSampa="' p r o b u J\ i:" rhymeScheme="6" stanzaId="3" />
+    <line id="15" finToken="anemonky" finSampa="' a n E m o n k I" rhymeScheme="X" stanzaId="4" />
+    <line id="16" finToken="hrudi" finSampa="' h\ r u J\ I" rhymeScheme="6" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0018-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="dítě" finSampa="' J\ i: c E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="noc" finSampa="' n o t_s" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="tě" finSampa="c E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="dítě" finSampa="' J\ i: c E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="pomoc" finSampa="' p o m o t_s" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="divá" finSampa="' J\ I v a:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="mých" finSampa="m i: x" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="splývá" finSampa="' s p l i: v a:" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="3" stanzaId="2" />
+    <line id="10" finToken="tvých" finSampa="t v i: x" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="tě" finSampa="c E" rhymeScheme="1" stanzaId="3" />
+    <line id="12" finToken="motýli" finSampa="' m o t i: l I" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="hbitě" finSampa="' h\ b I c E" rhymeScheme="1" stanzaId="3" />
+    <line id="14" finToken="dítě" finSampa="' J\ i: c E" rhymeScheme="1" stanzaId="3" />
+    <line id="15" finToken="chvíli" finSampa="' x v i: l I" rhymeScheme="5" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0019-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="zamyšlenou" finSampa="' z a m I S l E n o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="svět" finSampa="' s v j E t" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="ženou" finSampa="' Z E n o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="ulomenou" finSampa="' u l o m E n o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="naposled" finSampa="' n a p o s l E t" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="krátký" finSampa="' k r a: t k i:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="uvadne" finSampa="' u v a d n E" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="sladký" finSampa="' s l a t k i:" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="pohádky" finSampa="' p o h\ a: t k I" rhymeScheme="3" stanzaId="2" />
+    <line id="10" finToken="záhadné" finSampa="' z a: h\ a d n E:" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="sklenou" finSampa="' s k l E n o_u" rhymeScheme="1" stanzaId="3" />
+    <line id="12" finToken="svět" finSampa="' s v j E t" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="ženou" finSampa="' Z E n o_u" rhymeScheme="1" stanzaId="3" />
+    <line id="14" finToken="ulomenou" finSampa="' u l o m E n o_u" rhymeScheme="1" stanzaId="3" />
+    <line id="15" finToken="naposled" finSampa="' n a p o s l E t" rhymeScheme="5" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0020-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="pohádka" finSampa="' p o h\ a: t k a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="opíjí" finSampa="' o p i: j i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="3" stanzaId="1" />
+    <line id="4" finToken="přesladká" finSampa="' p P\ E s l a t k a:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="lilijí" finSampa="' l I l I j i:" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="snivá" finSampa="' s J I v a:" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="touhami" finSampa="' t o_u h\ a m I" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="rozední" finSampa="' r o z E d J i:" rhymeScheme="5" stanzaId="2" />
+    <line id="9" finToken="moji" finSampa="' m o j I" rhymeScheme="6" stanzaId="2" />
+    <line id="10" finToken="mi" finSampa="m I" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="poslední" finSampa="' p o s l E d J i:" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="svoji" finSampa="' s v o j I" rhymeScheme="6" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0021-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="plápolu" finSampa="' p l a: p o l u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="čelo" finSampa="' t_S E l o" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zmizelo" finSampa="' z m I z E l o" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="pospolu" finSampa="' p o s p o l u" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="zaplálo" finSampa="' z a p l a: l o" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="zalily" finSampa="' z a l I l I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="spálili" finSampa="' s p a: l I l I" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="zpívalo" finSampa="' s p i: v a l o" rhymeScheme="3" stanzaId="2" />
+  </poem>
+  <poem id="0001-0000-0000-0022-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="hnědý" finSampa="' h\ J E d i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="naposledy" finSampa="' n a p o s l E d I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="též" finSampa="t E: S" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="zítra" finSampa="' z i: t r a" rhymeScheme="3" stanzaId="1" />
+    <line id="5" finToken="jitra" finSampa="' j I t r a" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="nepřijdeš" finSampa="' n E p P\ I j d E S" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="klíně" finSampa="' k l i: J E" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="líně" finSampa="' l i: J E" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="hruď" finSampa="' h\ r u c" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="zbývá" finSampa="' z b i: v a:" rhymeScheme="6" stanzaId="2" />
+    <line id="11" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="6" stanzaId="2" />
+    <line id="12" finToken="buď" finSampa="b u c" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="plály" finSampa="' p l a: l I" rhymeScheme="7" stanzaId="3" />
+    <line id="14" finToken="usínali" finSampa="' u s i: n a l I" rhymeScheme="7" stanzaId="3" />
+    <line id="15" finToken="již" finSampa="j I S" rhymeScheme="8" stanzaId="3" />
+    <line id="16" finToken="zítra" finSampa="' z i: t r a" rhymeScheme="9" stanzaId="3" />
+    <line id="17" finToken="jitra" finSampa="' j I t r a" rhymeScheme="9" stanzaId="3" />
+    <line id="18" finToken="nevrátíš" finSampa="' n E v r a: c i: S" rhymeScheme="8" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0023-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="mdlý" finSampa="' m d l i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="stále" finSampa="' s t a: l E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="uvadly" finSampa="' u v a d l I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="opadly" finSampa="' o p a d l I" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="neskonale" finSampa="' n E s k o n a l E" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="rozpínám" finSampa="' r o s p i: n a: m" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="těla" finSampa="' c E l a" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="podívám" finSampa="' p o J\ i: v a: m" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="sám" finSampa="s a: m" rhymeScheme="3" stanzaId="2" />
+    <line id="10" finToken="chtěla" finSampa="' x c E l a" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="vybledly" finSampa="' v I b l E d l I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="stále" finSampa="' s t a: l E" rhymeScheme="2" stanzaId="3" />
+    <line id="13" finToken="šly" finSampa="' S l I" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="nenašly" finSampa="' n E n a S l I" rhymeScheme="5" stanzaId="3" />
+    <line id="15" finToken="neskonale" finSampa="' n E s k o n a l E" rhymeScheme="2" stanzaId="3" />
+  </poem>
+  <poem id="0001-0000-0000-0024-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="nerozednilo" finSampa="' n E r o z E d J I l o" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="čeká" finSampa="' t_S E k a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="spilo" finSampa="' s p I l o" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="leká" finSampa="' l E k a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="vzbudí" finSampa="' v z b u J\ i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="mojí" finSampa="' m o j i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="hrudi" finSampa="' h\ r u J\ I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="boji" finSampa="' b o j I" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="hoří" finSampa="' h\ o P\ i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="světu" finSampa="' s v j E t u" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="moří" finSampa="' m o P\ i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="květů" finSampa="' k v j E t u:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="nerozednilo" finSampa="' n E r o z E d J I l o" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="ráno" finSampa="' r a: n o" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="bilo" finSampa="' b I l o" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="zotevíráno" finSampa="' z o t E v i: r a: n o" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0000-0000-0025-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="úže" finSampa="' u: Z E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zcela" finSampa="' s t_s E l a" rhymeScheme="X" stanzaId="1" />
+    <line id="3" finToken="polibkem" finSampa="' p o l I p k E m" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="růže" finSampa="' r u: Z E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="divokém" finSampa="' J\ I v o k E: m" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="vřelé" finSampa="' v P\ E l E:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="skráně" finSampa="' s k r a: J E" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="toužení" finSampa="' t o_u Z E J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="cele" finSampa="' t_s E l E" rhymeScheme="3" stanzaId="2" />
+    <line id="10" finToken="blaženi" finSampa="' b l a Z E J I" rhymeScheme="4" stanzaId="2" />
+  </poem>
+  <poem id="0001-0001-0000-0001-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="chvíli" finSampa="' x v i: l I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vůně" finSampa="' v u: J E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="bílý" finSampa="' b i: l i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="tůně" finSampa="' t u: J E" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="skvoucí" finSampa="' s k v o_u t_s i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="tiší" finSampa="' c I S i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="vroucí" finSampa="' v r o_u t_s i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="slyší" finSampa="' s l I S i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="sny" finSampa="' s n I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="blíž" finSampa="b l i: S" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="vesny" finSampa="' v E s n I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="víš" finSampa="' v i: S" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="šel" finSampa="' S E l" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="mlád" finSampa="' m l a: t" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="neslyšel" finSampa="' n E s l I S E l" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="zavzdychat" finSampa="' z a v z d I x a t" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="poklesly" finSampa="' p o k l E s l I" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="zpět" finSampa="s p j E t" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="vynesly" finSampa="' v I n E s l I" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="květ" finSampa="' k v j E t" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="písní" finSampa="' p i: s J i:" rhymeScheme="X" stanzaId="6" />
+    <line id="22" finToken="slyšel" finSampa="' s l I S E l" rhymeScheme="11" stanzaId="6" />
+    <line id="23" finToken="pointa" finSampa="' p o j I n t a" rhymeScheme="X" stanzaId="6" />
+    <line id="24" finToken="vyšel" finSampa="' v I S E l" rhymeScheme="11" stanzaId="6" />
+  </poem>
+  <poem id="0001-0001-0000-0002-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="májová" finSampa="' m a: j o v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="sobě" finSampa="' s o b j E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="pochová" finSampa="' p o x o v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="tvá" finSampa="t v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="obě" finSampa="' o b j E" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="mé" finSampa="m E:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="kolu" finSampa="' k o l u" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="usneme" finSampa="' u s n E m E" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="přečteme" finSampa="' p P\ E t_S t E m E" rhymeScheme="3" stanzaId="2" />
+    <line id="10" finToken="spolu" finSampa="' s p o l u" rhymeScheme="4" stanzaId="2" />
+  </poem>
+  <poem id="0001-0001-0000-0003-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="ještě" finSampa="' j E S c E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="západ" finSampa="' z a: p a t" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="deště" finSampa="' d E S c E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="pad" finSampa="p a t" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="lesa" finSampa="' l E s a" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="nes" finSampa="n E s" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="třesa" finSampa="' t P\ E s a" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="kles" finSampa="k l E s" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="ptáka" finSampa="' p t a: k a" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="nesměle" finSampa="' n E s m J E l E" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="ořešáka" finSampa="' o P\ E S a: k a" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="setmělé" finSampa="' s E t m J E l E:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="tuše" finSampa="' t u S E" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="víc" finSampa="v i: t_s" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="duše" finSampa="' d u S E" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="tisíc" finSampa="' c I s i: t_s" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="bylo" finSampa="' b I l o" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="mák" finSampa="' m a: k" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="bylo" finSampa="' b I l o" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="tak" finSampa="t a k" rhymeScheme="10" stanzaId="5" />
+  </poem>
+  <poem id="0001-0001-0000-0003-0001" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="hoch" finSampa="' h\ o x" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="zpíval" finSampa="' s p i: v a l" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="nejkrásnější" finSampa="' n E j k r a: s J E j S i:" rhymeScheme="X" stanzaId="2" />
+    <line id="4" finToken="má" finSampa="' m a:" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="kleká" finSampa="' k l E k a:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="daleka" finSampa="' d a l E k a" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="očima" finSampa="' o t_S I m a" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="svítí" finSampa="' s v i: c i:" rhymeScheme="X" stanzaId="3" />
+    <line id="9" finToken="potichu" finSampa="' p o c I x u" rhymeScheme="4" stanzaId="3" />
+    <line id="10" finToken="hoří" finSampa="' h\ o P\ i:" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="moří" finSampa="' m o P\ i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="kalichů" finSampa="' k a l I x u:" rhymeScheme="4" stanzaId="3" />
+    <line id="13" finToken="svojí" finSampa="' s v o j i:" rhymeScheme="X" stanzaId="4" />
+    <line id="14" finToken="lilijích" finSampa="' l I l I j i: x" rhymeScheme="6" stanzaId="4" />
+    <line id="15" finToken="všecko" finSampa="' f S E t_s k o" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="děcko" finSampa="' J\ E t_s k o" rhymeScheme="7" stanzaId="4" />
+    <line id="17" finToken="smích" finSampa="' s m i: x" rhymeScheme="6" stanzaId="4" />
+    <line id="18" finToken="hoch" finSampa="' h\ o x" rhymeScheme="X" stanzaId="5" />
+    <line id="19" finToken="kýval" finSampa="' k i: v a l" rhymeScheme="1" stanzaId="5" />
+  </poem>
+  <poem id="0001-0001-0000-0003-0002" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="krví" finSampa="' k r= v i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="horoucím" finSampa="' h\ o r o_u t_s i: m" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="prvý" finSampa="' p r= v i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="planoucím" finSampa="' p l a n o_u t_s i: m" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="hany" finSampa="' h\ a n I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="jel" finSampa="' j E l" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="stany" finSampa="' s t a n I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="panny" finSampa="' p a n I" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="kouzelnice" finSampa="' k o_u z E l J I t_s E" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="sklání" finSampa="' s k l a: J i:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="sšedivěl" finSampa="' s S E J\ I v j E l" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="pospíchání" finSampa="' p o s p i: x a: J i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="tmání" finSampa="' t m a: J i:" rhymeScheme="6" stanzaId="3" />
+    <line id="14" finToken="měsíce" finSampa="' m J E s i: t_s E" rhymeScheme="5" stanzaId="3" />
+    <line id="15" finToken="oči" finSampa="' o t_S I" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="nimi" finSampa="' J I m I" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="točí" finSampa="' t o t_S i:" rhymeScheme="7" stanzaId="4" />
+    <line id="18" finToken="žhavými" finSampa="' Z h\ a v i: m I" rhymeScheme="8" stanzaId="4" />
+    <line id="19" finToken="byla" finSampa="' b I l a" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="čekaly" finSampa="' t_S E k a l I" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="políbila" finSampa="' p o l i: b I l a" rhymeScheme="9" stanzaId="5" />
+    <line id="22" finToken="uklonila" finSampa="' u k l o J I l a" rhymeScheme="9" stanzaId="5" />
+    <line id="23" finToken="se" finSampa="s E" rhymeScheme="11" stanzaId="5" />
+    <line id="24" finToken="zněla" finSampa="' z J E l a" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="pokály" finSampa="' p o k a: l I" rhymeScheme="10" stanzaId="6" />
+    <line id="26" finToken="těla" finSampa="' c E l a" rhymeScheme="12" stanzaId="6" />
+    <line id="27" finToken="skvěla" finSampa="' s k v j E l a" rhymeScheme="12" stanzaId="6" />
+    <line id="28" finToken="kráse" finSampa="' k r a: s E" rhymeScheme="11" stanzaId="6" />
+    <line id="29" finToken="žhavá" finSampa="' Z h\ a v a:" rhymeScheme="13" stanzaId="7" />
+    <line id="30" finToken="tak" finSampa="t a k" rhymeScheme="14" stanzaId="7" />
+    <line id="31" finToken="hlava" finSampa="' h\ l a v a" rhymeScheme="13" stanzaId="7" />
+    <line id="32" finToken="znak" finSampa="' z n a k" rhymeScheme="14" stanzaId="7" />
+    <line id="33" finToken="rety" finSampa="' r E t I" rhymeScheme="15" stanzaId="8" />
+    <line id="34" finToken="mřel" finSampa="' m P\ E l" rhymeScheme="16" stanzaId="8" />
+    <line id="35" finToken="květy" finSampa="' k v j E t I" rhymeScheme="15" stanzaId="8" />
+    <line id="36" finToken="věty" finSampa="' v j E t I" rhymeScheme="15" stanzaId="8" />
+    <line id="37" finToken="ani" finSampa="' a J I" rhymeScheme="17" stanzaId="8" />
+    <line id="38" finToken="vstala" finSampa="' f s t a l a" rhymeScheme="18" stanzaId="9" />
+    <line id="39" finToken="jel" finSampa="' j E l" rhymeScheme="16" stanzaId="9" />
+    <line id="40" finToken="zulíbala" finSampa="' z u l i: b a l a" rhymeScheme="18" stanzaId="9" />
+    <line id="41" finToken="zakývala" finSampa="' z a k i: v a l a" rhymeScheme="18" stanzaId="9" />
+    <line id="42" finToken="neshledání" finSampa="' n E s x l E d a: J i:" rhymeScheme="17" stanzaId="9" />
+    <line id="43" finToken="plnou" finSampa="' p l= n o_u" rhymeScheme="19" stanzaId="10" />
+    <line id="44" finToken="vstříc" finSampa="f s t P\ i: t_s" rhymeScheme="20" stanzaId="10" />
+    <line id="45" finToken="klnou" finSampa="' k l= n o_u" rhymeScheme="19" stanzaId="10" />
+    <line id="46" finToken="tisíc" finSampa="' c I s i: t_s" rhymeScheme="20" stanzaId="10" />
+    <line id="47" finToken="plání" finSampa="' p l a: J i:" rhymeScheme="17" stanzaId="11" />
+    <line id="48" finToken="čar" finSampa="' t_S a r" rhymeScheme="21" stanzaId="11" />
+    <line id="49" finToken="zadumání" finSampa="' z a d u m a: J i:" rhymeScheme="17" stanzaId="11" />
+    <line id="50" finToken="nenadání" finSampa="' n E n a d a: J i:" rhymeScheme="17" stanzaId="11" />
+    <line id="51" finToken="stojí" finSampa="' s t o j i:" rhymeScheme="22" stanzaId="11" />
+    <line id="52" finToken="němá" finSampa="' J E m a:" rhymeScheme="23" stanzaId="12" />
+    <line id="53" finToken="žár" finSampa="' Z a: r" rhymeScheme="21" stanzaId="12" />
+    <line id="54" finToken="nemá" finSampa="' n E m a:" rhymeScheme="23" stanzaId="12" />
+    <line id="55" finToken="neskojená" finSampa="' n E s k o j E n a:" rhymeScheme="23" stanzaId="12" />
+    <line id="56" finToken="tvoji" finSampa="' t v o j I" rhymeScheme="22" stanzaId="12" />
+    <line id="57" finToken="zcela" finSampa="' s t_s E l a" rhymeScheme="24" stanzaId="13" />
+    <line id="58" finToken="sil" finSampa="' s I l" rhymeScheme="25" stanzaId="13" />
+    <line id="59" finToken="těla" finSampa="' c E l a" rhymeScheme="24" stanzaId="13" />
+    <line id="60" finToken="pil" finSampa="' p I l" rhymeScheme="25" stanzaId="13" />
+  </poem>
+  <poem id="0001-0001-0000-0004-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="král" finSampa="' k r a: l" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="neusmál" finSampa="' n E u s m a: l" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="zpíval" finSampa="' s p i: v a l" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="díval" finSampa="' J\ i: v a l" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="neranil" finSampa="' n E r a J I l" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="snil" finSampa="' s J I l" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="čela" finSampa="' t_S E l a" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="skvěla" finSampa="' s k v j E l a" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="král" finSampa="' k r a: l" rhymeScheme="1" stanzaId="3" />
+    <line id="10" finToken="skal" finSampa="' s k a l" rhymeScheme="1" stanzaId="3" />
+    <line id="11" finToken="dáli" finSampa="' d a: l I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="smály" finSampa="' s m a: l I" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="kola" finSampa="' k o l a" rhymeScheme="6" stanzaId="4" />
+    <line id="14" finToken="plápolá" finSampa="' p l a: p o l a:" rhymeScheme="6" stanzaId="4" />
+    <line id="15" finToken="písní" finSampa="' p i: s J i:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="tísní" finSampa="' c i: s J i:" rhymeScheme="7" stanzaId="4" />
+    <line id="17" finToken="jel" finSampa="' j E l" rhymeScheme="8" stanzaId="5" />
+    <line id="18" finToken="zřel" finSampa="' z P\ E l" rhymeScheme="8" stanzaId="5" />
+    <line id="19" finToken="krásnou" finSampa="' k r a: s n o_u" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="jasnou" finSampa="' j a s n o_u" rhymeScheme="9" stanzaId="5" />
+    <line id="21" finToken="rozpjala" finSampa="' r o s p j a l a" rhymeScheme="10" stanzaId="6" />
+    <line id="22" finToken="zpívala" finSampa="' s p i: v a l a" rhymeScheme="10" stanzaId="6" />
+    <line id="23" finToken="králi" finSampa="' k r a: l I" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="zdály" finSampa="' z d a: l I" rhymeScheme="11" stanzaId="6" />
+    <line id="25" finToken="zjev" finSampa="' z j E f" rhymeScheme="12" stanzaId="7" />
+    <line id="26" finToken="zpěv" finSampa="' s p j E f" rhymeScheme="12" stanzaId="7" />
+    <line id="27" finToken="králi" finSampa="' k r a: l I" rhymeScheme="11" stanzaId="7" />
+    <line id="28" finToken="rozzpívaly" finSampa="' r o s p i: v a l I" rhymeScheme="11" stanzaId="7" />
+    <line id="29" finToken="nes" finSampa="' n E s" rhymeScheme="13" stanzaId="8" />
+    <line id="30" finToken="kles" finSampa="' k l E s" rhymeScheme="13" stanzaId="8" />
+    <line id="31" finToken="zněla" finSampa="' z J E l a" rhymeScheme="14" stanzaId="8" />
+    <line id="32" finToken="celá" finSampa="' t_s E l a:" rhymeScheme="14" stanzaId="8" />
+    <line id="33" finToken="zpět" finSampa="s p j E t" rhymeScheme="15" stanzaId="9" />
+    <line id="34" finToken="květ" finSampa="' k v j E t" rhymeScheme="15" stanzaId="9" />
+    <line id="35" finToken="se" finSampa="s E" rhymeScheme="16" stanzaId="9" />
+    <line id="36" finToken="se" finSampa="s E" rhymeScheme="16" stanzaId="9" />
+  </poem>
+  <poem id="0001-0001-0000-0005-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="letí" finSampa="' l E c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="děti" finSampa="' J\ E c I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="květy" finSampa="' k v j E t I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="spolu" finSampa="' s p o l u" rhymeScheme="3" stanzaId="1" />
+    <line id="5" finToken="bolu" finSampa="' b o l u" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="světy" finSampa="' s v j E t I" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="dlouhou" finSampa="' d l o_u h\ o_u" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="touhou" finSampa="' t o_u h\ o_u" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="cílem" finSampa="' t_s i: l E m" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="tiše" finSampa="' c I S E" rhymeScheme="6" stanzaId="2" />
+    <line id="11" finToken="líše" finSampa="' l i: S E" rhymeScheme="6" stanzaId="2" />
+    <line id="12" finToken="bílém" finSampa="' b i: l E: m" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="cestou" finSampa="' t_s E s t o_u" rhymeScheme="7" stanzaId="3" />
+    <line id="14" finToken="nevěstou" finSampa="' n E v j E s t o_u" rhymeScheme="7" stanzaId="3" />
+    <line id="15" finToken="vracel" finSampa="' v r a t_s E l" rhymeScheme="8" stanzaId="3" />
+    <line id="16" finToken="chudé" finSampa="' x u d E:" rhymeScheme="9" stanzaId="3" />
+    <line id="17" finToken="všude" finSampa="' f S u d E" rhymeScheme="9" stanzaId="3" />
+    <line id="18" finToken="ztrácel" finSampa="' s t r a: t_s E l" rhymeScheme="8" stanzaId="3" />
+    <line id="19" finToken="dáli" finSampa="' d a: l I" rhymeScheme="10" stanzaId="4" />
+    <line id="20" finToken="skály" finSampa="' s k a: l I" rhymeScheme="10" stanzaId="4" />
+    <line id="21" finToken="dále" finSampa="' d a: l E" rhymeScheme="11" stanzaId="4" />
+    <line id="22" finToken="dolů" finSampa="' d o l u:" rhymeScheme="12" stanzaId="4" />
+    <line id="23" finToken="bolu" finSampa="' b o l u" rhymeScheme="12" stanzaId="4" />
+    <line id="24" finToken="skále" finSampa="' s k a: l E" rhymeScheme="11" stanzaId="4" />
+    <line id="25" finToken="snětí" finSampa="' s J E c i:" rhymeScheme="13" stanzaId="5" />
+    <line id="26" finToken="spěti" finSampa="' s p j E c I" rhymeScheme="13" stanzaId="5" />
+    <line id="27" finToken="děti" finSampa="' J\ E c I" rhymeScheme="13" stanzaId="5" />
+  </poem>
+  <poem id="0001-0001-0000-0006-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="zlá" finSampa="' z l a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="rozlezla" finSampa="' r o z l E z l a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="nejvíce" finSampa="' n E j v i: t_s E" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="babice" finSampa="' b a b I t_s E" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="utíká" finSampa="' u c i: k a:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="naříká" finSampa="' n a P\ i: k a:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="blíž" finSampa="b l i: S" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="již" finSampa="j I S" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="květ" finSampa="' k v j E t" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="pět" finSampa="' p j E t" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="oka" finSampa="' o k a" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="divoká" finSampa="' J\ I v o k a:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="dál" finSampa="d a: l" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="smál" finSampa="' s m a: l" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="jen" finSampa="j E n" rhymeScheme="8" stanzaId="4" />
+    <line id="16" finToken="den" finSampa="' d E n" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="stár" finSampa="' s t a: r" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="car" finSampa="' t_s a r" rhymeScheme="9" stanzaId="5" />
+    <line id="19" finToken="květ" finSampa="' k v j E t" rhymeScheme="10" stanzaId="5" />
+    <line id="20" finToken="šedivět" finSampa="' S E J\ I v j E t" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="najednou" finSampa="' n a j E d n o_u" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="poblednou" finSampa="' p o b l E d n o_u" rhymeScheme="11" stanzaId="6" />
+    <line id="23" finToken="porubá" finSampa="' p o r u b a:" rhymeScheme="12" stanzaId="6" />
+    <line id="24" finToken="bezzubá" finSampa="' b E z u b a:" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="jen" finSampa="j E n" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="den" finSampa="' d E n" rhymeScheme="13" stanzaId="7" />
+    <line id="27" finToken="kde" finSampa="g d E" rhymeScheme="14" stanzaId="7" />
+    <line id="28" finToken="jde" finSampa="' j d E" rhymeScheme="14" stanzaId="7" />
+    <line id="29" finToken="upírá" finSampa="' u p i: r a:" rhymeScheme="15" stanzaId="8" />
+    <line id="30" finToken="rozvírá" finSampa="' r o z v i: r a:" rhymeScheme="15" stanzaId="8" />
+    <line id="31" finToken="mátoha" finSampa="' m a: t o h\ a" rhymeScheme="16" stanzaId="8" />
+    <line id="32" finToken="ubohá" finSampa="' u b o h\ a:" rhymeScheme="16" stanzaId="8" />
+    <line id="33" finToken="host" finSampa="' h\ o s t" rhymeScheme="17" stanzaId="9" />
+    <line id="34" finToken="kost" finSampa="' k o s t" rhymeScheme="17" stanzaId="9" />
+    <line id="35" finToken="už" finSampa="u S" rhymeScheme="18" stanzaId="9" />
+    <line id="36" finToken="muž" finSampa="' m u S" rhymeScheme="18" stanzaId="9" />
+    <line id="37" finToken="víc" finSampa="v i: t_s" rhymeScheme="19" stanzaId="10" />
+    <line id="38" finToken="nic" finSampa="J I t_s" rhymeScheme="19" stanzaId="10" />
+  </poem>
+  <poem id="0001-0001-0000-0007-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="ruce" finSampa="' r u t_s E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="dálky" finSampa="' d a: l k I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="hazuce" finSampa="' h\ a z u t_s E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="králky" finSampa="' k r a: l k I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="neptali" finSampa="' n E p t a l I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="nic" finSampa="J I t_s" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="šeptali" finSampa="' S E p t a l I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="vánic" finSampa="' v a: J I t_s" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="hvězdami" finSampa="' h\ v j E z d a m I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="hvězdy" finSampa="' h\ v j E z d I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="cestami" finSampa="' t_s E s t a m I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="vezdy" finSampa="' v E z d I" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="věků" finSampa="' v j E k u:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="rázem" finSampa="' r a: z E m" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="jeku" finSampa="' j E k u" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="mrazem" finSampa="' m r a z E m" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="statku" finSampa="' s t a t k u" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="jistě" finSampa="' j I s c E" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="pohádku" finSampa="' p o h\ a: t k u" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="místě" finSampa="' m i: s c E" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="setkali" finSampa="' s E t k a l I" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="cáry" finSampa="' t_s a: r I" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="plakali" finSampa="' p l a k a l I" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="starý" finSampa="' s t a r i:" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="podali" finSampa="' p o d a l I" rhymeScheme="11" stanzaId="7" />
+    <line id="26" finToken="bídou" finSampa="' b i: d o_u" rhymeScheme="13" stanzaId="7" />
+    <line id="27" finToken="nedbali" finSampa="' n E d b a l I" rhymeScheme="11" stanzaId="7" />
+    <line id="28" finToken="přijdou" finSampa="' p P\ I j d o_u" rhymeScheme="13" stanzaId="7" />
+    <line id="29" finToken="městu" finSampa="' m J E s t u" rhymeScheme="14" stanzaId="8" />
+    <line id="30" finToken="ani" finSampa="' a J I" rhymeScheme="15" stanzaId="8" />
+    <line id="31" finToken="cestu" finSampa="' t_s E s t u" rhymeScheme="14" stanzaId="8" />
+    <line id="32" finToken="ni" finSampa="J I" rhymeScheme="15" stanzaId="8" />
+    <line id="33" finToken="šíra" finSampa="' S i: r a" rhymeScheme="16" stanzaId="9" />
+    <line id="34" finToken="to" finSampa="t o" rhymeScheme="17" stanzaId="9" />
+    <line id="35" finToken="umírá" finSampa="' u m i: r a:" rhymeScheme="16" stanzaId="9" />
+    <line id="36" finToken="líto" finSampa="' l i: t o" rhymeScheme="17" stanzaId="9" />
+  </poem>
+  <poem id="0001-0001-0000-0008-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="chcete" finSampa="' x t_s E t E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hněte" finSampa="' h\ J E t E" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="bolí" finSampa="' b o l i:" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="komukoli" finSampa="' k o m u k o l I" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="keři" finSampa="' k E P\ I" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="věří" finSampa="' v j E P\ i:" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="vesna" finSampa="' v E s n a" rhymeScheme="4" stanzaId="4" />
+    <line id="8" finToken="sna" finSampa="' s n a" rhymeScheme="4" stanzaId="4" />
+    <line id="9" finToken="všichni" finSampa="' f S I x J I" rhymeScheme="5" stanzaId="5" />
+    <line id="10" finToken="dýchni" finSampa="' d i: x J I" rhymeScheme="5" stanzaId="5" />
+    <line id="11" finToken="vklouzly" finSampa="' f k l o_u z l I" rhymeScheme="6" stanzaId="6" />
+    <line id="12" finToken="kouzly" finSampa="' k o_u z l I" rhymeScheme="6" stanzaId="6" />
+    <line id="13" finToken="branou" finSampa="' b r a n o_u" rhymeScheme="7" stanzaId="7" />
+    <line id="14" finToken="stranou" finSampa="' s t r a n o_u" rhymeScheme="7" stanzaId="7" />
+    <line id="15" finToken="celé" finSampa="' t_s E l E:" rhymeScheme="8" stanzaId="8" />
+    <line id="16" finToken="těle" finSampa="' c E l E" rhymeScheme="8" stanzaId="8" />
+    <line id="17" finToken="dále" finSampa="' d a: l E" rhymeScheme="9" stanzaId="9" />
+    <line id="18" finToken="skále" finSampa="' s k a: l E" rhymeScheme="9" stanzaId="9" />
+    <line id="19" finToken="asi" finSampa="' a s I" rhymeScheme="10" stanzaId="10" />
+    <line id="20" finToken="vlasy" finSampa="' v l a s I" rhymeScheme="10" stanzaId="10" />
+    <line id="21" finToken="trápil" finSampa="' t r a: p I l" rhymeScheme="11" stanzaId="11" />
+    <line id="22" finToken="lapil" finSampa="' l a p I l" rhymeScheme="11" stanzaId="11" />
+    <line id="23" finToken="skrylo" finSampa="' s k r I l o" rhymeScheme="12" stanzaId="12" />
+    <line id="24" finToken="zamrazilo" finSampa="' z a m r a z I l o" rhymeScheme="12" stanzaId="12" />
+    <line id="25" finToken="zbledlý" finSampa="' z b l E d l i:" rhymeScheme="13" stanzaId="13" />
+    <line id="26" finToken="svedli" finSampa="' s v E d l I" rhymeScheme="13" stanzaId="13" />
+    <line id="27" finToken="přeci" finSampa="' p P\ E t_s I" rhymeScheme="14" stanzaId="14" />
+    <line id="28" finToken="věcí" finSampa="' v j E t_s i:" rhymeScheme="14" stanzaId="14" />
+    <line id="29" finToken="pláči" finSampa="' p l a: t_S I" rhymeScheme="15" stanzaId="15" />
+    <line id="30" finToken="stačí" finSampa="' s t a t_S i:" rhymeScheme="15" stanzaId="15" />
+  </poem>
+  <poem id="0001-0001-0000-0009-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="zapadnu" finSampa="' z a p a d n u" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="mák" finSampa="' m a: k" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="květ" finSampa="' k v j E t" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="pták" finSampa="' p t a: k" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="zahučí" finSampa="' z a h\ u t_S i:" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="list" finSampa="' l I s t" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="zaskučí" finSampa="' z a s k u t_S i:" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="čist" finSampa="' t_S I s t" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="naposled" finSampa="' n a p o s l E t" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="bouřlivák" finSampa="' b o_u P\ l I v a: k" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="zapadnu" finSampa="' z a p a d n u" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="mák" finSampa="' m a: k" rhymeScheme="4" stanzaId="3" />
+  </poem>
+  <poem id="0001-0001-0000-0010-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="stromů" finSampa="' s t r o m u:" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="list" finSampa="' l I s t" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="srdce" finSampa="' s r= t t_s E" rhymeScheme="X" stanzaId="1" />
+    <line id="4" finToken="číst" finSampa="' t_S i: s t" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="listoví" finSampa="' l I s t o v i:" rhymeScheme="X" stanzaId="2" />
+    <line id="6" finToken="písmenami" finSampa="' p i: s m E n a m I" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="pohledem" finSampa="' p o h\ l E d E m" rhymeScheme="X" stanzaId="2" />
+    <line id="8" finToken="korunami" finSampa="' k o r u n a m I" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="stromů" finSampa="' s t r o m u:" rhymeScheme="X" stanzaId="3" />
+    <line id="10" finToken="vrátí" finSampa="' v r a: c i:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="tisíckrát" finSampa="' c I s i: t_s k r a: t" rhymeScheme="X" stanzaId="3" />
+    <line id="12" finToken="lkáti" finSampa="' l k a: c I" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0001-0000-0011-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="vodami" finSampa="' v o d a m I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="sami" finSampa="' s a m I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="štěstí" finSampa="' S c E s c i:" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="pěstí" finSampa="' p j E s c i:" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="ti" finSampa="c I" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="žíti" finSampa="' Z i: c I" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="žalná" finSampa="' Z a l n a:" rhymeScheme="4" stanzaId="4" />
+    <line id="8" finToken="dálná" finSampa="' d a: l n a:" rhymeScheme="4" stanzaId="4" />
+    <line id="9" finToken="dusí" finSampa="' d u s i:" rhymeScheme="5" stanzaId="5" />
+    <line id="10" finToken="musí" finSampa="' m u s i:" rhymeScheme="5" stanzaId="5" />
+    <line id="11" finToken="hyne" finSampa="' h\ I n E" rhymeScheme="6" stanzaId="6" />
+    <line id="12" finToken="jiné" finSampa="' j I n E:" rhymeScheme="6" stanzaId="6" />
+    <line id="13" finToken="země" finSampa="' z E m J E" rhymeScheme="7" stanzaId="7" />
+    <line id="14" finToken="témě" finSampa="' t E: m J E" rhymeScheme="7" stanzaId="7" />
+    <line id="15" finToken="dáli" finSampa="' d a: l I" rhymeScheme="8" stanzaId="8" />
+    <line id="16" finToken="plály" finSampa="' p l a: l I" rhymeScheme="8" stanzaId="8" />
+    <line id="17" finToken="malá" finSampa="' m a l a:" rhymeScheme="9" stanzaId="9" />
+    <line id="18" finToken="rozsypala" finSampa="' r o s I p a l a" rhymeScheme="9" stanzaId="9" />
+    <line id="19" finToken="lesklá" finSampa="' l E s k l a:" rhymeScheme="10" stanzaId="10" />
+    <line id="20" finToken="skla" finSampa="' s k l a" rhymeScheme="10" stanzaId="10" />
+    <line id="21" finToken="zbývá" finSampa="' z b i: v a:" rhymeScheme="11" stanzaId="11" />
+    <line id="22" finToken="důvěřivá" finSampa="' d u: v j E P\ I v a:" rhymeScheme="11" stanzaId="11" />
+  </poem>
+  <poem id="0001-0001-0000-0012-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="zapadá" finSampa="' z a p a d a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="nálada" finSampa="' n a: l a d a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="snění" finSampa="' s J E J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="závidění" finSampa="' z a: v I J\ E J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="třesk" finSampa="' t P\ E s k" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="lesk" finSampa="' l E s k" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="zanítila" finSampa="' z a J i: c I l a" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="zbyla" finSampa="' z b I l a" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="záře" finSampa="' z a: P\ E" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="pohádkáře" finSampa="' p o h\ a: t k a: P\ E" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="stín" finSampa="' s c i: n" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="žasem" finSampa="' Z a s E m" rhymeScheme="7" stanzaId="4" />
+    <line id="13" finToken="časem" finSampa="' t_S a s E m" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="pavučin" finSampa="' p a v u t_S I n" rhymeScheme="6" stanzaId="4" />
+  </poem>
+  <poem id="0001-0001-0000-0013-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="hledí" finSampa="' h\ l E J\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="rozvlněná" finSampa="' r o z v l= J E n a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="pěna" finSampa="' p j E n a" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="šedí" finSampa="' S E J\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="bóje" finSampa="' b o: j E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="roste" finSampa="' r o s t E" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="sté" finSampa="' s t E:" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="je" finSampa="' j E" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="není" finSampa="' n E J i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="řeky" finSampa="' P\ E k I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="snění" finSampa="' s J E J i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="zříti" finSampa="' z P\ i: c I" rhymeScheme="7" stanzaId="4" />
+    <line id="13" finToken="měkký" finSampa="' m J E k i:" rhymeScheme="6" stanzaId="4" />
+    <line id="14" finToken="cítí" finSampa="' t_s i: c i:" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0001-0000-0014-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="země" finSampa="' z E m J E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vynořená" finSampa="' v I n o P\ E n a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="opuštěná" finSampa="' o p u S c E n a:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="mně" finSampa="m J E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="načechrané" finSampa="' n a t_S E x r a n E:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="rovné" finSampa="' r o v n E:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="nevýslovné" finSampa="' n E v i: s l o v n E:" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="vane" finSampa="' v a n E" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="utišeny" finSampa="' u c I S E n I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="chýže" finSampa="' x i: Z E" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="rozpřaženy" finSampa="' r o s p P\ a Z E n I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="hloží" finSampa="' h\ l o Z i:" rhymeScheme="7" stanzaId="4" />
+    <line id="13" finToken="níže" finSampa="' J i: Z E" rhymeScheme="6" stanzaId="4" />
+    <line id="14" finToken="boží" finSampa="' b o Z i:" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0001-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="mnou" finSampa="m n o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zlatí" finSampa="' z l a c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="pojednou" finSampa="' p o j E d n o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="závrati" finSampa="' z a: v r a c I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="má" finSampa="' m a:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="srovná" finSampa="' s r o v n a:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="oběma" finSampa="' o b j E m a" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="nevýslovná" finSampa="' n E v i: s l o v n a:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="náručí" finSampa="' n a: r u t_S i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="jednou" finSampa="' j E d n o_u" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="vypučí" finSampa="' v I p u t_S i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="zvednou" finSampa="' z v E d n o_u" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="jásavý" finSampa="' j a: s a v i:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="chvění" finSampa="' x v j E J i:" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="zastaví" finSampa="' z a s t a v i:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="není" finSampa="' n E J i:" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0001-0001" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="ráno" finSampa="' r a: n o" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="odehráno" finSampa="' o d E h\ r a: n o" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="ráno" finSampa="' r a: n o" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="léta" finSampa="' l E: t a" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="světa" finSampa="' s v j E t a" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="všude" finSampa="' f S u d E" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="chudé" finSampa="' x u d E:" rhymeScheme="3" stanzaId="3" />
+    <line id="8" finToken="všude" finSampa="' f S u d E" rhymeScheme="3" stanzaId="3" />
+    <line id="9" finToken="struny" finSampa="' s t r u n I" rhymeScheme="4" stanzaId="4" />
+    <line id="10" finToken="luny" finSampa="' l u n I" rhymeScheme="4" stanzaId="4" />
+    <line id="11" finToken="smáli" finSampa="' s m a: l I" rhymeScheme="5" stanzaId="5" />
+    <line id="12" finToken="lhali" finSampa="' l h\ a l I" rhymeScheme="5" stanzaId="5" />
+    <line id="13" finToken="smáli" finSampa="' s m a: l I" rhymeScheme="5" stanzaId="5" />
+    <line id="14" finToken="vězení" finSampa="' v j E z E J i:" rhymeScheme="6" stanzaId="6" />
+    <line id="15" finToken="není" finSampa="' n E J i:" rhymeScheme="6" stanzaId="6" />
+    <line id="16" finToken="chladný" finSampa="' x l a d n i:" rhymeScheme="7" stanzaId="7" />
+    <line id="17" finToken="žádný" finSampa="' Z a: d n i:" rhymeScheme="7" stanzaId="7" />
+    <line id="18" finToken="chladný" finSampa="' x l a d n i:" rhymeScheme="7" stanzaId="7" />
+  </poem>
+  <poem id="0001-0002-0000-0001-0002" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="smáli" finSampa="' s m a: l I" rhymeScheme="X" stanzaId="1" />
+    <line id="2" finToken="dnem" finSampa="' d n E m" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="nepohlédnem" finSampa="' n E p o h\ l E: d n E m" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="dálku" finSampa="' d a: l k u" rhymeScheme="X" stanzaId="2" />
+    <line id="5" finToken="zřít" finSampa="' z P\ i: t" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="mřít" finSampa="' m P\ i: t" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="kroužily" finSampa="' k r o_u Z I l I" rhymeScheme="X" stanzaId="3" />
+    <line id="8" finToken="všem" finSampa="f S E m" rhymeScheme="3" stanzaId="3" />
+    <line id="9" finToken="ovšem" finSampa="' o f S E m" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="vzpomínat" finSampa="' f s p o m i: n a t" rhymeScheme="X" stanzaId="4" />
+    <line id="11" finToken="slávy" finSampa="' s l a: v I" rhymeScheme="4" stanzaId="4" />
+    <line id="12" finToken="hlavy" finSampa="' h\ l a v I" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0002-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="melodií" finSampa="' m E l o J\ I j i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="sonatu" finSampa="' s o n a t u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="míjí" finSampa="' m i: j i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="komnatu" finSampa="' k o m n a t u" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="dívá" finSampa="' J\ i: v a:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="otázku" finSampa="' o t a: s k u" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="žádostivá" finSampa="' Z a: d o s c I v a:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="lásku" finSampa="' l a: s k u" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="skvělý" finSampa="' s k v j E l i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="tich" finSampa="' c I x" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="vyletěly" finSampa="' v I l E c E l I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="sníh" finSampa="' s J i: x" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="vroucí" finSampa="' v r o_u t_s i:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="proud" finSampa="' p r o_u t" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="skvoucí" finSampa="' s k v o_u t_s i:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="pozvednout" finSampa="' p o z v E d n o_u t" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="zvednu" finSampa="' z v E d n u" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="největším" finSampa="' n E j v j E t S i: m" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="jednu" finSampa="' j E d n u" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="Řím" finSampa="' P\ i: m" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="melodií" finSampa="' m E l o J\ I j i:" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="uspána" finSampa="' u s p a: n a" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="šíji" finSampa="' S i: j I" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="rána" finSampa="' r a: n a" rhymeScheme="12" stanzaId="6" />
+  </poem>
+  <poem id="0001-0002-0000-0003-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="zádumčivá" finSampa="' z a: d u m t_S I v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="slavíků" finSampa="' s l a v i: k u:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="dívá" finSampa="' J\ i: v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="básníků" finSampa="' b a: s J i: k u:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="splývá" finSampa="' s p l i: v a:" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="umlká" finSampa="' u m l= k a:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="1" stanzaId="2" />
+    <line id="8" finToken="nečeká" finSampa="' n E t_S E k a:" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="uzavřely" finSampa="' u z a v P\ E l I" rhymeScheme="4" stanzaId="3" />
+    <line id="10" finToken="zakletou" finSampa="' z a k l E t o_u" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="mřeli" finSampa="' m P\ E l I" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="staletou" finSampa="' s t a l E t o_u" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="měkká" finSampa="' m J E k a:" rhymeScheme="6" stanzaId="4" />
+    <line id="14" finToken="slavíci" finSampa="' s l a v i: t_s I" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="kleká" finSampa="' k l E k a:" rhymeScheme="6" stanzaId="4" />
+    <line id="16" finToken="mlčící" finSampa="' m l= t_S i: t_s i:" rhymeScheme="7" stanzaId="4" />
+    <line id="17" finToken="nepřijdete" finSampa="' n E p P\ I j d E t E" rhymeScheme="8" stanzaId="5" />
+    <line id="18" finToken="světice" finSampa="' s v j E c I t_s E" rhymeScheme="9" stanzaId="5" />
+    <line id="19" finToken="kvete" finSampa="' k v E t E" rhymeScheme="8" stanzaId="5" />
+    <line id="20" finToken="nejvíce" finSampa="' n E j v i: t_s E" rhymeScheme="9" stanzaId="5" />
+    <line id="21" finToken="spřádá" finSampa="' s p P\ a: d a:" rhymeScheme="10" stanzaId="6" />
+    <line id="22" finToken="poleká" finSampa="' p o l E k a:" rhymeScheme="11" stanzaId="6" />
+    <line id="23" finToken="padá" finSampa="' p a d a:" rhymeScheme="10" stanzaId="6" />
+    <line id="24" finToken="nečeká" finSampa="' n E t_S E k a:" rhymeScheme="11" stanzaId="6" />
+  </poem>
+  <poem id="0001-0002-0000-0003-0001" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="pýří" finSampa="' p i: P\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zabělaly" finSampa="' z a b j E l a l I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="bohatýři" finSampa="' b o h\ a t i: P\ I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="zdály" finSampa="' z d a: l I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="plese" finSampa="' p l E s E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="se" finSampa="s E" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="drahý" finSampa="' d r a h\ i:" rhymeScheme="4" stanzaId="3" />
+    <line id="8" finToken="Prahy" finSampa="' p r a h\ I" rhymeScheme="4" stanzaId="3" />
+  </poem>
+  <poem id="0001-0002-0000-0003-0002" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="děti" finSampa="' J\ E c I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="pramínek" finSampa="' p r a m i: n E k" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="sletí" finSampa="' s l E c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="ramínek" finSampa="' r a m i: n E k" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="osud" finSampa="' o s u t" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="posud" finSampa="' p o s u t" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="chudí" finSampa="' x u J\ i:" rhymeScheme="4" stanzaId="3" />
+    <line id="8" finToken="vzbudí" finSampa="' v z b u J\ i:" rhymeScheme="4" stanzaId="3" />
+  </poem>
+  <poem id="0001-0002-0000-0003-0003" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="zrání" finSampa="' z r a: J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="rozduje" finSampa="' r o z d u j E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="sklání" finSampa="' s k l a: J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="dopluje" finSampa="' d o p l u j E" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="strhne" finSampa="' s t r= h\ n E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="vlhne" finSampa="' v l= h\ n E" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="nebe" finSampa="' n E b E" rhymeScheme="4" stanzaId="3" />
+    <line id="8" finToken="zebe" finSampa="' z E b E" rhymeScheme="4" stanzaId="3" />
+  </poem>
+  <poem id="0001-0002-0000-0004-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="hochu" finSampa="' h\ o x u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="netušíš" finSampa="' n E t u S i: S" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="číše" finSampa="' t_S i: S E" rhymeScheme="3" stanzaId="1" />
+    <line id="4" finToken="spíše" finSampa="' s p i: S E" rhymeScheme="3" stanzaId="1" />
+    <line id="5" finToken="trochu" finSampa="' t r o x u" rhymeScheme="1" stanzaId="1" />
+    <line id="6" finToken="blíž" finSampa="b l i: S" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="dneska" finSampa="' d n E s k a" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="noc" finSampa="' n o t_s" rhymeScheme="5" stanzaId="2" />
+    <line id="9" finToken="zpátky" finSampa="' s p a: t k I" rhymeScheme="6" stanzaId="2" />
+    <line id="10" finToken="sladký" finSampa="' s l a t k i:" rhymeScheme="6" stanzaId="2" />
+    <line id="11" finToken="tleská" finSampa="' t l E s k a:" rhymeScheme="4" stanzaId="2" />
+    <line id="12" finToken="moc" finSampa="' m o t_s" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="číši" finSampa="' t_S i: S I" rhymeScheme="7" stanzaId="3" />
+    <line id="14" finToken="přestanu" finSampa="' p P\ E s t a n u" rhymeScheme="8" stanzaId="3" />
+    <line id="15" finToken="stojí" finSampa="' s t o j i:" rhymeScheme="9" stanzaId="3" />
+    <line id="16" finToken="moji" finSampa="' m o j I" rhymeScheme="9" stanzaId="3" />
+    <line id="17" finToken="slyší" finSampa="' s l I S i:" rhymeScheme="7" stanzaId="3" />
+    <line id="18" finToken="ránu" finSampa="' r a: n u" rhymeScheme="8" stanzaId="3" />
+  </poem>
+  <poem id="0001-0002-0000-0005-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="smál" finSampa="' s m a: l" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="nenávistí" finSampa="' n E n a: v I s c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zadýchal" finSampa="' z a d i: x a l" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="listí" finSampa="' l I s c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="šat" finSampa="' S a t" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="žily" finSampa="' Z I l I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="chlad" finSampa="' x l a t" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="zapálili" finSampa="' z a p a: l I l I" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="ryzí" finSampa="' r I z i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="cizí" finSampa="' t_s I z i:" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="hrdá" finSampa="' h\ r= d a:" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="zblednout" finSampa="' z b l E d n o_u t" rhymeScheme="7" stanzaId="4" />
+    <line id="13" finToken="tvrdá" finSampa="' t v r= d a:" rhymeScheme="6" stanzaId="4" />
+    <line id="14" finToken="neohlédnout" finSampa="' n E o h\ l E: d n o_u t" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0006-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="polibení" finSampa="' p o l I b E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="dali" finSampa="' d a l I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="chvění" finSampa="' x v j E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="zanechali" finSampa="' z a n E x a l I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="vřele" finSampa="' v P\ E l E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="musí" finSampa="' m u s i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="celé" finSampa="' t_s E l E:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="dusí" finSampa="' d u s i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="nyní" finSampa="' n I J i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="sami" finSampa="' s a m I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="jíní" finSampa="' j i: J i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="fialkami" finSampa="' f I j a l k a m I" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="jednou" finSampa="' j E d n o_u" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="zase" finSampa="' z a s E" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="nedohlednou" finSampa="' n E d o h\ l E d n o_u" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="se" finSampa="s E" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="si" finSampa="s I" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="moje" finSampa="' m o j E" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="kdesi" finSampa="' g d E s I" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="dvoje" finSampa="' d v o j E" rhymeScheme="10" stanzaId="5" />
+  </poem>
+  <poem id="0001-0002-0000-0006-0001" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="vrátil" finSampa="' v r a: c I l" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="poslední" finSampa="' p o s l E d J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="ztratil" finSampa="' s t r a c I l" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="dní" finSampa="' d J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="hrdý" finSampa="' h\ r= d i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="naposled" finSampa="' n a p o s l E t" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="tvrdý" finSampa="' t v r= d i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="let" finSampa="' l E t" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="vklíčil" finSampa="' f k l i: t_S I l" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="laskavý" finSampa="' l a s k a v i:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="vztýčil" finSampa="' f s t i: t_S I l" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="hlavy" finSampa="' h\ l a v I" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="klameš" finSampa="' k l a m E S" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="vstal" finSampa="' f s t a l" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="lámeš" finSampa="' l a: m E S" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="rozchechtal" finSampa="' r o s x E x t a l" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0006-0002" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="padne" finSampa="' p a d n E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="kalichu" finSampa="' k a l I x u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="svadne" finSampa="' s v a d n E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="potichu" finSampa="' p o c I x u" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="udýchané" finSampa="' u d i: x a n E:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="chlad" finSampa="' x l a t" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="pane" finSampa="' p a n E" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="snad" finSampa="s n a t" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="neskonale" finSampa="' n E s k o n a l E" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="květ" finSampa="' k v j E t" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="malé" finSampa="' m a l E:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="vyprávět" finSampa="' v I p r a: v j E t" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="žití" finSampa="' Z I c i:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="dvakrát" finSampa="' d v a k r a: t" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="jíti" finSampa="' j i: c I" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="mlád" finSampa="' m l a: t" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0006-0003" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="hrázi" finSampa="' h\ r a: z I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="srazí" finSampa="' s r a z i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="smály" finSampa="' s m a: l I" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="pálí" finSampa="' p a: l i:" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="šedý" finSampa="' S E d i:" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="naposledy" finSampa="' n a p o s l E d I" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="nezachvěji" finSampa="' n E z a x v j E j I" rhymeScheme="4" stanzaId="4" />
+    <line id="8" finToken="čnějí" finSampa="' t_S J E j i:" rhymeScheme="4" stanzaId="4" />
+    <line id="9" finToken="zašeptalo" finSampa="' z a S E p t a l o" rhymeScheme="5" stanzaId="5" />
+    <line id="10" finToken="zazpívalo" finSampa="' z a s p i: v a l o" rhymeScheme="5" stanzaId="5" />
+    <line id="11" finToken="stmělo" finSampa="' s t m J E l o" rhymeScheme="6" stanzaId="6" />
+    <line id="12" finToken="zapomnělo" finSampa="' z a p o m J E l o" rhymeScheme="6" stanzaId="6" />
+  </poem>
+  <poem id="0001-0002-0000-0006-0004" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="exulant" finSampa="' E k s u l a n t" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="odcházela" finSampa="' o t x a: z E l a" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="grand" finSampa="' g r a n t" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="měla" finSampa="' m J E l a" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="zpět" finSampa="s p j E t" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="smějí" finSampa="' s m J E j i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="květ" finSampa="' k v j E t" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="neumějí" finSampa="' n E u m J E j i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="ret" finSampa="' r E t" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="dohořívá" finSampa="' d o h\ o P\ i: v a:" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="hned" finSampa="h\ n E t" rhymeScheme="3" stanzaId="3" />
+    <line id="12" finToken="zbývá" finSampa="' z b i: v a:" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="zem" finSampa="' z E m" rhymeScheme="6" stanzaId="4" />
+    <line id="14" finToken="ptáče" finSampa="' p t a: t_S E" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="setmělém" finSampa="' s E t m J E l E: m" rhymeScheme="6" stanzaId="4" />
+    <line id="16" finToken="pláče" finSampa="' p l a: t_S E" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0007-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="kathedrály" finSampa="' k a t E d r a: l I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="dýše" finSampa="' d i: S E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="stáli" finSampa="' s t a: l I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="tiše" finSampa="' c I S E" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="voní" finSampa="' v o J i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="unaveně" finSampa="' u n a v E J E" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="monotonní" finSampa="' m o n o t o n J i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="denně" finSampa="' d E n J E" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="hlase" finSampa="' h\ l a s E" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="sami" finSampa="' s a m I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="se" finSampa="s E" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="mi" finSampa="m I" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="bylo" finSampa="' b I l o" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="ryzí" finSampa="' r I z i:" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="vlilo" finSampa="' v l I l o" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="mizí" finSampa="' m I z i:" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="tklivý" finSampa="' t k l I v i:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="účtovala" finSampa="' u: t_S t o v a l a" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="divý" finSampa="' J\ I v i:" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="stroskotala" finSampa="' s t r o s k o t a l a" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="svojí" finSampa="' s v o j i:" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="cele" finSampa="' t_s E l E" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="boji" finSampa="' b o j I" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="vřele" finSampa="' v P\ E l E" rhymeScheme="12" stanzaId="6" />
+  </poem>
+  <poem id="0001-0002-0000-0007-0001" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="včera" finSampa="' f t_S E r a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="večera" finSampa="' v E t_S E r a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="lesů" finSampa="' l E s u:" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="nesu" finSampa="' n E s u" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="stálo" finSampa="' s t a: l o" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="bálo" finSampa="' b a: l o" rhymeScheme="3" stanzaId="3" />
+  </poem>
+  <poem id="0001-0002-0000-0007-0002" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="básníky" finSampa="' b a: s J i: k I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="klečí" finSampa="' k l E t_S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="veliký" finSampa="' v E l I k i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="vetší" finSampa="' v E t S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="zátiší" finSampa="' z a: c I S i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="spěti" finSampa="' s p j E c I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="nejvyšší" finSampa="' n E j v I S i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="náležeti" finSampa="' n a: l E Z E c I" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="žít" finSampa="' Z i: t" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="světlá" finSampa="' s v j E t l a:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="pochopit" finSampa="' p o x o p I t" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="nevykvetla" finSampa="' n E v I k v E t l a" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="básníky" finSampa="' b a: s J i: k I" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="šeptá" finSampa="' S E p t a:" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="veliký" finSampa="' v E l I k i:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="neptá" finSampa="' n E p t a:" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0007-0003" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="chvíli" finSampa="' x v i: l I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="prosí" finSampa="' p r o s i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="napili" finSampa="' n a p I l I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="rosy" finSampa="' r o s I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="zazvoní" finSampa="' z a z v o J i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="spálí" finSampa="' s p a: l i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="nevoní" finSampa="' n E v o J i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="smáli" finSampa="' s m a: l I" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="vzlyk" finSampa="' v z l I k" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="tratí" finSampa="' t r a c i:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="okamžik" finSampa="' o k a m Z I k" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="vzdáti" finSampa="' v z d a: c I" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0002-0000-0007-0004" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="mizí" finSampa="' m I z i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="bolí" finSampa="' b o l i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="břízy" finSampa="' b P\ i: z I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="polí" finSampa="' p o l i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="ráda" finSampa="' r a: d a" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="neozývá" finSampa="' n E o z i: v a:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="padá" finSampa="' p a d a:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="si" finSampa="s I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="ptáci" finSampa="' p t a: t_s I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="děsí" finSampa="' J\ E s i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="vrací" finSampa="' v r a t_s i:" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0002-0000-0007-0005" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="nadála" finSampa="' n a d a: l a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="podala" finSampa="' p o d a l a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="čeká" finSampa="' t_S E k a:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="měkká" finSampa="' m J E k a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="přec" finSampa="p P\ E t_s" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="konec" finSampa="' k o n E t_s" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="usínalo" finSampa="' u s i: n a l o" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="zavzlykalo" finSampa="' z a v z l I k a l o" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="kraj" finSampa="' k r a j" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="máj" finSampa="' m a: j" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="lada" finSampa="' l a d a" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="ráda" finSampa="' r a: d a" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0002-0000-0007-0006" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="kvetly" finSampa="' k v E t l I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="stlívá" finSampa="' s t l i: v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="světlý" finSampa="' s v j E t l i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="kývá" finSampa="' k i: v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="touží" finSampa="' t o_u Z i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="bledou" finSampa="' b l E d o_u" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="krouží" finSampa="' k r o_u Z i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="nedovedou" finSampa="' n E d o v E d o_u" rhymeScheme="4" stanzaId="2" />
+  </poem>
+  <poem id="0001-0002-0000-0007-0007" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="hasnou" finSampa="' h\ a s n o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="krásnou" finSampa="' k r a: s n o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="ani" finSampa="' a J I" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="milování" finSampa="' m I l o v a: J i:" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="dáli" finSampa="' d a: l I" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="rvaly" finSampa="' r v a l I" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="muce" finSampa="' m u t_s E" rhymeScheme="4" stanzaId="4" />
+    <line id="8" finToken="ruce" finSampa="' r u t_s E" rhymeScheme="4" stanzaId="4" />
+    <line id="9" finToken="stmívá" finSampa="' s t m i: v a:" rhymeScheme="5" stanzaId="5" />
+    <line id="10" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="5" stanzaId="5" />
+  </poem>
+  <poem id="0001-0002-0000-0008-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="visí" finSampa="' v I s i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="kdysi" finSampa="' g d I s I" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="sedí" finSampa="' s E J\ i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="šedi" finSampa="' S E J\ I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="ní" finSampa="J i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="saní" finSampa="' s a J i:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="tiše" finSampa="' c I S E" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="výše" finSampa="' v i: S E" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="hrudi" finSampa="' h\ r u J\ I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="budí" finSampa="' b u J\ i:" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="šedá" finSampa="' S E d a:" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="hledá" finSampa="' h\ l E d a:" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0002-0000-0009-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="dodýchával" finSampa="' d o d i: x a: v a l" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="plaval" finSampa="' p l a v a l" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="hlasem" finSampa="' h\ l a s E m" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="zpívala" finSampa="' s p i: v a l a" rhymeScheme="3" stanzaId="1" />
+    <line id="5" finToken="stály" finSampa="' s t a: l I" rhymeScheme="4" stanzaId="2" />
+    <line id="6" finToken="naslouchaly" finSampa="' n a s l o_u x a l I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="časem" finSampa="' t_S a s E m" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="dívala" finSampa="' J\ i: v a l a" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="kolem" finSampa="' k o l E m" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="bolem" finSampa="' b o l E m" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="jemně" finSampa="' j E m J E" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="náladu" finSampa="' n a: l a d u" rhymeScheme="7" stanzaId="3" />
+    <line id="13" finToken="dáli" finSampa="' d a: l I" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="plály" finSampa="' p l a: l I" rhymeScheme="4" stanzaId="4" />
+    <line id="15" finToken="mně" finSampa="m J E" rhymeScheme="6" stanzaId="4" />
+    <line id="16" finToken="náhradu" finSampa="' n a: h\ r a d u" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0010-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="spanilá" finSampa="' s p a J I l a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="rozlila" finSampa="' r o z l I l a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="horoucí" finSampa="' h\ o r o_u t_s i:" rhymeScheme="2" stanzaId="2" />
+    <line id="4" finToken="přeskvoucí" finSampa="' p P\ E s k v o_u t_s i:" rhymeScheme="2" stanzaId="2" />
+    <line id="5" finToken="kathedrál" finSampa="' k a t E d r a: l" rhymeScheme="3" stanzaId="3" />
+    <line id="6" finToken="bál" finSampa="' b a: l" rhymeScheme="3" stanzaId="3" />
+    <line id="7" finToken="jásavé" finSampa="' j a: s a v E:" rhymeScheme="4" stanzaId="4" />
+    <line id="8" finToken="své" finSampa="s v E:" rhymeScheme="4" stanzaId="4" />
+    <line id="9" finToken="světice" finSampa="' s v j E c I t_s E" rhymeScheme="5" stanzaId="5" />
+    <line id="10" finToken="nejvíce" finSampa="' n E j v i: t_s E" rhymeScheme="5" stanzaId="5" />
+    <line id="11" finToken="již" finSampa="j I S" rhymeScheme="6" stanzaId="6" />
+    <line id="12" finToken="blíž" finSampa="b l i: S" rhymeScheme="6" stanzaId="6" />
+    <line id="13" finToken="topolů" finSampa="' t o p o l u:" rhymeScheme="7" stanzaId="7" />
+    <line id="14" finToken="pospolu" finSampa="' p o s p o l u" rhymeScheme="7" stanzaId="7" />
+    <line id="15" finToken="fialky" finSampa="' f I j a l k I" rhymeScheme="8" stanzaId="8" />
+    <line id="16" finToken="dálky" finSampa="' d a: l k I" rhymeScheme="8" stanzaId="8" />
+    <line id="17" finToken="tím" finSampa="c i: m" rhymeScheme="9" stanzaId="9" />
+    <line id="18" finToken="podletím" finSampa="' p o d l E c i: m" rhymeScheme="9" stanzaId="9" />
+  </poem>
+  <poem id="0001-0002-0000-0011-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="přelomili" finSampa="' p P\ E l o m I l I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="nenávisti" finSampa="' n E n a: v I s c I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="otrávili" finSampa="' o t r a: v I l I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="snésti" finSampa="' s n E: s c I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="dále" finSampa="' d a: l E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="dýše" finSampa="' d i: S E" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="neskonalé" finSampa="' n E s k o n a l E:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="výše" finSampa="' v i: S E" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="anathema" finSampa="' a n a t E m a" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="hlavou" finSampa="' h\ l a v o_u" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="nemá" finSampa="' n E m a:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="dravou" finSampa="' d r a v o_u" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="ušetřete" finSampa="' u S E t P\ E t E" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="hrudi" finSampa="' h\ r u J\ I" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="kvete" finSampa="' k v E t E" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="budí" finSampa="' b u J\ i:" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="požehnání" finSampa="' p o Z E h\ n a: J i:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="vzruší" finSampa="' v z r u S i:" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="ani" finSampa="' a J I" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="duši" finSampa="' d u S I" rhymeScheme="10" stanzaId="5" />
+  </poem>
+  <poem id="0001-0002-0000-0012-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="záhy" finSampa="' z a: h\ I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="stýská" finSampa="' s t i: s k a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="blízka" finSampa="' b l i: s k a" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="drahý" finSampa="' d r a h\ i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="tahy" finSampa="' t a h\ I" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="stiská" finSampa="' s c I s k a:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="nízká" finSampa="' J i: s k a:" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="prahy" finSampa="' p r a h\ I" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="každodenně" finSampa="' k a Z d o d E n J E" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="duši" finSampa="' d u S I" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="časný" finSampa="' t_S a s n i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="jméně" finSampa="' j m E: J E" rhymeScheme="3" stanzaId="4" />
+    <line id="13" finToken="neporuší" finSampa="' n E p o r u S i:" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="krásný" finSampa="' k r a: s n i:" rhymeScheme="5" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0013-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="chladu" finSampa="' x l a d u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hlavou" finSampa="' h\ l a v o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="popelavou" finSampa="' p o p E l a v o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="řadu" finSampa="' P\ a d u" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="kladu" finSampa="' k l a d u" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="dotěravou" finSampa="' d o c E r a v o_u" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="žhavou" finSampa="' Z h\ a v o_u" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="úpadu" finSampa="' u: p a d u" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="jakoukoli" finSampa="' j a k o_u k o l I" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="prosí" finSampa="' p r o s i:" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="rosy" finSampa="' r o s I" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="dobrotivá" finSampa="' d o b r o c I v a:" rhymeScheme="5" stanzaId="4" />
+    <line id="13" finToken="splývá" finSampa="' s p l i: v a:" rhymeScheme="5" stanzaId="4" />
+    <line id="14" finToken="bolí" finSampa="' b o l i:" rhymeScheme="3" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0014-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="vykvetalé" finSampa="' v I k v E t a l E:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="její" finSampa="' j E j i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="krůpějí" finSampa="' k r u: p j E j i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="hale" finSampa="' h\ a l E" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="stále" finSampa="' s t a: l E" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="chvějí" finSampa="' x v j E j i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="její" finSampa="' j E j i:" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="dále" finSampa="' d a: l E" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="svítí" finSampa="' s v i: c i:" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="jitra" finSampa="' j I t r a" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="listopadu" finSampa="' l I s t o p a d u" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="kladu" finSampa="' k l a d u" rhymeScheme="5" stanzaId="4" />
+    <line id="13" finToken="zítra" finSampa="' z i: t r a" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="sníti" finSampa="' s J i: c I" rhymeScheme="3" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0015-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="stýská" finSampa="' s t i: s k a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zdech" finSampa="' z d E x" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="leh" finSampa="l E x" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="blýská" finSampa="' b l i: s k a:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="stiská" finSampa="' s c I s k a:" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="střech" finSampa="' s t P\ E x" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="vzdech" finSampa="' v z d E x" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="stýská" finSampa="' s t i: s k a:" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="volnou" finSampa="' v o l n o_u" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="dech" finSampa="' d E x" rhymeScheme="2" stanzaId="3" />
+    <line id="11" finToken="vzdech" finSampa="' v z d E x" rhymeScheme="2" stanzaId="3" />
+    <line id="12" finToken="prolnou" finSampa="' p r o l n o_u" rhymeScheme="3" stanzaId="4" />
+    <line id="13" finToken="blízká" finSampa="' b l i: s k a:" rhymeScheme="1" stanzaId="4" />
+    <line id="14" finToken="stýská" finSampa="' s t i: s k a:" rhymeScheme="1" stanzaId="4" />
+  </poem>
+  <poem id="0001-0002-0000-0016-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="větru" finSampa="' v j E t r u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="bolí" finSampa="' b o l i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="nesetru" finSampa="' n E s E t r u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="jakoukoli" finSampa="' j a k o_u k o l I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="života" finSampa="' Z I v o t a" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="chudý" finSampa="' x u d i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="mihotá" finSampa="' m I h\ o t a:" rhymeScheme="3" stanzaId="3" />
+    <line id="8" finToken="rudý" finSampa="' r u d i:" rhymeScheme="4" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0001-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="chrpy" finSampa="' x r= p I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="dnů" finSampa="' d n u:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="trpí" finSampa="' t r= p i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="rozhlédnu" finSampa="' r o s x l E: d n u" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="kvetl" finSampa="' k v E t l=" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="smetl" finSampa="' s m E t l=" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="pochopiti" finSampa="' p o x o p I c I" rhymeScheme="4" stanzaId="3" />
+    <line id="8" finToken="svítí" finSampa="' s v i: c i:" rhymeScheme="4" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0002-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="zamlžená" finSampa="' z a m l= Z E n a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="parném" finSampa="' p a r n E: m" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="žena" finSampa="' Z E n a" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="jednotvárném" finSampa="' j E d n o t v a: r n E: m" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="trávě" finSampa="' t r a: v j E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="právě" finSampa="' p r a: v j E" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="vřesu" finSampa="' v P\ E s u" rhymeScheme="4" stanzaId="3" />
+    <line id="8" finToken="nesu" finSampa="' n E s u" rhymeScheme="4" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0003-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="dáli" finSampa="' d a: l I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="stála" finSampa="' s t a: l a" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="ptaly" finSampa="' p t a l I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="zakývala" finSampa="' z a k i: v a l a" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="mně" finSampa="m J E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="jemně" finSampa="' j E m J E" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="zvolna" finSampa="' z v o l n a" rhymeScheme="4" stanzaId="3" />
+    <line id="8" finToken="bolná" finSampa="' b o l n a:" rhymeScheme="4" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0004-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="záplava" finSampa="' z a: p l a v a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="tklivou" finSampa="' t k l I v o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="laskavá" finSampa="' l a s k a v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="bolestivou" finSampa="' b o l E s c I v o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="chrpy" finSampa="' x r= p I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="trpí" finSampa="' t r= p i:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="letu" finSampa="' l E t u" rhymeScheme="4" stanzaId="3" />
+    <line id="8" finToken="světu" finSampa="' s v j E t u" rhymeScheme="4" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0005-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="znova" finSampa="' z n o v a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="odpolední" finSampa="' o t p o l E d J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="křišťálová" finSampa="' k P\ I S c a: l o v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="ní" finSampa="J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="obě" finSampa="' o b j E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="sobě" finSampa="' s o b j E" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="snění" finSampa="' s J E J i:" rhymeScheme="4" stanzaId="3" />
+    <line id="8" finToken="není" finSampa="' n E J i:" rhymeScheme="4" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0006-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="poslední" finSampa="' p o s l E d J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="sveden" finSampa="' s v E d E n" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="ohlédni" finSampa="' o h\ l E: d J I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="jeden" finSampa="' j E d E n" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="tmy" finSampa="' t m I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="dětmi" finSampa="' J\ E t m I" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="zticha" finSampa="' s c I x a" rhymeScheme="4" stanzaId="3" />
+    <line id="8" finToken="dýchá" finSampa="' d i: x a:" rhymeScheme="4" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0007-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="není" finSampa="' n E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="rozpadne" finSampa="' r o s p a d n E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="opojení" finSampa="' o p o j E J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="záhadné" finSampa="' z a: h\ a d n E:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="hoří" finSampa="' h\ o P\ i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="moři" finSampa="' m o P\ I" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="vraku" finSampa="' v r a k u" rhymeScheme="4" stanzaId="3" />
+    <line id="8" finToken="mraků" finSampa="' m r a k u:" rhymeScheme="4" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0008-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="paprsků" finSampa="' p a p r= s k u:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="hřáli" finSampa="' h\ P\ a: l I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="oblázků" finSampa="' o b l a: s k u:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="báli" finSampa="' b a: l I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="posvěcení" finSampa="' p o s v j E t_s E J i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="není" finSampa="' n E J i:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="těžce" finSampa="' c E S t_s E" rhymeScheme="4" stanzaId="3" />
+    <line id="8" finToken="nechce" finSampa="' n E x t_s E" rhymeScheme="4" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0008-0001" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="klasů" finSampa="' k l a s u:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="bije" finSampa="' b I j E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="hlasů" finSampa="' h\ l a s u:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="melodie" finSampa="' m E l o J\ I j E" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="oblaky" finSampa="' o b l a k I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="jedlí" finSampa="' j E d l i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="zraky" finSampa="' z r a k I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="nedovedly" finSampa="' n E d o v E d l I" rhymeScheme="4" stanzaId="2" />
+  </poem>
+  <poem id="0001-0003-0000-0008-0002" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="vůně" finSampa="' v u: J E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="řada" finSampa="' P\ a d a" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="tůně" finSampa="' t u: J E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="padá" finSampa="' p a d a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="chvíli" finSampa="' x v i: l I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="vzepne" finSampa="' v z E p n E" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="chýlí" finSampa="' x i: l i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="řepné" finSampa="' P\ E p n E:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="kouzel" finSampa="' k o_u z E l" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="vlní" finSampa="' v l= J i:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="vzpouzel" finSampa="' f s p o_u z E l" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="plní" finSampa="' p l= J i:" rhymeScheme="6" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0008-0003" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="života" finSampa="' Z I v o t a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="cizí" finSampa="' t_s I z i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="vymotá" finSampa="' v I m o t a:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="mizí" finSampa="' m I z i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="je" finSampa="' j E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="bzučí" finSampa="' b z u t_S i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="příboje" finSampa="' p P\ i: b o j E" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="učí" finSampa="' u t_S i:" rhymeScheme="4" stanzaId="2" />
+  </poem>
+  <poem id="0001-0003-0000-0009-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="kraji" finSampa="' k r a j I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zahoří" finSampa="' z a h\ o P\ i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="rozkvétají" finSampa="' r o s k v E: t a j i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="pohoří" finSampa="' p o h\ o P\ i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="jitra" finSampa="' j I t r a" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="nitra" finSampa="' J I t r a" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="němá" finSampa="' J E m a:" rhymeScheme="4" stanzaId="3" />
+    <line id="8" finToken="nemá" finSampa="' n E m a:" rhymeScheme="4" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0010-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="stín" finSampa="' s c i: n" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="chorý" finSampa="' x o r i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="hory" finSampa="' h\ o r I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="hlubin" finSampa="' h\ l u b I n" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="stál" finSampa="' s t a: l" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="líbal" finSampa="' l i: b a l" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="nezahýbal" finSampa="' n E z a h\ i: b a l" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="vzpomínal" finSampa="' f s p o m i: n a l" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="cypříši" finSampa="' t_s I p P\ i: S I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="šerem" finSampa="' S E r E m" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="podvečerem" finSampa="' p o d v E t_S E r E m" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="uslyší" finSampa="' u s l I S i:" rhymeScheme="5" stanzaId="4" />
+    <line id="13" finToken="zbyly" finSampa="' z b I l I" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="zachytily" finSampa="' z a x I c I l I" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0003-0000-0011-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="oba" finSampa="' o b a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="doba" finSampa="' d o b a" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="sensitivní" finSampa="' s E n s I c I v J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="odválo" finSampa="' o d v a: l o" rhymeScheme="3" stanzaId="1" />
+    <line id="5" finToken="opryskané" finSampa="' o p r I s k a n E:" rhymeScheme="4" stanzaId="2" />
+    <line id="6" finToken="zdrané" finSampa="' z d r a n E:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="divní" finSampa="' J\ I v J i:" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="pramálo" finSampa="' p r a m a: l o" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="nesmrtelní" finSampa="' n E s m r= t E l J i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="všednosti" finSampa="' f S E d n o s c I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="nerozmělní" finSampa="' n E r o z m J E l J i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="zbylý" finSampa="' z b I l i:" rhymeScheme="7" stanzaId="4" />
+    <line id="13" finToken="vyhostí" finSampa="' v I h\ o s c i:" rhymeScheme="6" stanzaId="4" />
+    <line id="14" finToken="chvíli" finSampa="' x v i: l I" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0003-0000-0012-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="spolu" finSampa="' s p o l u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="let" finSampa="' l E t" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="dolů" finSampa="' d o l u:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="naposled" finSampa="' n a p o s l E t" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="stichlá" finSampa="' s c I x l a:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="proud" finSampa="' p r o_u t" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="vzdychla" finSampa="' v z d I x l a" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="nezapomenout" finSampa="' n E z a p o m E n o_u t" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="tu" finSampa="t u" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="zdivem" finSampa="' z J\ I v E m" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="divem" finSampa="' J\ I v E m" rhymeScheme="6" stanzaId="4" />
+    <line id="12" finToken="květů" finSampa="' k v j E t u:" rhymeScheme="5" stanzaId="4" />
+    <line id="13" finToken="zpět" finSampa="s p j E t" rhymeScheme="7" stanzaId="5" />
+    <line id="14" finToken="let" finSampa="' l E t" rhymeScheme="7" stanzaId="5" />
+  </poem>
+  <poem id="0001-0003-0000-0012-0001" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="stráni" finSampa="' s t r a: J I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="naklání" finSampa="' n a k l a: J i:" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="podvečerní" finSampa="' p o d v E t_S E r J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="věrní" finSampa="' v j E r J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="okny" finSampa="' o k n I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="sny" finSampa="' s n I" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="ztrácí" finSampa="' s t r a: t_s i:" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="vrací" finSampa="' v r a t_s i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="umřelo" finSampa="' u m P\ E l o" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="přichvělo" finSampa="' p P\ I x v j E l o" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="snění" finSampa="' s J E J i:" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="odpuštění" finSampa="' o t p u S c E J i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="spanilá" finSampa="' s p a J I l a:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="posílá" finSampa="' p o s i: l a:" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="volá" finSampa="' v o l a:" rhymeScheme="8" stanzaId="4" />
+    <line id="16" finToken="zpola" finSampa="' s p o l a" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="nedala" finSampa="' n E d a l a" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="prohrála" finSampa="' p r o h\ r a: l a" rhymeScheme="9" stanzaId="5" />
+    <line id="19" finToken="smělé" finSampa="' s m J E l E:" rhymeScheme="10" stanzaId="5" />
+    <line id="20" finToken="nepřátele" finSampa="' n E p P\ a: t E l E" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="rozpění" finSampa="' r o s p j E J i:" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="zemdlení" finSampa="' z E m d l E J i:" rhymeScheme="11" stanzaId="6" />
+    <line id="23" finToken="rozesmání" finSampa="' r o z E s m a: J i:" rhymeScheme="12" stanzaId="6" />
+    <line id="24" finToken="ani" finSampa="' a J I" rhymeScheme="12" stanzaId="6" />
+    <line id="25" finToken="dál" finSampa="d a: l" rhymeScheme="13" stanzaId="7" />
+    <line id="26" finToken="pochoval" finSampa="' p o x o v a l" rhymeScheme="13" stanzaId="7" />
+    <line id="27" finToken="vyzvánění" finSampa="' v I z v a: J E J i:" rhymeScheme="14" stanzaId="7" />
+    <line id="28" finToken="snění" finSampa="' s J E J i:" rhymeScheme="14" stanzaId="7" />
+    <line id="29" finToken="sed" finSampa="s E t" rhymeScheme="15" stanzaId="8" />
+    <line id="30" finToken="naposled" finSampa="' n a p o s l E t" rhymeScheme="15" stanzaId="8" />
+    <line id="31" finToken="šeptá" finSampa="' S E p t a:" rhymeScheme="16" stanzaId="8" />
+    <line id="32" finToken="neptá" finSampa="' n E p t a:" rhymeScheme="16" stanzaId="8" />
+    <line id="33" finToken="nekonečno" finSampa="' n E k o n E t_S n o" rhymeScheme="17" stanzaId="9" />
+    <line id="34" finToken="nebezpečno" finSampa="' n E b E s p E t_S n o" rhymeScheme="17" stanzaId="9" />
+    <line id="35" finToken="chladné" finSampa="' x l a d n E:" rhymeScheme="18" stanzaId="9" />
+    <line id="36" finToken="spadne" finSampa="' s p a d n E" rhymeScheme="18" stanzaId="9" />
+  </poem>
+  <poem id="0001-0003-0000-0012-0002" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="podvečerem" finSampa="' p o d v E t_S E r E m" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="stráněmi" finSampa="' s t r a: J E m I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="šerém" finSampa="' S E r E: m" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="řeka" finSampa="' P\ E k a" rhymeScheme="3" stanzaId="1" />
+    <line id="5" finToken="němý" finSampa="' J E m i:" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="čeká" finSampa="' t_S E k a:" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="vstalo" finSampa="' f s t a l o" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="zbyly" finSampa="' z b I l I" rhymeScheme="5" stanzaId="2" />
+    <line id="9" finToken="zazpívalo" finSampa="' z a s p i: v a l o" rhymeScheme="4" stanzaId="2" />
+    <line id="10" finToken="bolí" finSampa="' b o l i:" rhymeScheme="6" stanzaId="2" />
+    <line id="11" finToken="síly" finSampa="' s i: l I" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="polí" finSampa="' p o l i:" rhymeScheme="6" stanzaId="2" />
+    <line id="13" finToken="tiše" finSampa="' c I S E" rhymeScheme="7" stanzaId="3" />
+    <line id="14" finToken="záhy" finSampa="' z a: h\ I" rhymeScheme="8" stanzaId="3" />
+    <line id="15" finToken="pýše" finSampa="' p i: S E" rhymeScheme="7" stanzaId="3" />
+    <line id="16" finToken="čeká" finSampa="' t_S E k a:" rhymeScheme="9" stanzaId="3" />
+    <line id="17" finToken="prahy" finSampa="' p r a h\ I" rhymeScheme="8" stanzaId="3" />
+    <line id="18" finToken="leká" finSampa="' l E k a:" rhymeScheme="9" stanzaId="3" />
+  </poem>
+  <poem id="0001-0003-0000-0012-0003" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="setmělo" finSampa="' s E t m J E l o" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="nemělo" finSampa="' n E m J E l o" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="rozpjala" finSampa="' r o s p j a l a" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="čekala" finSampa="' t_S E k a l a" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="kořistí" finSampa="' k o P\ I s c i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="nejistí" finSampa="' n E j I s c i:" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="zachvělo" finSampa="' z a x v j E l o" rhymeScheme="1" stanzaId="2" />
+    <line id="8" finToken="čelo" finSampa="' t_S E l o" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="chvíli" finSampa="' x v i: l I" rhymeScheme="4" stanzaId="3" />
+    <line id="10" finToken="zpozdili" finSampa="' s p o z J\ I l I" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="roklinou" finSampa="' r o k l I n o_u" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="nesplynou" finSampa="' n E s p l I n o_u" rhymeScheme="5" stanzaId="3" />
+    <line id="13" finToken="docela" finSampa="' d o t_s E l a" rhymeScheme="6" stanzaId="4" />
+    <line id="14" finToken="zabělá" finSampa="' z a b j E l a:" rhymeScheme="6" stanzaId="4" />
+    <line id="15" finToken="víš" finSampa="' v i: S" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="blíž" finSampa="b l i: S" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0003-0000-0012-0004" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="myšlénkách" finSampa="' m I S l E: n k a: x" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="stáh" finSampa="s t a: x" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="vstříc" finSampa="f s t P\ i: t_s" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="kývajíc" finSampa="' k i: v a j i: t_s" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="nebylo" finSampa="' n E b I l o" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="šeřilo" finSampa="' S E P\ I l o" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="jsem" finSampa="' j s E m" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="večerem" finSampa="' v E t_S E r E m" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="marnivou" finSampa="' m a r J I v o_u" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="tvou" finSampa="t v o_u" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="vanutí" finSampa="' v a n u c i:" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="stanutí" finSampa="' s t a n u c i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="vichřicí" finSampa="' v I x P\ I t_s i:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="kypící" finSampa="' k I p i: t_s i:" rhymeScheme="7" stanzaId="4" />
+    <line id="15" finToken="neschýlí" finSampa="' n E s x i: l i:" rhymeScheme="8" stanzaId="4" />
+    <line id="16" finToken="posily" finSampa="' p o s I l I" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="pochopí" finSampa="' p o x o p i:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="spí" finSampa="' s p i:" rhymeScheme="9" stanzaId="5" />
+    <line id="19" finToken="neviděn" finSampa="' n E v I J\ E n" rhymeScheme="10" stanzaId="5" />
+    <line id="20" finToken="sen" finSampa="' s E n" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="únavou" finSampa="' u: n a v o_u" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="klamavou" finSampa="' k l a m a v o_u" rhymeScheme="11" stanzaId="6" />
+    <line id="23" finToken="dát" finSampa="' d a: t" rhymeScheme="12" stanzaId="6" />
+    <line id="24" finToken="urovnat" finSampa="' u r o v n a t" rhymeScheme="12" stanzaId="6" />
+  </poem>
+  <poem id="0001-0003-0000-0013-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="lagunou" finSampa="' l a g u n o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="neprobudí" finSampa="' n E p r o b u J\ i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="strunou" finSampa="' s t r u n o_u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="chudí" finSampa="' x u J\ i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="piazzetty" finSampa="' p I j a z E t I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="nenaplní" finSampa="' n E n a p l= J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="květy" finSampa="' k v j E t I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="vlní" finSampa="' v l= J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="neoslní" finSampa="' n E o s l= J i:" rhymeScheme="4" stanzaId="3" />
+    <line id="10" finToken="svítí" finSampa="' s v i: c i:" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="zvlní" finSampa="' z v l= J i:" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="lunou" finSampa="' l u n o_u" rhymeScheme="6" stanzaId="4" />
+    <line id="13" finToken="cítí" finSampa="' t_s i: c i:" rhymeScheme="5" stanzaId="4" />
+    <line id="14" finToken="lagunou" finSampa="' l a g u n o_u" rhymeScheme="6" stanzaId="4" />
+  </poem>
+  <poem id="0001-0003-0000-0014-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="opřádal" finSampa="' o p P\ a: d a l" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="koutů" finSampa="' k o_u t u:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="dál" finSampa="d a: l" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="tu" finSampa="t u" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="zpět" finSampa="s p j E t" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="kdysi" finSampa="' g d I s I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="květ" finSampa="' k v j E t" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="mísí" finSampa="' m i: s i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="zapad" finSampa="' z a p a t" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="táhlý" finSampa="' t a: h\ l i:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="náhlý" finSampa="' n a: h\ l i:" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="chápat" finSampa="' x a: p a t" rhymeScheme="5" stanzaId="4" />
+    <line id="13" finToken="korridory" finSampa="' k o r I d o r I" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="chorý" finSampa="' x o r i:" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0003-0000-0015-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="hlubiny" finSampa="' h\ l u b I n I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="zbloudilý" finSampa="' z b l o_u J\ I l i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="hodiny" finSampa="' h\ o J\ I n I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="chodili" finSampa="' x o J\ I l I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="rubíny" finSampa="' r u b i: n I" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="vraceli" finSampa="' v r a t_s E l I" rhymeScheme="3" stanzaId="2" />
+    <line id="7" finToken="hlubiny" finSampa="' h\ l u b I n I" rhymeScheme="1" stanzaId="2" />
+    <line id="8" finToken="ztrácely" finSampa="' s t r a: t_s E l I" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="strání" finSampa="' s t r a: J i:" rhymeScheme="4" stanzaId="3" />
+    <line id="10" finToken="rose" finSampa="' r o s E" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="naklání" finSampa="' n a k l a: J i:" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="temnoty" finSampa="' t E m n o t I" rhymeScheme="6" stanzaId="4" />
+    <line id="13" finToken="se" finSampa="s E" rhymeScheme="5" stanzaId="4" />
+    <line id="14" finToken="Charlotty" finSampa="' x a r l o t I" rhymeScheme="6" stanzaId="4" />
+  </poem>
+  <poem id="0001-0004-0000-0001-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="nese" finSampa="' n E s E" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="šelestí" finSampa="' S E l E s c i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="se" finSampa="s E" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="bolesti" finSampa="' b o l E s c I" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="stůně" finSampa="' s t u: J E" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="zjev" finSampa="' z j E f" rhymeScheme="4" stanzaId="1" />
+    <line id="7" finToken="vůně" finSampa="' v u: J E" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="zpěv" finSampa="' s p j E f" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="nepochopí" finSampa="' n E p o x o p i:" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="den" finSampa="' d E n" rhymeScheme="6" stanzaId="2" />
+    <line id="11" finToken="stopí" finSampa="' s t o p i:" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="podveden" finSampa="' p o d v E d E n" rhymeScheme="6" stanzaId="2" />
+    <line id="13" finToken="je" finSampa="' j E" rhymeScheme="7" stanzaId="2" />
+    <line id="14" finToken="archanděl" finSampa="' a r x a n J\ E l" rhymeScheme="8" stanzaId="2" />
+    <line id="15" finToken="boje" finSampa="' b o j E" rhymeScheme="7" stanzaId="2" />
+    <line id="16" finToken="úděl" finSampa="' u: J\ E l" rhymeScheme="8" stanzaId="2" />
+    <line id="17" finToken="málo" finSampa="' m a: l o" rhymeScheme="9" stanzaId="3" />
+    <line id="18" finToken="skloněný" finSampa="' s k l o J E n i:" rhymeScheme="10" stanzaId="3" />
+    <line id="19" finToken="hřálo" finSampa="' h\ P\ a: l o" rhymeScheme="9" stanzaId="3" />
+    <line id="20" finToken="nadšený" finSampa="' n a t S E n i:" rhymeScheme="10" stanzaId="3" />
+    <line id="21" finToken="znáte" finSampa="' z n a: t E" rhymeScheme="11" stanzaId="3" />
+    <line id="22" finToken="vykvétá" finSampa="' v I k v E: t a:" rhymeScheme="12" stanzaId="3" />
+    <line id="23" finToken="máte" finSampa="' m a: t E" rhymeScheme="11" stanzaId="3" />
+    <line id="24" finToken="zakletá" finSampa="' z a k l E t a:" rhymeScheme="12" stanzaId="3" />
+    <line id="25" finToken="listí" finSampa="' l I s c i:" rhymeScheme="13" stanzaId="4" />
+    <line id="26" finToken="tušíte" finSampa="' t u S i: t E" rhymeScheme="14" stanzaId="4" />
+    <line id="27" finToken="nenávisti" finSampa="' n E n a: v I s c I" rhymeScheme="13" stanzaId="4" />
+    <line id="28" finToken="modlíte" finSampa="' m o d l i: t E" rhymeScheme="14" stanzaId="4" />
+    <line id="29" finToken="svatá" finSampa="' s v a t a:" rhymeScheme="15" stanzaId="4" />
+    <line id="30" finToken="být" finSampa="' b i: t" rhymeScheme="16" stanzaId="4" />
+    <line id="31" finToken="chvátá" finSampa="' x v a: t a:" rhymeScheme="15" stanzaId="4" />
+    <line id="32" finToken="vyslovit" finSampa="' v I s l o v I t" rhymeScheme="16" stanzaId="4" />
+    <line id="33" finToken="věnčí" finSampa="' v j E n t_S i:" rhymeScheme="17" stanzaId="5" />
+    <line id="34" finToken="skráň" finSampa="' s k r a: J" rhymeScheme="18" stanzaId="5" />
+    <line id="35" finToken="venčí" finSampa="' v E n t_S i:" rhymeScheme="17" stanzaId="5" />
+    <line id="36" finToken="zbraň" finSampa="' z b r a J" rhymeScheme="18" stanzaId="5" />
+    <line id="37" finToken="dáte" finSampa="' d a: t E" rhymeScheme="19" stanzaId="5" />
+    <line id="38" finToken="přesvaté" finSampa="' p P\ E s v a t E:" rhymeScheme="20" stanzaId="5" />
+    <line id="39" finToken="požehnáte" finSampa="' p o Z E h\ n a: t E" rhymeScheme="19" stanzaId="5" />
+    <line id="40" finToken="vzýváte" finSampa="' v z i: v a: t E" rhymeScheme="20" stanzaId="5" />
+    <line id="41" finToken="říci" finSampa="' P\ i: t_s I" rhymeScheme="21" stanzaId="6" />
+    <line id="42" finToken="vysloví" finSampa="' v I s l o v i:" rhymeScheme="22" stanzaId="6" />
+    <line id="43" finToken="ulici" finSampa="' u l I t_s I" rhymeScheme="21" stanzaId="6" />
+    <line id="44" finToken="hladoví" finSampa="' h\ l a d o v i:" rhymeScheme="22" stanzaId="6" />
+    <line id="45" finToken="cizí" finSampa="' t_s I z i:" rhymeScheme="23" stanzaId="6" />
+    <line id="46" finToken="dík" finSampa="' J\ i: k" rhymeScheme="24" stanzaId="6" />
+    <line id="47" finToken="ryzí" finSampa="' r I z i:" rhymeScheme="23" stanzaId="6" />
+    <line id="48" finToken="nepronik" finSampa="' n E p r o J I k" rhymeScheme="24" stanzaId="6" />
+  </poem>
+  <poem id="0001-0004-0000-0002-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="exotických" finSampa="' E k s o c I t_s k i: x" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="kalichu" finSampa="' k a l I x u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="potichu" finSampa="' p o c I x u" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="lidských" finSampa="' l I t s k i: x" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="graciésní" finSampa="' g r a t_s I j E: s J i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="kdes" finSampa="g d E s" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="dnes" finSampa="d n E s" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="nezní" finSampa="' n E z J i:" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="vždycky" finSampa="' v Z d I t_s k I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="harmonicky" finSampa="' h\ a r m o J I t_s k I" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="snění" finSampa="' s J E J i:" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="shonů" finSampa="' s x o n u:" rhymeScheme="7" stanzaId="4" />
+    <line id="13" finToken="skonu" finSampa="' s k o n u" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="není" finSampa="' n E J i:" rhymeScheme="6" stanzaId="4" />
+  </poem>
+  <poem id="0001-0004-0000-0002-0001" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="rána" finSampa="' r a: n a" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="sedám" finSampa="' s E d a: m" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="rozorána" finSampa="' r o z o r a: n a" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="hledám" finSampa="' h\ l E d a: m" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="parnasii" finSampa="' p a r n a s I I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="chladí" finSampa="' x l a J\ i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="míjí" finSampa="' m i: j i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="mládí" finSampa="' m l a: J\ i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="třpytí" finSampa="' t P\ p I c i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="zvěsti" finSampa="' z v j E s c I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="skrýti" finSampa="' s k r i: c I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="štěstí" finSampa="' S c E s c i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="pláči" finSampa="' p l a: t_S I" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="se" finSampa="s E" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="stáčí" finSampa="' s t a: t_S i:" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="zase" finSampa="' z a s E" rhymeScheme="8" stanzaId="4" />
+  </poem>
+  <poem id="0001-0004-0000-0002-0002" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="hledal" finSampa="' h\ l E d a l" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="touhou" finSampa="' t o_u h\ o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="nedal" finSampa="' n E d a l" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="dlouhou" finSampa="' d l o_u h\ o_u" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="mlčelivá" finSampa="' m l= t_S E l I v a:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="tratí" finSampa="' t r a c i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="snivá" finSampa="' s J I v a:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="ti" finSampa="c I" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="štěstí" finSampa="' S c E s c i:" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="umí" finSampa="' u m i:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="kvésti" finSampa="' k v E: s c I" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="šumí" finSampa="' S u m i:" rhymeScheme="6" stanzaId="3" />
+    <line id="13" finToken="sráznou" finSampa="' s r a: z n o_u" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="všude" finSampa="' f S u d E" rhymeScheme="8" stanzaId="4" />
+    <line id="15" finToken="prázdnou" finSampa="' p r a: z d n o_u" rhymeScheme="7" stanzaId="4" />
+    <line id="16" finToken="chudé" finSampa="' x u d E:" rhymeScheme="8" stanzaId="4" />
+    <line id="17" finToken="světů" finSampa="' s v j E t u:" rhymeScheme="9" stanzaId="5" />
+    <line id="18" finToken="nezaplálo" finSampa="' n E z a p l a: l o" rhymeScheme="10" stanzaId="5" />
+    <line id="19" finToken="květů" finSampa="' k v j E t u:" rhymeScheme="9" stanzaId="5" />
+    <line id="20" finToken="hřálo" finSampa="' h\ P\ a: l o" rhymeScheme="10" stanzaId="5" />
+    <line id="21" finToken="štěstí" finSampa="' S c E s c i:" rhymeScheme="11" stanzaId="6" />
+    <line id="22" finToken="zpátky" finSampa="' s p a: t k I" rhymeScheme="12" stanzaId="6" />
+    <line id="23" finToken="kvésti" finSampa="' k v E: s c I" rhymeScheme="11" stanzaId="6" />
+    <line id="24" finToken="krátký" finSampa="' k r a: t k i:" rhymeScheme="12" stanzaId="6" />
+  </poem>
+  <poem id="0001-0004-0000-0002-0003" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="zas" finSampa="z a s" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="smáčel" finSampa="' s m a: t_S E l" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="hlas" finSampa="' h\ l a s" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="kráčel" finSampa="' k r a: t_S E l" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="tak" finSampa="t a k" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="drahý" finSampa="' d r a h\ i:" rhymeScheme="4" stanzaId="1" />
+    <line id="7" finToken="pak" finSampa="p a k" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="záhy" finSampa="' z a: h\ I" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="kvetly" finSampa="' k v E t l I" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="sed" finSampa="' s E t" rhymeScheme="6" stanzaId="2" />
+    <line id="11" finToken="slétly" finSampa="' s l E: t l I" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="nedoved" finSampa="' n E d o v E t" rhymeScheme="6" stanzaId="2" />
+    <line id="13" finToken="matky" finSampa="' m a t k I" rhymeScheme="7" stanzaId="2" />
+    <line id="14" finToken="spát" finSampa="' s p a: t" rhymeScheme="8" stanzaId="2" />
+    <line id="15" finToken="Zpátky" finSampa="' s p a: t k I" rhymeScheme="7" stanzaId="2" />
+    <line id="16" finToken="hřát" finSampa="' h\ P\ a: t" rhymeScheme="8" stanzaId="2" />
+    <line id="17" finToken="sám" finSampa="s a: m" rhymeScheme="9" stanzaId="3" />
+    <line id="18" finToken="hrdý" finSampa="' h\ r= d i:" rhymeScheme="10" stanzaId="3" />
+    <line id="19" finToken="chrám" finSampa="' x r a: m" rhymeScheme="9" stanzaId="3" />
+    <line id="20" finToken="tvrdý" finSampa="' t v r= d i:" rhymeScheme="10" stanzaId="3" />
+    <line id="21" finToken="nejdražší" finSampa="' n E j d r a S i:" rhymeScheme="11" stanzaId="3" />
+    <line id="22" finToken="vlahý" finSampa="' v l a h\ i:" rhymeScheme="12" stanzaId="3" />
+    <line id="23" finToken="zaplaší" finSampa="' z a p l a S i:" rhymeScheme="11" stanzaId="3" />
+    <line id="24" finToken="drahý" finSampa="' d r a h\ i:" rhymeScheme="12" stanzaId="3" />
+    <line id="25" finToken="neusínal" finSampa="' n E u s i: n a l" rhymeScheme="13" stanzaId="4" />
+    <line id="26" finToken="sám" finSampa="s a: m" rhymeScheme="14" stanzaId="4" />
+    <line id="27" finToken="spínal" finSampa="' s p i: n a l" rhymeScheme="13" stanzaId="4" />
+    <line id="28" finToken="hvězdám" finSampa="' h\ v j E z d a: m" rhymeScheme="14" stanzaId="4" />
+    <line id="29" finToken="bezedna" finSampa="' b E z E d n a" rhymeScheme="15" stanzaId="4" />
+    <line id="30" finToken="hřát" finSampa="' h\ P\ a: t" rhymeScheme="16" stanzaId="4" />
+    <line id="31" finToken="jedna" finSampa="' j E d n a" rhymeScheme="15" stanzaId="4" />
+    <line id="32" finToken="rád" finSampa="' r a: t" rhymeScheme="16" stanzaId="4" />
+  </poem>
+  <poem id="0001-0004-0000-0003-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="vstává" finSampa="' f s t a: v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="rozsívá" finSampa="' r o s i: v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="dává" finSampa="' d a: v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="zářivá" finSampa="' z a: P\ I v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="podíváte" finSampa="' p o J\ i: v a: t E" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="mdlá" finSampa="' m d l a:" rhymeScheme="4" stanzaId="1" />
+    <line id="7" finToken="máte" finSampa="' m a: t E" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="napadlá" finSampa="' n a p a d l a:" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="staletími" finSampa="' s t a l E c i: m I" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="zahoří" finSampa="' z a h\ o P\ i:" rhymeScheme="6" stanzaId="2" />
+    <line id="11" finToken="mými" finSampa="' m i: m I" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="moři" finSampa="' m o P\ I" rhymeScheme="6" stanzaId="2" />
+    <line id="13" finToken="kráčí" finSampa="' k r a: t_S i:" rhymeScheme="7" stanzaId="2" />
+    <line id="14" finToken="posvětí" finSampa="' p o s v j E c i:" rhymeScheme="8" stanzaId="2" />
+    <line id="15" finToken="stačí" finSampa="' s t a t_S i:" rhymeScheme="7" stanzaId="2" />
+    <line id="16" finToken="rozletí" finSampa="' r o z l E c i:" rhymeScheme="8" stanzaId="2" />
+    <line id="17" finToken="vstává" finSampa="' f s t a: v a:" rhymeScheme="9" stanzaId="3" />
+    <line id="18" finToken="skřivánků" finSampa="' s k P\ I v a: n k u:" rhymeScheme="10" stanzaId="3" />
+    <line id="19" finToken="žhavá" finSampa="' Z h\ a v a:" rhymeScheme="9" stanzaId="3" />
+    <line id="20" finToken="spánku" finSampa="' s p a: n k u" rhymeScheme="10" stanzaId="3" />
+    <line id="21" finToken="mizí" finSampa="' m I z i:" rhymeScheme="11" stanzaId="3" />
+    <line id="22" finToken="skryl" finSampa="' s k r I l" rhymeScheme="12" stanzaId="3" />
+    <line id="23" finToken="ryzí" finSampa="' r I z i:" rhymeScheme="11" stanzaId="3" />
+    <line id="24" finToken="políbil" finSampa="' p o l i: b I l" rhymeScheme="12" stanzaId="3" />
+    <line id="25" finToken="se" finSampa="s E" rhymeScheme="13" stanzaId="4" />
+    <line id="26" finToken="přesvatá" finSampa="' p P\ E s v a t a:" rhymeScheme="14" stanzaId="4" />
+    <line id="27" finToken="hlase" finSampa="' h\ l a s E" rhymeScheme="13" stanzaId="4" />
+    <line id="28" finToken="prohřátá" finSampa="' p r o h\ P\ a: t a:" rhymeScheme="14" stanzaId="4" />
+    <line id="29" finToken="Romeovi" finSampa="' r o m E o v I" rhymeScheme="15" stanzaId="4" />
+    <line id="30" finToken="spad" finSampa="' s p a t" rhymeScheme="16" stanzaId="4" />
+    <line id="31" finToken="slovy" finSampa="' s l o v I" rhymeScheme="15" stanzaId="4" />
+    <line id="32" finToken="rád" finSampa="' r a: t" rhymeScheme="16" stanzaId="4" />
+    <line id="33" finToken="podíváte" finSampa="' p o J\ i: v a: t E" rhymeScheme="17" stanzaId="5" />
+    <line id="34" finToken="nejvíce" finSampa="' n E j v i: t_s E" rhymeScheme="18" stanzaId="5" />
+    <line id="35" finToken="vyrůstáte" finSampa="' v I r u: s t a: t E" rhymeScheme="17" stanzaId="5" />
+    <line id="36" finToken="světice" finSampa="' s v j E c I t_s E" rhymeScheme="18" stanzaId="5" />
+    <line id="37" finToken="tiše" finSampa="' c I S E" rhymeScheme="19" stanzaId="5" />
+    <line id="38" finToken="vnad" finSampa="' v n a t" rhymeScheme="20" stanzaId="5" />
+    <line id="39" finToken="píše" finSampa="' p i: S E" rhymeScheme="19" stanzaId="5" />
+    <line id="40" finToken="snad" finSampa="s n a t" rhymeScheme="20" stanzaId="5" />
+  </poem>
+  <poem id="0001-0004-0000-0004-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="píši" finSampa="' p i: S I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="dám" finSampa="' d a: m" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="říši" finSampa="' P\ i: S I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="sám" finSampa="s a: m" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="ryzí" finSampa="' r I z i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="nestačí" finSampa="' n E s t a t_S i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="mizí" finSampa="' m I z i:" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="zapláčí" finSampa="' z a p l a: t_S i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="jeseně" finSampa="' j E s E J E" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="ženě" finSampa="' Z E J E" rhymeScheme="5" stanzaId="3" />
+    <line id="11" finToken="pochopit" finSampa="' p o x o p I t" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="málo" finSampa="' m a: l o" rhymeScheme="7" stanzaId="4" />
+    <line id="13" finToken="vzplálo" finSampa="' f s p l a: l o" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="mít" finSampa="' m i: t" rhymeScheme="6" stanzaId="4" />
+  </poem>
+  <poem id="0001-0004-0000-0005-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="větu" finSampa="' v j E t u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="stačí" finSampa="' s t a t_S i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="pláči" finSampa="' p l a: t_S I" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="tu" finSampa="t u" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="květu" finSampa="' k v j E t u" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="ptačí" finSampa="' p t a t_S i:" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="nepostačí" finSampa="' n E p o s t a t_S i:" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="letu" finSampa="' l E t u" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="osamělý" finSampa="' o s a m J E l i:" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="hodinky" finSampa="' h\ o J\ I n k I" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="stměly" finSampa="' s t m J E l I" rhymeScheme="3" stanzaId="3" />
+    <line id="12" finToken="zmítán" finSampa="' z m i: t a: n" rhymeScheme="5" stanzaId="4" />
+    <line id="13" finToken="jedinký" finSampa="' j E J\ I n k i:" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="splítán" finSampa="' s p l i: t a: n" rhymeScheme="5" stanzaId="4" />
+  </poem>
+  <poem id="0001-0004-0000-0006-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="značí" finSampa="' z n a t_S i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vyrůstá" finSampa="' v I r u: s t a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="kráčí" finSampa="' k r a: t_S i:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="ústa" finSampa="' u: s t a" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="zřela" finSampa="' z P\ E l a" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="vzývalas" finSampa="' v z i: v a l a s" rhymeScheme="4" stanzaId="1" />
+    <line id="7" finToken="archanděla" finSampa="' a r x a n J\ E l a" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="střás" finSampa="' s t P\ a: s" rhymeScheme="4" stanzaId="1" />
+    <line id="9" finToken="tiskli" finSampa="' c I s k l I" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="list" finSampa="' l I s t" rhymeScheme="6" stanzaId="2" />
+    <line id="11" finToken="tryskly" finSampa="' t r I s k l I" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="číst" finSampa="' t_S i: s t" rhymeScheme="6" stanzaId="2" />
+    <line id="13" finToken="zpívá" finSampa="' s p i: v a:" rhymeScheme="7" stanzaId="2" />
+    <line id="14" finToken="vět" finSampa="' v j E t" rhymeScheme="8" stanzaId="2" />
+    <line id="15" finToken="splývá" finSampa="' s p l i: v a:" rhymeScheme="7" stanzaId="2" />
+    <line id="16" finToken="svět" finSampa="' s v j E t" rhymeScheme="8" stanzaId="2" />
+    <line id="17" finToken="ani" finSampa="' a J I" rhymeScheme="9" stanzaId="3" />
+    <line id="18" finToken="blankytu" finSampa="' b l a n k I t u" rhymeScheme="10" stanzaId="3" />
+    <line id="19" finToken="ranní" finSampa="' r a n J i:" rhymeScheme="9" stanzaId="3" />
+    <line id="20" finToken="tu" finSampa="t u" rhymeScheme="10" stanzaId="3" />
+    <line id="21" finToken="vstala" finSampa="' f s t a l a" rhymeScheme="11" stanzaId="3" />
+    <line id="22" finToken="vehnala" finSampa="' v E h\ n a l a" rhymeScheme="12" stanzaId="3" />
+    <line id="23" finToken="vzpomínala" finSampa="' f s p o m i: n a l a" rhymeScheme="11" stanzaId="3" />
+    <line id="24" finToken="plakala" finSampa="' p l a k a l a" rhymeScheme="12" stanzaId="3" />
+    <line id="25" finToken="tiše" finSampa="' c I S E" rhymeScheme="13" stanzaId="4" />
+    <line id="26" finToken="doznělá" finSampa="' d o z J E l a:" rhymeScheme="14" stanzaId="4" />
+    <line id="27" finToken="pýše" finSampa="' p i: S E" rhymeScheme="13" stanzaId="4" />
+    <line id="28" finToken="letěla" finSampa="' l E c E l a" rhymeScheme="14" stanzaId="4" />
+    <line id="29" finToken="chvění" finSampa="' x v j E J i:" rhymeScheme="15" stanzaId="4" />
+    <line id="30" finToken="posvětí" finSampa="' p o s v j E c i:" rhymeScheme="16" stanzaId="4" />
+    <line id="31" finToken="snění" finSampa="' s J E J i:" rhymeScheme="15" stanzaId="4" />
+    <line id="32" finToken="objetí" finSampa="' o b j E c i:" rhymeScheme="16" stanzaId="4" />
+    <line id="33" finToken="jistě" finSampa="' j I s c E" rhymeScheme="17" stanzaId="5" />
+    <line id="34" finToken="zadívá" finSampa="' z a J\ i: v a:" rhymeScheme="18" stanzaId="5" />
+    <line id="35" finToken="listě" finSampa="' l I s c E" rhymeScheme="17" stanzaId="5" />
+    <line id="36" finToken="ničivá" finSampa="' J I t_S I v a:" rhymeScheme="18" stanzaId="5" />
+    <line id="37" finToken="bolestivě" finSampa="' b o l E s c I v j E" rhymeScheme="19" stanzaId="5" />
+    <line id="38" finToken="zdupali" finSampa="' z d u p a l I" rhymeScheme="20" stanzaId="5" />
+    <line id="39" finToken="divě" finSampa="' J\ I v j E" rhymeScheme="19" stanzaId="5" />
+    <line id="40" finToken="žehnaly" finSampa="' Z E h\ n a l I" rhymeScheme="20" stanzaId="5" />
+    <line id="41" finToken="taky" finSampa="' t a k I" rhymeScheme="21" stanzaId="6" />
+    <line id="42" finToken="neprodlí" finSampa="' n E p r o d l i:" rhymeScheme="22" stanzaId="6" />
+    <line id="43" finToken="zraky" finSampa="' z r a k I" rhymeScheme="21" stanzaId="6" />
+    <line id="44" finToken="vymodlí" finSampa="' v I m o d l i:" rhymeScheme="22" stanzaId="6" />
+    <line id="45" finToken="kráčí" finSampa="' k r a: t_S i:" rhymeScheme="23" stanzaId="6" />
+    <line id="46" finToken="rety" finSampa="' r E t I" rhymeScheme="24" stanzaId="6" />
+    <line id="47" finToken="pláči" finSampa="' p l a: t_S I" rhymeScheme="23" stanzaId="6" />
+    <line id="48" finToken="léty" finSampa="' l E: t I" rhymeScheme="24" stanzaId="6" />
+  </poem>
+  <poem id="0001-0004-0000-0007-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="tichá" finSampa="' c I x a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="starostlivá" finSampa="' s t a r o s t l I v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zbývá" finSampa="' z b i: v a:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="dýchá" finSampa="' d i: x a:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="dějích" finSampa="' J\ E j i: x" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="strázní" finSampa="' s t r a: z J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="zazní" finSampa="' z a z J i:" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="jejích" finSampa="' j E j i: x" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="práci" finSampa="' p r a: t_s I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="krátký" finSampa="' k r a: t k i:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="vratký" finSampa="' v r a t k i:" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="ztrácí" finSampa="' s t r a: t_s i:" rhymeScheme="5" stanzaId="4" />
+    <line id="13" finToken="zbyla" finSampa="' z b I l a" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="naplnila" finSampa="' n a p l= J I l a" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0004-0000-0008-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="klínu" finSampa="' k l i: n u" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="ráno" finSampa="' r a: n o" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="posypáno" finSampa="' p o s I p a: n o" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="stínu" finSampa="' s c i: n u" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="zvedla" finSampa="' z v E d l a" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="skryla" finSampa="' s k r I l a" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="ovroubila" finSampa="' o v r o_u b I l a" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="shlédla" finSampa="' s x l E: d l a" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="víru" finSampa="' v i: r u" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="vzplály" finSampa="' f s p l a: l I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="rozšeptaly" finSampa="' r o s S E p t a l I" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="smíru" finSampa="' s m i: r u" rhymeScheme="5" stanzaId="4" />
+    <line id="13" finToken="tklivý" finSampa="' t k l I v i:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="mlčelivý" finSampa="' m l= t_S E l I v i:" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0004-0000-0009-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="oddechnutí" finSampa="' o d E x n u c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="rozvlnění" finSampa="' r o z v l= J E J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="znění" finSampa="' z J E J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="rozjihnutí" finSampa="' r o z j I h\ n u c i:" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="lidské" finSampa="' l I t s k E:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="kouzlo" finSampa="' k o_u z l o" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="vklouzlo" finSampa="' f k l o_u z l o" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="harmonické" finSampa="' h\ a r m o J I t_s k E:" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="ani" finSampa="' a J I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="rozechvívá" finSampa="' r o z E x v i: v a:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="dívá" finSampa="' J\ i: v a:" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="starosvětský" finSampa="' s t a r o s v j E t s k i:" rhymeScheme="7" stanzaId="4" />
+    <line id="13" finToken="všecky" finSampa="' f S E t_s k I" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="usmívání" finSampa="' u s m i: v a: J i:" rhymeScheme="5" stanzaId="4" />
+  </poem>
+  <poem id="0001-0004-0000-0010-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="věků" finSampa="' v j E k u:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="nese" finSampa="' n E s E" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="lese" finSampa="' l E s E" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="člověku" finSampa="' t_S l o v j E k u" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="bolesti" finSampa="' b o l E s c I" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="štvavá" finSampa="' S t v a v a:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="hravá" finSampa="' h\ r a v a:" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="povznésti" finSampa="' p o v z n E: s c I" rhymeScheme="3" stanzaId="2" />
+    <line id="9" finToken="žárem" finSampa="' Z a: r E m" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="dlaň" finSampa="' d l a J" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="suchopárem" finSampa="' s u x o p a: r E m" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="nekonečna" finSampa="' n E k o n E t_S n a" rhymeScheme="7" stanzaId="4" />
+    <line id="13" finToken="laň" finSampa="' l a J" rhymeScheme="6" stanzaId="4" />
+    <line id="14" finToken="vděčná" finSampa="' v J\ E t_S n a:" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0004-0000-0011-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="zvony" finSampa="' z v o n I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="jména" finSampa="' j m E: n a" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="balkóny" finSampa="' b a l k o: n I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="opuštěna" finSampa="' o p u S c E n a" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="zase" finSampa="' z a s E" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="krásy" finSampa="' k r a: s I" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="se" finSampa="s E" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="vlasy" finSampa="' v l a s I" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="zdálo" finSampa="' z d a: l o" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="spěly" finSampa="' s p j E l I" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="tkvěly" finSampa="' t k v j E l I" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="skutečno" finSampa="' s k u t E t_S n o" rhymeScheme="7" stanzaId="4" />
+    <line id="13" finToken="vděčno" finSampa="' v J\ E t_S n o" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="vzdalo" finSampa="' v z d a l o" rhymeScheme="5" stanzaId="4" />
+  </poem>
+  <poem id="0001-0004-0000-0012-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="kouli" finSampa="' k o_u l I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="nechci" finSampa="' n E x t_s I" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="lehcí" finSampa="' l E x t_s i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="li" finSampa="l I" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="choulí" finSampa="' x o_u l i:" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="chci" finSampa="' x t_s I" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="křehcí" finSampa="' k P\ E x t_s i:" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="gdoulí" finSampa="' g d o_u l i:" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="písní" finSampa="' p i: s J i:" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="neochladlé" finSampa="' n E o x l a d l E:" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="vrací" finSampa="' v r a t_s i:" rhymeScheme="5" stanzaId="3" />
+    <line id="12" finToken="přísní" finSampa="' p P\ i: s J i:" rhymeScheme="3" stanzaId="4" />
+    <line id="13" finToken="svadlé" finSampa="' s v a d l E:" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="ztrácí" finSampa="' s t r a: t_s i:" rhymeScheme="5" stanzaId="4" />
+  </poem>
+  <poem id="0001-0004-0000-0013-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="dívá" finSampa="' J\ i: v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="teplá" finSampa="' t E p l a:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="zbývá" finSampa="' z b i: v a:" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="sepla" finSampa="' s E p l a" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="hojí" finSampa="' h\ o j i:" rhymeScheme="3" stanzaId="2" />
+    <line id="6" finToken="hladí" finSampa="' h\ l a J\ i:" rhymeScheme="4" stanzaId="2" />
+    <line id="7" finToken="roji" finSampa="' r o j I" rhymeScheme="3" stanzaId="2" />
+    <line id="8" finToken="mládí" finSampa="' m l a: J\ i:" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="písni" finSampa="' p i: s J I" rhymeScheme="5" stanzaId="3" />
+    <line id="10" finToken="štěstí" finSampa="' S c E s c i:" rhymeScheme="6" stanzaId="3" />
+    <line id="11" finToken="nésti" finSampa="' n E: s c I" rhymeScheme="6" stanzaId="3" />
+    <line id="12" finToken="tísní" finSampa="' c i: s J i:" rhymeScheme="5" stanzaId="4" />
+    <line id="13" finToken="čeří" finSampa="' t_S E P\ i:" rhymeScheme="7" stanzaId="4" />
+    <line id="14" finToken="dveří" finSampa="' d v E P\ i:" rhymeScheme="7" stanzaId="4" />
+  </poem>
+  <poem id="0001-0004-0000-0014-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="rozhovory" finSampa="' r o s x o v o r I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="doprovází" finSampa="' d o p r o v a: z i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="spory" finSampa="' s p o r I" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="hází" finSampa="' h\ a: z i:" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="mlází" finSampa="' m l a: z i:" rhymeScheme="2" stanzaId="2" />
+    <line id="6" finToken="zory" finSampa="' z o r I" rhymeScheme="1" stanzaId="2" />
+    <line id="7" finToken="vchází" finSampa="' f x a: z i:" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="chorý" finSampa="' x o r i:" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="požehnána" finSampa="' p o Z E h\ n a: n a" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="zneklidnělá" finSampa="' z n E k l I d J E l a:" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="chtěla" finSampa="' x c E l a" rhymeScheme="4" stanzaId="3" />
+    <line id="12" finToken="hnaná" finSampa="' h\ n a n a:" rhymeScheme="3" stanzaId="4" />
+    <line id="13" finToken="rána" finSampa="' r a: n a" rhymeScheme="3" stanzaId="4" />
+    <line id="14" finToken="čela" finSampa="' t_S E l a" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0004-0000-0015-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="námi" finSampa="' n a: m I" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="všední" finSampa="' f S E d J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="nerozední" finSampa="' n E r o z E d J i:" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="tmami" finSampa="' t m a m I" rhymeScheme="1" stanzaId="1" />
+    <line id="5" finToken="dramy" finSampa="' d r a m I" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="dni" finSampa="' d J I" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="nedohlední" finSampa="' n E d o h\ l E d J i:" rhymeScheme="2" stanzaId="2" />
+    <line id="8" finToken="chrámy" finSampa="' x r a: m I" rhymeScheme="1" stanzaId="2" />
+    <line id="9" finToken="střední" finSampa="' s t P\ E d J i:" rhymeScheme="2" stanzaId="3" />
+    <line id="10" finToken="těžší" finSampa="' c E S i:" rhymeScheme="3" stanzaId="3" />
+    <line id="11" finToken="neutěší" finSampa="' n E u c E S i:" rhymeScheme="3" stanzaId="3" />
+    <line id="12" finToken="poledni" finSampa="' p o l E d J I" rhymeScheme="2" stanzaId="4" />
+    <line id="13" finToken="schvěla" finSampa="' s x v j E l a" rhymeScheme="4" stanzaId="4" />
+    <line id="14" finToken="celá" finSampa="' t_s E l a:" rhymeScheme="4" stanzaId="4" />
+  </poem>
+  <poem id="0001-0005-0000-0001-0000" author="Dostal, Adolf Bohuslav *1873" period="1870">
+    <line id="1" finToken="ptát" finSampa="' p t a: t" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="vytrpěla" finSampa="' v I t r= p j E l a" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="stát" finSampa="' s t a: t" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="nezemřela" finSampa="' n E z E m P\ E l a" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="hřát" finSampa="' h\ P\ a: t" rhymeScheme="1" stanzaId="2" />
+    <line id="6" finToken="rozevřela" finSampa="' r o z E v P\ E l a" rhymeScheme="2" stanzaId="2" />
+    <line id="7" finToken="snad" finSampa="s n a t" rhymeScheme="1" stanzaId="2" />
+    <line id="8" finToken="čela" finSampa="' t_S E l a" rhymeScheme="2" stanzaId="2" />
+    <line id="9" finToken="chudý" finSampa="' x u d i:" rhymeScheme="3" stanzaId="3" />
+    <line id="10" finToken="světů" finSampa="' s v j E t u:" rhymeScheme="4" stanzaId="3" />
+    <line id="11" finToken="tudy" finSampa="' t u d I" rhymeScheme="3" stanzaId="3" />
+    <line id="12" finToken="květu" finSampa="' k v j E t u" rhymeScheme="4" stanzaId="3" />
+    <line id="13" finToken="plát" finSampa="' p l a: t" rhymeScheme="5" stanzaId="3" />
+    <line id="14" finToken="znát" finSampa="' z n a: t" rhymeScheme="5" stanzaId="3" />
+  </poem>
+</data>

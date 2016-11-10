@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+  <poem id="POEM0" author="more" period="1415">
+    <line id="1" finToken="alway" finSampa="' { l w EI" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="say" finSampa="' s EI" rhymeScheme="1" stanzaId="1" />
+    <line id="3" finToken="man" finSampa="' m { n" rhymeScheme="2" stanzaId="1" />
+    <line id="4" finToken="diligently" finSampa="' d I l @ dZ @ n t l i" rhymeScheme="3" stanzaId="1" />
+    <line id="5" finToken="apply" finSampa="@ ' p l AI" rhymeScheme="3" stanzaId="1" />
+    <line id="6" finToken="can" finSampa="' k { n" rhymeScheme="2" stanzaId="1" />
+    <line id="7" finToken="wise" finSampa="' w AI z" rhymeScheme="4" stanzaId="2" />
+    <line id="8" finToken="enterprise" finSampa="' E n t r= p r AI z" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="faculty" finSampa="' f { k @ l t i" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="will" finSampa="' w I l" rhymeScheme="6" stanzaId="2" />
+    <line id="11" finToken="skill" finSampa="s ' k I l" rhymeScheme="6" stanzaId="2" />
+    <line id="12" finToken="thrive" finSampa="' T r AI v" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="left" finSampa="' l E f t" rhymeScheme="7" stanzaId="3" />
+    <line id="14" finToken="craft" finSampa="' k r { f t" rhymeScheme="7" stanzaId="3" />
+    <line id="15" finToken="shone" finSampa="' S @U n" rhymeScheme="8" stanzaId="3" />
+    <line id="16" finToken="shall" finSampa="' S { l" rhymeScheme="9" stanzaId="3" />
+    <line id="17" finToken="fall" finSampa="' f O l" rhymeScheme="9" stanzaId="3" />
+    <line id="18" finToken="done" finSampa="' d V n" rhymeScheme="8" stanzaId="3" />
+    <line id="19" finToken="draper" finSampa="' d r EI p r=" rhymeScheme="10" stanzaId="4" />
+    <line id="20" finToken="paper" finSampa="' p EI p r=" rhymeScheme="10" stanzaId="4" />
+    <line id="21" finToken="school" finSampa="s ' k u l" rhymeScheme="11" stanzaId="4" />
+    <line id="22" finToken="butler" finSampa="' b V t l r=" rhymeScheme="12" stanzaId="4" />
+    <line id="23" finToken="cutler" finSampa="' k V t l r=" rhymeScheme="12" stanzaId="4" />
+    <line id="24" finToken="fool" finSampa="' f u l" rhymeScheme="11" stanzaId="4" />
+    <line id="25" finToken="trot" finSampa="' t r A t" rhymeScheme="13" stanzaId="5" />
+    <line id="26" finToken="wot" finSampa="' w A t" rhymeScheme="13" stanzaId="5" />
+    <line id="27" finToken="cup" finSampa="' k V p" rhymeScheme="14" stanzaId="5" />
+    <line id="28" finToken="physic" finSampa="' f I z I k" rhymeScheme="15" stanzaId="5" />
+    <line id="29" finToken="sick" finSampa="' s I k" rhymeScheme="15" stanzaId="5" />
+    <line id="30" finToken="up" finSampa="' V p" rhymeScheme="14" stanzaId="5" />
+    <line id="31" finToken="law" finSampa="' l O" rhymeScheme="16" stanzaId="6" />
+    <line id="32" finToken="saw" finSampa="' s O" rhymeScheme="16" stanzaId="6" />
+    <line id="33" finToken="sell" finSampa="' s E l" rhymeScheme="17" stanzaId="6" />
+    <line id="34" finToken="rise" finSampa="' r AI z" rhymeScheme="18" stanzaId="6" />
+    <line id="35" finToken="merchandise" finSampa="' m r= tS @ n d AI z" rhymeScheme="18" stanzaId="6" />
+    <line id="36" finToken="well" finSampa="' w E l" rhymeScheme="17" stanzaId="6" />
+    <line id="37" finToken="eke" finSampa="' i k" rhymeScheme="19" stanzaId="7" />
+    <line id="38" finToken="seek" finSampa="' s i k" rhymeScheme="19" stanzaId="7" />
+    <line id="39" finToken="may" finSampa="' m EI" rhymeScheme="20" stanzaId="7" />
+    <line id="40" finToken="suit" finSampa="' s u t" rhymeScheme="21" stanzaId="7" />
+    <line id="41" finToken="dispute" finSampa="d I s ' p j u t" rhymeScheme="21" stanzaId="7" />
+    <line id="42" finToken="away" finSampa="@ ' w EI" rhymeScheme="20" stanzaId="7" />
+    <line id="43" finToken="law" finSampa="' l O" rhymeScheme="22" stanzaId="8" />
+    <line id="44" finToken="straw" finSampa="s ' t r O" rhymeScheme="22" stanzaId="8" />
+    <line id="45" finToken="man" finSampa="' m { n" rhymeScheme="23" stanzaId="8" />
+    <line id="46" finToken="strife" finSampa="s ' t r AI f" rhymeScheme="24" stanzaId="8" />
+    <line id="47" finToken="life" finSampa="' l AI f" rhymeScheme="24" stanzaId="8" />
+    <line id="48" finToken="whan" finSampa="' w { n" rhymeScheme="23" stanzaId="8" />
+    <line id="49" finToken="hatter" finSampa="' h { t r=" rhymeScheme="25" stanzaId="9" />
+    <line id="50" finToken="smatter" finSampa="' s m { t r=" rhymeScheme="25" stanzaId="9" />
+    <line id="51" finToken="philosophy" finSampa="f @ ' l A s @ f i" rhymeScheme="26" stanzaId="9" />
+    <line id="52" finToken="pedlar" finSampa="' p E d l r=" rhymeScheme="27" stanzaId="9" />
+    <line id="53" finToken="meddler" finSampa="' m E d @ l r=" rhymeScheme="27" stanzaId="9" />
+    <line id="54" finToken="theology" finSampa="T i ' A l @ dZ i" rhymeScheme="26" stanzaId="9" />
+    <line id="55" finToken="ensue" finSampa="I n ' s u" rhymeScheme="28" stanzaId="10" />
+    <line id="56" finToken="new" finSampa="' n u" rhymeScheme="28" stanzaId="10" />
+    <line id="57" finToken="cast" finSampa="' k { s t" rhymeScheme="29" stanzaId="10" />
+    <line id="58" finToken="evermore" finSampa="' E v r= m O r" rhymeScheme="30" stanzaId="10" />
+    <line id="59" finToken="therefore" finSampa="' D E r f O r" rhymeScheme="30" stanzaId="10" />
+    <line id="60" finToken="last" finSampa="' l { s t" rhymeScheme="29" stanzaId="10" />
+    <line id="61" finToken="tried" finSampa="' t r AI d" rhymeScheme="31" stanzaId="11" />
+    <line id="62" finToken="verified" finSampa="' v E r @ f AI d" rhymeScheme="31" stanzaId="11" />
+    <line id="63" finToken="late" finSampa="' l EI t" rhymeScheme="32" stanzaId="11" />
+    <line id="64" finToken="was" finSampa="' w A z" rhymeScheme="33" stanzaId="11" />
+    <line id="65" finToken="pass" finSampa="' p { s" rhymeScheme="33" stanzaId="11" />
+    <line id="66" finToken="pate" finSampa="' p EI t" rhymeScheme="32" stanzaId="11" />
+    <line id="67" finToken="would" finSampa="' w U d" rhymeScheme="34" stanzaId="12" />
+    <line id="68" finToken="could" finSampa="' k U d" rhymeScheme="34" stanzaId="12" />
+    <line id="69" finToken="frere" finSampa="' f r I r" rhymeScheme="35" stanzaId="12" />
+    <line id="70" finToken="will" finSampa="' w I l" rhymeScheme="36" stanzaId="12" />
+    <line id="71" finToken="fell" finSampa="' f E l" rhymeScheme="36" stanzaId="12" />
+    <line id="72" finToken="hear" finSampa="' h I r" rhymeScheme="35" stanzaId="12" />
+    <line id="73" finToken="so" finSampa="' s @U" rhymeScheme="37" stanzaId="13" />
+    <line id="74" finToken="ago" finSampa="@ ' g @U" rhymeScheme="37" stanzaId="13" />
+    <line id="75" finToken="died" finSampa="' d AI d" rhymeScheme="38" stanzaId="13" />
+    <line id="76" finToken="pound" finSampa="' p aU n d" rhymeScheme="39" stanzaId="13" />
+    <line id="77" finToken="round" finSampa="' r aU n d" rhymeScheme="39" stanzaId="13" />
+    <line id="78" finToken="aside" finSampa="@ ' s AI d" rhymeScheme="38" stanzaId="13" />
+    <line id="79" finToken="would" finSampa="' w U d" rhymeScheme="40" stanzaId="14" />
+    <line id="80" finToken="gold" finSampa="' g @U l d" rhymeScheme="40" stanzaId="14" />
+    <line id="81" finToken="withal" finSampa="' w I T @ l" rhymeScheme="41" stanzaId="14" />
+    <line id="82" finToken="suffice" finSampa="s @ ' f AI s" rhymeScheme="42" stanzaId="14" />
+    <line id="83" finToken="thrice" finSampa="' T r AI s" rhymeScheme="42" stanzaId="14" />
+    <line id="84" finToken="small" finSampa="' s m O l" rhymeScheme="41" stanzaId="14" />
+    <line id="85" finToken="day" finSampa="' d EI" rhymeScheme="43" stanzaId="15" />
+    <line id="86" finToken="say" finSampa="' s EI" rhymeScheme="43" stanzaId="15" />
+    <line id="87" finToken="certes" finSampa="' s r= t s" rhymeScheme="44" stanzaId="15" />
+    <line id="88" finToken="cast" finSampa="' k { s t" rhymeScheme="45" stanzaId="15" />
+    <line id="89" finToken="last" finSampa="' l { s t" rhymeScheme="45" stanzaId="15" />
+    <line id="90" finToken="less" finSampa="' l E s" rhymeScheme="44" stanzaId="15" />
+    <line id="91" finToken="man" finSampa="' m { n" rhymeScheme="46" stanzaId="16" />
+    <line id="92" finToken="began" finSampa="b I ' g { n" rhymeScheme="46" stanzaId="16" />
+    <line id="93" finToken="employ" finSampa="E m ' p l OI" rhymeScheme="47" stanzaId="16" />
+    <line id="94" finToken="certainly" finSampa="' s r= t @ n l i" rhymeScheme="48" stanzaId="16" />
+    <line id="95" finToken="policy" finSampa="' p A l @ s i" rhymeScheme="48" stanzaId="16" />
+    <line id="96" finToken="joy" finSampa="' dZ OI" rhymeScheme="47" stanzaId="16" />
+    <line id="97" finToken="blast" finSampa="' b l { s t" rhymeScheme="49" stanzaId="17" />
+    <line id="98" finToken="overcast" finSampa="' @U v r= k { s t" rhymeScheme="49" stanzaId="17" />
+    <line id="99" finToken="mischance" finSampa="' m I ' S { n s" rhymeScheme="50" stanzaId="17" />
+    <line id="100" finToken="wile" finSampa="' w AI l" rhymeScheme="51" stanzaId="17" />
+    <line id="101" finToken="beguile" finSampa="' b I g l" rhymeScheme="51" stanzaId="17" />
+    <line id="102" finToken="substance" finSampa="' s V b s t @ n s" rhymeScheme="50" stanzaId="17" />
+    <line id="103" finToken="out" finSampa="' aU t" rhymeScheme="52" stanzaId="18" />
+    <line id="104" finToken="doubt" finSampa="' d aU t" rhymeScheme="52" stanzaId="18" />
+    <line id="105" finToken="purvey" finSampa="p r= ' v EI" rhymeScheme="53" stanzaId="18" />
+    <line id="106" finToken="whit" finSampa="' w I t" rhymeScheme="54" stanzaId="18" />
+    <line id="107" finToken="wit" finSampa="' w I t" rhymeScheme="54" stanzaId="18" />
+    <line id="108" finToken="way" finSampa="' w EI" rhymeScheme="53" stanzaId="18" />
+    <line id="109" finToken="well" finSampa="' w E l" rhymeScheme="55" stanzaId="19" />
+    <line id="110" finToken="deal" finSampa="' d i l" rhymeScheme="55" stanzaId="19" />
+    <line id="111" finToken="pot" finSampa="' p A t" rhymeScheme="56" stanzaId="19" />
+    <line id="112" finToken="thought" finSampa="' T O t" rhymeScheme="57" stanzaId="19" />
+    <line id="113" finToken="nought" finSampa="' n O t" rhymeScheme="57" stanzaId="19" />
+    <line id="114" finToken="not" finSampa="' n A t" rhymeScheme="56" stanzaId="19" />
+    <line id="115" finToken="fain" finSampa="' f EI n" rhymeScheme="58" stanzaId="20" />
+    <line id="116" finToken="again" finSampa="@ ' g E n" rhymeScheme="58" stanzaId="20" />
+    <line id="117" finToken="cup" finSampa="' k V p" rhymeScheme="59" stanzaId="20" />
+    <line id="118" finToken="by" finSampa="' b AI" rhymeScheme="60" stanzaId="20" />
+    <line id="119" finToken="covetously" finSampa="' k V v t @ s l i" rhymeScheme="60" stanzaId="20" />
+    <line id="120" finToken="fairlyup" finSampa="' f E r l I V p" rhymeScheme="59" stanzaId="20" />
+    <line id="121" finToken="breast" finSampa="' b r E s t" rhymeScheme="61" stanzaId="21" />
+    <line id="122" finToken="best" finSampa="' b E s t" rhymeScheme="61" stanzaId="21" />
+    <line id="123" finToken="inclose" finSampa="' I n k l @U z" rhymeScheme="62" stanzaId="21" />
+    <line id="124" finToken="well" finSampa="' w E l" rhymeScheme="63" stanzaId="21" />
+    <line id="125" finToken="fell" finSampa="' f E l" rhymeScheme="63" stanzaId="21" />
+    <line id="126" finToken="lose" finSampa="' l u z" rhymeScheme="62" stanzaId="21" />
+    <line id="127" finToken="then" finSampa="' D E n" rhymeScheme="64" stanzaId="22" />
+    <line id="128" finToken="men" finSampa="' m E n" rhymeScheme="64" stanzaId="22" />
+    <line id="129" finToken="merchandise" finSampa="' m r= tS @ n d AI z" rhymeScheme="65" stanzaId="22" />
+    <line id="130" finToken="it" finSampa="' I t" rhymeScheme="66" stanzaId="22" />
+    <line id="131" finToken="it" finSampa="' I t" rhymeScheme="66" stanzaId="22" />
+    <line id="132" finToken="wise" finSampa="' w AI z" rhymeScheme="65" stanzaId="22" />
+    <line id="133" finToken="gear" finSampa="' g I r" rhymeScheme="67" stanzaId="23" />
+    <line id="134" finToken="wear" finSampa="' w E r" rhymeScheme="67" stanzaId="23" />
+    <line id="135" finToken="spent" finSampa="s ' p E n t" rhymeScheme="68" stanzaId="23" />
+    <line id="136" finToken="nice" finSampa="' n AI s" rhymeScheme="69" stanzaId="23" />
+    <line id="137" finToken="price" finSampa="' p r AI s" rhymeScheme="69" stanzaId="23" />
+    <line id="138" finToken="miscontent" finSampa="' m I s k @ n t E n t" rhymeScheme="68" stanzaId="23" />
+    <line id="139" finToken="sport" finSampa="s ' p O r t" rhymeScheme="70" stanzaId="24" />
+    <line id="140" finToken="resort" finSampa="r I ' z O r t" rhymeScheme="70" stanzaId="24" />
+    <line id="141" finToken="company" finSampa="' k V m p @ n i" rhymeScheme="71" stanzaId="24" />
+    <line id="142" finToken="play" finSampa="' p l EI" rhymeScheme="72" stanzaId="24" />
+    <line id="143" finToken="day" finSampa="' d EI" rhymeScheme="72" stanzaId="24" />
+    <line id="144" finToken="merrily" finSampa="' m E r @ l i" rhymeScheme="71" stanzaId="24" />
+    <line id="145" finToken="sworn" finSampa="' s w O r n" rhymeScheme="73" stanzaId="25" />
+    <line id="146" finToken="born" finSampa="' b O r n" rhymeScheme="73" stanzaId="25" />
+    <line id="147" finToken="hour" finSampa="' aU r=" rhymeScheme="74" stanzaId="25" />
+    <line id="148" finToken="he" finSampa="' h i" rhymeScheme="75" stanzaId="25" />
+    <line id="149" finToken="degree" finSampa="d I g ' r i" rhymeScheme="75" stanzaId="25" />
+    <line id="150" finToken="honour" finSampa="' A n r=" rhymeScheme="74" stanzaId="25" />
+    <line id="151" finToken="doubt" finSampa="' d aU t" rhymeScheme="76" stanzaId="26" />
+    <line id="152" finToken="out" finSampa="' aU t" rhymeScheme="76" stanzaId="26" />
+    <line id="153" finToken="fair" finSampa="' f E r" rhymeScheme="77" stanzaId="26" />
+    <line id="154" finToken="strait" finSampa="s ' t r EI t" rhymeScheme="78" stanzaId="26" />
+    <line id="155" finToken="wait" finSampa="' w EI t" rhymeScheme="78" stanzaId="26" />
+    <line id="156" finToken="mayr" finSampa="' m EI r" rhymeScheme="77" stanzaId="26" />
+    <line id="157" finToken="doubtless" finSampa="' d aU t l @ s" rhymeScheme="79" stanzaId="27" />
+    <line id="158" finToken="meekness" finSampa="' m i k n @ s" rhymeScheme="79" stanzaId="27" />
+    <line id="159" finToken="pride" finSampa="' p r AI d" rhymeScheme="80" stanzaId="27" />
+    <line id="160" finToken="go" finSampa="' g @U" rhymeScheme="81" stanzaId="27" />
+    <line id="161" finToken="so" finSampa="' s @U" rhymeScheme="81" stanzaId="27" />
+    <line id="162" finToken="aside" finSampa="@ ' s AI d" rhymeScheme="80" stanzaId="27" />
+    <line id="163" finToken="cathrine" finSampa="' k { ' T r AI n" rhymeScheme="82" stanzaId="28" />
+    <line id="164" finToken="line" finSampa="' l AI n" rhymeScheme="82" stanzaId="28" />
+    <line id="165" finToken="tide" finSampa="' t AI d" rhymeScheme="83" stanzaId="28" />
+    <line id="166" finToken="devotion" finSampa="d I ' v @U S @ n" rhymeScheme="84" stanzaId="28" />
+    <line id="167" finToken="promotion" finSampa="p r @ ' m @U S @ n" rhymeScheme="84" stanzaId="28" />
+    <line id="168" finToken="abide" finSampa="@ ' b AI d" rhymeScheme="83" stanzaId="28" />
+    <line id="169" finToken="fast" finSampa="' f { s t" rhymeScheme="85" stanzaId="29" />
+    <line id="170" finToken="past" finSampa="' p { s t" rhymeScheme="85" stanzaId="29" />
+    <line id="171" finToken="many" finSampa="' m E n i" rhymeScheme="86" stanzaId="29" />
+    <line id="172" finToken="debt" finSampa="' d E t" rhymeScheme="87" stanzaId="29" />
+    <line id="173" finToken="get" finSampa="' g E t" rhymeScheme="87" stanzaId="29" />
+    <line id="174" finToken="penny" finSampa="' p E n i" rhymeScheme="86" stanzaId="29" />
+    <line id="175" finToken="stout" finSampa="s ' t aU t" rhymeScheme="88" stanzaId="30" />
+    <line id="176" finToken="out" finSampa="' aU t" rhymeScheme="88" stanzaId="30" />
+    <line id="177" finToken="hedge" finSampa="' h E dZ" rhymeScheme="89" stanzaId="30" />
+    <line id="178" finToken="twain" finSampa="' t w EI n" rhymeScheme="90" stanzaId="30" />
+    <line id="179" finToken="fain" finSampa="' f EI n" rhymeScheme="90" stanzaId="30" />
+    <line id="180" finToken="pledge" finSampa="' p l E dZ" rhymeScheme="89" stanzaId="30" />
+    <line id="181" finToken="there" finSampa="' D E r" rhymeScheme="91" stanzaId="31" />
+    <line id="182" finToken="fear" finSampa="' f I r" rhymeScheme="91" stanzaId="31" />
+    <line id="183" finToken="thither" finSampa="' T I D r=" rhymeScheme="92" stanzaId="31" />
+    <line id="184" finToken="fain" finSampa="' f EI n" rhymeScheme="93" stanzaId="31" />
+    <line id="185" finToken="again" finSampa="@ ' g E n" rhymeScheme="93" stanzaId="31" />
+    <line id="186" finToken="whither" finSampa="' w I D r=" rhymeScheme="92" stanzaId="31" />
+    <line id="187" finToken="this" finSampa="' D I s" rhymeScheme="94" stanzaId="32" />
+    <line id="188" finToken="his" finSampa="' h I z" rhymeScheme="94" stanzaId="32" />
+    <line id="189" finToken="abode" finSampa="@ ' b @U d" rhymeScheme="95" stanzaId="32" />
+    <line id="190" finToken="lay" finSampa="' l EI" rhymeScheme="96" stanzaId="32" />
+    <line id="191" finToken="alway" finSampa="' { l w EI" rhymeScheme="96" stanzaId="32" />
+    <line id="192" finToken="abroad" finSampa="@ ' b r O d" rhymeScheme="95" stanzaId="32" />
+    <line id="193" finToken="than" finSampa="' D { n" rhymeScheme="97" stanzaId="33" />
+    <line id="194" finToken="man" finSampa="' m { n" rhymeScheme="97" stanzaId="33" />
+    <line id="195" finToken="to" finSampa="' t u" rhymeScheme="98" stanzaId="33" />
+    <line id="196" finToken="officer" finSampa="' O f @ s r=" rhymeScheme="99" stanzaId="33" />
+    <line id="197" finToken="enquire" finSampa="' I n k w AI r" rhymeScheme="99" stanzaId="33" />
+    <line id="198" finToken="do" finSampa="' d u" rhymeScheme="98" stanzaId="33" />
+    <line id="199" finToken="ansred" finSampa="' { n s r r= d" rhymeScheme="100" stanzaId="34" />
+    <line id="200" finToken="afraid" finSampa="@ ' f r EI d" rhymeScheme="100" stanzaId="34" />
+    <line id="201" finToken="therefore" finSampa="' D E r f O r" rhymeScheme="101" stanzaId="34" />
+    <line id="202" finToken="behest" finSampa="b I ' h E s t" rhymeScheme="102" stanzaId="34" />
+    <line id="203" finToken="rest" finSampa="' r E s t" rhymeScheme="102" stanzaId="34" />
+    <line id="204" finToken="more" finSampa="' m O r" rhymeScheme="101" stanzaId="34" />
+    <line id="205" finToken="he" finSampa="' h i" rhymeScheme="103" stanzaId="35" />
+    <line id="206" finToken="be" finSampa="' b i" rhymeScheme="103" stanzaId="35" />
+    <line id="207" finToken="out" finSampa="' aU t" rhymeScheme="104" stanzaId="35" />
+    <line id="208" finToken="said" finSampa="' s E d" rhymeScheme="105" stanzaId="35" />
+    <line id="209" finToken="afraid" finSampa="@ ' f r EI d" rhymeScheme="105" stanzaId="35" />
+    <line id="210" finToken="about" finSampa="@ ' b aU t" rhymeScheme="104" stanzaId="35" />
+    <line id="211" finToken="game" finSampa="' g EI m" rhymeScheme="106" stanzaId="36" />
+    <line id="212" finToken="same" finSampa="' s EI m" rhymeScheme="106" stanzaId="36" />
+    <line id="213" finToken="ure" finSampa="' j u r" rhymeScheme="107" stanzaId="36" />
+    <line id="214" finToken="sake" finSampa="' s EI k" rhymeScheme="108" stanzaId="36" />
+    <line id="215" finToken="bake" finSampa="' b EI k" rhymeScheme="108" stanzaId="36" />
+    <line id="216" finToken="cure" finSampa="' k j U r" rhymeScheme="107" stanzaId="36" />
+    <line id="217" finToken="both" finSampa="' b @U T" rhymeScheme="109" stanzaId="37" />
+    <line id="218" finToken="goth" finSampa="' g A T" rhymeScheme="109" stanzaId="37" />
+    <line id="219" finToken="officer" finSampa="' O f @ s r=" rhymeScheme="110" stanzaId="37" />
+    <line id="220" finToken="day" finSampa="' d EI" rhymeScheme="111" stanzaId="37" />
+    <line id="221" finToken="array" finSampa="r= ' EI" rhymeScheme="111" stanzaId="37" />
+    <line id="222" finToken="frere" finSampa="' f r I r" rhymeScheme="110" stanzaId="37" />
+    <line id="223" finToken="dight" finSampa="' d I t" rhymeScheme="112" stanzaId="38" />
+    <line id="224" finToken="might" finSampa="' m AI t" rhymeScheme="112" stanzaId="38" />
+    <line id="225" finToken="deny" finSampa="d I ' n AI" rhymeScheme="113" stanzaId="38" />
+    <line id="226" finToken="dookd" finSampa="' d U k d" rhymeScheme="114" stanzaId="38" />
+    <line id="227" finToken="lookd" finSampa="' l U k d" rhymeScheme="114" stanzaId="38" />
+    <line id="228" finToken="religiously" finSampa="r I ' l I dZ @ s l i" rhymeScheme="113" stanzaId="38" />
+    <line id="229" finToken="glass" finSampa="' g l { s" rhymeScheme="115" stanzaId="39" />
+    <line id="230" finToken="pass" finSampa="' p { s" rhymeScheme="115" stanzaId="39" />
+    <line id="231" finToken="peerd" finSampa="' p I r d" rhymeScheme="116" stanzaId="39" />
+    <line id="232" finToken="pride" finSampa="' p r AI d" rhymeScheme="117" stanzaId="39" />
+    <line id="233" finToken="side" finSampa="' s AI d" rhymeScheme="117" stanzaId="39" />
+    <line id="234" finToken="frerd" finSampa="' f r r= d" rhymeScheme="116" stanzaId="39" />
+    <line id="235" finToken="apace" finSampa="@ ' p EI s" rhymeScheme="118" stanzaId="40" />
+    <line id="236" finToken="place" finSampa="' p l EI s" rhymeScheme="118" stanzaId="40" />
+    <line id="237" finToken="name" finSampa="' n EI m" rhymeScheme="119" stanzaId="40" />
+    <line id="238" finToken="deed" finSampa="' d i d" rhymeScheme="120" stanzaId="40" />
+    <line id="239" finToken="heed" finSampa="' h i d" rhymeScheme="120" stanzaId="40" />
+    <line id="240" finToken="game" finSampa="' g EI m" rhymeScheme="119" stanzaId="40" />
+    <line id="241" finToken="nigh" finSampa="' n AI" rhymeScheme="121" stanzaId="41" />
+    <line id="242" finToken="softily" finSampa="' s O f t @ l i" rhymeScheme="121" stanzaId="41" />
+    <line id="243" finToken="knockd" finSampa="' n A k d" rhymeScheme="122" stanzaId="41" />
+    <line id="244" finToken="damsel" finSampa="' d { m z @ l" rhymeScheme="123" stanzaId="41" />
+    <line id="245" finToken="well" finSampa="' w E l" rhymeScheme="123" stanzaId="41" />
+    <line id="246" finToken="unlockd" finSampa="' @ n l A k d" rhymeScheme="122" stanzaId="41" />
+    <line id="247" finToken="said" finSampa="' s E d" rhymeScheme="124" stanzaId="42" />
+    <line id="248" finToken="maid" finSampa="' m EI d" rhymeScheme="124" stanzaId="42" />
+    <line id="249" finToken="man" finSampa="' m { n" rhymeScheme="125" stanzaId="42" />
+    <line id="250" finToken="me" finSampa="' m i" rhymeScheme="126" stanzaId="42" />
+    <line id="251" finToken="she" finSampa="' S i" rhymeScheme="126" stanzaId="42" />
+    <line id="252" finToken="than" finSampa="' D { n" rhymeScheme="125" stanzaId="42" />
+    <line id="253" finToken="mistress" finSampa="' m I s t r @ s" rhymeScheme="127" stanzaId="43" />
+    <line id="254" finToken="doubtless" finSampa="' d aU t l @ s" rhymeScheme="127" stanzaId="43" />
+    <line id="255" finToken="order" finSampa="' O r d r=" rhymeScheme="128" stanzaId="43" />
+    <line id="256" finToken="man" finSampa="' m { n" rhymeScheme="129" stanzaId="43" />
+    <line id="257" finToken="can" finSampa="' k { n" rhymeScheme="129" stanzaId="43" />
+    <line id="258" finToken="farther" finSampa="' f A r D r=" rhymeScheme="128" stanzaId="43" />
+    <line id="259" finToken="truly" finSampa="' t r u l i" rhymeScheme="130" stanzaId="44" />
+    <line id="260" finToken="i" finSampa="' AI" rhymeScheme="130" stanzaId="44" />
+    <line id="261" finToken="fai" finSampa="' f AI" rhymeScheme="131" stanzaId="44" />
+    <line id="262" finToken="sick" finSampa="' s I k" rhymeScheme="132" stanzaId="44" />
+    <line id="263" finToken="like" finSampa="' l AI k" rhymeScheme="132" stanzaId="44" />
+    <line id="264" finToken="today" finSampa="t @ ' d EI" rhymeScheme="131" stanzaId="44" />
+    <line id="265" finToken="mai" finSampa="' m AI" rhymeScheme="133" stanzaId="45" />
+    <line id="266" finToken="pray" finSampa="' p r EI" rhymeScheme="133" stanzaId="45" />
+    <line id="267" finToken="desire" finSampa="d I ' z AI r=" rhymeScheme="134" stanzaId="45" />
+    <line id="268" finToken="do" finSampa="' d u" rhymeScheme="135" stanzaId="45" />
+    <line id="269" finToken="to" finSampa="' t u" rhymeScheme="135" stanzaId="45" />
+    <line id="270" finToken="friar" finSampa="' f r AI r=" rhymeScheme="134" stanzaId="45" />
+    <line id="271" finToken="speak" finSampa="s ' p i k" rhymeScheme="136" stanzaId="46" />
+    <line id="272" finToken="break" finSampa="' b r EI k" rhymeScheme="136" stanzaId="46" />
+    <line id="273" finToken="certain" finSampa="' s r= t @ n" rhymeScheme="137" stanzaId="46" />
+    <line id="274" finToken="will" finSampa="' w I l" rhymeScheme="138" stanzaId="46" />
+    <line id="275" finToken="still" finSampa="s ' t I l" rhymeScheme="138" stanzaId="46" />
+    <line id="276" finToken="again" finSampa="@ ' g E n" rhymeScheme="137" stanzaId="46" />
+    <line id="277" finToken="go" finSampa="' g @U" rhymeScheme="139" stanzaId="47" />
+    <line id="278" finToken="so" finSampa="' s @U" rhymeScheme="139" stanzaId="47" />
+    <line id="279" finToken="say" finSampa="' s EI" rhymeScheme="140" stanzaId="47" />
+    <line id="280" finToken="mistrusting" finSampa="' m I s t r V s t I N" rhymeScheme="141" stanzaId="47" />
+    <line id="281" finToken="thing" finSampa="' T I N" rhymeScheme="141" stanzaId="47" />
+    <line id="282" finToken="way" finSampa="' w EI" rhymeScheme="140" stanzaId="47" />
+    <line id="283" finToken="hither" finSampa="' h I D r=" rhymeScheme="142" stanzaId="48" />
+    <line id="284" finToken="together" finSampa="t @ ' g E D r=" rhymeScheme="142" stanzaId="48" />
+    <line id="285" finToken="goth" finSampa="' g A T" rhymeScheme="143" stanzaId="48" />
+    <line id="286" finToken="brought" finSampa="' b r O t" rhymeScheme="144" stanzaId="48" />
+    <line id="287" finToken="thought" finSampa="' T O t" rhymeScheme="144" stanzaId="48" />
+    <line id="288" finToken="wroth" finSampa="' r O T" rhymeScheme="143" stanzaId="48" />
+    <line id="289" finToken="officer" finSampa="' O f @ s r=" rhymeScheme="145" stanzaId="49" />
+    <line id="290" finToken="frere" finSampa="' f r I r" rhymeScheme="145" stanzaId="49" />
+    <line id="291" finToken="aloft" finSampa="@ ' l O f t" rhymeScheme="146" stanzaId="49" />
+    <line id="292" finToken="than" finSampa="' D { n" rhymeScheme="147" stanzaId="49" />
+    <line id="293" finToken="man" finSampa="' m { n" rhymeScheme="147" stanzaId="49" />
+    <line id="294" finToken="oft" finSampa="' O f t" rhymeScheme="146" stanzaId="49" />
+    <line id="295" finToken="again" finSampa="@ ' g E n" rhymeScheme="148" stanzaId="50" />
+    <line id="296" finToken="fain" finSampa="' f EI n" rhymeScheme="148" stanzaId="50" />
+    <line id="297" finToken="hand" finSampa="' h { n d" rhymeScheme="149" stanzaId="50" />
+    <line id="298" finToken="said" finSampa="' s E d" rhymeScheme="150" stanzaId="50" />
+    <line id="299" finToken="dismayd" finSampa="' d I s m EI d" rhymeScheme="150" stanzaId="50" />
+    <line id="300" finToken="understand" finSampa="' V n d r= s t { n d" rhymeScheme="149" stanzaId="50" />
+    <line id="301" finToken="he" finSampa="' h i" rhymeScheme="151" stanzaId="51" />
+    <line id="302" finToken="me" finSampa="' m i" rhymeScheme="151" stanzaId="51" />
+    <line id="303" finToken="is" finSampa="' I z" rhymeScheme="152" stanzaId="51" />
+    <line id="304" finToken="frere" finSampa="' f r I r" rhymeScheme="153" stanzaId="51" />
+    <line id="305" finToken="cheer" finSampa="' tS I r" rhymeScheme="153" stanzaId="51" />
+    <line id="306" finToken="this" finSampa="' D I s" rhymeScheme="152" stanzaId="51" />
+    <line id="307" finToken="sake" finSampa="' s EI k" rhymeScheme="154" stanzaId="52" />
+    <line id="308" finToken="take" finSampa="' t EI k" rhymeScheme="154" stanzaId="52" />
+    <line id="309" finToken="breast" finSampa="' b r E s t" rhymeScheme="155" stanzaId="52" />
+    <line id="310" finToken="all" finSampa="' O l" rhymeScheme="156" stanzaId="52" />
+    <line id="311" finToken="shall" finSampa="' S { l" rhymeScheme="156" stanzaId="52" />
+    <line id="312" finToken="best" finSampa="' b E s t" rhymeScheme="155" stanzaId="52" />
+    <line id="313" finToken="now" finSampa="' n aU" rhymeScheme="157" stanzaId="53" />
+    <line id="314" finToken="you" finSampa="' j u" rhymeScheme="157" stanzaId="53" />
+    <line id="315" finToken="please" finSampa="' p l i z" rhymeScheme="158" stanzaId="53" />
+    <line id="316" finToken="not" finSampa="' n A t" rhymeScheme="159" stanzaId="53" />
+    <line id="317" finToken="that" finSampa="' D { t" rhymeScheme="159" stanzaId="53" />
+    <line id="318" finToken="ease" finSampa="' i z" rhymeScheme="158" stanzaId="53" />
+    <line id="319" finToken="maid" finSampa="' m EI d" rhymeScheme="160" stanzaId="54" />
+    <line id="320" finToken="said" finSampa="' s E d" rhymeScheme="160" stanzaId="54" />
+    <line id="321" finToken="frere" finSampa="' f r I r" rhymeScheme="161" stanzaId="54" />
+    <line id="322" finToken="tiding" finSampa="' t AI d I N" rhymeScheme="162" stanzaId="54" />
+    <line id="323" finToken="bring" finSampa="' b r I N" rhymeScheme="162" stanzaId="54" />
+    <line id="324" finToken="hear" finSampa="' h I r" rhymeScheme="161" stanzaId="54" />
+    <line id="325" finToken="none" finSampa="' n V n" rhymeScheme="163" stanzaId="55" />
+    <line id="326" finToken="alone" finSampa="@ ' l @U n" rhymeScheme="163" stanzaId="55" />
+    <line id="327" finToken="grace" finSampa="' g r EI s" rhymeScheme="164" stanzaId="55" />
+    <line id="328" finToken="thee" finSampa="' D i" rhymeScheme="165" stanzaId="55" />
+    <line id="329" finToken="me" finSampa="' m i" rhymeScheme="165" stanzaId="55" />
+    <line id="330" finToken="mace" finSampa="' m EI s" rhymeScheme="164" stanzaId="55" />
+    <line id="331" finToken="obey" finSampa="@U ' b EI" rhymeScheme="166" stanzaId="56" />
+    <line id="332" finToken="way" finSampa="' w EI" rhymeScheme="166" stanzaId="56" />
+    <line id="333" finToken="clutch" finSampa="' k l V tS" rhymeScheme="167" stanzaId="56" />
+    <line id="334" finToken="hence" finSampa="' h E n s" rhymeScheme="168" stanzaId="56" />
+    <line id="335" finToken="pence" finSampa="' p E n s" rhymeScheme="168" stanzaId="56" />
+    <line id="336" finToken="pouch" finSampa="' p aU tS" rhymeScheme="167" stanzaId="56" />
+    <line id="337" finToken="there" finSampa="' D E r" rhymeScheme="169" stanzaId="57" />
+    <line id="338" finToken="fear" finSampa="' f I r" rhymeScheme="169" stanzaId="57" />
+    <line id="339" finToken="wood" finSampa="' w U d" rhymeScheme="170" stanzaId="57" />
+    <line id="340" finToken="thief" finSampa="' T i f" rhymeScheme="171" stanzaId="57" />
+    <line id="341" finToken="mischief" finSampa="' m I s tS @ f" rhymeScheme="171" stanzaId="57" />
+    <line id="342" finToken="good" finSampa="' g U d" rhymeScheme="170" stanzaId="57" />
+    <line id="343" finToken="fist" finSampa="' f I s t" rhymeScheme="172" stanzaId="58" />
+    <line id="344" finToken="list" finSampa="' l I s t" rhymeScheme="172" stanzaId="58" />
+    <line id="345" finToken="blow" finSampa="' b l @U" rhymeScheme="173" stanzaId="58" />
+    <line id="346" finToken="down" finSampa="' d aU n" rhymeScheme="174" stanzaId="58" />
+    <line id="347" finToken="swoon" finSampa="' s w u n" rhymeScheme="174" stanzaId="58" />
+    <line id="348" finToken="overthrow" finSampa="' @U v r= T r @U" rhymeScheme="173" stanzaId="58" />
+    <line id="349" finToken="man" finSampa="' m { n" rhymeScheme="175" stanzaId="59" />
+    <line id="350" finToken="than" finSampa="' D { n" rhymeScheme="175" stanzaId="59" />
+    <line id="351" finToken="slain" finSampa="' s l EI n" rhymeScheme="176" stanzaId="59" />
+    <line id="352" finToken="raps" finSampa="' r { p s" rhymeScheme="177" stanzaId="59" />
+    <line id="353" finToken="claps" finSampa="' k l { p s" rhymeScheme="177" stanzaId="59" />
+    <line id="354" finToken="again" finSampa="@ ' g E n" rhymeScheme="176" stanzaId="59" />
+    <line id="355" finToken="heart" finSampa="' h A r t" rhymeScheme="178" stanzaId="60" />
+    <line id="356" finToken="start" finSampa="s ' t A r t" rhymeScheme="178" stanzaId="60" />
+    <line id="357" finToken="about" finSampa="@ ' b aU t" rhymeScheme="179" stanzaId="60" />
+    <line id="358" finToken="goth" finSampa="' g A T" rhymeScheme="180" stanzaId="60" />
+    <line id="359" finToken="both" finSampa="' b @U T" rhymeScheme="180" stanzaId="60" />
+    <line id="360" finToken="clout" finSampa="' k l aU t" rhymeScheme="179" stanzaId="60" />
+    <line id="361" finToken="tear" finSampa="' t E r" rhymeScheme="181" stanzaId="61" />
+    <line id="362" finToken="hair" finSampa="' h E r" rhymeScheme="181" stanzaId="61" />
+    <line id="363" finToken="fast" finSampa="' f { s t" rhymeScheme="182" stanzaId="61" />
+    <line id="364" finToken="lugging" finSampa="' l V g I N" rhymeScheme="183" stanzaId="61" />
+    <line id="365" finToken="tugging" finSampa="' t V g I N" rhymeScheme="183" stanzaId="61" />
+    <line id="366" finToken="last" finSampa="' l { s t" rhymeScheme="182" stanzaId="61" />
+    <line id="367" finToken="ground" finSampa="' g r aU n d" rhymeScheme="184" stanzaId="62" />
+    <line id="368" finToken="round" finSampa="' r aU n d" rhymeScheme="184" stanzaId="62" />
+    <line id="369" finToken="stroke" finSampa="s ' t r @U k" rhymeScheme="185" stanzaId="62" />
+    <line id="370" finToken="rumble" finSampa="' r V m b @ l" rhymeScheme="186" stanzaId="62" />
+    <line id="371" finToken="tumble" finSampa="' t V m b @ l" rhymeScheme="186" stanzaId="62" />
+    <line id="372" finToken="poke" finSampa="' p @U k" rhymeScheme="185" stanzaId="62" />
+    <line id="373" finToken="above" finSampa="@ ' b V v" rhymeScheme="187" stanzaId="63" />
+    <line id="374" finToken="shove" finSampa="' S V v" rhymeScheme="187" stanzaId="63" />
+    <line id="375" finToken="last" finSampa="' l { s t" rhymeScheme="188" stanzaId="63" />
+    <line id="376" finToken="wife" finSampa="' w AI f" rhymeScheme="189" stanzaId="63" />
+    <line id="377" finToken="strife" finSampa="s ' t r AI f" rhymeScheme="189" stanzaId="63" />
+    <line id="378" finToken="fast" finSampa="' f { s t" rhymeScheme="188" stanzaId="63" />
+    <line id="379" finToken="spy" finSampa="s ' p AI" rhymeScheme="190" stanzaId="64" />
+    <line id="380" finToken="lie" finSampa="' l AI" rhymeScheme="190" stanzaId="64" />
+    <line id="381" finToken="place" finSampa="' p l EI s" rhymeScheme="191" stanzaId="64" />
+    <line id="382" finToken="hood" finSampa="' h U d" rhymeScheme="192" stanzaId="64" />
+    <line id="383" finToken="agood" finSampa="@ ' g U d" rhymeScheme="192" stanzaId="64" />
+    <line id="384" finToken="face" finSampa="' f EI s" rhymeScheme="191" stanzaId="64" />
+    <line id="385" finToken="blind" finSampa="' b l AI n d" rhymeScheme="193" stanzaId="65" />
+    <line id="386" finToken="behind" finSampa="b I ' h AI n d" rhymeScheme="193" stanzaId="65" />
+    <line id="387" finToken="floor" finSampa="' f l O r" rhymeScheme="194" stanzaId="65" />
+    <line id="388" finToken="joll" finSampa="' dZ A l" rhymeScheme="195" stanzaId="65" />
+    <line id="389" finToken="noul" finSampa="' n aU l" rhymeScheme="195" stanzaId="65" />
+    <line id="390" finToken="battledoor" finSampa="' b { t @ l d U r" rhymeScheme="194" stanzaId="65" />
+    <line id="391" finToken="yet" finSampa="' j E t" rhymeScheme="196" stanzaId="66" />
+    <line id="392" finToken="feet" finSampa="' f i t" rhymeScheme="196" stanzaId="66" />
+    <line id="393" finToken="down" finSampa="' d aU n" rhymeScheme="197" stanzaId="66" />
+    <line id="394" finToken="rock" finSampa="' r A k" rhymeScheme="198" stanzaId="66" />
+    <line id="395" finToken="knock" finSampa="' n A k" rhymeScheme="198" stanzaId="66" />
+    <line id="396" finToken="crown" finSampa="' k r aU n" rhymeScheme="197" stanzaId="66" />
+    <line id="397" finToken="mace" finSampa="' m EI s" rhymeScheme="199" stanzaId="67" />
+    <line id="398" finToken="face" finSampa="' f EI s" rhymeScheme="199" stanzaId="67" />
+    <line id="399" finToken="pain" finSampa="' p EI n" rhymeScheme="200" stanzaId="67" />
+    <line id="400" finToken="frap" finSampa="' f r { p" rhymeScheme="201" stanzaId="67" />
+    <line id="401" finToken="swap" finSampa="' s w A p" rhymeScheme="201" stanzaId="67" />
+    <line id="402" finToken="slain" finSampa="' s l EI n" rhymeScheme="200" stanzaId="67" />
+    <line id="403" finToken="lift" finSampa="' l I f t" rhymeScheme="202" stanzaId="68" />
+    <line id="404" finToken="thrift" finSampa="' T r I f t" rhymeScheme="202" stanzaId="68" />
+    <line id="405" finToken="stair" finSampa="s ' t E r" rhymeScheme="203" stanzaId="68" />
+    <line id="406" finToken="threw" finSampa="' T r u" rhymeScheme="204" stanzaId="68" />
+    <line id="407" finToken="adieu" finSampa="@ ' d u" rhymeScheme="204" stanzaId="68" />
+    <line id="408" finToken="mayr" finSampa="' m EI r" rhymeScheme="203" stanzaId="68" />
+    <line id="409" finToken="arose" finSampa="r= ' @U z" rhymeScheme="205" stanzaId="69" />
+    <line id="410" finToken="suppose" finSampa="s @ ' p @U z" rhymeScheme="205" stanzaId="69" />
+    <line id="411" finToken="head" finSampa="' h E d" rhymeScheme="206" stanzaId="69" />
+    <line id="412" finToken="ears" finSampa="' I r z" rhymeScheme="207" stanzaId="69" />
+    <line id="413" finToken="fears" finSampa="' f I r z" rhymeScheme="207" stanzaId="69" />
+    <line id="414" finToken="afled" finSampa="' { f l d" rhymeScheme="206" stanzaId="69" />
+    <line id="415" finToken="lost" finSampa="' l O s t" rhymeScheme="208" stanzaId="70" />
+    <line id="416" finToken="cost" finSampa="' k A s t" rhymeScheme="208" stanzaId="70" />
+    <line id="417" finToken="near" finSampa="' n I r" rhymeScheme="209" stanzaId="70" />
+    <line id="418" finToken="theeh" finSampa="' T i" rhymeScheme="210" stanzaId="70" />
+    <line id="419" finToken="me" finSampa="' m i" rhymeScheme="210" stanzaId="70" />
+    <line id="420" finToken="frere" finSampa="' f r I r" rhymeScheme="209" stanzaId="70" />
+    <line id="421" finToken="all" finSampa="' O l" rhymeScheme="211" stanzaId="71" />
+    <line id="422" finToken="shall" finSampa="' S { l" rhymeScheme="211" stanzaId="71" />
+    <line id="423" finToken="began" finSampa="b I ' g { n" rhymeScheme="212" stanzaId="71" />
+    <line id="424" finToken="anywise" finSampa="' E n i w AI z" rhymeScheme="213" stanzaId="71" />
+    <line id="425" finToken="advise" finSampa="{ d ' v AI z" rhymeScheme="213" stanzaId="71" />
+    <line id="426" finToken="man" finSampa="' m { n" rhymeScheme="212" stanzaId="71" />
+    <line id="427" finToken="use" finSampa="' j u s" rhymeScheme="214" stanzaId="72" />
+    <line id="428" finToken="refuse" finSampa="' r E f j u s" rhymeScheme="214" stanzaId="72" />
+    <line id="429" finToken="gone" finSampa="' g O n" rhymeScheme="215" stanzaId="72" />
+    <line id="430" finToken="frere" finSampa="' f r I r" rhymeScheme="216" stanzaId="72" />
+    <line id="431" finToken="cheer" finSampa="' tS I r" rhymeScheme="216" stanzaId="72" />
+    <line id="432" finToken="chone" finSampa="' tS @U n" rhymeScheme="215" stanzaId="72" />
+  </poem>
+  <poem id="POEM1" author="more" period="1415">
+    <line id="1" finToken="confidence" finSampa="' k A n f @ d @ n s" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="prosperity" finSampa="p r A s ' p E r @ t i" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="hence" finSampa="' h E n s" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="me" finSampa="' m i" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="be" finSampa="' b i" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="i" finSampa="' AI" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="lie" finSampa="' l AI" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="lineage" finSampa="' l I n i @ dZ" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="king" finSampa="' k I N" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="marriage" finSampa="' m E r I dZ" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="thing" finSampa="' T I N" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="reckoning" finSampa="' r E k @ n I N" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="ancestry" finSampa="' { n s E s t r i" rhymeScheme="6" stanzaId="2" />
+    <line id="14" finToken="lie" finSampa="' l AI" rhymeScheme="6" stanzaId="2" />
+    <line id="15" finToken="gone" finSampa="' g O n" rhymeScheme="7" stanzaId="3" />
+    <line id="16" finToken="fear" finSampa="' f I r" rhymeScheme="8" stanzaId="3" />
+    <line id="17" finToken="none" finSampa="' n V n" rhymeScheme="7" stanzaId="3" />
+    <line id="18" finToken="gere" finSampa="' dZ I r" rhymeScheme="8" stanzaId="3" />
+    <line id="19" finToken="messenger" finSampa="' m E s @ n dZ r=" rhymeScheme="8" stanzaId="3" />
+    <line id="20" finToken="remedy" finSampa="' r E m @ d i" rhymeScheme="9" stanzaId="3" />
+    <line id="21" finToken="lie" finSampa="' l AI" rhymeScheme="9" stanzaId="3" />
+    <line id="22" finToken="otherwise" finSampa="' V D r= w AI z" rhymeScheme="10" stanzaId="4" />
+    <line id="23" finToken="delice" finSampa="' d E l I s" rhymeScheme="11" stanzaId="4" />
+    <line id="24" finToken="promise" finSampa="' p r A m @ s" rhymeScheme="10" stanzaId="4" />
+    <line id="25" finToken="devynatrice" finSampa="' d E v i n { t r I s" rhymeScheme="11" stanzaId="4" />
+    <line id="26" finToken="wise" finSampa="' w AI z" rhymeScheme="11" stanzaId="4" />
+    <line id="27" finToken="prophecy" finSampa="' p r A f @ s i" rhymeScheme="12" stanzaId="4" />
+    <line id="28" finToken="lie" finSampa="' l AI" rhymeScheme="12" stanzaId="4" />
+    <line id="29" finToken="bitterness" finSampa="' b I t r= n @ s" rhymeScheme="13" stanzaId="5" />
+    <line id="30" finToken="pain" finSampa="' p EI n" rhymeScheme="14" stanzaId="5" />
+    <line id="31" finToken="distress" finSampa="d I s ' t r E s" rhymeScheme="13" stanzaId="5" />
+    <line id="32" finToken="again" finSampa="@ ' g E n" rhymeScheme="14" stanzaId="5" />
+    <line id="33" finToken="sayne" finSampa="' s EI n" rhymeScheme="14" stanzaId="5" />
+    <line id="34" finToken="i" finSampa="' AI" rhymeScheme="15" stanzaId="5" />
+    <line id="35" finToken="lie" finSampa="' l AI" rhymeScheme="15" stanzaId="5" />
+    <line id="36" finToken="towers" finSampa="' t aU r= z" rhymeScheme="16" stanzaId="6" />
+    <line id="37" finToken="me" finSampa="' m i" rhymeScheme="17" stanzaId="6" />
+    <line id="38" finToken="yours" finSampa="' j U r z" rhymeScheme="16" stanzaId="6" />
+    <line id="39" finToken="see" finSampa="' s i" rhymeScheme="17" stanzaId="6" />
+    <line id="40" finToken="ye" finSampa="' j i" rhymeScheme="17" stanzaId="6" />
+    <line id="41" finToken="edify" finSampa="' E d I f AI" rhymeScheme="18" stanzaId="6" />
+    <line id="42" finToken="lie" finSampa="' l AI" rhymeScheme="18" stanzaId="6" />
+    <line id="43" finToken="lord" finSampa="' l O r d" rhymeScheme="19" stanzaId="7" />
+    <line id="44" finToken="combine" finSampa="' k A m b AI n" rhymeScheme="20" stanzaId="7" />
+    <line id="45" finToken="concord" finSampa="' k A n k O r d" rhymeScheme="19" stanzaId="7" />
+    <line id="46" finToken="resign" finSampa="r I ' z AI n" rhymeScheme="20" stanzaId="7" />
+    <line id="47" finToken="mine" finSampa="' m AI n" rhymeScheme="20" stanzaId="7" />
+    <line id="48" finToken="supply" finSampa="s @ ' p l AI" rhymeScheme="21" stanzaId="7" />
+    <line id="49" finToken="lie" finSampa="' l AI" rhymeScheme="21" stanzaId="7" />
+    <line id="50" finToken="margaret" finSampa="' m A r g r= I t" rhymeScheme="22" stanzaId="8" />
+    <line id="51" finToken="mind" finSampa="' m AI n d" rhymeScheme="23" stanzaId="8" />
+    <line id="52" finToken="meet" finSampa="' m i t" rhymeScheme="22" stanzaId="8" />
+    <line id="53" finToken="behind" finSampa="b I ' h AI n d" rhymeScheme="23" stanzaId="8" />
+    <line id="54" finToken="blind" finSampa="' b l AI n d" rhymeScheme="23" stanzaId="8" />
+    <line id="55" finToken="nye" finSampa="' n AI" rhymeScheme="24" stanzaId="8" />
+    <line id="56" finToken="lie" finSampa="' l AI" rhymeScheme="24" stanzaId="8" />
+    <line id="57" finToken="mother" finSampa="' m V D r=" rhymeScheme="25" stanzaId="9" />
+    <line id="58" finToken="cheer" finSampa="' tS I r" rhymeScheme="26" stanzaId="9" />
+    <line id="59" finToken="nother" finSampa="' n A D r=" rhymeScheme="25" stanzaId="9" />
+    <line id="60" finToken="fere" finSampa="' f E r" rhymeScheme="26" stanzaId="9" />
+    <line id="61" finToken="dear" finSampa="' d I r" rhymeScheme="26" stanzaId="9" />
+    <line id="62" finToken="cry" finSampa="' k r AI" rhymeScheme="27" stanzaId="9" />
+    <line id="63" finToken="lie" finSampa="' l AI" rhymeScheme="27" stanzaId="9" />
+    <line id="64" finToken="adieu" finSampa="@ ' d u" rhymeScheme="28" stanzaId="10" />
+    <line id="65" finToken="estate" finSampa="I s ' t EI t" rhymeScheme="29" stanzaId="10" />
+    <line id="66" finToken="hue" finSampa="' h j u" rhymeScheme="28" stanzaId="10" />
+    <line id="67" finToken="fortunate" finSampa="' f O r tS @ n @ t" rhymeScheme="29" stanzaId="10" />
+    <line id="68" finToken="kate" finSampa="' k EI t" rhymeScheme="29" stanzaId="10" />
+    <line id="69" finToken="destiny" finSampa="' d E s t @ n i" rhymeScheme="30" stanzaId="10" />
+    <line id="70" finToken="lie" finSampa="' l AI" rhymeScheme="30" stanzaId="10" />
+    <line id="71" finToken="katherine" finSampa="' k { T r= I n" rhymeScheme="31" stanzaId="11" />
+    <line id="72" finToken="three" finSampa="' T r i" rhymeScheme="32" stanzaId="11" />
+    <line id="73" finToken="mine" finSampa="' m AI n" rhymeScheme="31" stanzaId="11" />
+    <line id="74" finToken="vanity" finSampa="' v { n @ t i" rhymeScheme="32" stanzaId="11" />
+    <line id="75" finToken="flee" finSampa="' f l i" rhymeScheme="32" stanzaId="11" />
+    <line id="76" finToken="magnify" finSampa="' m { g n @ f AI" rhymeScheme="33" stanzaId="11" />
+    <line id="77" finToken="lie" finSampa="' l AI" rhymeScheme="33" stanzaId="11" />
+    <line id="78" finToken="all" finSampa="' O l" rhymeScheme="34" stanzaId="12" />
+    <line id="79" finToken="chone" finSampa="' tS @U n" rhymeScheme="35" stanzaId="12" />
+    <line id="80" finToken="shall" finSampa="' S { l" rhymeScheme="34" stanzaId="12" />
+    <line id="81" finToken="alone" finSampa="@ ' l @U n" rhymeScheme="35" stanzaId="12" />
+    <line id="82" finToken="one" finSampa="' w V n" rhymeScheme="35" stanzaId="12" />
+    <line id="83" finToken="mercy" finSampa="' m r= s i" rhymeScheme="36" stanzaId="12" />
+    <line id="84" finToken="lie" finSampa="' l AI" rhymeScheme="36" stanzaId="12" />
+  </poem>
+  <poem id="POEM2" author="more" period="1415">
+    <line id="1" finToken="auctoritie" finSampa="' O k t O r @ t i" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="spye" finSampa="' p s" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="dignitie" finSampa="' d I g n @ t i" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="finally" finSampa="' f AI n @ l i" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="by" finSampa="' b AI" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="sustinaunce" finSampa="' s @ s t I n O n s" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="ordinaunce" finSampa="' O r d @ n O n s" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="wonne" finSampa="' w A n" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="last" finSampa="' l { s t" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="begonne" finSampa="' b I g @ n" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="fast" finSampa="' f { s t" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="overcast" finSampa="' @U v r= k { s t" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="suffise" finSampa="' s V f AI z" rhymeScheme="6" stanzaId="2" />
+    <line id="14" finToken="wyse" finSampa="' w AI z" rhymeScheme="6" stanzaId="2" />
+    <line id="15" finToken="this" finSampa="' D I s" rhymeScheme="7" stanzaId="3" />
+    <line id="16" finToken="boke" finSampa="' b @U k" rhymeScheme="8" stanzaId="3" />
+    <line id="17" finToken="nys" finSampa="' l @U k" rhymeScheme="7" stanzaId="3" />
+    <line id="18" finToken="loke" finSampa="' f O r s @U k" rhymeScheme="8" stanzaId="3" />
+    <line id="19" finToken="forsoke" finSampa="' D E m" rhymeScheme="8" stanzaId="3" />
+    <line id="20" finToken="them" finSampa="' D E m" rhymeScheme="9" stanzaId="3" />
+    <line id="21" finToken="them" finSampa="' v EI n" rhymeScheme="9" stanzaId="3" />
+    <line id="22" finToken="vayne" finSampa="' r I tS E s" rhymeScheme="10" stanzaId="4" />
+    <line id="23" finToken="richesse" finSampa="' p EI n" rhymeScheme="11" stanzaId="4" />
+    <line id="24" finToken="payne" finSampa="' d I s t r E s" rhymeScheme="10" stanzaId="4" />
+    <line id="25" finToken="distresse" finSampa="' k V m f O r t l E s" rhymeScheme="11" stanzaId="4" />
+    <line id="26" finToken="comfortlesse" finSampa="" rhymeScheme="11" stanzaId="4" />
+  </poem>
+  <poem id="POEM3" author="more" period="1415">
+    <line id="1" finToken="mind" finSampa="' m AI n d" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="ball" finSampa="' b O l" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="kind" finSampa="' k AI n d" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="all" finSampa="' O l" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="small" finSampa="' s m O l" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="play" finSampa="' p l EI" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="day" finSampa="' d EI" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="delight" finSampa="d I ' l AI t" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="feed" finSampa="' f i d" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="flight" finSampa="' f l AI t" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="steed" finSampa="s ' t i d" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="indeed" finSampa="I n ' d i d" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="sweeter" finSampa="' s w i t r=" rhymeScheme="6" stanzaId="2" />
+    <line id="14" finToken="better" finSampa="' b E t r=" rhymeScheme="6" stanzaId="2" />
+    <line id="15" finToken="might" finSampa="' m AI t" rhymeScheme="7" stanzaId="3" />
+    <line id="16" finToken="cupid" finSampa="' k j u p I d" rhymeScheme="8" stanzaId="3" />
+    <line id="17" finToken="aright" finSampa="' E r I t" rhymeScheme="7" stanzaId="3" />
+    <line id="18" finToken="pride" finSampa="' p r AI d" rhymeScheme="8" stanzaId="3" />
+    <line id="19" finToken="side" finSampa="' s AI d" rhymeScheme="8" stanzaId="3" />
+    <line id="20" finToken="small" finSampa="' s m O l" rhymeScheme="9" stanzaId="3" />
+    <line id="21" finToken="thrall" finSampa="' T r O l" rhymeScheme="9" stanzaId="3" />
+    <line id="22" finToken="hoar" finSampa="' h O r" rhymeScheme="10" stanzaId="4" />
+    <line id="23" finToken="part" finSampa="' p A r t" rhymeScheme="11" stanzaId="4" />
+    <line id="24" finToken="therefore" finSampa="' D E r f O r" rhymeScheme="10" stanzaId="4" />
+    <line id="25" finToken="smart" finSampa="' s m A r t" rhymeScheme="11" stanzaId="4" />
+    <line id="26" finToken="dart" finSampa="' d A r t" rhymeScheme="11" stanzaId="4" />
+    <line id="27" finToken="oppress" finSampa="@ ' p r E s" rhymeScheme="12" stanzaId="4" />
+    <line id="28" finToken="business" finSampa="' b I z n @ s" rhymeScheme="12" stanzaId="4" />
+    <line id="29" finToken="mishape" finSampa="' m I S EI p" rhymeScheme="13" stanzaId="5" />
+    <line id="30" finToken="wide" finSampa="' w AI d" rhymeScheme="14" stanzaId="5" />
+    <line id="31" finToken="escape" finSampa="I s ' k EI p" rhymeScheme="13" stanzaId="5" />
+    <line id="32" finToken="magnified" finSampa="' m { g n @ f AI d" rhymeScheme="14" stanzaId="5" />
+    <line id="33" finToken="pride" finSampa="' p r AI d" rhymeScheme="14" stanzaId="5" />
+    <line id="34" finToken="pain" finSampa="' p EI n" rhymeScheme="15" stanzaId="5" />
+    <line id="35" finToken="brain" finSampa="' b r EI n" rhymeScheme="15" stanzaId="5" />
+    <line id="36" finToken="nothing" finSampa="' n V T I N" rhymeScheme="16" stanzaId="6" />
+    <line id="37" finToken="round" finSampa="' r aU n d" rhymeScheme="17" stanzaId="6" />
+    <line id="38" finToken="living" finSampa="' l I v I N" rhymeScheme="16" stanzaId="6" />
+    <line id="39" finToken="confound" finSampa="k A n ' f aU n d" rhymeScheme="17" stanzaId="6" />
+    <line id="40" finToken="ground" finSampa="' g r aU n d" rhymeScheme="17" stanzaId="6" />
+    <line id="41" finToken="i" finSampa="' AI" rhymeScheme="18" stanzaId="6" />
+    <line id="42" finToken="memory" finSampa="' m E m r= i" rhymeScheme="18" stanzaId="6" />
+    <line id="43" finToken="hand" finSampa="' h { n d" rhymeScheme="19" stanzaId="7" />
+    <line id="44" finToken="hour" finSampa="' aU r=" rhymeScheme="20" stanzaId="7" />
+    <line id="45" finToken="land" finSampa="' l { n d" rhymeScheme="19" stanzaId="7" />
+    <line id="46" finToken="honour" finSampa="' A n r=" rhymeScheme="20" stanzaId="7" />
+    <line id="47" finToken="flower" finSampa="' f l aU r=" rhymeScheme="20" stanzaId="7" />
+    <line id="48" finToken="eternal" finSampa="I ' t r= n @ l" rhymeScheme="21" stanzaId="7" />
+    <line id="49" finToken="all" finSampa="' O l" rhymeScheme="21" stanzaId="7" />
+    <line id="50" finToken="eternity" finSampa="I ' t r= n @ t i" rhymeScheme="22" stanzaId="8" />
+    <line id="51" finToken="well" finSampa="' w E l" rhymeScheme="23" stanzaId="8" />
+    <line id="52" finToken="be" finSampa="' b i" rhymeScheme="22" stanzaId="8" />
+    <line id="53" finToken="tell" finSampa="' t E l" rhymeScheme="23" stanzaId="8" />
+    <line id="54" finToken="mobility" finSampa="m @U ' b I l @ t i" rhymeScheme="22" stanzaId="8" />
+    <line id="55" finToken="degree" finSampa="d I g ' r i" rhymeScheme="22" stanzaId="8" />
+    <line id="56" finToken="brought" finSampa="' b r O t" rhymeScheme="24" stanzaId="8" />
+    <line id="57" finToken="nought" finSampa="' n O t" rhymeScheme="24" stanzaId="8" />
+  </poem>
+  <poem id="POEM4" author="more" period="1415">
+    <line id="1" finToken="fair" finSampa="' f E r" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="smile" finSampa="' s m AI l" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="repair" finSampa="r I ' p E r" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="beguile" finSampa="' b I g l" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="erewhile" finSampa="' r= ' r u AI l" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="uniform" finSampa="' j u n @ f O r m" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="storm" finSampa="s ' t O r m" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="servingman" finSampa="' s r= v I N m @ n" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="gat" finSampa="' g { t" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="then" finSampa="' D E n" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="that" finSampa="' D { t" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="cat" finSampa="' k { t" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="times" finSampa="' t AI m z" rhymeScheme="6" stanzaId="2" />
+    <line id="14" finToken="rhymes" finSampa="' r AI m z" rhymeScheme="6" stanzaId="2" />
+  </poem>
+  <poem id="POEM5" author="more" period="1415">
+    <line id="1" finToken="alone" finSampa="@ ' l @U n" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="forsake" finSampa="f O r ' s EI k" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="none" finSampa="' n V n" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="take" finSampa="' t EI k" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="make" finSampa="' m EI k" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="many" finSampa="' m E n i" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="any" finSampa="' E n i" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="god" finSampa="' g A d" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="grave" finSampa="' g r EI v" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="odd" finSampa="' A d" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="have" finSampa="' h { v" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="gave" finSampa="' g EI v" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="thought" finSampa="' T O t" rhymeScheme="6" stanzaId="2" />
+    <line id="14" finToken="naught" finSampa="' n O t" rhymeScheme="6" stanzaId="2" />
+    <line id="15" finToken="company" finSampa="' k V m p @ n i" rhymeScheme="7" stanzaId="3" />
+    <line id="16" finToken="is" finSampa="' I z" rhymeScheme="8" stanzaId="3" />
+    <line id="17" finToken="thereby" finSampa="' D E r b AI" rhymeScheme="7" stanzaId="3" />
+    <line id="18" finToken="bliss" finSampa="' b l I s" rhymeScheme="8" stanzaId="3" />
+    <line id="19" finToken="miss" finSampa="' m I s" rhymeScheme="8" stanzaId="3" />
+    <line id="20" finToken="estate" finSampa="I s ' t EI t" rhymeScheme="9" stanzaId="3" />
+    <line id="21" finToken="infortunate" finSampa="' I n f O r tS @ n EI t" rhymeScheme="9" stanzaId="3" />
+    <line id="22" finToken="he" finSampa="' h i" rhymeScheme="10" stanzaId="4" />
+    <line id="23" finToken="disport" finSampa="' d I s p O r t" rhymeScheme="11" stanzaId="4" />
+    <line id="24" finToken="be" finSampa="' b i" rhymeScheme="10" stanzaId="4" />
+    <line id="25" finToken="resort" finSampa="r I ' z O r t" rhymeScheme="11" stanzaId="4" />
+    <line id="26" finToken="port" finSampa="' p O r t" rhymeScheme="11" stanzaId="4" />
+    <line id="27" finToken="sight" finSampa="' s AI t" rhymeScheme="12" stanzaId="4" />
+    <line id="28" finToken="delight" finSampa="d I ' l AI t" rhymeScheme="12" stanzaId="4" />
+    <line id="29" finToken="is" finSampa="' I z" rhymeScheme="13" stanzaId="5" />
+    <line id="30" finToken="been" finSampa="' b I n" rhymeScheme="14" stanzaId="5" />
+    <line id="31" finToken="amiss" finSampa="@ ' m I s" rhymeScheme="13" stanzaId="5" />
+    <line id="32" finToken="clean" finSampa="' k l i n" rhymeScheme="14" stanzaId="5" />
+    <line id="33" finToken="seen" finSampa="' s i n" rhymeScheme="14" stanzaId="5" />
+    <line id="34" finToken="pace" finSampa="' p EI s" rhymeScheme="15" stanzaId="5" />
+    <line id="35" finToken="grace" finSampa="' g r EI s" rhymeScheme="15" stanzaId="5" />
+    <line id="36" finToken="favor" finSampa="' f EI v r=" rhymeScheme="16" stanzaId="6" />
+    <line id="37" finToken="wise" finSampa="' w AI z" rhymeScheme="17" stanzaId="6" />
+    <line id="38" finToken="behaviour" finSampa="' b I h EI v i A r" rhymeScheme="16" stanzaId="6" />
+    <line id="39" finToken="devise" finSampa="d I ' v AI z" rhymeScheme="17" stanzaId="6" />
+    <line id="40" finToken="arise" finSampa="r= ' AI z" rhymeScheme="17" stanzaId="6" />
+    <line id="41" finToken="prowl" finSampa="' p r aU l" rhymeScheme="18" stanzaId="6" />
+    <line id="42" finToken="soul" finSampa="' s @U l" rhymeScheme="18" stanzaId="6" />
+    <line id="43" finToken="fervent" finSampa="' f r= v @ n t" rhymeScheme="19" stanzaId="7" />
+    <line id="44" finToken="fall" finSampa="' f O l" rhymeScheme="20" stanzaId="7" />
+    <line id="45" finToken="content" finSampa="' k A n t E n t" rhymeScheme="19" stanzaId="7" />
+    <line id="46" finToken="small" finSampa="' s m O l" rhymeScheme="20" stanzaId="7" />
+    <line id="47" finToken="therewithal" finSampa="' T E r I T @ l" rhymeScheme="20" stanzaId="7" />
+    <line id="48" finToken="get" finSampa="' g E t" rhymeScheme="21" stanzaId="7" />
+    <line id="49" finToken="set" finSampa="' s E t" rhymeScheme="21" stanzaId="7" />
+    <line id="50" finToken="content" finSampa="' k A n t E n t" rhymeScheme="22" stanzaId="8" />
+    <line id="51" finToken="endure" finSampa="E n ' d j U r" rhymeScheme="23" stanzaId="8" />
+    <line id="52" finToken="absent" finSampa="' { b s @ n t" rhymeScheme="22" stanzaId="8" />
+    <line id="53" finToken="sure" finSampa="' S U r" rhymeScheme="23" stanzaId="8" />
+    <line id="54" finToken="procure" finSampa="p r @U ' k j U r" rhymeScheme="23" stanzaId="8" />
+    <line id="55" finToken="light" finSampa="' l AI t" rhymeScheme="24" stanzaId="8" />
+    <line id="56" finToken="sight" finSampa="' s AI t" rhymeScheme="24" stanzaId="8" />
+    <line id="57" finToken="heart" finSampa="' h A r t" rhymeScheme="25" stanzaId="9" />
+    <line id="58" finToken="sustain" finSampa="s @ s ' t EI n" rhymeScheme="26" stanzaId="9" />
+    <line id="59" finToken="smart" finSampa="' s m A r t" rhymeScheme="25" stanzaId="9" />
+    <line id="60" finToken="pain" finSampa="' p EI n" rhymeScheme="26" stanzaId="9" />
+    <line id="61" finToken="fain" finSampa="' f EI n" rhymeScheme="26" stanzaId="9" />
+    <line id="62" finToken="take" finSampa="' t EI k" rhymeScheme="27" stanzaId="9" />
+    <line id="63" finToken="sake" finSampa="' s EI k" rhymeScheme="27" stanzaId="9" />
+    <line id="64" finToken="also" finSampa="' O l s @U" rhymeScheme="28" stanzaId="10" />
+    <line id="65" finToken="glad" finSampa="' g l { d" rhymeScheme="29" stanzaId="10" />
+    <line id="66" finToken="woe" finSampa="' w @U" rhymeScheme="28" stanzaId="10" />
+    <line id="67" finToken="bestead" finSampa="' b E s t E d" rhymeScheme="29" stanzaId="10" />
+    <line id="68" finToken="adread" finSampa="' @ d r E d" rhymeScheme="29" stanzaId="10" />
+    <line id="69" finToken="adversity" finSampa="{ d ' v r= s I t i" rhymeScheme="30" stanzaId="10" />
+    <line id="70" finToken="thee" finSampa="' D i" rhymeScheme="30" stanzaId="10" />
+    <line id="71" finToken="be" finSampa="' b i" rhymeScheme="31" stanzaId="11" />
+    <line id="72" finToken="day" finSampa="' d EI" rhymeScheme="32" stanzaId="11" />
+    <line id="73" finToken="he" finSampa="' h i" rhymeScheme="31" stanzaId="11" />
+    <line id="74" finToken="may" finSampa="' m EI" rhymeScheme="32" stanzaId="11" />
+    <line id="75" finToken="say" finSampa="' s EI" rhymeScheme="32" stanzaId="11" />
+    <line id="76" finToken="brought" finSampa="' b r O t" rhymeScheme="33" stanzaId="11" />
+    <line id="77" finToken="thought" finSampa="' T O t" rhymeScheme="33" stanzaId="11" />
+    <line id="78" finToken="should" finSampa="' S U d" rhymeScheme="34" stanzaId="12" />
+    <line id="79" finToken="may" finSampa="' m EI" rhymeScheme="35" stanzaId="12" />
+    <line id="80" finToken="would" finSampa="' w U d" rhymeScheme="34" stanzaId="12" />
+    <line id="81" finToken="always" finSampa="' O l w EI z" rhymeScheme="35" stanzaId="12" />
+    <line id="82" finToken="purvey" finSampa="p r= ' v EI" rhymeScheme="35" stanzaId="12" />
+    <line id="83" finToken="bereaven" finSampa="' b E r i v @ n" rhymeScheme="36" stanzaId="12" />
+    <line id="84" finToken="heaven" finSampa="' h E v @ n" rhymeScheme="36" stanzaId="12" />
+    <line id="85" finToken="least" finSampa="' l i s t" rhymeScheme="37" stanzaId="13" />
+    <line id="86" finToken="wait" finSampa="' w EI t" rhymeScheme="38" stanzaId="13" />
+    <line id="87" finToken="beast" finSampa="' b i s t" rhymeScheme="37" stanzaId="13" />
+    <line id="88" finToken="conceit" finSampa="k @ n ' s i t" rhymeScheme="38" stanzaId="13" />
+    <line id="89" finToken="strait" finSampa="s ' t r EI t" rhymeScheme="38" stanzaId="13" />
+    <line id="90" finToken="near" finSampa="' n I r" rhymeScheme="39" stanzaId="13" />
+    <line id="91" finToken="dear" finSampa="' d I r" rhymeScheme="39" stanzaId="13" />
+    <line id="92" finToken="picture" finSampa="' p I k tS r=" rhymeScheme="40" stanzaId="14" />
+    <line id="93" finToken="magnificence" finSampa="' m { g n @ f AI s @ n s" rhymeScheme="41" stanzaId="14" />
+    <line id="94" finToken="cure" finSampa="' k j U r" rhymeScheme="40" stanzaId="14" />
+    <line id="95" finToken="reverence" finSampa="' r E v r= @ n s" rhymeScheme="41" stanzaId="14" />
+    <line id="96" finToken="preeminence" finSampa="p r i ' E m @ n @ n s" rhymeScheme="41" stanzaId="14" />
+    <line id="97" finToken="wurche" finSampa="' w r= tS" rhymeScheme="42" stanzaId="14" />
+    <line id="98" finToken="church" finSampa="' tS r= tS" rhymeScheme="42" stanzaId="14" />
+    <line id="99" finToken="things" finSampa="' T I N z" rhymeScheme="43" stanzaId="15" />
+    <line id="100" finToken="hear" finSampa="' h I r" rhymeScheme="44" stanzaId="15" />
+    <line id="101" finToken="praising" finSampa="' p r EI z I N" rhymeScheme="43" stanzaId="15" />
+    <line id="102" finToken="clear" finSampa="' k l I r" rhymeScheme="44" stanzaId="15" />
+    <line id="103" finToken="manner" finSampa="' m { n r=" rhymeScheme="44" stanzaId="15" />
+    <line id="104" finToken="vary" finSampa="' v E r i" rhymeScheme="45" stanzaId="15" />
+    <line id="105" finToken="contrary" finSampa="' k A n t r E r i" rhymeScheme="45" stanzaId="15" />
+    <line id="106" finToken="likewise" finSampa="' l AI k w AI z" rhymeScheme="46" stanzaId="16" />
+    <line id="107" finToken="praise" finSampa="' p r EI z" rhymeScheme="47" stanzaId="16" />
+    <line id="108" finToken="comprise" finSampa="k @ m ' p r AI z" rhymeScheme="46" stanzaId="16" />
+    <line id="109" finToken="obeys" finSampa="@U ' b EI z" rhymeScheme="47" stanzaId="16" />
+    <line id="110" finToken="ways" finSampa="' w EI z" rhymeScheme="47" stanzaId="16" />
+    <line id="111" finToken="blasphemy" finSampa="' b l { s f @ m i" rhymeScheme="48" stanzaId="16" />
+    <line id="112" finToken="unreverently" finSampa="' @ n r E v r= @ n t l i" rhymeScheme="48" stanzaId="16" />
+    <line id="113" finToken="mind" finSampa="' m AI n d" rhymeScheme="49" stanzaId="17" />
+    <line id="114" finToken="bent" finSampa="' b E n t" rhymeScheme="50" stanzaId="17" />
+    <line id="115" finToken="find" finSampa="' f AI n d" rhymeScheme="49" stanzaId="17" />
+    <line id="116" finToken="excellent" finSampa="' E k s @ l @ n t" rhymeScheme="50" stanzaId="17" />
+    <line id="117" finToken="intent" finSampa="I n ' t E n t" rhymeScheme="50" stanzaId="17" />
+    <line id="118" finToken="name" finSampa="' n EI m" rhymeScheme="51" stanzaId="17" />
+    <line id="119" finToken="same" finSampa="' s EI m" rhymeScheme="51" stanzaId="17" />
+    <line id="120" finToken="high" finSampa="' h AI" rhymeScheme="52" stanzaId="18" />
+    <line id="121" finToken="ought" finSampa="' O t" rhymeScheme="53" stanzaId="18" />
+    <line id="122" finToken="magnify" finSampa="' m { g n @ f AI" rhymeScheme="52" stanzaId="18" />
+    <line id="123" finToken="wrought" finSampa="' r O t" rhymeScheme="53" stanzaId="18" />
+    <line id="124" finToken="nought" finSampa="' n O t" rhymeScheme="53" stanzaId="18" />
+    <line id="125" finToken="devise" finSampa="d I ' v AI z" rhymeScheme="54" stanzaId="18" />
+    <line id="126" finToken="likewise" finSampa="' l AI k w AI z" rhymeScheme="54" stanzaId="18" />
+    <line id="127" finToken="pale" finSampa="' p EI l" rhymeScheme="55" stanzaId="19" />
+    <line id="128" finToken="stalk" finSampa="s ' t O k" rhymeScheme="56" stanzaId="19" />
+    <line id="129" finToken="ale" finSampa="' EI l" rhymeScheme="55" stanzaId="19" />
+    <line id="130" finToken="talk" finSampa="' t O k" rhymeScheme="56" stanzaId="19" />
+    <line id="131" finToken="walk" finSampa="' w O k" rhymeScheme="56" stanzaId="19" />
+    <line id="132" finToken="fire" finSampa="' f AI r=" rhymeScheme="57" stanzaId="19" />
+    <line id="133" finToken="desire" finSampa="d I ' z AI r=" rhymeScheme="57" stanzaId="19" />
+    <line id="134" finToken="take" finSampa="' t EI k" rhymeScheme="58" stanzaId="20" />
+    <line id="135" finToken="remembrance" finSampa="r i ' m E m b r @ n s" rhymeScheme="59" stanzaId="20" />
+    <line id="136" finToken="wake" finSampa="' w EI k" rhymeScheme="58" stanzaId="20" />
+    <line id="137" finToken="dance" finSampa="' d { n s" rhymeScheme="59" stanzaId="20" />
+    <line id="138" finToken="plesance" finSampa="' p l E s @ n s" rhymeScheme="59" stanzaId="20" />
+    <line id="139" finToken="remove" finSampa="r i ' m u v" rhymeScheme="60" stanzaId="20" />
+    <line id="140" finToken="love" finSampa="' l V v" rhymeScheme="60" stanzaId="20" />
+    <line id="141" finToken="heart" finSampa="' h A r t" rhymeScheme="61" stanzaId="21" />
+    <line id="142" finToken="fear" finSampa="' f I r" rhymeScheme="62" stanzaId="21" />
+    <line id="143" finToken="smart" finSampa="' s m A r t" rhymeScheme="61" stanzaId="21" />
+    <line id="144" finToken="elsewhere" finSampa="' E l s w E r" rhymeScheme="62" stanzaId="21" />
+    <line id="145" finToken="tear" finSampa="' t E r" rhymeScheme="62" stanzaId="21" />
+    <line id="146" finToken="be" finSampa="' b i" rhymeScheme="63" stanzaId="21" />
+    <line id="147" finToken="adversity" finSampa="{ d ' v r= s I t i" rhymeScheme="63" stanzaId="21" />
+    <line id="148" finToken="breast" finSampa="' b r E s t" rhymeScheme="64" stanzaId="22" />
+    <line id="149" finToken="meditation" finSampa="' m E d @ t EI S @ n" rhymeScheme="65" stanzaId="22" />
+    <line id="150" finToken="rest" finSampa="' r E s t" rhymeScheme="64" stanzaId="22" />
+    <line id="151" finToken="contemplation" finSampa="' k A n t @ m p l EI S @ n" rhymeScheme="65" stanzaId="22" />
+    <line id="152" finToken="delectation" finSampa="' d E l E k t EI S @ n" rhymeScheme="65" stanzaId="22" />
+    <line id="153" finToken="fro" finSampa="' f r @U" rhymeScheme="66" stanzaId="22" />
+    <line id="154" finToken="woe" finSampa="' w @U" rhymeScheme="66" stanzaId="22" />
+    <line id="155" finToken="obey" finSampa="@U ' b EI" rhymeScheme="67" stanzaId="23" />
+    <line id="156" finToken="appetite" finSampa="' { p @ t AI t" rhymeScheme="68" stanzaId="23" />
+    <line id="157" finToken="may" finSampa="' m EI" rhymeScheme="67" stanzaId="23" />
+    <line id="158" finToken="delight" finSampa="d I ' l AI t" rhymeScheme="68" stanzaId="23" />
+    <line id="159" finToken="night" finSampa="' n AI t" rhymeScheme="68" stanzaId="23" />
+    <line id="160" finToken="regard" finSampa="r @ ' g A r d" rhymeScheme="69" stanzaId="23" />
+    <line id="161" finToken="reward" finSampa="r I ' w O r d" rhymeScheme="69" stanzaId="23" />
+    <line id="162" finToken="set" finSampa="' s E t" rhymeScheme="70" stanzaId="24" />
+    <line id="163" finToken="endeavor" finSampa="I n ' d E v r=" rhymeScheme="71" stanzaId="24" />
+    <line id="164" finToken="let" finSampa="' l E t" rhymeScheme="70" stanzaId="24" />
+    <line id="165" finToken="dissever" finSampa="' d I s @ v r=" rhymeScheme="71" stanzaId="24" />
+    <line id="166" finToken="never" finSampa="' n E v r=" rhymeScheme="71" stanzaId="24" />
+    <line id="167" finToken="bind" finSampa="' b AI n d" rhymeScheme="72" stanzaId="24" />
+    <line id="168" finToken="mind" finSampa="' m AI n d" rhymeScheme="72" stanzaId="24" />
+    <line id="169" finToken="move" finSampa="' m u v" rhymeScheme="73" stanzaId="25" />
+    <line id="170" finToken="desirable" finSampa="d I ' z AI r @ b @ l" rhymeScheme="74" stanzaId="25" />
+    <line id="171" finToken="love" finSampa="' l V v" rhymeScheme="73" stanzaId="25" />
+    <line id="172" finToken="amiable" finSampa="' EI m i @ b @ l" rhymeScheme="74" stanzaId="25" />
+    <line id="173" finToken="serviceable" finSampa="' s r= v @ s @ b @ l" rhymeScheme="74" stanzaId="25" />
+    <line id="174" finToken="more" finSampa="' m O r" rhymeScheme="75" stanzaId="25" />
+    <line id="175" finToken="before" finSampa="b I ' f O r" rhymeScheme="75" stanzaId="25" />
+    <line id="176" finToken="meed" finSampa="' m i d" rhymeScheme="76" stanzaId="26" />
+    <line id="177" finToken="be" finSampa="' b i" rhymeScheme="77" stanzaId="26" />
+    <line id="178" finToken="speed" finSampa="s ' p i d" rhymeScheme="76" stanzaId="26" />
+    <line id="179" finToken="he" finSampa="' h i" rhymeScheme="77" stanzaId="26" />
+    <line id="180" finToken="thee" finSampa="' D i" rhymeScheme="77" stanzaId="26" />
+    <line id="181" finToken="rood" finSampa="' r u d" rhymeScheme="78" stanzaId="26" />
+    <line id="182" finToken="blood" finSampa="' b l V d" rhymeScheme="78" stanzaId="26" />
+    <line id="183" finToken="majesty" finSampa="' m { dZ @ s t i" rhymeScheme="79" stanzaId="27" />
+    <line id="184" finToken="one" finSampa="' w V n" rhymeScheme="80" stanzaId="27" />
+    <line id="185" finToken="be" finSampa="' b i" rhymeScheme="79" stanzaId="27" />
+    <line id="186" finToken="alone" finSampa="@ ' l @U n" rhymeScheme="80" stanzaId="27" />
+    <line id="187" finToken="moan" finSampa="' m @U n" rhymeScheme="80" stanzaId="27" />
+    <line id="188" finToken="guilt" finSampa="' g I l t" rhymeScheme="81" stanzaId="27" />
+    <line id="189" finToken="spilt" finSampa="s ' p I l t" rhymeScheme="81" stanzaId="27" />
+    <line id="190" finToken="judgment" finSampa="' dZ V dZ m @ n t" rhymeScheme="82" stanzaId="28" />
+    <line id="191" finToken="weigh" finSampa="' w EI" rhymeScheme="83" stanzaId="28" />
+    <line id="192" finToken="punishment" finSampa="' p V n I S m @ n t" rhymeScheme="82" stanzaId="28" />
+    <line id="193" finToken="say" finSampa="' s EI" rhymeScheme="83" stanzaId="28" />
+    <line id="194" finToken="aye" finSampa="' AI" rhymeScheme="83" stanzaId="28" />
+    <line id="195" finToken="stand" finSampa="s ' t { n d" rhymeScheme="84" stanzaId="28" />
+    <line id="196" finToken="hand" finSampa="' h { n d" rhymeScheme="84" stanzaId="28" />
+    <line id="197" finToken="original" finSampa="r= ' I dZ @ n @ l" rhymeScheme="85" stanzaId="29" />
+    <line id="198" finToken="wise" finSampa="' w AI z" rhymeScheme="86" stanzaId="29" />
+    <line id="199" finToken="all" finSampa="' O l" rhymeScheme="85" stanzaId="29" />
+    <line id="200" finToken="justice" finSampa="' dZ V s t @ s" rhymeScheme="86" stanzaId="29" />
+    <line id="201" finToken="device" finSampa="d I ' v AI s" rhymeScheme="86" stanzaId="29" />
+    <line id="202" finToken="dispense" finSampa="d I s ' p E n s" rhymeScheme="87" stanzaId="29" />
+    <line id="203" finToken="offence" finSampa="' O f @ n s" rhymeScheme="87" stanzaId="29" />
+    <line id="204" finToken="sin" finSampa="' s I n" rhymeScheme="88" stanzaId="30" />
+    <line id="205" finToken="be" finSampa="' b i" rhymeScheme="89" stanzaId="30" />
+    <line id="206" finToken="therein" finSampa="D E ' r I n" rhymeScheme="88" stanzaId="30" />
+    <line id="207" finToken="pardee" finSampa="' p A r d i" rhymeScheme="89" stanzaId="30" />
+    <line id="208" finToken="he" finSampa="' h i" rhymeScheme="89" stanzaId="30" />
+    <line id="209" finToken="taketh" finSampa="' t EI k @ T" rhymeScheme="90" stanzaId="30" />
+    <line id="210" finToken="maketh" finSampa="' m EI k @ T" rhymeScheme="90" stanzaId="30" />
+    <line id="211" finToken="art" finSampa="' A r t" rhymeScheme="91" stanzaId="31" />
+    <line id="212" finToken="dignity" finSampa="' d I g n @ t i" rhymeScheme="92" stanzaId="31" />
+    <line id="213" finToken="heart" finSampa="' h A r t" rhymeScheme="91" stanzaId="31" />
+    <line id="214" finToken="malignity" finSampa="' m @ l AI g n @ t i" rhymeScheme="92" stanzaId="31" />
+    <line id="215" finToken="benignity" finSampa="' b E n AI g n @ t i" rhymeScheme="92" stanzaId="31" />
+    <line id="216" finToken="be" finSampa="' b i" rhymeScheme="93" stanzaId="31" />
+    <line id="217" finToken="thee" finSampa="' D i" rhymeScheme="93" stanzaId="31" />
+    <line id="218" finToken="certain" finSampa="' s r= t @ n" rhymeScheme="94" stanzaId="32" />
+    <line id="219" finToken="mind" finSampa="' m AI n d" rhymeScheme="95" stanzaId="32" />
+    <line id="220" finToken="again" finSampa="@ ' g E n" rhymeScheme="94" stanzaId="32" />
+    <line id="221" finToken="kind" finSampa="' k AI n d" rhymeScheme="95" stanzaId="32" />
+    <line id="222" finToken="find" finSampa="' f AI n d" rhymeScheme="95" stanzaId="32" />
+    <line id="223" finToken="space" finSampa="s ' p EI s" rhymeScheme="96" stanzaId="32" />
+    <line id="224" finToken="grace" finSampa="' g r EI s" rhymeScheme="96" stanzaId="32" />
+    <line id="225" finToken="alas" finSampa="@ ' l { s" rhymeScheme="97" stanzaId="33" />
+    <line id="226" finToken="dear" finSampa="' d I r" rhymeScheme="98" stanzaId="33" />
+    <line id="227" finToken="trespass" finSampa="' t r E s p { s" rhymeScheme="97" stanzaId="33" />
+    <line id="228" finToken="year" finSampa="' j I r" rhymeScheme="98" stanzaId="33" />
+    <line id="229" finToken="peer" finSampa="' p I r" rhymeScheme="98" stanzaId="33" />
+    <line id="230" finToken="preace" finSampa="' p r i s" rhymeScheme="99" stanzaId="33" />
+    <line id="231" finToken="increase" finSampa="' I n k r i s" rhymeScheme="99" stanzaId="33" />
+    <line id="232" finToken="power" finSampa="' p aU r=" rhymeScheme="100" stanzaId="34" />
+    <line id="233" finToken="sufficiently" finSampa="s @ ' f I S @ n t l i" rhymeScheme="101" stanzaId="34" />
+    <line id="234" finToken="hour" finSampa="' aU r=" rhymeScheme="100" stanzaId="34" />
+    <line id="235" finToken="testify" finSampa="' t E s t @ f AI" rhymeScheme="101" stanzaId="34" />
+    <line id="236" finToken="mercy" finSampa="' m r= s i" rhymeScheme="101" stanzaId="34" />
+    <line id="237" finToken="indulgence" finSampa="I n ' d V l dZ @ n s" rhymeScheme="102" stanzaId="34" />
+    <line id="238" finToken="offence" finSampa="' O f @ n s" rhymeScheme="102" stanzaId="34" />
+    <line id="239" finToken="love" finSampa="' l V v" rhymeScheme="103" stanzaId="35" />
+    <line id="240" finToken="majesty" finSampa="' m { dZ @ s t i" rhymeScheme="104" stanzaId="35" />
+    <line id="241" finToken="above" finSampa="@ ' b V v" rhymeScheme="103" stanzaId="35" />
+    <line id="242" finToken="we" finSampa="' w i" rhymeScheme="104" stanzaId="35" />
+    <line id="243" finToken="be" finSampa="' b i" rhymeScheme="104" stanzaId="35" />
+    <line id="244" finToken="side" finSampa="' s AI d" rhymeScheme="105" stanzaId="35" />
+    <line id="245" finToken="wide" finSampa="' w AI d" rhymeScheme="105" stanzaId="35" />
+    <line id="246" finToken="king" finSampa="' k I N" rhymeScheme="106" stanzaId="36" />
+    <line id="247" finToken="goodness" finSampa="' g U d n @ s" rhymeScheme="107" stanzaId="36" />
+    <line id="248" finToken="providing" finSampa="p r @ ' v AI d I N" rhymeScheme="106" stanzaId="36" />
+    <line id="249" finToken="distress" finSampa="d I s ' t r E s" rhymeScheme="107" stanzaId="36" />
+    <line id="250" finToken="thankless" finSampa="' T { N k l @ s" rhymeScheme="107" stanzaId="36" />
+    <line id="251" finToken="wise" finSampa="' w AI z" rhymeScheme="108" stanzaId="36" />
+    <line id="252" finToken="vice" finSampa="' v AI s" rhymeScheme="108" stanzaId="36" />
+    <line id="253" finToken="heart" finSampa="' h A r t" rhymeScheme="109" stanzaId="37" />
+    <line id="254" finToken="egall" finSampa="' E g { l" rhymeScheme="110" stanzaId="37" />
+    <line id="255" finToken="astart" finSampa="' @ s t A r t" rhymeScheme="109" stanzaId="37" />
+    <line id="256" finToken="thrall" finSampa="' T r O l" rhymeScheme="110" stanzaId="37" />
+    <line id="257" finToken="all" finSampa="' O l" rhymeScheme="110" stanzaId="37" />
+    <line id="258" finToken="desire" finSampa="d I ' z AI r=" rhymeScheme="111" stanzaId="37" />
+    <line id="259" finToken="afire" finSampa="@ ' f AI r" rhymeScheme="111" stanzaId="37" />
+    <line id="260" finToken="life" finSampa="' l AI f" rhymeScheme="112" stanzaId="38" />
+    <line id="261" finToken="thence" finSampa="' D E n s" rhymeScheme="113" stanzaId="38" />
+    <line id="262" finToken="wife" finSampa="' w AI f" rhymeScheme="112" stanzaId="38" />
+    <line id="263" finToken="presence" finSampa="' p r E z @ n s" rhymeScheme="113" stanzaId="38" />
+    <line id="264" finToken="indulgence" finSampa="I n ' d V l dZ @ n s" rhymeScheme="113" stanzaId="38" />
+    <line id="265" finToken="rather" finSampa="' r { D r=" rhymeScheme="114" stanzaId="38" />
+    <line id="266" finToken="father" finSampa="' f A D r=" rhymeScheme="114" stanzaId="38" />
+  </poem>
+  <poem id="POEM6" author="more" period="1415">
+    <line id="1" finToken="way" finSampa="' w EI" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="continual" finSampa="k @ n ' t I n j u @ l" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="ave" finSampa="' { v @ n u" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="thrall" finSampa="' T r O l" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="shall" finSampa="' S { l" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="sustain" finSampa="s @ s ' t EI n" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="pain" finSampa="' p EI n" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="woe" finSampa="' w @U" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="wis" finSampa="' w I s" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="also" finSampa="' O l s @U" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="is" finSampa="' I z" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="this" finSampa="' D I s" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="die" finSampa="' d AI" rhymeScheme="6" stanzaId="2" />
+    <line id="14" finToken="perpetually" finSampa="p r= ' p E tS u @ l i" rhymeScheme="6" stanzaId="2" />
+    <line id="15" finToken="vain" finSampa="' v EI n" rhymeScheme="7" stanzaId="3" />
+    <line id="16" finToken="delight" finSampa="d I ' l AI t" rhymeScheme="8" stanzaId="3" />
+    <line id="17" finToken="captain" finSampa="' k { p t @ n" rhymeScheme="7" stanzaId="3" />
+    <line id="18" finToken="fight" finSampa="' f AI t" rhymeScheme="8" stanzaId="3" />
+    <line id="19" finToken="right" finSampa="' r AI t" rhymeScheme="8" stanzaId="3" />
+    <line id="20" finToken="record" finSampa="' r E k r= d" rhymeScheme="9" stanzaId="3" />
+    <line id="21" finToken="lord" finSampa="' l O r d" rhymeScheme="9" stanzaId="3" />
+    <line id="22" finToken="grudge" finSampa="' g r V dZ" rhymeScheme="10" stanzaId="4" />
+    <line id="23" finToken="fight" finSampa="' f AI t" rhymeScheme="11" stanzaId="4" />
+    <line id="24" finToken="judge" finSampa="' dZ V dZ" rhymeScheme="10" stanzaId="4" />
+    <line id="25" finToken="might" finSampa="' m AI t" rhymeScheme="11" stanzaId="4" />
+    <line id="26" finToken="delight" finSampa="d I ' l AI t" rhymeScheme="11" stanzaId="4" />
+    <line id="27" finToken="behavior" finSampa="b I ' h EI v j r=" rhymeScheme="12" stanzaId="4" />
+    <line id="28" finToken="savoir" finSampa="' s @ v w A r" rhymeScheme="12" stanzaId="4" />
+    <line id="29" finToken="strive" finSampa="s ' t r AI v" rhymeScheme="13" stanzaId="5" />
+    <line id="30" finToken="motion" finSampa="' m @U S @ n" rhymeScheme="14" stanzaId="5" />
+    <line id="31" finToken="five" finSampa="' f AI v" rhymeScheme="13" stanzaId="5" />
+    <line id="32" finToken="devotion" finSampa="d I ' v @U S @ n" rhymeScheme="14" stanzaId="5" />
+    <line id="33" finToken="potion" finSampa="' p @U S @ n" rhymeScheme="14" stanzaId="5" />
+    <line id="34" finToken="therewithal" finSampa="' T E r I T @ l" rhymeScheme="15" stanzaId="5" />
+    <line id="35" finToken="gall" finSampa="' g O l" rhymeScheme="15" stanzaId="5" />
+    <line id="36" finToken="forbear" finSampa="' f O r b I r" rhymeScheme="16" stanzaId="6" />
+    <line id="37" finToken="then" finSampa="' D E n" rhymeScheme="17" stanzaId="6" />
+    <line id="38" finToken="were" finSampa="w r=" rhymeScheme="16" stanzaId="6" />
+    <line id="39" finToken="when" finSampa="' w E n" rhymeScheme="17" stanzaId="6" />
+    <line id="40" finToken="bondman" finSampa="' b A n d m @ n" rhymeScheme="17" stanzaId="6" />
+    <line id="41" finToken="thee" finSampa="' D i" rhymeScheme="18" stanzaId="6" />
+    <line id="42" finToken="tree" finSampa="' t r i" rhymeScheme="18" stanzaId="6" />
+    <line id="43" finToken="wroth" finSampa="' r O T" rhymeScheme="19" stanzaId="7" />
+    <line id="44" finToken="best" finSampa="' b E s t" rhymeScheme="20" stanzaId="7" />
+    <line id="45" finToken="both" finSampa="' b @U T" rhymeScheme="19" stanzaId="7" />
+    <line id="46" finToken="thrests" finSampa="' T r E s t s" rhymeScheme="20" stanzaId="7" />
+    <line id="47" finToken="breast" finSampa="' b r E s t" rhymeScheme="20" stanzaId="7" />
+    <line id="48" finToken="disdain" finSampa="d I s ' d EI n" rhymeScheme="21" stanzaId="7" />
+    <line id="49" finToken="pain" finSampa="' p EI n" rhymeScheme="21" stanzaId="7" />
+    <line id="50" finToken="devil" finSampa="' d E v @ l" rhymeScheme="22" stanzaId="8" />
+    <line id="51" finToken="by" finSampa="' b AI" rhymeScheme="23" stanzaId="8" />
+    <line id="52" finToken="evil" finSampa="' i v @ l" rhymeScheme="22" stanzaId="8" />
+    <line id="53" finToken="apply" finSampa="@ ' p l AI" rhymeScheme="23" stanzaId="8" />
+    <line id="54" finToken="valiantly" finSampa="' v { l j @ n t l i" rhymeScheme="23" stanzaId="8" />
+    <line id="55" finToken="dart" finSampa="' d A r t" rhymeScheme="24" stanzaId="8" />
+    <line id="56" finToken="part" finSampa="' p A r t" rhymeScheme="24" stanzaId="8" />
+    <line id="57" finToken="must" finSampa="' m V s t" rhymeScheme="25" stanzaId="9" />
+    <line id="58" finToken="armor" finSampa="' A r m r=" rhymeScheme="26" stanzaId="9" />
+    <line id="59" finToken="trust" finSampa="' t r V s t" rhymeScheme="25" stanzaId="9" />
+    <line id="60" finToken="savior" finSampa="' s EI v j r=" rhymeScheme="26" stanzaId="9" />
+    <line id="61" finToken="power" finSampa="' p aU r=" rhymeScheme="26" stanzaId="9" />
+    <line id="62" finToken="out" finSampa="' aU t" rhymeScheme="27" stanzaId="9" />
+    <line id="63" finToken="about" finSampa="@ ' b aU t" rhymeScheme="27" stanzaId="9" />
+    <line id="64" finToken="evil" finSampa="' i v @ l" rhymeScheme="28" stanzaId="10" />
+    <line id="65" finToken="confidence" finSampa="' k A n f @ d @ n s" rhymeScheme="29" stanzaId="10" />
+    <line id="66" finToken="devil" finSampa="' d E v @ l" rhymeScheme="28" stanzaId="10" />
+    <line id="67" finToken="reverence" finSampa="' r E v r= @ n s" rhymeScheme="29" stanzaId="10" />
+    <line id="68" finToken="diligence" finSampa="' d I l @ dZ @ n s" rhymeScheme="29" stanzaId="10" />
+    <line id="69" finToken="plaints" finSampa="' p l EI n t s" rhymeScheme="30" stanzaId="10" />
+    <line id="70" finToken="saints" finSampa="' s EI n t s" rhymeScheme="30" stanzaId="10" />
+    <line id="71" finToken="tarry" finSampa="' t E r i" rhymeScheme="31" stanzaId="11" />
+    <line id="72" finToken="hour" finSampa="' aU r=" rhymeScheme="32" stanzaId="11" />
+    <line id="73" finToken="adversary" finSampa="' { d v r= s E r i" rhymeScheme="31" stanzaId="11" />
+    <line id="74" finToken="devour" finSampa="d I ' v aU r=" rhymeScheme="32" stanzaId="11" />
+    <line id="75" finToken="tower" finSampa="' t aU r=" rhymeScheme="32" stanzaId="11" />
+    <line id="76" finToken="catch" finSampa="' k { tS" rhymeScheme="33" stanzaId="11" />
+    <line id="77" finToken="watch" finSampa="' w A tS" rhymeScheme="33" stanzaId="11" />
+    <line id="78" finToken="stand" finSampa="s ' t { n d" rhymeScheme="34" stanzaId="12" />
+    <line id="79" finToken="might" finSampa="' m AI t" rhymeScheme="35" stanzaId="12" />
+    <line id="80" finToken="hand" finSampa="' h { n d" rhymeScheme="34" stanzaId="12" />
+    <line id="81" finToken="flight" finSampa="' f l AI t" rhymeScheme="35" stanzaId="12" />
+    <line id="82" finToken="sight" finSampa="' s AI t" rhymeScheme="35" stanzaId="12" />
+    <line id="83" finToken="contract" finSampa="' k A n t r { k t" rhymeScheme="36" stanzaId="12" />
+    <line id="84" finToken="act" finSampa="' { k t" rhymeScheme="36" stanzaId="12" />
+    <line id="85" finToken="mind" finSampa="' m AI n d" rhymeScheme="37" stanzaId="13" />
+    <line id="86" finToken="pride" finSampa="' p r AI d" rhymeScheme="38" stanzaId="13" />
+    <line id="87" finToken="blind" finSampa="' b l AI n d" rhymeScheme="37" stanzaId="13" />
+    <line id="88" finToken="guide" finSampa="' g AI d" rhymeScheme="38" stanzaId="13" />
+    <line id="89" finToken="applied" finSampa="@ ' p l AI d" rhymeScheme="38" stanzaId="13" />
+    <line id="90" finToken="his" finSampa="' h I z" rhymeScheme="39" stanzaId="13" />
+    <line id="91" finToken="is" finSampa="' I z" rhymeScheme="39" stanzaId="13" />
+    <line id="92" finToken="preace" finSampa="' p r i s" rhymeScheme="40" stanzaId="14" />
+    <line id="93" finToken="victory" finSampa="' v I k t r= i" rhymeScheme="41" stanzaId="14" />
+    <line id="94" finToken="peace" finSampa="' p i s" rhymeScheme="40" stanzaId="14" />
+    <line id="95" finToken="mercy" finSampa="' m r= s i" rhymeScheme="41" stanzaId="14" />
+    <line id="96" finToken="enemy" finSampa="' E n @ m i" rhymeScheme="41" stanzaId="14" />
+    <line id="97" finToken="battle" finSampa="' b { t @ l" rhymeScheme="42" stanzaId="14" />
+    <line id="98" finToken="assail" finSampa="@ ' s EI l" rhymeScheme="42" stanzaId="14" />
+    <line id="99" finToken="obtain" finSampa="@ ' b t EI n" rhymeScheme="43" stanzaId="15" />
+    <line id="100" finToken="gear" finSampa="' g I r" rhymeScheme="44" stanzaId="15" />
+    <line id="101" finToken="again" finSampa="@ ' g E n" rhymeScheme="43" stanzaId="15" />
+    <line id="102" finToken="fear" finSampa="' f I r" rhymeScheme="44" stanzaId="15" />
+    <line id="103" finToken="bear" finSampa="' b E r" rhymeScheme="44" stanzaId="15" />
+    <line id="104" finToken="memory" finSampa="' m E m r= i" rhymeScheme="45" stanzaId="15" />
+    <line id="105" finToken="victory" finSampa="' v I k t r= i" rhymeScheme="45" stanzaId="15" />
+    <line id="106" finToken="sure" finSampa="' S U r" rhymeScheme="46" stanzaId="16" />
+    <line id="107" finToken="vice" finSampa="' v AI s" rhymeScheme="47" stanzaId="16" />
+    <line id="108" finToken="endure" finSampa="E n ' d j U r" rhymeScheme="46" stanzaId="16" />
+    <line id="109" finToken="dice" finSampa="' d AI s" rhymeScheme="47" stanzaId="16" />
+    <line id="110" finToken="wise" finSampa="' w AI z" rhymeScheme="47" stanzaId="16" />
+    <line id="111" finToken="sin" finSampa="' s I n" rhymeScheme="48" stanzaId="16" />
+    <line id="112" finToken="therein" finSampa="D E ' r I n" rhymeScheme="48" stanzaId="16" />
+    <line id="113" finToken="beginning" finSampa="b I ' g I n I N" rhymeScheme="49" stanzaId="17" />
+    <line id="114" finToken="babylon" finSampa="' b { b @ l A n" rhymeScheme="50" stanzaId="17" />
+    <line id="115" finToken="thing" finSampa="' T I N" rhymeScheme="49" stanzaId="17" />
+    <line id="116" finToken="stone" finSampa="s ' t @U n" rhymeScheme="50" stanzaId="17" />
+    <line id="117" finToken="bone" finSampa="' b @U n" rhymeScheme="50" stanzaId="17" />
+    <line id="118" finToken="sore" finSampa="' s O r" rhymeScheme="51" stanzaId="17" />
+    <line id="119" finToken="more" finSampa="' m O r" rhymeScheme="51" stanzaId="17" />
+    <line id="120" finToken="war" finSampa="' w O r" rhymeScheme="52" stanzaId="18" />
+    <line id="121" finToken="sour" finSampa="' s aU r=" rhymeScheme="53" stanzaId="18" />
+    <line id="122" finToken="far" finSampa="' f A r" rhymeScheme="52" stanzaId="18" />
+    <line id="123" finToken="conqueror" finSampa="' k A N k r= r=" rhymeScheme="53" stanzaId="18" />
+    <line id="124" finToken="pleasure" finSampa="' p l E Z r=" rhymeScheme="53" stanzaId="18" />
+    <line id="125" finToken="within" finSampa="w I ' D I n" rhymeScheme="54" stanzaId="18" />
+    <line id="126" finToken="sin" finSampa="' s I n" rhymeScheme="54" stanzaId="18" />
+    <line id="127" finToken="negligence" finSampa="' n E g l @ dZ @ n s" rhymeScheme="55" stanzaId="19" />
+    <line id="128" finToken="victory" finSampa="' v I k t r= i" rhymeScheme="56" stanzaId="19" />
+    <line id="129" finToken="concupiscence" finSampa="' k @ n k j @ p I s @ n s" rhymeScheme="55" stanzaId="19" />
+    <line id="130" finToken="unadvisedly" finSampa="' V n @ d v AI z @ d l i" rhymeScheme="56" stanzaId="19" />
+    <line id="131" finToken="apply" finSampa="@ ' p l AI" rhymeScheme="56" stanzaId="19" />
+    <line id="132" finToken="delight" finSampa="d I ' l AI t" rhymeScheme="57" stanzaId="19" />
+    <line id="133" finToken="fight" finSampa="' f AI t" rhymeScheme="57" stanzaId="19" />
+    <line id="134" finToken="known" finSampa="' n @U n" rhymeScheme="58" stanzaId="20" />
+    <line id="135" finToken="experience" finSampa="I k ' s p I r i @ n s" rhymeScheme="59" stanzaId="20" />
+    <line id="136" finToken="overthrown" finSampa="' @U v r= T r @U n" rhymeScheme="58" stanzaId="20" />
+    <line id="137" finToken="diligence" finSampa="' d I l @ dZ @ n s" rhymeScheme="59" stanzaId="20" />
+    <line id="138" finToken="defense" finSampa="d I ' f E n s" rhymeScheme="59" stanzaId="20" />
+    <line id="139" finToken="rest" finSampa="' r E s t" rhymeScheme="60" stanzaId="20" />
+    <line id="140" finToken="conquest" finSampa="' k A N k w E s t" rhymeScheme="60" stanzaId="20" />
+    <line id="141" finToken="nothing" finSampa="' n V T I N" rhymeScheme="61" stanzaId="21" />
+    <line id="142" finToken="paul" finSampa="' p O l" rhymeScheme="62" stanzaId="21" />
+    <line id="143" finToken="being" finSampa="' b i I N" rhymeScheme="61" stanzaId="21" />
+    <line id="144" finToken="extol" finSampa="I k ' s t @U l" rhymeScheme="62" stanzaId="21" />
+    <line id="145" finToken="soul" finSampa="' s @U l" rhymeScheme="62" stanzaId="21" />
+    <line id="146" finToken="provide" finSampa="p r @ ' v AI d" rhymeScheme="63" stanzaId="21" />
+    <line id="147" finToken="pride" finSampa="' p r AI d" rhymeScheme="63" stanzaId="21" />
+    <line id="148" finToken="love" finSampa="' l V v" rhymeScheme="64" stanzaId="22" />
+    <line id="149" finToken="chose" finSampa="' tS @U z" rhymeScheme="65" stanzaId="22" />
+    <line id="150" finToken="above" finSampa="@ ' b V v" rhymeScheme="64" stanzaId="22" />
+    <line id="151" finToken="depose" finSampa="d I ' p @U z" rhymeScheme="65" stanzaId="22" />
+    <line id="152" finToken="close" finSampa="' k l @U s" rhymeScheme="65" stanzaId="22" />
+    <line id="153" finToken="reprief" finSampa="' r i p r AI f" rhymeScheme="66" stanzaId="22" />
+    <line id="154" finToken="mischief" finSampa="' m I s tS @ f" rhymeScheme="66" stanzaId="22" />
+    <line id="155" finToken="gloss" finSampa="' g l O s" rhymeScheme="67" stanzaId="23" />
+    <line id="156" finToken="power" finSampa="' p aU r=" rhymeScheme="68" stanzaId="23" />
+    <line id="157" finToken="cross" finSampa="' k r O s" rhymeScheme="67" stanzaId="23" />
+    <line id="158" finToken="hour" finSampa="' aU r=" rhymeScheme="68" stanzaId="23" />
+    <line id="159" finToken="honor" finSampa="' A n r=" rhymeScheme="68" stanzaId="23" />
+    <line id="160" finToken="great" finSampa="' g r EI t" rhymeScheme="69" stanzaId="23" />
+    <line id="161" finToken="meat" finSampa="' m i t" rhymeScheme="69" stanzaId="23" />
+  </poem>
+  <poem id="POEM7" author="more" period="1415">
+    <line id="1" finToken="hast" finSampa="' h { s t" rhymeScheme="1" stanzaId="1" />
+    <line id="2" finToken="sight" finSampa="' s AI t" rhymeScheme="2" stanzaId="1" />
+    <line id="3" finToken="taste" finSampa="' t EI s t" rhymeScheme="1" stanzaId="1" />
+    <line id="4" finToken="delight" finSampa="d I ' l AI t" rhymeScheme="2" stanzaId="1" />
+    <line id="5" finToken="appetite" finSampa="' { p @ t AI t" rhymeScheme="2" stanzaId="1" />
+    <line id="6" finToken="cast" finSampa="' k { s t" rhymeScheme="3" stanzaId="1" />
+    <line id="7" finToken="past" finSampa="' p { s t" rhymeScheme="3" stanzaId="1" />
+    <line id="8" finToken="do" finSampa="' d u" rhymeScheme="4" stanzaId="2" />
+    <line id="9" finToken="remain" finSampa="r I ' m EI n" rhymeScheme="5" stanzaId="2" />
+    <line id="10" finToken="thereto" finSampa="' T E r E t @U" rhymeScheme="4" stanzaId="2" />
+    <line id="11" finToken="contain" finSampa="k @ n ' t EI n" rhymeScheme="5" stanzaId="2" />
+    <line id="12" finToken="restrain" finSampa="r i s ' t r EI n" rhymeScheme="5" stanzaId="2" />
+    <line id="13" finToken="behind" finSampa="b I ' h AI n d" rhymeScheme="6" stanzaId="2" />
+    <line id="14" finToken="mind" finSampa="' m AI n d" rhymeScheme="6" stanzaId="2" />
+    <line id="15" finToken="buy" finSampa="' b AI" rhymeScheme="7" stanzaId="3" />
+    <line id="16" finToken="advise" finSampa="{ d ' v AI z" rhymeScheme="8" stanzaId="3" />
+    <line id="17" finToken="by" finSampa="' b AI" rhymeScheme="7" stanzaId="3" />
+    <line id="18" finToken="enemies" finSampa="' E n @ m i z" rhymeScheme="8" stanzaId="3" />
+    <line id="19" finToken="merchandise" finSampa="' m r= tS @ n d AI z" rhymeScheme="8" stanzaId="3" />
+    <line id="20" finToken="reckoning" finSampa="' r E k @ n I N" rhymeScheme="9" stanzaId="3" />
+    <line id="21" finToken="thing" finSampa="' T I N" rhymeScheme="9" stanzaId="3" />
+    <line id="22" finToken="confidence" finSampa="' k A n f @ d @ n s" rhymeScheme="10" stanzaId="4" />
+    <line id="23" finToken="sin" finSampa="' s I n" rhymeScheme="11" stanzaId="4" />
+    <line id="24" finToken="experience" finSampa="I k ' s p I r i @ n s" rhymeScheme="10" stanzaId="4" />
+    <line id="25" finToken="begin" finSampa="b I ' g I n" rhymeScheme="11" stanzaId="4" />
+    <line id="26" finToken="lin" finSampa="' l I n" rhymeScheme="11" stanzaId="4" />
+    <line id="27" finToken="shall" finSampa="' S { l" rhymeScheme="12" stanzaId="4" />
+    <line id="28" finToken="wall" finSampa="' w O l" rhymeScheme="12" stanzaId="4" />
+    <line id="29" finToken="day" finSampa="' d EI" rhymeScheme="13" stanzaId="5" />
+    <line id="30" finToken="care" finSampa="' k E r" rhymeScheme="14" stanzaId="5" />
+    <line id="31" finToken="play" finSampa="' p l EI" rhymeScheme="13" stanzaId="5" />
+    <line id="32" finToken="fare" finSampa="' f E r" rhymeScheme="14" stanzaId="5" />
+    <line id="33" finToken="unaware" finSampa="' V n @ w E r" rhymeScheme="14" stanzaId="5" />
+    <line id="34" finToken="enterprise" finSampa="' E n t r= p r AI z" rhymeScheme="15" stanzaId="5" />
+    <line id="35" finToken="wise" finSampa="' w AI z" rhymeScheme="15" stanzaId="5" />
+    <line id="36" finToken="therefore" finSampa="' D E r f O r" rhymeScheme="16" stanzaId="6" />
+    <line id="37" finToken="case" finSampa="' k EI s" rhymeScheme="17" stanzaId="6" />
+    <line id="38" finToken="more" finSampa="' m O r" rhymeScheme="16" stanzaId="6" />
+    <line id="39" finToken="space" finSampa="s ' p EI s" rhymeScheme="17" stanzaId="6" />
+    <line id="40" finToken="grace" finSampa="' g r EI s" rhymeScheme="17" stanzaId="6" />
+    <line id="41" finToken="offence" finSampa="' O f @ n s" rhymeScheme="18" stanzaId="6" />
+    <line id="42" finToken="hence" finSampa="' h E n s" rhymeScheme="18" stanzaId="6" />
+    <line id="43" finToken="thoroughfare" finSampa="' T r= @U f E r" rhymeScheme="19" stanzaId="7" />
+    <line id="44" finToken="host" finSampa="' h @U s t" rhymeScheme="20" stanzaId="7" />
+    <line id="45" finToken="bare" finSampa="' b E r" rhymeScheme="19" stanzaId="7" />
+    <line id="46" finToken="cost" finSampa="' k A s t" rhymeScheme="20" stanzaId="7" />
+    <line id="47" finToken="ghost" finSampa="' g @U s t" rhymeScheme="20" stanzaId="7" />
+    <line id="48" finToken="dissever" finSampa="' d I s @ v r=" rhymeScheme="21" stanzaId="7" />
+    <line id="49" finToken="forever" finSampa="f r= ' E v r=" rhymeScheme="21" stanzaId="7" />
+    <line id="50" finToken="reasonable" finSampa="' r i z @ n @ b @ l" rhymeScheme="22" stanzaId="8" />
+    <line id="51" finToken="figure" finSampa="' f I g j r=" rhymeScheme="23" stanzaId="8" />
+    <line id="52" finToken="intolerable" finSampa="I n ' t A l r= @ b @ l" rhymeScheme="22" stanzaId="8" />
+    <line id="53" finToken="endure" finSampa="E n ' d j U r" rhymeScheme="23" stanzaId="8" />
+    <line id="54" finToken="nature" finSampa="' n EI tS r=" rhymeScheme="23" stanzaId="8" />
+    <line id="55" finToken="equal" finSampa="' i k w @ l" rhymeScheme="24" stanzaId="8" />
+    <line id="56" finToken="thrall" finSampa="' T r O l" rhymeScheme="24" stanzaId="8" />
+    <line id="57" finToken="joy" finSampa="' dZ OI" rhymeScheme="25" stanzaId="9" />
+    <line id="58" finToken="fantasies" finSampa="' f { n t @ s i z" rhymeScheme="26" stanzaId="9" />
+    <line id="59" finToken="toy" finSampa="' t OI" rhymeScheme="25" stanzaId="9" />
+    <line id="60" finToken="devise" finSampa="d I ' v AI z" rhymeScheme="26" stanzaId="9" />
+    <line id="61" finToken="warrantise" finSampa="' w O r { n t AI s" rhymeScheme="26" stanzaId="9" />
+    <line id="62" finToken="find" finSampa="' f AI n d" rhymeScheme="27" stanzaId="9" />
+    <line id="63" finToken="mind" finSampa="' m AI n d" rhymeScheme="27" stanzaId="9" />
+    <line id="64" finToken="both" finSampa="' b @U T" rhymeScheme="28" stanzaId="10" />
+    <line id="65" finToken="his" finSampa="' h I z" rhymeScheme="29" stanzaId="10" />
+    <line id="66" finToken="wroth" finSampa="' r O T" rhymeScheme="28" stanzaId="10" />
+    <line id="67" finToken="this" finSampa="' D I s" rhymeScheme="29" stanzaId="10" />
+    <line id="68" finToken="bliss" finSampa="' b l I s" rhymeScheme="29" stanzaId="10" />
+    <line id="69" finToken="be" finSampa="' b i" rhymeScheme="30" stanzaId="10" />
+    <line id="70" finToken="thee" finSampa="' D i" rhymeScheme="30" stanzaId="10" />
+    <line id="71" finToken="friest" finSampa="' f r i @ s t" rhymeScheme="31" stanzaId="11" />
+    <line id="72" finToken="pain" finSampa="' p EI n" rhymeScheme="32" stanzaId="11" />
+    <line id="73" finToken="christ" finSampa="' k r AI s t" rhymeScheme="31" stanzaId="11" />
+    <line id="74" finToken="vein" finSampa="' v EI n" rhymeScheme="32" stanzaId="11" />
+    <line id="75" finToken="twain" finSampa="' t w EI n" rhymeScheme="32" stanzaId="11" />
+    <line id="76" finToken="wrought" finSampa="' r O t" rhymeScheme="33" stanzaId="11" />
+    <line id="77" finToken="bought" finSampa="' b A t" rhymeScheme="33" stanzaId="11" />
+    <line id="78" finToken="might" finSampa="' m AI t" rhymeScheme="34" stanzaId="12" />
+    <line id="79" finToken="use" finSampa="' j u s" rhymeScheme="35" stanzaId="12" />
+    <line id="80" finToken="sight" finSampa="' s AI t" rhymeScheme="34" stanzaId="12" />
+    <line id="81" finToken="accuse" finSampa="@ ' k j u z" rhymeScheme="35" stanzaId="12" />
+    <line id="82" finToken="refuse" finSampa="' r E f j u s" rhymeScheme="35" stanzaId="12" />
+    <line id="83" finToken="eftsoon" finSampa="' E f t s u n" rhymeScheme="36" stanzaId="12" />
+    <line id="84" finToken="done" finSampa="' d V n" rhymeScheme="36" stanzaId="12" />
+  </poem>
+</data>
