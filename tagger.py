@@ -191,6 +191,7 @@ class RhymeTagger:
               
       # Perform evaluation
       self._eval(data, rhymes)
+      return rhymes
                           
   def _rhyme_score(self, sampa1, sampa2, word1, word2):
     '''Probability of being rhyme based on SAMPA'''
