@@ -18,7 +18,7 @@ tager= RhymeTagger (               # TAGGER ATTRIBUTES (optional arguments: defa
     ngram_length = 3,              # Length of such n-grams
     t_score_min = 3.078,           # Minimum t-score to count pair as collocation
     frequency_min = 4,             # Minimum absolute frequency to coun pair as collocation
-    stanza_limit = True,           # Mark only rhymes within one stanza
+    stanza_limit = False,          # Mark only rhymes within one stanza
     probability_sampa_min = 0.95,  # Minimum probability based on sampa to count pair as rhyme
     probability_ngram_min = 0.95   # Minimum probability based on n-grams to count pair as rhyme
 ):
