@@ -39,8 +39,9 @@ for iteration in range(1, maximum_number_of_iterations+1):
         { 'word': your_word, 'sampa': its_sampa, 'stanza': id_of_stanza_to_which_it_belongs,
         'gold': oprional_gold_standard_set, 'class': optional_set_of_classes_to_evaluate_separately }''' 
         result = tagger.tagging(poem)
-        '''rebuild training sett'''
+    '''now you may evaluate the tagging'''
     evaluation = tagger.eval_info()
+    '''rebuild training sett'''
     no_difference = tagger.rebuild_training_set()
     if no_difference:
         break
