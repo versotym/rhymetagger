@@ -6,12 +6,12 @@ class RhymeTagger:
   def __init__( self, 
                 window = 4, 
                 syllable_max = 2, 
-                stress = False, 
+                stress = True, 
                 ngram = True, 
                 ngram_length = 3,
                 t_score_min = 3.078, 
                 frequency_min = 4, 
-                stanza_limit = True, 
+                stanza_limit = False, 
                 probability_sampa_min = 0.95, 
                 probability_ngram_min = 0.95):
 
