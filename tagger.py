@@ -77,7 +77,7 @@ class RhymeTagger:
       sampa = re.sub(r"[^" + self.syllable_peaks + "]+ '", " '", sampa)
       sampa = sampa.split("'", 1)[0]
     sampa = re.sub(r"([" + self.syllable_peaks + "])", r'#\1#', sampa)
-    sampa = sampa.replace('##', '').replace(' ','').replace("' ", '')
+    sampa = sampa.replace('##', '').replace(' ','').replace("'", '')
     sampa = re.sub(r'#$', '', sampa)
     sampa = sampa.split('#')[:self.settings['syllable_max'] * 2]
     for i, c in enumerate(sampa):
