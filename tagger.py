@@ -198,22 +198,25 @@ class RhymeTagger:
     score = [1,1]
     c1 = self._split_to_components( sampa1 )
     c2 = self._split_to_components( sampa2 )
+    if len(c1) > len(c2):
+      c1 = c1[:len(c2)]
+    elif len(c2) > len(c1):
+      c2 = c2[:len(c1)]
    
     if c1 == c2:
       return 1
     else:
       for i, c in enumerate(c1):
-        if i < len(c2):
-          p = 0;
-          if c1[i] in self.components_tf[i] and c2[i] in self.components_tf[i][c1[i]]:
-            p1 = self.components_tf[i][ c1[i] ][ c2[i] ] / self.components_tn[i]
-            p0 = self.components_cf[i][ c1[i] ] * self.components_cf[i][ c2[i] ]
-            p0 /= self.components_cn[i] * self.components_cn[i]
-            p = p1 / ( p1 + p0 )                    
-          elif c1[i] == c2[i]:
-            p = 0.9
-          else:
-            p = 0.0001
+        p = 0;
+        if c1[i] in self.components_tf[i] and c2[i] in self.components_tf[i][c1[i]]:
+          p1 = self.components_tf[i][ c1[i] ][ c2[i] ] / self.components_tn[i]
+          p0 = self.components_cf[i][ c1[i] ] * self.components_cf[i][ c2[i] ]
+          p0 /= self.components_cn[i] * self.components_cn[i]
+          p = p1 / ( p1 + p0 )                    
+        elif c1[i] == c2[i]:
+          p = 0.9
+        else:
+          p = 0.0001
           score[0] *= p
           score[1] *= (1-p)
       if ( score[0] + score[1] ) > 0:
