@@ -24,11 +24,11 @@ class RhymeTagger:
       self.components_cf = defaultdict(lambda : defaultdict(int))
       self.components_cn = defaultdict(int)
       self.components_tf = defaultdict(lambda : defaultdict(lambda : defaultdict(int)))
-      self.components_tn = defaultdict(int)
+      self.components_tg = defaultdict(lambda : defaultdict(int))
       self.ngrams_cf = defaultdict(int)
       self.ngrams_cn = 0
       self.ngrams_tf = defaultdict(lambda : defaultdict(int))
-      self.ngrams_tn = 0
+      self.ngrams_tg = defaultdict(int)
       self.new_training_set = defaultdict(lambda : defaultdict(int))
       self.eval = defaultdict(lambda : defaultdict(int))
       self.settings = dict()
@@ -114,7 +114,7 @@ class RhymeTagger:
     length = self.settings['ngram_length']
     ngrams = [ w1[-length:], w2[-length:] ] 
     self.ngrams_tf[ngrams[0]][ngrams[1]] += occurences
-    self.ngrams_tn += occurences
+    self.ngrams_tg[ngrams[0]] += occurences
     
     sampas = [ self.sampa_dict[w1], self.sampa_dict[w2] ]
     c1 = self._split_to_components( sampas[0] )
@@ -123,7 +123,7 @@ class RhymeTagger:
     for i, c in enumerate(c1):
       if i < len(c2):
         self.components_tf[i][ c1[i] ][ c2[i] ] += occurences
-        self.components_tn[i] += occurences    
+        self.components_tg[i][ c1[i] ] += occurences
         
 #==============================================================================
 # TAGGING
@@ -206,9 +206,8 @@ class RhymeTagger:
         if i < len(c2):
           p = 0;
           if c1[i] in self.components_tf[i] and c2[i] in self.components_tf[i][c1[i]]:
-            p1 = self.components_tf[i][ c1[i] ][ c2[i] ] / self.components_tn[i]
-            p0 = self.components_cf[i][ c1[i] ] * self.components_cf[i][ c2[i] ]
-            p0 /= self.components_cn[i] * self.components_cn[i]
+            p1 = self.components_tf[i][ c1[i] ][ c2[i] ] / self.components_tg[i][ c1[i] ]
+            p0 = self.components_cf[i][ c2[i] ] / self.components_cn[i]
             p = p1 / ( p1 + p0 )                    
           elif c1[i] == c2[i]:
             p = 0.9
@@ -225,8 +224,8 @@ class RhymeTagger:
     '''Probability of being rhyme based on final n-grams'''
     ngrams = [ word1[-self.settings['ngram_length']:], word2[-self.settings['ngram_length']:] ]
     if ngrams[0] in self.ngrams_tf and ngrams[1] in self.ngrams_tf[ngrams[0]]:
-      p1 = self.ngrams_tf[ ngrams[0] ][ ngrams[1] ] / self.ngrams_tn
-      p0 = self.ngrams_cf[ ngrams[0] ] * self.ngrams_cf[ ngrams[1] ]
+      p1 = self.ngrams_tf[ ngrams[0] ][ ngrams[1] ] / self.ngrams_tg[ ngrams[0] ]
+      p0 = self.ngrams_cf[ ngrams[1] ] / self.ngrams_cn
       p0 /= self.ngrams_cn * self.ngrams_cn
       return p1 / ( p1 + p0 )                    
     elif ngrams[0] == ngrams[1]:
@@ -238,9 +237,9 @@ class RhymeTagger:
     '''Rebuild training set according to last tagging'''
     old_set = self.components_tf.copy()
     self.components_tf.clear()
-    self.components_tn.clear()
+    self.components_tg.clear()
     self.ngrams_tf.clear()
-    self.ngrams_tn = 0
+    self.ngrams_tg.clear()
     for w1 in self.new_training_set:
       for w2 in self.new_training_set[w1]:
         self._add_to_training_set(w1, w2, self.new_training_set[w1][w2])
