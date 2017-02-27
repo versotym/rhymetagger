@@ -217,8 +217,8 @@ class RhymeTagger:
           p = 0.9
         else:
           p = 0.0001
-          score[0] *= p
-          score[1] *= (1-p)
+        score[0] *= p
+        score[1] *= (1-p)
       if ( score[0] + score[1] ) > 0:
         return score[0] / ( score[0] + score[1])
       else:
