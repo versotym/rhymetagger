@@ -6,6 +6,8 @@ See <a href="http://versologie.cz/talks/aseees2016/">presentation</a> from <a hr
 
 Czech dataset comes from the <a href="versologie.cz">Corpus of Czech Verse</a>, English & French ones are based on those provided by <a href="https://github.com/sravanareddy/rhymedata">Sravana Reddy</a>
 
+Unzip the content of db folder before running the script!
+
 #### Howto
 
 ```python
