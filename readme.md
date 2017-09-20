@@ -1,6 +1,6 @@
 #### Collocation-driven method of discovering rhymes in a corpus of poetic texts
 
-See <a href="http://versologie.cz/talks/aseees2016/">presentation</a> from <a href="http://aseees.org/convention">ASEEES2016</a> for details.
+See <a href="http://versologie.cz/talks/2017Basel/">presentation</a> from <a href="https://machinerlapoesie.wordpress.com/">Plotting Poetry</a> conference for details.
 
 #### Datasets
 
