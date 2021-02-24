@@ -5,16 +5,18 @@ A simple collocation-driven  **recognition of rhymes**. Contains pre-trained mod
 
 Details in P. Plecháč (2018). [A Collocation-Driven Method of Discovering Rhymes (in Czech, English, and French Poetry)](https://doi.org/10.1007/978-3-319-98017-1_). In Taming the Corpus: From Inflection and Lexis to Interpretation. Cham: Springer, 79-95.
 
-<br>
 ## Installation
-```bash
+
+```console
 pip install rhymetagger
 ```
+
 or
-```bash
+
+```console
 pip3 install rhymetagger
 ```
-<br>
+
 ## Usage
 
 To annotate poems with one of the pre-trained models:
@@ -66,7 +68,6 @@ print(rhymes)
 >> [1, 2, 1, 2, 3, 4, 4, 3]
 ```
 
-<br>
 To train your own model:
 
 ```python
@@ -82,9 +83,11 @@ rt.train_model()
 rt.save_model(PATH_TO_FILE)
 ```
 
-<br>
+
 ## Pre-trained models
 
+model | description
+----- | -----
 **cs** | Czech model (trained with [Corpus of Czech Verse](http://versologie.cz/v2/web_content/corpus.php?lang=en); 80k poems)
 **de** | German model (trained with [Metricalizer](https://metricalizer.de/); 50k poems)
 **en** | English model (trained with [Guttenberg poetry corpus](https://gutentag.sdsu.edu/); 85k poems)
@@ -93,11 +96,9 @@ rt.save_model(PATH_TO_FILE)
 **ru** | Russian model (trained with [Poetic subcorpus of Russian National Corpus](http://ruscorpora.ru); 18k poems)
 
 
-<br>
 ## Methods
 
-<br>
-####  RhymeTagger.load_model(model, verbose=False)
+###  RhymeTagger.load_model(model, verbose=False)
 Load one of the pre-trained models or a custom model stored in JSON file
 
 **Parameters**
@@ -107,8 +108,7 @@ Load one of the pre-trained models or a custom model stored in JSON file
 >**verbose**:string
 >> whether to print out info on model settings
 
-<br>
-####  RhymeTagger.tag(poem, transcribed=False, output_format=1, \*\*kwargs)
+###  RhymeTagger.tag(poem, transcribed=False, output_format=1, \*\*kwargs)
 Perform rhyme recognition
 
 **Parameters**
@@ -138,8 +138,7 @@ Perform rhyme recognition
 >**rhymes**: list
 >>a list of rhymes in the requested format, see ```output_format```
 
-<br>
-####  RhymeTagger.new_model(lang, transcribed=False, window=5, syll_max=2, stress=True, vowel_length=True, ngram=1, ngram_length=3, same_words=True, t_score_min=3.078, frequency_min=3, stanza_limit=False, prob_ipa_min=0.95, prob_ngram_min = 0.95, max_iter=20, verbose=True)
+###  RhymeTagger.new_model(lang, transcribed=False, window=5, syll_max=2, stress=True, vowel_length=True, ngram=1, ngram_length=3, same_words=True, t_score_min=3.078, frequency_min=3, stanza_limit=False, prob_ipa_min=0.95, prob_ngram_min = 0.95, max_iter=20, verbose=True)
 Initialize new model
 
 **Parameters**
@@ -192,8 +191,7 @@ Initialize new model
 >**verbose**: boolean
 >>should progress be printed out?
 
-<br>
-#### RhymeTagger.add_to_model(poem)
+### RhymeTagger.add_to_model(poem)
 Feed the model with a poem
 
 **Parameters**
@@ -201,12 +199,11 @@ Feed the model with a poem
 > **poem**: list
 >>either a list of lines OR list of lists (stanzas > lines), each item may be either string holding text of the line OR dict holding both orthography and ipa transcription {'text': ..., 'ipa': ...} (```transcribed``` must be ```True```)
 
-<br>
-#### RhymeTagger.train_model()
+### RhymeTagger.train_model()
 Train the model fed with poems 
 
-<br>
-#### RhymeTagger.save_model(file)
+
+### RhymeTagger.save_model(file)
 Save the model to a JSON file
 
 **Parameters**
