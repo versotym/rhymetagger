@@ -5,6 +5,8 @@ A simple collocation-driven  **recognition of rhymes**. Contains pre-trained mod
 
 Details in P. Plecháč (2018). [A Collocation-Driven Method of Discovering Rhymes (in Czech, English, and French Poetry)](https://doi.org/10.1007/978-3-319-98017-1_). In Taming the Corpus: From Inflection and Lexis to Interpretation. Cham: Springer, 79-95.
 
+**!** Requires eSpeak to be installed
+
 ## Installation
 
 ```console
