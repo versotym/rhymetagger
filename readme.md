@@ -137,7 +137,7 @@ Perform rhyme recognition
 >>Parameters that may be used to override settings inherited from the model
 >>(```window, same_words, ngram, t_score_min, frequency_min, stanza_limit, prob_ipa_min, prob_ngram_min```
 
-** Returns **
+**Returns**
 
 >**rhymes**: list
 >>a list of rhymes in the requested format, see ```output_format```
