@@ -96,6 +96,7 @@ model | description
 **de** | German model (trained with [Metricalizer](https://metricalizer.de/); 50k poems)
 **en** | English model (trained with [Guttenberg poetry corpus](https://gutentag.sdsu.edu/); 85k poems)
 **es** | Spanish model (trained with [DISCO](https://github.com/pruizf/disco); 9k poems)
+**fr** | French model (trained with [Rire des vers corpus](https://slw-comicverse.dslw.unibas.ch/); 1.7k poems)
 **nl** | Dutch model (trained with [Meertens Song Collection](https://github.com/fbkarsdorp/meertens-song-collection); 28k poems)
 **ru** | Russian model (trained with [Poetic subcorpus of Russian National Corpus](http://ruscorpora.ru); 18k poems)
 
