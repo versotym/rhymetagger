@@ -66,7 +66,7 @@ poem = [
 rt = RhymeTagger()
 rt.load_model(model='de')
 
-rhymes = rt.new_model(poem, output_format=3) 
+rhymes = rt.tag(poem, output_format=3) 
 print(rhymes)
 
 >> [1, 2, 1, 2, 3, 4, 4, 3]
