@@ -3,11 +3,11 @@
 
 # RhymeTagger
 
-A simple collocation-driven  **recognition of rhymes**. Contains pre-trained models for **Czech, Dutch, English, French, German, Russian,** and **Spanish** poetry.
+A simple collocation-driven  **recognition of rhymes**. Contains pre-trained models for **Czech, English, French, German, Italian, Portuguese, Russian, Slovene,** and **Spanish** poetry.
 
 Details in P. Plecháč (2018). [A Collocation-Driven Method of Discovering Rhymes (in Czech, English, and French Poetry)](https://doi.org/10.1007/978-3-319-98017-1_5). In Taming the Corpus: From Inflection and Lexis to Interpretation. Cham: Springer, 79-95.
 
-**!** Requires eSpeak to be installed
+**!** Requires eSpeak NG to be installed
 
 ## Installation
 
@@ -92,13 +92,15 @@ rt.save_model(PATH_TO_FILE)
 
 model | description
 ----- | -----
-**cs** | Czech model (trained with [Corpus of Czech Verse](http://versologie.cz/v2/web_content/corpus.php?lang=en); 80k poems)
-**de** | German model (trained with [Metricalizer](https://metricalizer.de/); 50k poems)
-**en** | English model (trained with [Guttenberg poetry corpus](https://gutentag.sdsu.edu/); 85k poems)
-**es** | Spanish model (trained with [DISCO](https://github.com/pruizf/disco); 9k poems)
-**fr** | French model (trained with [Rire des vers corpus](https://slw-comicverse.dslw.unibas.ch/); 1.7k poems)
-**nl** | Dutch model (trained with [Meertens Song Collection](https://github.com/fbkarsdorp/meertens-song-collection); 28k poems)
-**ru** | Russian model (trained with [Poetic subcorpus of Russian National Corpus](http://ruscorpora.ru); 18k poems)
+**cs** | Czech model (trained with [PoeTree.cs](https://poetree.org); 80k poems)
+**de** | German model (trained with [PoeTree.de](https://poetree.org); 75k poems)
+**en** | English model (trained with [PoeTree.en](https://poetree.org); 40k poems)
+**es** | Spanish model (trained with [PoeTree.es](https://poetree.org); 9k poems)
+**fr** | French model (trained with [PoeTree.fr](https://poetree.org); 18k poems)
+**it** | Italian model (trained with [PoeTree.it](https://poetree.org); 40k poems)
+**pt** | Portuguese model (trained with [PoeTree.pt](https://poetree.org); 5k poems)
+**ru** | Russian model (trained with [PoeTree.ru](https://poetree.org); 45k poems)
+**sl** | Slovene model (trained with [PoeTree.sl](https://poetree.org); 5k poems)
 
 
 ## Methods

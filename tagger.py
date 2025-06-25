@@ -18,7 +18,7 @@ class RhymeTagger:
     Interpretation. Cham: Springer, 79–95.)    
     '''
     
-    def __init__(self):
+    def __init__(self, snds_tab = []):
         '''
         Initialize tagger
         --------------------------------------------------------------        
@@ -35,8 +35,9 @@ class RhymeTagger:
         
         # Get regexp corresponding to punctuation
         self.define_punctuation()
-        
-        
+
+        self.snds_tab_ = snds_tab
+                
     def define_syll_peaks(self):
         '''
         Define syllable peaks by means of regexp
@@ -44,10 +45,10 @@ class RhymeTagger:
         '''
         
         # Any vowel-char followed by optional length mark
-        vowels = '[iyɨʉɯuɪʏʊeøɤoəɘɵɛœʌɔæɐaăɶɑɒ][ːˑ]?'
+        vowels = '[iyɨʉɯuɪʏʊeøɤoəɘɵɛœʌɔæɐaăɶɑɒɜ][ːˑ]?'
 
         # Modifier indicating multichar phonemes
-        tiechar = chr(865) 
+        tiechar = '_' 
         
         # Modifier indicating syllabicity of consonant
         syllchar = chr(809)
@@ -64,14 +65,14 @@ class RhymeTagger:
         --------------------------------------------------------------
         '''
         
-        self.punctuation = '[' + string.punctuation + '¿«»¡…“”\(\)\[\]–—’' + ']'
+        self.punctuation = '[' + string.punctuation + '¿«»¡…“”"\(\)\[\]–—’' + ']'
         
 
     def new_model(self, lang, transcribed=False, window=5, syll_max=2,
         stress=True, vowel_length=True, ngram=1, ngram_length=3, same_words=True,
         t_score_min=3.078, frequency_min=3, stanza_limit=False,
         prob_ipa_min=0.95, prob_ngram_min = 0.95, max_iter=20, 
-        verbose=True):
+        verbose=True, length_penalty=0, fast_ipa=True, radif=2):
         '''
         Initialize new model
         --------------------------------------------------------------     
@@ -92,6 +93,9 @@ class RhymeTagger:
         :prob_ngram_min = [float]   minimum ngram-based probability to treat pair as rhyme
         :max_iter       = [int]     maximum number of train iteratations (epochs)
         :verbose        = [boolean] should progress be printed out?
+        :length_penalty = [float]   penalty when reduplicant lengths mismatch (0 = no penalty, 1 = max penalty)
+        :fast_ipa       = [boolean] True: transcribe entire poem (use separator), False: transcribe line by line
+        :del_radif      = [float]/False If this proportion of lines or more ends with the same word, such word is disregarded
         '''
         
         # Parameters
@@ -111,6 +115,9 @@ class RhymeTagger:
         self.prob_ngram_min = prob_ngram_min
         self.max_iter       = max_iter
         self.verbose        = verbose
+        self.length_penalty = length_penalty
+        self.fast_ipa       = fast_ipa
+        self.radif          = radif
         
         # Slots to hold current stanza and poem id
         self.stanza_id = 0
@@ -141,6 +148,17 @@ class RhymeTagger:
                 'Language code must be specified when transcribed == False'
             )        
 
+        # Raise exception if length penalty is outside (0,1)
+        if self.length_penalty < 0 or self.length_penalty > 1:
+            raise Exception(
+                'Length penalty must be between (0,1)'
+            )      
+
+        # Define line separator and get its IPA
+        if not self.transcribed:
+            self.lineseparator = ' {.SEPARATORLINER.} '
+            self.lineseparator_ipa = self._transcription(self.lineseparator)
+
         # Print info if required
         if self.verbose:
             print('\nNew model initialized\n')
@@ -156,6 +174,163 @@ class RhymeTagger:
                  orthography and ipa transcription {'text': ..., 'ipa': ...}
         '''
         
+        if hasattr(self, 'radif') and self.radif <= 1:
+            poem = self._delete_radif(poem)
+        
+        if self.fast_ipa:
+            self._add_to_model_fast(poem)
+        else:
+            self._add_to_model_slow(poem)
+
+    def _delete_radif(self, poem):
+        '''
+        Get rid of radif
+        (repeating words at the end of lines which follow the actual rhyme)
+        Can't be used with self.transcribed=True
+        --------------------------------------------------------------
+        :poem  = [list] either a list of lines OR list of lists (stanzas >
+                 lines), each item may be either string hold text of the line
+                 OR ipa transcription (tagging only) OR dict holding both 
+                 orthography and ipa transcription {'text': ..., 'ipa': ...}
+        '''
+        
+        tokenized = []
+        for element in poem:
+            if isinstance(element, list):
+                for l in element:
+                    tokens = nltk.tokenize.word_tokenize(l)
+                    tokens = [x for x in tokens if not re.match(self.punctuation+'+$', x)]
+                    tokenized.append(tokens)  
+            else: 
+                tokens = nltk.tokenize.word_tokenize(element)
+                tokens = [x for x in tokens if not re.match(self.punctuation+'+$', x)]
+                tokenized.append(tokens)            
+
+        radif_done = False
+        if len(tokenized) <= 2 and self.radif <= 0.5:
+            self.radif = 0.51
+        
+        while not radif_done:
+            radif_done = True
+            fin_words_f = defaultdict(int)
+            for l in tokenized:
+                if len(l) > 0:
+                    fin_words_f[l[-1]] += 1/len(tokenized)
+            for w in fin_words_f:
+                if fin_words_f[w] >= self.radif:
+                    radif_done = False
+                    for i,l in enumerate(tokenized):
+                        if tokenized[i][-1] == w:
+                            tokenized[i] = tokenized[i][:-1]
+        it = 0
+        for i,element in enumerate(poem):
+            if isinstance(element, list):
+                for j,l in enumerate(element):
+                    poem[i][j] = ' '.join(tokenized[it])
+                    it += 1
+            else:
+                poem[i] = ' '.join(tokenized[it])
+                it += 1
+        
+        return poem
+
+
+    def _add_to_model_fast(self, poem):
+        '''
+        (FAST) Add new poem to the model
+        --------------------------------------------------------------
+        :poem  = [list] either a list of lines OR list of lists (stanzas >
+                 lines), each item may be either string hold text of the line
+                 OR ipa transcription (tagging only) OR dict holding both 
+                 orthography and ipa transcription {'text': ..., 'ipa': ...}
+        '''
+
+        if self.verbose:
+            print('  ...adding poem #{}'.format(self.poem_id+1)+' '*10, end='\r')
+
+        # Transcribe poem and-line final words if transcription not provided
+        if not self.transcribed:
+            if isinstance(poem[0], list):
+                flat_poem = [x for y in poem for x in y]
+            else:
+                flat_poem = poem
+            flat_poem = [re.sub('\n', ' ', x) for x in flat_poem]
+            flat_poem = [re.sub(self.punctuation[:-1] + ' ]+$', '', x) for x in flat_poem]            
+            raw_text = self.lineseparator.join(flat_poem)
+            self.ipa = self._transcription(raw_text).split(self.lineseparator_ipa)
+            self.ipa = [x.strip() for x in self.ipa]
+            
+            self.rhyme_words = [ self._get_rhyme_word(l) for l in flat_poem ]
+            raw_rhyme_words = self.lineseparator.join([x if x else '' for x in self.rhyme_words])
+            self.rhyme_words_ipa = self._transcription(raw_rhyme_words).split(self.lineseparator_ipa)
+            self.rhyme_words_ipa = [x.strip() for x in self.rhyme_words_ipa]
+
+        # Parse lines
+        self.stanza_id = 0
+        self.line_id = 0
+        for x in poem: 
+            if isinstance(x, list):
+                for l in x:
+                    self._parse_line_fast(l)
+                    self.line_id += 1
+                self.stanza_id += 1                
+            else:
+                self._parse_line_fast(x)
+                self.line_id += 1
+        self.poem_id += 1
+                
+
+    def _parse_line_fast(self, line):
+        '''
+        (FAST) Parse line into a tuple ([sound components], final-word, n-gram, 
+        poem_id, stanza_id) and append it to dataset
+        --------------------------------------------------------------
+        :line  = [string|dict] Text of line OR dict holding both 
+                 orthography and ipa transcription {'text': ..., 'ipa': ...}
+        '''
+
+        # Extract line-final word and copy IPA
+        if not self.transcribed:
+            rhyme_word = self.rhyme_words[self.line_id]
+            ipa_line = self.ipa[self.line_id]
+            #print('(',self.line_id,')', ipa_line)
+        else:        
+            if self.lang in ('cmn') and len(line['text']) > 0:
+                rhyme_word = line['text'][-1]
+            else:
+                rhyme_word = self._get_rhyme_word(line['text'])
+            ipa_line = line['ipa']
+            
+        # Append it to the dataset along with poem_id and rhyme_id
+        rhyme_snds, reduplicant_length = self._split_ipa_components(ipa_line)
+        #print(rhyme_snds)
+        self.data.append((
+            rhyme_word, self.poem_id, self.stanza_id, rhyme_snds, reduplicant_length, ipa_line, 
+        ))
+            
+        # If this word has not been seen yet, get it's components
+        # and ngram and store it into vocabular
+        if rhyme_word and rhyme_word not in self.rhyme_vocab:
+            if not self.transcribed:
+                ipa = self.rhyme_words_ipa[self.line_id]     
+                rhyme_snds, _ = self._split_ipa_components(ipa)
+            else:
+                final_ipa = nltk.tokenize.word_tokenize(line['ipa'])[-1]
+                rhyme_snds, _ = self._split_ipa_components(final_ipa)
+            ngram = self._final_ngram(rhyme_word)
+            self.rhyme_vocab[rhyme_word] = (rhyme_snds, ngram)
+
+
+    def _add_to_model_slow(self, poem):
+        '''
+        (SLOW) Add new poem to the model
+        --------------------------------------------------------------
+        :poem  = [list] either a list of lines OR list of lists (stanzas >
+                 lines), each item may be either string hold text of the line
+                 OR ipa transcription (tagging only) OR dict holding both 
+                 orthography and ipa transcription {'text': ..., 'ipa': ...}
+        '''
+        
         if self.verbose:
             print('  ...adding poem #{}'.format(self.poem_id+1)+' '*10, end='\r')
 
@@ -163,16 +338,18 @@ class RhymeTagger:
         for x in poem: 
             if isinstance(x, list):
                 for l in x:
-                    self._parse_line(l)
+                    l = re.sub(self.punctuation[:-1] + ' ]+$', '', l) 
+                    self._parse_line_slow(l)
                 self.stanza_id += 1                
             else:
-                self._parse_line(x)
+                self._parse_line_slow(x)
+                x = re.sub(self.punctuation[:-1] + ' ]+$', '', x)                 
         self.poem_id += 1
                 
 
-    def _parse_line(self, line):
+    def _parse_line_slow(self, line):
         '''
-        Parse line into a tuple ([sound components], final-word, n-gram, 
+        (SLOW) Parse line into a tuple ([sound components], final-word, n-gram, 
         poem_id, stanza_id) and append it to dataset
         --------------------------------------------------------------
         :line  = [string|dict] Text of line OR dict holding both 
@@ -182,23 +359,27 @@ class RhymeTagger:
         # Extract the line-final word
         if not self.transcribed:
             rhyme_word = self._get_rhyme_word(line)
-        else:        
+            ipa_line = self._transcription(line)      
+
+        else:      
+            ipa_line = line['ipa']
             rhyme_word = self._get_rhyme_word(line['text'])
 
-        # Append it to the dataset along with poem_id and rhyme_id
+
+        rhyme_snds, reduplicant_length = self._split_ipa_components(ipa_line)
         self.data.append(( 
-            rhyme_word, self.poem_id, self.stanza_id
-        ))        
+            rhyme_word, self.poem_id, self.stanza_id, rhyme_snds, reduplicant_length, ipa_line,
+        ))             
 
         # If this word has not been seen yet, get it's components
-        # and ngram and store it into vocabular
+        # and ngram and store it into vocabulary
         if rhyme_word and rhyme_word not in self.rhyme_vocab:
             if not self.transcribed:
                 ipa = self._transcription(rhyme_word)      
-                rhyme_snds = self._split_ipa_components(ipa)
+                rhyme_snds, _ = self._split_ipa_components(ipa)
             else:
                 final_ipa = nltk.tokenize.word_tokenize(line['ipa'])[-1]
-                rhyme_snds = self._split_ipa_components(final_ipa)
+                rhyme_snds, _ = self._split_ipa_components(final_ipa)
             ngram = self._final_ngram(rhyme_word)
             self.rhyme_vocab[rhyme_word] = (rhyme_snds, ngram)
 
@@ -237,13 +418,31 @@ class RhymeTagger:
         '''
         Transcribe a text to IPA using eSpeak
         --------------------------------------------------------------
-        :text  = [string] in specified language
+        :raw_text  = [string] poem lines joined by self.lineseparator
         '''
-        
-        # Transcribe entire line with eSpeak        
+
+        text = re.sub('\.+', '.', text)
+        text = re.sub('^ *\-+', '', text)
+        text = re.sub('/', ' ', text)
+
+        # Transcribe text with eSpeak NG
         ipa = check_output([
-            "espeak", "-q", "--ipa=1", '-v', self.lang, text
-        ]).decode('utf-8').strip()
+            "espeak-ng", "-q", "--ipa=2", '--punct=""', '--tie=_', '-v', self.lang, text
+        ]).decode('utf-8').strip().replace('\n', '')
+
+        ipa = re.sub('ˌ', '', ipa)
+
+        if self.lang == 'bn':
+            ipa = re.sub('[.ʰ]', '', ipa)
+            ipa = re.sub('ã', 'a', ipa)
+
+        if len(self.snds_tab_) > 0:
+            for snds in self.snds_tab_:
+                ipa = ipa.replace(snds[0], snds[1])
+
+        # Remove feoreign language marks
+        ipa = re.sub('\([^\)]+\)', '', ipa)
+            
         return ipa
         
         
@@ -276,6 +475,9 @@ class RhymeTagger:
         if not components[0]:
             components = components[1:]
             
+        # Length of reduplicant
+        reduplicant_length = len(components)/2
+            
         # Reduce to required number of components
         if len(components) > self.syll_max:
             components = components[-self.syll_max*2:]
@@ -283,7 +485,7 @@ class RhymeTagger:
         # Reverse order of components
         components.reverse()
 
-        return components
+        return components, reduplicant_length
 
 
     def _final_ngram(self, word):
@@ -292,8 +494,7 @@ class RhymeTagger:
         --------------------------------------------------------------
         :word  = [string]
         '''        
-
-        if len(word) > self.ngram_length:
+        if len(word) >= self.ngram_length:
             word = word[-self.ngram_length:]
 
         return word
@@ -328,7 +529,7 @@ class RhymeTagger:
             # Calculate probabilities
             improved = self._probabilities()
 
-            # If no improvement on probabilities, print the meassage
+            # If no improvement on probabilities, print the message
             # and break the iterations    
             if not improved:
                 print('\n\nSystem has reached equilibrium')
@@ -408,7 +609,7 @@ class RhymeTagger:
 
         # Iterate over pairs and calculate their T-scores
         for w1, w2 in self.f['wp']:
-            
+
             # Skip if both words are the same and same-rhymes are forbidden
             if not self.same_words and w1 == w2:
                 continue
@@ -534,7 +735,10 @@ class RhymeTagger:
                     continue            
                 
                 # Get rhyme score based on components 
-                ipa_score = self._rhyme_score(l[0], self.data[j][0])
+                ipa_score = self._rhyme_score(l[3], self.data[j][3],
+                                              l[4], self.data[j][4])
+                
+                #print(self.data[j][3], self.data[j][4], ipa_score)
 
                 # If score is high enough
                 if ipa_score > self.prob_ipa_min:
@@ -569,7 +773,8 @@ class RhymeTagger:
                 if not self.data[j][0]:
                     continue            
             
-                ngram_score = self._ngram_score(l[0], self.data[j][0])
+                ngram_score = self._ngram_score(l[0], self.data[j][0],
+                                                l[4], self.data[j][4])
                 if ngram_score > self.prob_ngram_min:
                     rhymes_detected[i].add(j)
                     rhymes_detected[j].add(i)
@@ -651,22 +856,33 @@ class RhymeTagger:
                 return(output_abba)
                     
 
-    def _rhyme_score(self, w1, w2):        
+    def _rhyme_score(self, w1, w2, length1=None, length2=None):        
         '''
         Calculate overall score based on probabilities of particular
         component-pairs
         --------------------------------------------------------------
-        :w1  = [string] rhyme word #1
-        :w2  = [string] rhyme word #2
+        :w1  =     [string] rhyme word #1
+        :w2  =     [string] rhyme word #2
+        :length1 = [int] length of reduplicant #1
+        :length2 = [int] length of reduplicant #2        
         '''
         
         score = [1,1]
-        components1 = self.rhyme_vocab[w1][0]
-        components2 = self.rhyme_vocab[w2][0]
+        components1 = w1
+        components2 = w2
+        if len(components1) > len(components2):
+            components1 = components1[:len(components2)]
+        elif len(components2) > len(components1):
+            components2 = components2[:len(components1)]
+                        
+        if length1 % 2 != length2 % 2:
+            length_coef = 1 - self.length_penalty
+        else:
+            length_coef = 1
                         
         # If all components are the same, simply return score = 1
         if components1 == components2:
-            return 1                        
+            return 1 * length_coef                      
                         
         # Otherwise iterate over components
         for i,c in enumerate(components1):
@@ -691,29 +907,35 @@ class RhymeTagger:
 
         # Return overall probability
         if ( score[0] + score[1] ) > 0:
-            return score[0] / ( score[0] + score[1])
+            return (length_coef * score[0])/ ( score[0] + score[1])
         else:
             return 0
             
             
-    def _ngram_score(self, w1, w2):        
+    def _ngram_score(self, w1, w2, length1, length2):        
         '''
         Calculate score based on probabilities of ngrams
         --------------------------------------------------------------
         :w1  = [string] rhyme word #1
         :w2  = [string] rhyme word #2
+        :length1 = [int] length of reduplicant #1
+        :length2 = [int] length of reduplicant #2                
         '''
         
         ngram1 = self.rhyme_vocab[w1][1]
         ngram2 = self.rhyme_vocab[w2][1]
+        if length1 % 2 != length2 % 2:
+            length_coef = 1 - self.length_penalty
+        else:
+            length_coef = 1        
                                     
         # If probability of ngrams pair is known, return its prob
         if tuple(sorted([ngram1, ngram2])) in self.probs['g']:
-            return self.probs['g'][tuple(sorted([ngram1, ngram2]))]
+            return self.probs['g'][tuple(sorted([ngram1, ngram2]))] * length_coef
 
         # Otherwise if both ngrams are the same, return 0.9
         elif ngram1 == ngram2:
-            return 0.99
+            return 0.99 * length_coef
 
         # Otherwise assign it 0.0001
         else:
@@ -743,6 +965,9 @@ class RhymeTagger:
                 'prob_ipa_min':   self.prob_ipa_min,
                 'prob_ngram_min': self.prob_ngram_min,
                 'max_iter':       self.max_iter,
+                'length_penalty': self.length_penalty,
+                'fast_ipa':       self.fast_ipa,
+                'radif':          self.radif,
             },
             'probs': self.probs,
         }
@@ -784,6 +1009,10 @@ class RhymeTagger:
         self.prob_ipa_min   = model['settings']['prob_ipa_min']
         self.prob_ngram_min = model['settings']['prob_ngram_min']
         self.max_iter       = model['settings']['max_iter']
+        self.length_penalty = model['settings']['length_penalty']
+        self.fast_ipa       = model['settings']['fast_ipa'] 
+        if 'radif' in model['settings']:
+            self.radif          = model['settings']['radif']                
             
         # Load probabilities (needs to get tuples back from strings)
         probs = model['probs']
@@ -825,7 +1054,7 @@ class RhymeTagger:
         :window         = [int]     how many lines forward to look for rhymes
         :same_words     = [boolean] whether two same words may rhyme
         :ngram          = [int]     upon which iteration to start taking n-grams into account
-                                    (one-based indexing, 0 = diregard n-grams completely)
+                                    (one-based indexing, 0 = disregard n-grams completely)
         :t_score_min    = [float]   minimum value of t-score to add pair to train set
         :frequency_min  = [int]     minimum number of pair occurences to add to train set
         :stanza_limit   = [boolean] whether rhymes can only appear within the same stanza
@@ -859,10 +1088,20 @@ class RhymeTagger:
             self.prob_ipa_min = kwargs['prob_ipa_min']
         if 'prob_ngram_min' in kwargs:
             self.prob_ngram_min = kwargs['prob_ngram_min']
-            
+        if 'length_penalty' in kwargs:
+            self.length_penalty = kwargs['length_penalty']            
+        if 'fast_ipa' in kwargs:
+            self.fast_ipa = kwargs['fast_ipa']     
+        if 'radif' in kwargs:
+            self.radif = kwargs['radif']                          
+
         # Slots to hold current stanza and poem id
         self.stanza_id = 0
         self.poem_id = 0
+        # Line separator for fast IPA
+        if not self.transcribed:
+            self.lineseparator = ' {.SEPARATORLINER.} '
+            self.lineseparator_ipa = self._transcription(self.lineseparator)
 
         # Container for dataset. Items correspond to a single line
         # and hold a tuple (rhyme_word, poem_id, stanza_id)
